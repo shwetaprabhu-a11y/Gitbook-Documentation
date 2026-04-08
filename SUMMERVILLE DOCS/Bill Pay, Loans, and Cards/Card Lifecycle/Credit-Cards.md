@@ -46,7 +46,7 @@ From online banking, you can view your credit card balance, available credit, cu
 
 After logging in, you land on the Dashboard showing your account balances, recent payments, and quick-action shortcuts. Your credit card is listed alongside your debit cards in the Cards section. You can also access it from the Accounts section.
 
-![Step 1: Dashboard — starting point for navigation](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image2.png)
+![Step 1: Dashboard — starting point for navigation](images/image2.png)
 
 *Step 1: Dashboard — starting point for navigation*
 
@@ -54,7 +54,7 @@ After logging in, you land on the Dashboard showing your account balances, recen
 
 On the Cards page, select your credit card. The card tile shows your available credit, current balance, minimum payment due, due date, and reward points. To make a payment, use the Quick Transfer widget on the right sidebar — select your credit card as the destination and your checking or savings account as the source. Enter the payment amount and click Confirm.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image1.png)
+![](images/image1.png)
 
 *Step 2: Credit card displayed in the Cards list with balance and quick action links*
 

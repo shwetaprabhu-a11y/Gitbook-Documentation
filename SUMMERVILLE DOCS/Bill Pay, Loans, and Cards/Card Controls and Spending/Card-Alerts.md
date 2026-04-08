@@ -52,13 +52,13 @@ Card Alerts puts you in control of how, where, and when your card is used. From 
 
 From the nFinia top navigation, select Cards. Locate the card you want to configure and click Card Controls at the bottom of that card tile. This opens the Card Details page.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Controls%20and%20Spending/images/image2.png)
+![](images/image2.png)
 
 **Step 2 Select the Card Alerts Tab**
 
 Inside Card Details, find the Card Controls section. Select the Card Alerts tab. The page will show two sub-sections: Spend Alerts at the top, followed by Transaction Type and Merchant Categories controls below.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Controls%20and%20Spending/images/image1.png)
+![](images/image1.png)
 
 **Step 3 Configure Spend Alerts**
 

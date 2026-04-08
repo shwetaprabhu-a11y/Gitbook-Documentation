@@ -42,7 +42,7 @@ For Summerville staff and power users, the hub also surfaces transfer templates,
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image1.png)
+![](images/image1.png)
 
 *Step 1: Start from Dashboard*
 
@@ -50,7 +50,7 @@ The member begins at the Dashboard after logging in. The Dashboard displays all 
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles, including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image3.png)
+![](images/image3.png)
 
 *Step 2: Move Money Hub*
 
@@ -58,6 +58,6 @@ The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub
 
 The Move Money hub continues with the same grid layout of payment options. A promotional banner appears below the grid, and an upcoming payments section on the right shows account balances.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image2.png)
+![](images/image2.png)
 
 *Step 3: Browse Payment Options & Bill Pay*

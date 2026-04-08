@@ -46,7 +46,7 @@ Cards are listed by account and can be filtered using the Select Account dropdow
 
 After logging in, you land on the Dashboard showing your account balances, recent payments, and quick-action shortcuts. The Cards section is accessible directly from the top navigation bar.
 
-![Step 1: Dashboard — starting point for navigation](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image2.png)
+![Step 1: Dashboard — starting point for navigation](images/image2.png)
 
 *Step 1: Dashboard — starting point for navigation*
 
@@ -54,7 +54,7 @@ After logging in, you land on the Dashboard showing your account balances, recen
 
 The Cards page displays all cards associated with your membership. Each card tile shows the card image and design, masked card number, expiry date, membership number, and a Card Status toggle. Below the card details you will see Available credit, Current balance, and quick action links: Card Controls | Set PIN | Deactivate / Replace Card | View account. Use the Select Account filter to show cards for a specific account only.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image1.png)
+![](images/image1.png)
 
 *Step 2: Cards list — all your debit and credit cards in one view*
 

@@ -44,7 +44,7 @@ Instant Pay History provides a log of all real-time payment transactions, giving
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/01_dashboard_home.png)
+![](images/01_dashboard_home.png)
 
 *Step 1: Start from Dashboard*
 
@@ -52,7 +52,7 @@ The member begins at the Dashboard after logging in. The Dashboard displays all 
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/01_move_money_landing.png)
+![](images/01_move_money_landing.png)
 
 *Step 2: Move Money Hub*
 
@@ -60,7 +60,7 @@ The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub
 
 The Move Money hub is shown as the landing page for initiating a FedNow Instant Payment transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/01_step1_select_account.png)
+![](images/01_step1_select_account.png)
 
 *Step 3: Navigate from Dashboard to FedNow*
 
@@ -68,7 +68,7 @@ The Move Money hub is shown as the landing page for initiating a FedNow Instant 
 
 Step 2 of the FedNow transfer shows a form with fields for entering transfer details and recipient information for the instant payment.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/02_step2_fill_form.png)
+![](images/02_step2_fill_form.png)
 
 *Step 4: Fill Payment Form*
 
@@ -76,7 +76,7 @@ Step 2 of the FedNow transfer shows a form with fields for entering transfer det
 
 The FedNow Terms and Conditions page is displayed with checkboxes for accepting the agreement before proceeding with the instant payment.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/03_terms_and_conditions.png)
+![](images/03_terms_and_conditions.png)
 
 *Step 5: Review & Accept Terms*
 
@@ -84,6 +84,6 @@ The FedNow Terms and Conditions page is displayed with checkboxes for accepting 
 
 The final confirmation screen shows a FedNow instant transfer of $1,000 with full transaction details and a confirmation button to complete the payment.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/04_confirm_1000.png)
+![](images/04_confirm_1000.png)
 
 *Step 6: Final Confirmation & Send*

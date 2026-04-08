@@ -46,7 +46,7 @@ Each transaction type and merchant category can be toggled on or off individuall
 
 After logging in, you land on the Dashboard. Click Cards in the top navigation, select your card, then open Card Controls from the Card Details page.
 
-![Step 1: Dashboard — click Cards to begin](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Controls%20and%20Spending/images/image2.png)
+![Step 1: Dashboard — click Cards to begin](images/image2.png)
 
 *Step 1: Dashboard — click Cards to begin*
 
@@ -54,6 +54,6 @@ After logging in, you land on the Dashboard. Click Cards in the top navigation, 
 
 The Usage Control tab displays two columns: Transaction Type and Merchant Categories. Each item has a toggle that can be turned on or off. Disabled items show an Off indicator. Toggle any type or category to control whether your card is accepted for that use. Changes take effect immediately — no save button is needed.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Controls%20and%20Spending/images/image1.png)
+![](images/image1.png)
 
 *Step 2: Toggle individual transaction types and merchant categories on or off*

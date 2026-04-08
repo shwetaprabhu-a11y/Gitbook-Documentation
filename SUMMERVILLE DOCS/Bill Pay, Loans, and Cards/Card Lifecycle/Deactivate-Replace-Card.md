@@ -45,7 +45,7 @@ The flow begins by describing what happened to your card and selecting an action
 
 After logging in, you land on the Dashboard showing your account balances and navigation links. Click Cards in the top navigation bar to access your card list, then select the card you want to manage.
 
-![Step 1: Dashboard — navigate to Cards to begin](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image4.png)
+![Step 1: Dashboard — navigate to Cards to begin](images/image4.png)
 
 *Step 1: Dashboard — navigate to Cards to begin*
 
@@ -53,7 +53,7 @@ After logging in, you land on the Dashboard showing your account balances and na
 
 The Deactivate / Replace Card page opens. Use the "What happened to your card?" dropdown to describe the situation, and optionally add a description. Then select one of two options: Deactivate Card (permanent, no replacement) or Request Replacement & Deactivate Card (issues a new card and disables the current one). Click Continue to proceed.
 
-![Step 2: Choose to deactivate only or request a replacement](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image1.png)
+![Step 2: Choose to deactivate only or request a replacement](images/image1.png)
 
 *Step 2: Choose to deactivate only or request a replacement*
 
@@ -61,7 +61,7 @@ The Deactivate / Replace Card page opens. Use the "What happened to your card?" 
 
 If you selected Request Replacement, this screen asks whether you want a physical copy mailed to you. Choose Yes, Please to receive a physical card at your address on file (shown and editable via Change Address), or No, just digital to receive the digital card only. Enter and confirm a new 5-digit PIN for the replacement card, then click Request Replacement and Deactivate Card to submit.
 
-![Step 3: Set your delivery preference and new PIN for the replacement card](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image3.png)
+![Step 3: Set your delivery preference and new PIN for the replacement card](images/image3.png)
 
 *Step 3: Set your delivery preference and new PIN for the replacement card*
 
@@ -69,6 +69,6 @@ If you selected Request Replacement, this screen asks whether you want a physica
 
 A success screen confirms that your card has been deactivated. The message states that the card can no longer perform transactions. Click Go to Cards to return to your card list, or Go to Dashboard to return to the main banking dashboard.
 
-![Step 4: Deactivation confirmed — the card is permanently disabled](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image2.png)
+![Step 4: Deactivation confirmed — the card is permanently disabled](images/image2.png)
 
 *Step 4: Deactivation confirmed — the card is permanently disabled*

@@ -42,7 +42,7 @@ The Scheduled Transfers view also serves as a log for completed FedNow and ACH t
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image2.png)
+![](images/image2.png)
 
 *Step 1: Start from Dashboard*
 
@@ -50,7 +50,7 @@ The member begins at the Dashboard after logging in. The Dashboard displays all 
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image1.png)
+![](images/image1.png)
 
 *Step 2: Move Money Hub*
 
@@ -58,7 +58,7 @@ The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub
 
 Step 1 of the Own Account Transfer flow shows the account selection screen with a dropdown to choose the source account for the internal transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image3.png)
+![](images/image3.png)
 
 *Step 3: Navigate from Dashboard to Own Account Transfer*
 
@@ -66,7 +66,7 @@ Step 1 of the Own Account Transfer flow shows the account selection screen with 
 
 Step 2 displays the transfer details form with fields for entering the transfer amount, an optional transaction memo, payment date selection, and a recurring payment checkbox.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image7.png)
+![](images/image7.png)
 
 *Step 4: Enter Amount & Memo*
 
@@ -74,7 +74,7 @@ Step 2 displays the transfer details form with fields for entering the transfer 
 
 The confirmation screen shows a $5.00 transfer between Retail Savings and Retail Checking accounts, displaying the description and scheduled date for member review.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image5.png)
+![](images/image5.png)
 
 *Step 5: Review Transfer Summary*
 
@@ -82,7 +82,7 @@ The confirmation screen shows a $5.00 transfer between Retail Savings and Retail
 
 A success confirmation page is displayed with a green checkmark, confirming the completed $5.00 transfer between accounts with a transfer date of Apr 01, 2026.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image4.png)
+![](images/image4.png)
 
 *Step 6: Transfer Complete — Success Screen*
 
@@ -90,7 +90,7 @@ A success confirmation page is displayed with a green checkmark, confirming the 
 
 The Scheduled Transfers page is displayed with Summerville branding. A 'Schedule a new transfer' link is at the top. The schedule transfer type is set to 'Within Summerville' and the account is 'Retail Checking Account (\#0001)'. An active schedule card shows a transfer from Retail Checking to SHARE (0002) for $10.00 monthly, set to continue until cancelled with the next transfer date of Mar 18, 2026. Related Links and Upcoming Payments are shown in the right sidebar.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image6.png)
+![](images/image6.png)
 
 *Step 7: View & Manage Scheduled Transfers*
 
@@ -98,16 +98,16 @@ The Scheduled Transfers page is displayed with Summerville branding. A 'Schedule
 
 To schedule a new transfer go to move money hub and click on internal transfers
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image8.png)
+![](images/image8.png)
 
 **Step 9 —internal transfers**
 
 To schedule a new transfer go to move money hub and click on internal transfers and select a date you want to schedule a transfer
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image9.png)
+![](images/image9.png)
 
 **Step 10 —confirm the transfer**
 
 Confirm the transfer after entering date and amount
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image10.png)
+![](images/image10.png)

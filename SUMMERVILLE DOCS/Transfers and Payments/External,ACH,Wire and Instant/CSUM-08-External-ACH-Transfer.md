@@ -42,7 +42,7 @@ The ACH network processes transfers in 1–3 business days under standard ACH ru
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image5.png)
+![](images/image5.png)
 
 *Step 1: Start from the Dashboard*
 
@@ -50,7 +50,7 @@ The member begins at the Dashboard after logging in. The Dashboard displays all 
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image4.png)
+![](images/image4.png)
 
 *Step 2: Move Money Hub*
 
@@ -58,7 +58,7 @@ The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub
 
 The Move Money hub is displayed as the landing page for initiating an external account transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image2.png)
+![](images/image2.png)
 
 *Step 3: Navigate from Dashboard to External Transfer*
 
@@ -66,7 +66,7 @@ The Move Money hub is displayed as the landing page for initiating an external a
 
 Step 2 shows a simplified form with fields for entering the external account transfer details including the destination account information.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image9.png)
+![](images/image9.png)
 
 *Step 4: Fill Transfer Details*
 
@@ -74,7 +74,7 @@ Step 2 shows a simplified form with fields for entering the external account tra
 
 The confirmation screen displays a $5.00 transfer from Retail Savings Account to an external Retail Savings Account, showing the description and scheduled transfer date.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image3.png)
+![](images/image3.png)
 
 *Step 5: Review Pre-Confirmation*
 
@@ -82,7 +82,7 @@ The confirmation screen displays a $5.00 transfer from Retail Savings Account to
 
 A verification modal appears offering three authentication methods — 'Send me a message', 'Call me', or 'Send me an email' — to verify the external transfer before processing.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image6.png)
+![](images/image6.png)
 
 *Step 6: Select OTP Verification Method*
 
@@ -90,7 +90,7 @@ A verification modal appears offering three authentication methods — 'Send me 
 
 The verification page is displayed with a field to enter the verification code received via the selected authentication method to complete the external transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image1.png)
+![](images/image1.png)
 
 *Step 7: Enter OTP & Submit*
 
@@ -100,7 +100,7 @@ The verification page is displayed with a field to enter the verification code r
 
 The Move Money hub is displayed as the landing page for initiating an external account transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image2.png)
+![](images/image2.png)
 
 *Step 3: Navigate from Dashboard to External Transfer*
 
@@ -108,13 +108,13 @@ The Move Money hub is displayed as the landing page for initiating an external a
 
 Enter the amount and check a date to schedule the transfer and click on confirm
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image11.png)
+![](images/image11.png)
 
 **Step 3 — confirm the transfer**
 
 Confirm the transfer and recheck the amount and date
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image15.png)
+![](images/image15.png)
 
 **Step 4 — Move back to transfers HUB and go to scheduled transfers**
 
@@ -122,34 +122,34 @@ Click on move money hub and click on scheduled transfers**Step 4 — Move back t
 
 After completing the previous steps, click on the **Move Money Hub** option in the navigation menu. Once on the Move Money Hub screen, locate and click on the **Scheduled Transfers** section. This action will display a list of all your scheduled transfers.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image8.png)
+![](images/image8.png)
 
 **Step 4 — Click on a scheduled transfer**
 
 Click on a scheduled transfer and edit or manage the scheduled transfer
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image10.png)
+![](images/image10.png)
 
 **Step 5 — delete a scheduled transfer/edit a scheduled transfer**
 
 After clicking on a transfer, view the transfer details and if needed delete a scheduled transferAfter clicking on a specific transfer, the user can view all the comprehensive details of that transfer, including the amount, date, recipient, and status. If the transfer is a scheduled future transfer and has not been processed yet, the user will have the option to delete or cancel the scheduled transfer if necessary/you can also edit scheduler by clicking the edit option
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image12.png)
+![](images/image12.png)
 
 **Step 6 — edit a scheduler**
 
 After clicking edit scheduler you can edit an existing schedule,make the necessary changes and click o save changes
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image14.png)
+![](images/image14.png)
 
 **Step 7 — go back to external ACH transfer to make a recurring payment**
 
 Enter amount scheduled date and tick the recurring payment option and select a frequency and repeat frequency and select an end date for these recurring payments
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image7.png)
+![](images/image7.png)
 
 **Step 8— confirm the transfer**
 
 Confirm the transfer and recheck the amount and date
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/image13.png)
+![](images/image13.png)

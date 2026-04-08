@@ -55,7 +55,7 @@ The Cards page is your central hub for all enrolled debit and credit cards. At a
 
 From the nFinia top navigation bar, click Cards. The Cards page loads all your enrolled debit and credit cards as individual tiles.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image1.png)
+![](images/image1.png)
 
 **Step 2 Read Your Card Tiles**
 

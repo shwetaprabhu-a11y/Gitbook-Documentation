@@ -49,7 +49,7 @@ This hub eliminates the need for business members to navigate through multiple m
 
 Open your web browser and navigate to the Summerville Credit Union digital banking platform. Enter your username and password on the login screen and click "Log In." If prompted, complete the OTP (One-Time Passcode) verification by entering the code sent to your registered device. After successful authentication, you will land on the Dashboard — also called the Account Overview screen. This is your home base. The Dashboard displays all your business accounts (Savings Accounts, Checking Accounts) with their available and current balances. The top navigation bar shows links to Dashboard, Accounts, Transfer & Pay, Cards, Business Banking, and More. On the right sidebar you will see Related Links (Change Password, Account Settings, View Scheduled Transfers, Account Specific Alerts) and a Quick Transfer widget for fast internal transfers. To proceed to Business Banking features, locate the "Business Banking" tab in the top navigation bar and click on it.
 
-![Figure 1 — Log In and Open the Dashboard](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image1.png)
+![Figure 1 — Log In and Open the Dashboard](images/image1.png)
 
 *Figure 1 — Log In and Open the Dashboard*
 
@@ -57,7 +57,7 @@ Open your web browser and navigate to the Summerville Credit Union digital banki
 
 Log in to the nFinia digital banking platform using your credentials. Once you arrive at the main Dashboard, locate the left-side navigation menu. Click on "Business Banking" to enter the Business Banking Hub. You will see the Hub's tile-based layout divided into sections. The top section labeled "Transfers" contains four tiles: ACH Transfer, Domestic Wire Transfer, Transfer Template, and Payment From File. These are your primary payment initiation tools. Below that, the "Manage" section displays four administrative tiles: Role Management, User Management, Approval Settings, and Recipient Management. Each tile shows an icon and label. Only tiles your role has permission to access will be visible — if you do not see a tile, check with your business administrator to confirm your role includes that feature.
 
-![Figure 2 — Log In and Navigate to Business Banking](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image2.png)
+![Figure 2 — Log In and Navigate to Business Banking](images/image2.png)
 
 *Figure 2 — Log In and Navigate to Business Banking*
 
@@ -65,6 +65,6 @@ Log in to the nFinia digital banking platform using your credentials. Once you a
 
 Scroll down below the Manage section to reveal the "More Options" area. Here you will find three additional tiles: Commercial Activity (click to view a full transaction ledger of all business payments), Reports (click to generate, schedule, and download financial reports in BAI2, PDF, and XLSX formats), and Approvals (click to open the dual-control approval queue where you can review, approve, or decline pending payment requests). These tiles are also role-gated — they only appear if your assigned role includes the corresponding permission. From this Hub screen, you can click on any tile to navigate directly into that feature. To return to the Hub at any time, use the left-side navigation menu and click "Business Banking" again.
 
-![Figure 3 — Scroll Down to View More Options](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image3.png)
+![Figure 3 — Scroll Down to View More Options](images/image3.png)
 
 *Figure 3 — Scroll Down to View More Options*

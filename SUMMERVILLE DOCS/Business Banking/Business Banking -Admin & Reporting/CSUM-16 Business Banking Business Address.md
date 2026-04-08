@@ -50,7 +50,7 @@ For credit unions, maintaining accurate business addresses is critical for regul
 
 Open your web browser and navigate to the Summerville Credit Union digital banking platform. Enter your username and password on the login screen and click "Log In." If prompted, complete the OTP (One-Time Passcode) verification by entering the code sent to your registered device. After successful authentication, you will land on the Dashboard — also called the Account Overview screen. This is your home base. The Dashboard displays all your business accounts (Savings Accounts, Checking Accounts) with their available and current balances. The top navigation bar shows links to Dashboard, Accounts, Transfer & Pay, Cards, Business Banking, and More. On the right sidebar you will see Related Links (Change Password, Account Settings, View Scheduled Transfers, Account Specific Alerts) and a Quick Transfer widget for fast internal transfers. To proceed to Business Banking features, locate the "Business Banking" tab in the top navigation bar and click on it.
 
-![Figure 1 — Log In and Open the Dashboard](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking%20-Admin%20&%20Reporting/images/image2.png)
+![Figure 1 — Log In and Open the Dashboard](images/image2.png)
 
 *Figure 1 — Log In and Open the Dashboard*
 
@@ -58,7 +58,7 @@ Open your web browser and navigate to the Summerville Credit Union digital banki
 
 After clicking "Business Banking" in the top navigation bar, the Business Banking Hub loads. This is the central command center for all commercial banking operations. The Hub is organized into three sections: "Transfers" at the top (with tiles for ACH Transfer, Domestic Wire Transfer, Transfer Template, and Payment From File), "Manage" in the middle (with tiles for Role Management, User Management, Approval Settings, and Recipient Management), and "More Options" at the bottom (with tiles for Commercial Activity, Reports, and Approvals). Each tile is a direct entry point to its corresponding feature. Only tiles your role has permission to access will be visible. From here, locate and click the tile for the feature you need — the next steps will guide you through the specific workflow.
 
-![Figure 2 — Open the Business Banking Hub](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking%20-Admin%20&%20Reporting/images/image1.png)
+![Figure 2 — Open the Business Banking Hub](images/image1.png)
 
 *Figure 2 — Open the Business Banking Hub*
 
@@ -66,7 +66,7 @@ After clicking "Business Banking" in the top navigation bar, the Business Bankin
 
 From the Dashboard, click "Business Banking" in the left-side navigation menu to open the Business Banking Hub. Navigate to More → Business Information through the left-side navigation within Business Banking. On the Business Information page, click the "Mailing Address" tab (next to "Contact Information"). The page displays your registered business address: Street Address, City, State, and ZIP Code. To update the address (e.g., after a business relocation), click the "Edit address" link. Depending on your credit union's configuration, address changes may be applied immediately or require verification. Review the address to ensure it matches your current business location.
 
-![Figure 3 — Navigate to Business Address](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking%20-Admin%20&%20Reporting/images/image3.png)
+![Figure 3 — Navigate to Business Address](images/image3.png)
 
 *Figure 3 — Navigate to Business Address*
 
@@ -74,6 +74,6 @@ From the Dashboard, click "Business Banking" in the left-side navigation menu to
 
 Scroll down to see the complete Mailing Address page. Below your business address, the credit union's footer information is displayed for quick reference: the credit union's main phone number, mailing address, ABA/Routing Number, and contact center hours. The ABA/Routing Number is especially useful — you will need this when providing banking details to customers or vendors for incoming payments. Note this number for your records. The contact center hours tell you when live support is available if you need assistance. This single page gives you both your business address and the credit union's key reference information in one place.
 
-![Figure 4 — View Full Address Page with Credit Union Details](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking%20-Admin%20&%20Reporting/images/image4.png)
+![Figure 4 — View Full Address Page with Credit Union Details](images/image4.png)
 
 *Figure 4 — View Full Address Page with Credit Union Details*

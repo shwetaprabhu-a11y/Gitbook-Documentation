@@ -34,7 +34,7 @@ For credit unions, this visibility layer is critical to payment accuracy and aud
 
 The admin navigates to Transfer Account Management via Transfer & Pay, which displays all saved recipients as a searchable grid. Each card shows the recipient name, account count, and associated membership — recipients with multiple linked accounts are visible at a glance by their account count. The admin clicks the target recipient to open their Transfer Account Details view.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image1.png)
+![](images/image1.png)
 
 *Step 1: Transfer Account Management — Select Recipient*
 
@@ -42,7 +42,7 @@ The admin navigates to Transfer Account Management via Transfer & Pay, which dis
 
 The Transfer Account Details screen for Jamie Smith (Dunder Mifflin, Inc.) displays both linked ACH accounts in a single view: “Jamie” and “James,” each showing its nickname, payment method, and financial institution. Every account row carries an independent “Provide Funds” button, allowing the admin to direct a payment to either account without modifying the recipient record or selecting from a separate list.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image2.png)
+![](images/image2.png)
 
 *Step 2: Transfer Account Details — Multiple Accounts*
 
@@ -50,7 +50,7 @@ The Transfer Account Details screen for Jamie Smith (Dunder Mifflin, Inc.) displ
 
 Clicking the overflow menu on an account row opens the Account Details modal, surfacing the complete record for that account: account type, account holder name, ABA routing number, and the resolved financial institution name and address. This view lets the admin confirm the correct account is targeted before initiating a transfer — particularly important when a recipient has multiple accounts at the same institution.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image3.png)
+![](images/image3.png)
 
 *Step 3: Account Details Modal — James (Savings, ACH)*
 
@@ -58,6 +58,6 @@ Clicking the overflow menu on an account row opens the Account Details modal, su
 
 The Account Details modal for “Jamie” displays a VERIFIED status badge, confirming this account has passed ACH pre-notification validation — a NACHA best practice that sends a zero-dollar test entry before the first live credit or debit. The admin can review the full record — account holder Jamie Smith, account type Checking, account number, ABA routing number 063106145, and BANK OF AMERICA, N.A. at 620 South Tryon Street, Charlotte, NC — and edit or save directly from this modal.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image4.png)
+![](images/image4.png)
 
 *Step 4: Account Details Modal — Jamie (Checking, VERIFIED)*

@@ -14,7 +14,7 @@ Module: nFinia Digital Banking \> Move Money \> Scheduled Transfers
 
 After authentication, the member lands on the Dashboard, which surfaces real-time account balances across all products, the Quick Transfer widget for immediate one-off transfers, and upcoming payment obligations in a single consolidated view. To initiate a scheduled transfer review, the member selects Move Money from the top navigation bar.
 
-![Screenshot 5](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image2.png)
+![Screenshot 5](images/image2.png)
 
 *Step 1: Start from Dashboard*
 
@@ -22,7 +22,7 @@ After authentication, the member lands on the Dashboard, which surfaces real-tim
 
 The Move Money Hub consolidates every payment and transfer workflow into a single tile-based screen, organized under two categories: Pay (Pay Bills, Quick Pay, Zelle Payment) and Transfers (Internal Transfers, Other Members, Same-day Transfers, Send Now, Domestic Wired Transfer). The member clicks the Scheduled Transfers tile to view and manage all recurring transfer arrangements.
 
-![Screenshot 0](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image4.png)
+![Screenshot 0](images/image4.png)
 
 *Step 2: Move Money Hub*
 
@@ -30,7 +30,7 @@ The Move Money Hub consolidates every payment and transfer workflow into a singl
 
 The Scheduled Transfers screen opens with a Schedule transfer type selector defaulting to Within Summerville and an Account dropdown. Before any schedules are rendered, the member must select a source account, scoping the results to the correct membership and transfer context.
 
-![Screenshot 1](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image3.png)
+![Screenshot 1](images/image3.png)
 
 *Step 3: Scheduled Transfers — initial state*
 
@@ -38,7 +38,7 @@ The Scheduled Transfers screen opens with a Schedule transfer type selector defa
 
 With Retail Checking Account (\#0001) selected as the source, the platform surfaces all active recurring schedules linked to that account. Each entry displays the recipient, destination account number, frequency, validity, next transfer date, and transfer amount in a consolidated list — giving members a real-time picture of all committed recurring cash outflows.
 
-![Screenshot 2](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image6.png)
+![Screenshot 2](images/image6.png)
 
 *Step 4: Scheduled Transfers — active schedules list*
 
@@ -46,7 +46,7 @@ With Retail Checking Account (\#0001) selected as the source, the platform surfa
 
 Clicking any schedule entry opens the Scheduled Transfer Details screen, which presents the full parameters of that recurring arrangement: source and destination accounts, transfer amount, next transfer date, frequency, validity period, and start date. The member can permanently cancel the recurring schedule from this screen using the Delete schedule button.
 
-![Screenshot 3](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image5.png)
+![Screenshot 3](images/image5.png)
 
 *Step 5: Scheduled Transfer Details — SHARE (0002)*
 
@@ -54,6 +54,6 @@ Clicking any schedule entry opens the Scheduled Transfer Details screen, which p
 
 Switching the Schedule transfer type to External account and selecting membership \#0000059991 reveals that no external recurring transfers are currently active for this member, displaying the platform message "You have not scheduled any transfers." This empty state confirms there are no outstanding external ACH recurring obligations tied to this membership.
 
-![Screenshot 4](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image1.png)
+![Screenshot 4](images/image1.png)
 
 *Step 6: Scheduled Transfers — External account (no active transfers)*

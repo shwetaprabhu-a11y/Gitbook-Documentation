@@ -42,7 +42,7 @@ The Bill Pay module includes full history of all past payments, management of pa
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Bill%20Pay%20and%20Loans/images/image2.png)
+![](images/image2.png)
 
 *Step 1: Start from Dashboard*
 
@@ -50,7 +50,7 @@ The member begins at the Dashboard after logging in. The Dashboard displays all 
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Bill%20Pay%20and%20Loans/images/image1.png)
+![](images/image1.png)
 
 *Step 2: Move Money Hub*
 
@@ -58,8 +58,8 @@ The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub
 
 The Bill Pay screen from the legacy banking interface is displayed, showing payment options and form fields for setting up or making a bill payment.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Bill%20Pay%20and%20Loans/images/image3.png)
+![](images/image3.png)
 
 **Step 4 — ADD BILLER**
 
-Enter the Biller details and add Biller![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Bill%20Pay%20and%20Loans/images/image4.png)
+Enter the Biller details and add Biller![](images/image4.png)

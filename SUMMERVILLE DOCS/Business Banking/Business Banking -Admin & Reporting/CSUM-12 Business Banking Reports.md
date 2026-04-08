@@ -51,7 +51,7 @@ For credit unions, reporting capabilities are essential for business members who
 
 Open your web browser and navigate to the Summerville Credit Union digital banking platform. Enter your username and password on the login screen and click "Log In." If prompted, complete the OTP (One-Time Passcode) verification by entering the code sent to your registered device. After successful authentication, you will land on the Dashboard — also called the Account Overview screen. This is your home base. The Dashboard displays all your business accounts (Savings Accounts, Checking Accounts) with their available and current balances. The top navigation bar shows links to Dashboard, Accounts, Transfer & Pay, Cards, Business Banking, and More. On the right sidebar you will see Related Links (Change Password, Account Settings, View Scheduled Transfers, Account Specific Alerts) and a Quick Transfer widget for fast internal transfers. To proceed to Business Banking features, locate the "Business Banking" tab in the top navigation bar and click on it.
 
-![Figure 1 — Log In and Open the Dashboard](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking%20-Admin%20&%20Reporting/images/image2.png)
+![Figure 1 — Log In and Open the Dashboard](images/image2.png)
 
 *Figure 1 — Log In and Open the Dashboard*
 
@@ -59,7 +59,7 @@ Open your web browser and navigate to the Summerville Credit Union digital banki
 
 After clicking "Business Banking" in the top navigation bar, the Business Banking Hub loads. This is the central command center for all commercial banking operations. The Hub is organized into three sections: "Transfers" at the top (with tiles for ACH Transfer, Domestic Wire Transfer, Transfer Template, and Payment From File), "Manage" in the middle (with tiles for Role Management, User Management, Approval Settings, and Recipient Management), and "More Options" at the bottom (with tiles for Commercial Activity, Reports, and Approvals). Each tile is a direct entry point to its corresponding feature. Only tiles your role has permission to access will be visible. From here, locate and click the tile for the feature you need — the next steps will guide you through the specific workflow.
 
-![Figure 2 — Open the Business Banking Hub](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking%20-Admin%20&%20Reporting/images/image5.png)
+![Figure 2 — Open the Business Banking Hub](images/image5.png)
 
 *Figure 2 — Open the Business Banking Hub*
 
@@ -67,7 +67,7 @@ After clicking "Business Banking" in the top navigation bar, the Business Bankin
 
 From the Dashboard, click "Business Banking" in the left-side navigation menu to open the Business Banking Hub. Scroll down to the "More Options" section and click the "Reports" tile. The Reports management page appears with a table listing all generated reports. Columns show: Report Name, Run Date, View Type (Shared or Private), Download buttons (BAI2, PDF, XLSX), Report Type, and Actions. To generate a new report, click "Create Report" at the top. To download an existing report, click the format button (BAI2, PDF, or XLSX) in the corresponding row. Use the filter controls to narrow by report type or date range.
 
-![Figure 3 — Navigate to Reports](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking%20-Admin%20&%20Reporting/images/image1.png)
+![Figure 3 — Navigate to Reports](images/image1.png)
 
 *Figure 3 — Navigate to Reports*
 
@@ -75,7 +75,7 @@ From the Dashboard, click "Business Banking" in the left-side navigation menu to
 
 Click the Actions button (three-dot menu or gear icon) on any report row to see available options. These typically include: Download (in your chosen format), Share/Unshare (toggle between Shared and Private visibility — Shared reports are visible to all authorized team members), Rename (change the display name), Schedule (configure the report to run automatically on a recurring basis), and Delete (remove the report). The Share feature is especially useful when a bookkeeper generates a monthly report and needs the business owner to review it. The Schedule feature automates report generation so critical reports are always available without manual effort.
 
-![Figure 4 — Use the Actions Menu on a Report](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking%20-Admin%20&%20Reporting/images/image3.png)
+![Figure 4 — Use the Actions Menu on a Report](images/image3.png)
 
 *Figure 4 — Use the Actions Menu on a Report*
 
@@ -83,6 +83,6 @@ Click the Actions button (three-dot menu or gear icon) on any report row to see 
 
 Scroll down or use the date filter to access previously generated reports. Each historical entry shows the report configuration, generation timestamp, processing status (Completed, Processing, Failed), file size, and download availability. Completed reports can be downloaded immediately by clicking the format button. Failed reports include error descriptions to help you understand why generation failed. You can re-download reports from weeks or months ago without regenerating them. Use this history to support monthly reconciliation, quarterly audits, and annual compliance reviews.
 
-![Figure 5 — Review Report History](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking%20-Admin%20&%20Reporting/images/image4.png)
+![Figure 5 — Review Report History](images/image4.png)
 
 *Figure 5 — Review Report History*

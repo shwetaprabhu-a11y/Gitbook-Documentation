@@ -45,7 +45,7 @@ Card Details is the gateway to all card-specific settings. Any time you need to 
 
 After logging in, you land on the Dashboard showing your account balances, recent payments, and quick-action shortcuts. Click Cards in the top navigation bar to open your card list.
 
-![Step 1: Dashboard — starting point for navigation](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image2.png)
+![Step 1: Dashboard — starting point for navigation](images/image2.png)
 
 *Step 1: Dashboard — starting point for navigation*
 
@@ -53,7 +53,7 @@ After logging in, you land on the Dashboard showing your account balances, recen
 
 On the Cards page, each card tile shows a summary view. Click on the card tile or use the Card Controls / Set PIN / Deactivate links at the bottom of the tile to navigate into that card's detail view. The Card Details page loads, showing the full card image, account information, status toggle, balance summary, and quick action links along the top of the detail panel.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image1.png)
+![](images/image1.png)
 
 *Step 2: Cards list — click any card or its action links to open Card Details*
 

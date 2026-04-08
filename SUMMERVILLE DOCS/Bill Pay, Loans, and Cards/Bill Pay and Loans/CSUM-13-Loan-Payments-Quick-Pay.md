@@ -42,7 +42,7 @@ The Pay Loan from External Account feature allows members to link an external ba
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Bill%20Pay%20and%20Loans/images/image3.png)
+![](images/image3.png)
 
 *Step 1: Start from Dashboard*
 
@@ -50,7 +50,7 @@ The member begins at the Dashboard after logging in. The Dashboard displays all 
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Bill%20Pay%20and%20Loans/images/image1.png)
+![](images/image1.png)
 
 *Step 2: Move Money Hub*
 
@@ -58,7 +58,7 @@ The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub
 
 The Quick Pay page displays the loan selection screen with red action buttons for selecting different loan accounts to make a payment.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Bill%20Pay%20and%20Loans/images/image4.png)
+![](images/image4.png)
 
 *Step 3: Navigate from Dashboard to Quick Pay*
 
@@ -66,6 +66,6 @@ The Quick Pay page displays the loan selection screen with red action buttons fo
 
 The Bill Pay form is displayed from the Summerville banking interface with form fields for entering payment details and selecting the loan to pay.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Bill%20Pay%20and%20Loans/images/image2.png)
+![](images/image2.png)
 
 *Step 4: Select Loan & Enter Payment Amount*

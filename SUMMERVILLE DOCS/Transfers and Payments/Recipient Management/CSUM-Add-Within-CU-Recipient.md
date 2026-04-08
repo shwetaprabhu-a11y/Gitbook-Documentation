@@ -34,7 +34,7 @@ For credit unions deploying nFinia for commercial members, Within CU transfers a
 
 The business admin logs into the nFinia platform and lands on the personalized dashboard, which presents a real-time view of all account balances, upcoming loan obligations, and a Quick Transfer widget — giving the business member immediate visibility into their cash position. From here, the admin navigates to Business Banking to begin setting up a new intra-credit union recipient.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image1.png)
+![](images/image1.png)
 
 *Step 1: Dashboard*
 
@@ -42,7 +42,7 @@ The business admin logs into the nFinia platform and lands on the personalized d
 
 The Business Banking hub consolidates all commercial payment and administrative operations in a single navigation layer — ACH origination, wire transfers, payment file uploads, user and role management, approvals, and reporting. The admin navigates to Recipient Management via Transfer & Pay to begin adding a new Within CU transfer account.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image2.png)
+![](images/image2.png)
 
 *Step 2: Business Banking Hub*
 
@@ -50,7 +50,7 @@ The Business Banking hub consolidates all commercial payment and administrative 
 
 The Transfer Account Management screen displays all saved external recipients linked to the business’s accounts, organized as a searchable grid showing each recipient’s name, account count, and associated membership. The admin clicks “+ Add a new transfer account” to begin registering a new payee.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image3.png)
+![](images/image3.png)
 
 *Step 3: Transfer Account Management*
 
@@ -58,7 +58,7 @@ The Transfer Account Management screen displays all saved external recipients li
 
 On the Add Transfer Account screen, the admin enters the accountholder’s name — this becomes the top-level identity record for the recipient, under which one or more payment accounts can be linked. Once the name is entered, the admin clicks “+ Add Account” to define the payment method and account details.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image4.png)
+![](images/image4.png)
 
 *Step 4: Add Transfer Account*
 
@@ -66,7 +66,7 @@ On the Add Transfer Account screen, the admin enters the accountholder’s name 
 
 The Add Account modal presents three payment type options: Within CU (for transfers to accounts held at the same credit union), ACH (for external bank accounts via the ACH network), and Domestic Wire. The admin selects “Within CU” — this restricts the transfer to members of the same institution and requires membership-based verification rather than external routing details.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image5.png)
+![](images/image5.png)
 
 *Step 5: Payment Type Selection*
 
@@ -74,7 +74,7 @@ The Add Account modal presents three payment type options: Within CU (for transf
 
 With Within CU selected, the form reveals four fields: Membership number, Account type (Checking or Savings), Last name, and Nickname. Unlike the ACH path, no routing number or institution search is required — the platform resolves the destination account entirely from the credit union’s own membership records.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image6.png)
+![](images/image6.png)
 
 *Step 6: Within CU Form — Empty*
 
@@ -82,7 +82,7 @@ With Within CU selected, the form reveals four fields: Membership number, Accoun
 
 The admin enters the recipient’s membership number (123456), selects Checking as the account type — which surfaces the Account\# field, pre-populated from the membership record — and provides the last name (Smith) for identity verification. A nickname (“Adam S.”) is added to label this account for easy selection in future transfer workflows.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image7.png)
+![](images/image7.png)
 
 *Step 7: Within CU Form — Filled*
 
@@ -90,6 +90,6 @@ The admin enters the recipient’s membership number (123456), selects Checking 
 
 Upon attempting to save, the platform validates the submitted membership number, account number, and last name against the credit union’s member records — a security control that prevents unauthorized recipient registration. If the details do not match, an inline error is displayed and the admin is prompted to re-enter valid information before the recipient can be saved.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image8.png)
+![](images/image8.png)
 
 *Step 8: Validation Result — Add Transfer Account*

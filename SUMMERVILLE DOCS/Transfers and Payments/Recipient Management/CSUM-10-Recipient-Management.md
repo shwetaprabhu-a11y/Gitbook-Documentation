@@ -42,7 +42,7 @@ Transfer Templates are an advanced feature within recipient management that allo
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image6.png)
+![](images/image6.png)
 
 *Step 1: Start from Dashboard*
 
@@ -50,7 +50,7 @@ The member begins at the Dashboard after logging in. The Dashboard displays all 
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image5.png)
+![](images/image5.png)
 
 *Step 2: Move Money Hub*
 
@@ -58,7 +58,7 @@ The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub
 
 The Recipient Management page displays all saved recipients as cards in a grid layout. Recipients shown include Jane Smith, John Smith, Mr Recipient, Nemo Clownfish, Steven Richards, and Tony Stark, each displaying the number of linked accounts. A search bar and 'Add a new recipient' link are available at the top.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image4.png)
+![](images/image4.png)
 
 *Step 3: View Recipient List*
 
@@ -66,7 +66,7 @@ The Recipient Management page displays all saved recipients as cards in a grid l
 
 The Recipient Details page for Jane Smith is displayed. The Accounts section lists two linked external accounts with columns for Nickname, Payment method, and Financial Institution. Each account shows action buttons including 'Initiate Transfer' and a delete option. An 'Add Account' button and 'Remove recipient' link are available below.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image2.png)
+![](images/image2.png)
 
 *Step 4: View Recipient Details & Linked Accounts*
 
@@ -74,7 +74,7 @@ The Recipient Details page for Jane Smith is displayed. The Accounts section lis
 
 The Add Recipient form is displayed with a 'Recipient Details' section containing a Name field. The Accounts area shows an 'Add Account' link to attach payment accounts to the new recipient. Related Links are available in the right sidebar.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image1.png)
+![](images/image1.png)
 
 *Step 5: Add a New Recipient*
 
@@ -82,7 +82,7 @@ The Add Recipient form is displayed with a 'Recipient Details' section containin
 
 The Add Account modal is open with fields for Payment type (set to 'within CU'), Membership number, Account type (set to '1st savings account'), optional First name and Last name fields, and a Nickname field. Cancel and 'Save Account' buttons appear at the bottom.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image3.png)
+![](images/image3.png)
 
 *Step 6: Add Account to Recipient*
 
@@ -90,40 +90,40 @@ The Add Account modal is open with fields for Payment type (set to 'within CU'),
 
 Search for an Internal payee and and remove the internal payeeSearch for an Internal payee, verify the payee details, and then proceed to remove the internal payee from the recipient management list.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image13.png)
+![](images/image13.png)
 
 **Step 8 —Delete External Payee**
 
 Search for an External payee and and remove the internal payeeSearch for an External payee, verify the payee details, and then proceed to remove the External payee from the recipient management list.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image11.png)
+![](images/image11.png)
 
 **Step 9 —Edit external nickname**
 
 Click on edit external payee nickname and change the nickname and click save
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image9.png)
+![](images/image9.png)
 
 **Step 10 —Edit internal nickname**
 
 Click on edit internal payee nickname and change the nickname and click save
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image12.png)
+![](images/image12.png)
 
 **Step 11 —Edit domestic Wire nickname**
 
 Click on edit domestic Wire nickname and change the nickname and click save
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image10.png)
+![](images/image10.png)
 
 **Step 12 —Remove Domestic Wire Recipient Payee**
 
 Click on recipient details,click on the hamburger menu and click on remove option to remove the recipient
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image8.png)
+![](images/image8.png)
 
 **Step 13 —Remove Recipient**
 
 Click on remove Recipient and Click on OK to remove this recipient
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Recipient%20Management/images/image7.png)
+![](images/image7.png)

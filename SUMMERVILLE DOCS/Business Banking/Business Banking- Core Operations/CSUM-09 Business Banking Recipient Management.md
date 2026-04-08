@@ -51,7 +51,7 @@ For credit unions, recipient management reduces errors in payment processing by 
 
 Open your web browser and navigate to the Summerville Credit Union digital banking platform. Enter your username and password on the login screen and click "Log In." If prompted, complete the OTP (One-Time Passcode) verification by entering the code sent to your registered device. After successful authentication, you will land on the Dashboard — also called the Account Overview screen. This is your home base. The Dashboard displays all your business accounts (Savings Accounts, Checking Accounts) with their available and current balances. The top navigation bar shows links to Dashboard, Accounts, Transfer & Pay, Cards, Business Banking, and More. On the right sidebar you will see Related Links (Change Password, Account Settings, View Scheduled Transfers, Account Specific Alerts) and a Quick Transfer widget for fast internal transfers. To proceed to Business Banking features, locate the "Business Banking" tab in the top navigation bar and click on it.
 
-![Figure 1 — Log In and Open the Dashboard](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image4.png)
+![Figure 1 — Log In and Open the Dashboard](images/image4.png)
 
 *Figure 1 — Log In and Open the Dashboard*
 
@@ -59,7 +59,7 @@ Open your web browser and navigate to the Summerville Credit Union digital banki
 
 After clicking "Business Banking" in the top navigation bar, the Business Banking Hub loads. This is the central command center for all commercial banking operations. The Hub is organized into three sections: "Transfers" at the top (with tiles for ACH Transfer, Domestic Wire Transfer, Transfer Template, and Payment From File), "Manage" in the middle (with tiles for Role Management, User Management, Approval Settings, and Recipient Management), and "More Options" at the bottom (with tiles for Commercial Activity, Reports, and Approvals). Each tile is a direct entry point to its corresponding feature. Only tiles your role has permission to access will be visible. From here, locate and click the tile for the feature you need — the next steps will guide you through the specific workflow.
 
-![Figure 2 — Open the Business Banking Hub](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image1.png)
+![Figure 2 — Open the Business Banking Hub](images/image1.png)
 
 *Figure 2 — Open the Business Banking Hub*
 
@@ -67,7 +67,7 @@ After clicking "Business Banking" in the top navigation bar, the Business Bankin
 
 From the Dashboard, click "Business Banking" in the left-side navigation menu to open the Business Banking Hub. In the "Manage" section, click the "Recipient Management" tile. The Transfer Account Management page appears, displaying all saved external accounts as color-coded cards in a grid layout. Each card shows the recipient name and account type. Use the search bar at the top to filter by recipient name. To add a new external account, click "Add Transfer Account." To import accounts from another source, click "Copy Transfer Account." The total number of saved accounts is shown on the page. Click any card to view or edit that recipient's details.
 
-![Figure 3 — Navigate to Recipient Management](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image3.png)
+![Figure 3 — Navigate to Recipient Management](images/image3.png)
 
 *Figure 3 — Navigate to Recipient Management*
 
@@ -75,6 +75,6 @@ From the Dashboard, click "Business Banking" in the left-side navigation menu to
 
 Click on any recipient card to open the full account detail view. This expanded display shows: Account Holder Name (the legal name on the recipient's bank account), Routing/ABA Number (the 9-digit bank routing number), Account Number (masked for security — click to reveal if needed), and Account Type (Checking or Savings). For wire transfer accounts, additional fields show the beneficiary bank name, bank address, and intermediary bank details. To edit any field, click the "Edit" button and update the information. To delete this recipient entirely, click "Delete." Always verify routing and account numbers carefully, as incorrect details will cause payment failures. Click "Back" to return to the recipient directory.
 
-![Figure 4 — View and Edit Recipient Details](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image2.png)
+![Figure 4 — View and Edit Recipient Details](images/image2.png)
 
 *Figure 4 — View and Edit Recipient Details*

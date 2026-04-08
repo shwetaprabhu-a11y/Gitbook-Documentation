@@ -45,7 +45,7 @@ Freezing a card blocks new purchase and transaction approvals while the card rem
 
 After logging in, you land on the Dashboard displaying your account balances, recent payments, and quick-access shortcuts. The top navigation bar includes a Cards link that takes you directly to your full card list, where you can manage all cards linked to your membership.
 
-![Step 1: Dashboard — click Cards in the top navigation to access your card list](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image3.png)
+![Step 1: Dashboard — click Cards in the top navigation to access your card list](images/image3.png)
 
 *Step 1: Dashboard — click Cards in the top navigation to access your card list*
 
@@ -53,7 +53,7 @@ After logging in, you land on the Dashboard displaying your account balances, re
 
 From the Cards list, locate the card you want to freeze. Click into the card to open its Card Details view. From the card options displayed — which include Card Controls, Set PIN, and Deactivate / Replace Card — select Freeze Card. The Freeze Card confirmation page opens, showing the last four digits of the card to be frozen.
 
-![Step 2: Freeze Card confirmation — review the card details before proceeding](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image1.png)
+![Step 2: Freeze Card confirmation — review the card details before proceeding](images/image1.png)
 
 *Step 2: Freeze Card confirmation — review the card details before proceeding*
 
@@ -61,7 +61,7 @@ From the Cards list, locate the card you want to freeze. Click into the card to 
 
 The confirmation screen asks: "Are you sure you want to freeze card ending \[last 4 digits\]?" Review the card information to ensure you are freezing the correct card. Click Yes, Freeze Card to apply the freeze immediately, or click No, Cancel to exit without making any changes. The freeze takes effect the moment you confirm — no further steps are required.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image1.png)
+![](images/image1.png)
 
 *Step 3: Freeze confirmed — the card is now blocked from new transactions*
 

@@ -42,7 +42,7 @@ Because Zelle® payments to enrolled recipients are processed instantly and are 
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/P2P%20and%20Zelle/P2P%20and%20Zelle/images/image2.png)
+![](images/image2.png)
 
 *Step 1: Start from Dashboard*
 
@@ -50,7 +50,7 @@ The member begins at the Dashboard after logging in. The Dashboard displays all 
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/P2P%20and%20Zelle/P2P%20and%20Zelle/images/image1.png)
+![](images/image1.png)
 
 *Step 2: Move Money Hub*
 
@@ -58,18 +58,18 @@ The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub
 
 The Move Money hub is shown with payment options including Pay Bills, Quick Pay, Zelle Payment, and various transfer services available as tiles.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/P2P%20and%20Zelle/P2P%20and%20Zelle/images/image5.png)
+![](images/image5.png)
 
 **Step 4 — Send a Zelle Payment**
 
 The Zelle Payment form page is displayed from a legacy banking interface with form fields visible for entering recipient and payment details.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/P2P%20and%20Zelle/P2P%20and%20Zelle/images/image4.png)
+![](images/image4.png)
 
 **Step 5 — Verify Zelle Payment**
 
 The Zelle verification screen prompts the member to enter a 6-digit verification code sent via SMS to verify and complete the Zelle transaction.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/P2P%20and%20Zelle/P2P%20and%20Zelle/images/image3.png)
+![](images/image3.png)
 
 *Step 5: Verify Zelle Payment*

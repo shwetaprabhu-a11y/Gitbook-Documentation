@@ -55,7 +55,7 @@ The Block / Unblock Card feature lets you instantly control whether your debit o
 
 From the nFinia home screen, select Cards in the top navigation bar. Your enrolled cards are listed with their card number, expiry, and current Card Status.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image2.png)
+![](images/image2.png)
 
 **Step 2 Toggle Card Status to Off**
 
@@ -69,7 +69,7 @@ Locate the card you want to block. Click the Card Status toggle — it will swit
 
 Review the confirmation popup. It will show the last 4 digits of the card being blocked. Click Yes to confirm, or No to cancel without making any change.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image1.png)
+![](images/image1.png)
 
 |                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- |

@@ -42,7 +42,7 @@ Transfers are processed the same business day, and the recipient's account is cr
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image2.png)
+![](images/image2.png)
 
 *Step 1: Start from Dashboard*
 
@@ -50,7 +50,7 @@ The member begins at the Dashboard after logging in. The Dashboard displays all 
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image4.png)
+![](images/image4.png)
 
 *Step 2: Move Money Hub*
 
@@ -58,7 +58,7 @@ The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub
 
 The Move Money hub is displayed with a tooltip providing help for selecting a recipient. This is the starting screen for the Transfer to Other Members workflow.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image5.png)
+![](images/image5.png)
 
 *Step 3: Navigate from Dashboard to Other Members Transfer*
 
@@ -66,7 +66,7 @@ The Move Money hub is displayed with a tooltip providing help for selecting a re
 
 Step 2 of the other member transfer shows the account selection screen with a message indicating no eligible accounts and a modal prompting the member to select a recipient.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image6.png)
+![](images/image6.png)
 
 *Step 4: Select Recipient & Enter Details*
 
@@ -74,7 +74,7 @@ Step 2 of the other member transfer shows the account selection screen with a me
 
 A confirmation overlay displays the transfer details for a $5.00 transfer, showing the source and destination account information for member review before submission.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image3.png)
+![](images/image3.png)
 
 *Step 5: Review Transfer Summary*
 
@@ -82,6 +82,6 @@ A confirmation overlay displays the transfer details for a $5.00 transfer, showi
 
 The success screen confirms the $5.00 transfer to another member with a green checkmark, displaying the transaction details and transfer date.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/Internal%20and%20Own%20Account%20Transfers/images/image1.png)
+![](images/image1.png)
 
 *Step 6: Transfer Complete*

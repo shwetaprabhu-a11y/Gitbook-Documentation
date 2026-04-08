@@ -47,7 +47,7 @@ You can submit a travel notice by selecting the card, specifying travel destinat
 
 After logging in, you land on the Dashboard. Click More in the top navigation bar to expand the menu and find Travel Notice. This option is not visible in the main navigation bar by default.
 
-![Step 1: Dashboard — click More in the top navigation to find Travel Notice](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/c573d8948e3aa7e6336249734cea774b7c747bdc.png "Step 1: Dashboard — click More in the top navigation to find Travel Notice")
+![Step 1: Dashboard — click More in the top navigation to find Travel Notice](images/c573d8948e3aa7e6336249734cea774b7c747bdc.png "Step 1: Dashboard — click More in the top navigation to find Travel Notice")
 
 *Step 1: Dashboard — click More in the top navigation to find Travel Notice*
 
@@ -55,7 +55,7 @@ After logging in, you land on the Dashboard. Click More in the top navigation ba
 
 The Travel Notice page opens on the Travel Itineraries tab, which shows any travel notices you have already submitted. Each entry displays the card, travel dates, destination, and options to Remove itinerary or Edit itinerary. Click the Set Travel Notice tab to create a new notice.
 
-![Step 2: Travel Itineraries tab — view, edit, or remove existing travel notices](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/3ba4c1f93d7a71ad9dab8d4cf10bd440a2202840.png "Step 2: Travel Itineraries tab — view, edit, or remove existing travel notices")
+![Step 2: Travel Itineraries tab — view, edit, or remove existing travel notices](images/3ba4c1f93d7a71ad9dab8d4cf10bd440a2202840.png "Step 2: Travel Itineraries tab — view, edit, or remove existing travel notices")
 
 *Step 2: Travel Itineraries tab — view, edit, or remove existing travel notices*
 
@@ -63,7 +63,7 @@ The Travel Notice page opens on the Travel Itineraries tab, which shows any trav
 
 On the Set Travel Notice tab, select the card you will be using for travel, enter the destination location(s), and select the travel year and month. A reminder at the bottom advises that the selected card must be active and enabled for international transactions. Click Save Travel Notice to submit, or Cancel to discard.
 
-![Step 3: Enter your card, destination, and travel dates, then click Save Travel Notice](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/d97ee4642bfcb25b3696c05c8adab7b090e885b3.png "Step 3: Enter your card, destination, and travel dates, then click Save Travel Notice")
+![Step 3: Enter your card, destination, and travel dates, then click Save Travel Notice](images/d97ee4642bfcb25b3696c05c8adab7b090e885b3.png "Step 3: Enter your card, destination, and travel dates, then click Save Travel Notice")
 
 *Step 3: Enter your card, destination, and travel dates, then click Save Travel Notice*
 

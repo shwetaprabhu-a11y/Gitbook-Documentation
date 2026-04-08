@@ -44,7 +44,7 @@ Spending limits are found under Card Controls in the Card Details view. Each lim
 
 After logging in, you land on the Dashboard. Click Cards in the top navigation to open your card list, then select the card you want to configure. From Card Details, click Card Controls to open the controls panel.
 
-![Step 1: Dashboard — click Cards to begin](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Controls%20and%20Spending/images/image2.png)
+![Step 1: Dashboard — click Cards to begin](images/image2.png)
 
 *Step 1: Dashboard — click Cards to begin*
 
@@ -52,6 +52,6 @@ After logging in, you land on the Dashboard. Click Cards in the top navigation t
 
 The Spending Limits tab opens under Card Controls. You will see two limit types: Per Transaction and Per Month. Toggle either limit on to activate it, then enter the maximum dollar amount in the input field. For Per Month, your current monthly spend is shown for reference. Toggle a limit off at any time to remove it. Changes take effect immediately.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Controls%20and%20Spending/images/image1.png)
+![](images/image1.png)
 
 *Step 2: Set per-transaction and per-month spending limits for your card*

@@ -44,7 +44,7 @@ Wire transfers are captured as digital forms within the Online Forms portal. The
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/01_dashboard_home.png)
+![](images/01_dashboard_home.png)
 
 *Step 1: Start from Dashboard*
 
@@ -52,7 +52,7 @@ The member begins at the Dashboard after logging in. The Dashboard displays all 
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/01_move_money_landing.png)
+![](images/01_move_money_landing.png)
 
 *Step 2: Move Money Hub*
 
@@ -60,7 +60,7 @@ The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub
 
 The Domestic Outgoing Wire Transfer Request form is displayed within the Online Forms section, showing the form title and multiple input fields for initiating a wire transfer request.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/10_domestic_wire_transfer_form.png)
+![](images/10_domestic_wire_transfer_form.png)
 
 *Step 3: Open the Wire Transfer Form*
 
@@ -68,6 +68,6 @@ The Domestic Outgoing Wire Transfer Request form is displayed within the Online 
 
 The Forms list page is displayed showing all available form types. The member can review the submitted wire transfer status or access other form types such as ACH Origination, Address Change, Card Order, and more from this screen.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Transfers%20and%20Payments/External,ACH,Wire%20and%20Instant/images/04_submit_form.png)
+![](images/04_submit_form.png)
 
 *Step 4: Review & Submit*

@@ -51,7 +51,7 @@ For credit unions, templates are a critical feature for business member retentio
 
 Open your web browser and navigate to the Summerville Credit Union digital banking platform. Enter your username and password on the login screen and click "Log In." If prompted, complete the OTP (One-Time Passcode) verification by entering the code sent to your registered device. After successful authentication, you will land on the Dashboard — also called the Account Overview screen. This is your home base. The Dashboard displays all your business accounts (Savings Accounts, Checking Accounts) with their available and current balances. The top navigation bar shows links to Dashboard, Accounts, Transfer & Pay, Cards, Business Banking, and More. On the right sidebar you will see Related Links (Change Password, Account Settings, View Scheduled Transfers, Account Specific Alerts) and a Quick Transfer widget for fast internal transfers. To proceed to Business Banking features, locate the "Business Banking" tab in the top navigation bar and click on it.
 
-![Figure 1 — Log In and Open the Dashboard](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image1.png)
+![Figure 1 — Log In and Open the Dashboard](images/image1.png)
 
 *Figure 1 — Log In and Open the Dashboard*
 
@@ -59,7 +59,7 @@ Open your web browser and navigate to the Summerville Credit Union digital banki
 
 After clicking "Business Banking" in the top navigation bar, the Business Banking Hub loads. This is the central command center for all commercial banking operations. The Hub is organized into three sections: "Transfers" at the top (with tiles for ACH Transfer, Domestic Wire Transfer, Transfer Template, and Payment From File), "Manage" in the middle (with tiles for Role Management, User Management, Approval Settings, and Recipient Management), and "More Options" at the bottom (with tiles for Commercial Activity, Reports, and Approvals). Each tile is a direct entry point to its corresponding feature. Only tiles your role has permission to access will be visible. From here, locate and click the tile for the feature you need — the next steps will guide you through the specific workflow.
 
-![Figure 2 — Open the Business Banking Hub](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image2.png)
+![Figure 2 — Open the Business Banking Hub](images/image2.png)
 
 *Figure 2 — Open the Business Banking Hub*
 
@@ -67,7 +67,7 @@ After clicking "Business Banking" in the top navigation bar, the Business Bankin
 
 From the Dashboard, click "Business Banking" in the left-side navigation menu to open the Business Banking Hub. In the Transfers section, click the "Transfer Template" tile. The Transfer Templates dashboard appears, listing all saved payment templates in a table format. You will see filter tabs across the top: Payments, Collections, Payroll, and Domestic Wire Transfer — click any tab to filter templates by type. The table columns show Template Name, Type (e.g., Payments CCD), number of Recipients, Last Run Date, and Last Paid Amount. To run an existing template, click on its row. To create a new template, click the "Create Template" button. Use the search bar to find a specific template by name.
 
-![Figure 3 — Navigate to Transfer Templates](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image3.png)
+![Figure 3 — Navigate to Transfer Templates](images/image3.png)
 
 *Figure 3 — Navigate to Transfer Templates*
 
@@ -75,7 +75,7 @@ From the Dashboard, click "Business Banking" in the left-side navigation menu to
 
 Click the "Create Template" button at the top of the Templates dashboard. A creation form opens. Begin by entering a descriptive Template Name (e.g., "Monthly Office Rent" or "Weekly Payroll"). Then select the Payment Type from the dropdown: ACH Payment (CCD) for vendor payments, ACH Collection for pulling funds, Payroll for employee salary distribution, or Domestic Wire for recurring wire transfers. The payment type you select determines which compliance rules and SEC codes apply. Choose carefully, as the payment type cannot be changed after the template is saved.
 
-![Figure 4 — Click Create Template and Enter Details](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image7.png)
+![Figure 4 — Click Create Template and Enter Details](images/image7.png)
 
 *Figure 4 — Click Create Template and Enter Details*
 
@@ -83,7 +83,7 @@ Click the "Create Template" button at the top of the Templates dashboard. A crea
 
 After entering the template name and payment type, additional fields appear. Select the Source Account (the business account funds will be drawn from) using the account dropdown. Set the Effective Date preference: immediate processing, next business day, or a specific calendar date. If this template should run on a recurring schedule, configure the Frequency setting. The form dynamically adjusts based on your selected payment type — wire templates show additional beneficiary bank fields, while ACH templates show SEC code options. Fill in each field and scroll down to continue.
 
-![Figure 5 — Configure Source Account and Schedule](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image8.png)
+![Figure 5 — Configure Source Account and Schedule](images/image8.png)
 
 *Figure 5 — Configure Source Account and Schedule*
 
@@ -91,7 +91,7 @@ After entering the template name and payment type, additional fields appear. Sel
 
 Scroll down to see additional advanced options. These include the Batch Description (text that appears on recipient bank statements), Company Entry Description, and offsetting account settings if applicable. For payroll templates, additional fields for tax references may appear. Fill in all fields relevant to your template type. These details ensure that when the template is executed, it generates fully compliant NACHA records that meet ACH network technical requirements. Leave any optional fields blank if they do not apply to your use case.
 
-![Figure 6 — Fill in Advanced Configuration Options](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image12.png)
+![Figure 6 — Fill in Advanced Configuration Options](images/image12.png)
 
 *Figure 6 — Fill in Advanced Configuration Options*
 
@@ -99,7 +99,7 @@ Scroll down to see additional advanced options. These include the Batch Descript
 
 Click the SEC Code dropdown to select the appropriate Standard Entry Class code for your ACH template. Common options include CCD (Corporate Credit or Debit) for business-to-business payments and PPD (Prearranged Payment and Deposit) for employee payroll. Each code has a description to help you choose correctly. Selecting the wrong SEC code can result in NACHA rule violations, so confirm the correct code with your finance team if unsure. This field is required — you cannot proceed without selecting an SEC code. For wire templates, this field will not appear as it applies only to ACH transactions.
 
-![Figure 7 — Select the SEC Code](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image5.png)
+![Figure 7 — Select the SEC Code](images/image5.png)
 
 *Figure 7 — Select the SEC Code*
 
@@ -107,7 +107,7 @@ Click the SEC Code dropdown to select the appropriate Standard Entry Class code 
 
 After configuring the header details, you will be prompted to add payees (recipients). Click "Add Payee" to open a searchable list of all saved transfer accounts from your Recipient Management directory. Click on each recipient you want to include in this template. For payroll templates, select all employees. For vendor payments, select the relevant vendor accounts. You can add multiple payees — each selected payee becomes a line item in the template. If the recipient you need is not in the list, you will need to add them through Recipient Management first, then return here.
 
-![Figure 8 — Add Payees to the Template](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image6.png)
+![Figure 8 — Add Payees to the Template](images/image6.png)
 
 *Figure 8 — Add Payees to the Template*
 
@@ -115,7 +115,7 @@ After configuring the header details, you will be prompted to add payees (recipi
 
 After selecting a payee, the system confirms the addition by displaying the payee's name and account details within the template. You will see a green checkmark or "Added" indicator confirming the recipient was successfully included. To add more payees, click "Add Another Payee" and repeat the selection process. Review the list of added payees to ensure all intended recipients are included. You can remove a payee by clicking the remove/delete icon next to their entry if one was added in error.
 
-![Figure 9 — Confirm the Added Payee](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image4.png)
+![Figure 9 — Confirm the Added Payee](images/image4.png)
 
 *Figure 9 — Confirm the Added Payee*
 
@@ -123,7 +123,7 @@ After selecting a payee, the system confirms the addition by displaying the paye
 
 With all payees added, the form now displays each recipient as a row with an editable Amount field. Click into each payee's Amount field and enter the default payment amount for that recipient. For fixed recurring payments (e.g., monthly rent, fixed salaries), enter the exact amount. For variable payments, you can enter an estimated amount and update it before each template execution. The system calculates and displays the Total Template Amount at the bottom so you can verify the total outflow. Ensure all amounts are correct before saving.
 
-![Figure 10 — Set Payment Amounts for Each Payee](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image10.png)
+![Figure 10 — Set Payment Amounts for Each Payee](images/image10.png)
 
 *Figure 10 — Set Payment Amounts for Each Payee*
 
@@ -131,7 +131,7 @@ With all payees added, the form now displays each recipient as a row with an edi
 
 After verifying all payees and amounts, click "Save Template" (or equivalent save button). The system displays a success confirmation showing the template name, type, number of recipients, and total amount. Your template is now saved and available in the Templates Dashboard for future use. You can navigate back to the templates list to execute it immediately, or it will be available the next time you need to run this payment. The template can be edited, duplicated, or deleted at any time by authorized users.
 
-![Figure 11 — Save the Template](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image9.png)
+![Figure 11 — Save the Template](images/image9.png)
 
 *Figure 11 — Save the Template*
 
@@ -139,6 +139,6 @@ After verifying all payees and amounts, click "Save Template" (or equivalent sav
 
 You are returned to the Transfer Templates dashboard. Verify that your newly created template appears in the list. It will show the template name, type, recipient count, and an empty "Last Run" column since it has not been executed yet. To run the template, click on its row — the system will pre-fill all configured payment details and walk you through the standard Review → Submit workflow. To edit the template, click the edit/actions button on the template row. Your template is now ready for operational use.
 
-![Figure 12 — Verify the New Template in the Dashboard](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image11.png)
+![Figure 12 — Verify the New Template in the Dashboard](images/image11.png)
 
 *Figure 12 — Verify the New Template in the Dashboard*

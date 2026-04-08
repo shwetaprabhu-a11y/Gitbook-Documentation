@@ -54,13 +54,13 @@ The reissuance is started from the Deactivate / Replace Card flow. Your old card
 
 From the nFinia top navigation, select Cards. Locate the card that needs to be replaced. At the bottom of the card tile, click Deactivate / Replace Card.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image4.png)
+![](images/image4.png)
 
 **Step 2 Select "Request Replacement & Deactivate Card"**
 
 The Deactivate / Replace Card page asks what happened to your card. Enter a description if needed, then choose between two options: Deactivate Card (permanent, no replacement) or Request Replacement & Deactivate Card. Select Request Replacement & Deactivate Card to begin the digital reissuance. Click Continue.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image3.png)
+![](images/image3.png)
 
 |                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,7 +76,7 @@ On the Request Replacement form you will be asked: "Would you like a physical co
 
 Confirm or update your mailing address if selecting the physical card option. Then set a new 5-digit PIN for the replacement card and click Request Replacement and Deactivate Card to submit.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image2.png)
+![](images/image2.png)
 
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -86,7 +86,7 @@ Confirm or update your mailing address if selecting the physical card option. Th
 
 Once submitted, a confirmation screen will confirm that the old card has been deactivated. Your new digital card is now available immediately in the Cards section. Navigate to Cards, find your new card tile, and click "Reveal card number and CVV" to see the new card number, expiry, and security code for online purchases.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Lifecycle/images/image1.png)
+![](images/image1.png)
 
 |                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

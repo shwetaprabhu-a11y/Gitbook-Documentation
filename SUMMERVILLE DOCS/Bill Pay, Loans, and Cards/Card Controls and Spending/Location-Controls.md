@@ -44,7 +44,7 @@ When you enable location-based permissions, you can add up to 3 named locations.
 
 **Step 1 — Arrive at the Dashboard**
 
-After logging in, you land on the Dashboard. Click Cards in the top navigation, select your card, and open Card Controls from the Card Details page.![Step 1: Dashboard — click Cards to begin](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Controls%20and%20Spending/images/image4.png)
+After logging in, you land on the Dashboard. Click Cards in the top navigation, select your card, and open Card Controls from the Card Details page.![Step 1: Dashboard — click Cards to begin](images/image4.png)
 
 *Step 1: Dashboard — click Cards to begin*
 
@@ -52,7 +52,7 @@ After logging in, you land on the Dashboard. Click Cards in the top navigation, 
 
 The Location Controls tab opens. By default, the Allow International Transactions toggle is set to Off, meaning card transactions are restricted to domestic use. You can switch to All Countries to allow transactions globally, or select Selected Countries to define specific permitted locations.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Controls%20and%20Spending/images/image2.png)
+![](images/image2.png)
 
 *Step 2: Location Controls — international transactions are off by default*
 
@@ -60,7 +60,7 @@ The Location Controls tab opens. By default, the Allow International Transaction
 
 When Allow International Transactions is turned on, any previously saved locations are displayed with a map indicator. In this example, USA and Spain are enabled. Each saved location shows a remove button. You can have up to 3 active locations at a time. Click Add a Location to define a new one.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Controls%20and%20Spending/images/image3.png)
+![](images/image3.png)
 
 *Step 3: Saved locations shown — up to 3 locations can be active at once*
 
@@ -68,7 +68,7 @@ When Allow International Transactions is turned on, any previously saved locatio
 
 The Add a Location panel opens with a search field for city, state, or zip code, and a nickname field for easy identification. As you search, the interactive map zooms to the area and displays a boundary circle. Transactions will be approved for any use within that marked boundary. Click Save Location to add it, or Cancel to discard.
 
-![](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Bill%20Pay,%20Loans,%20and%20Cards/Card%20Controls%20and%20Spending/images/image1.png)
+![](images/image1.png)
 
 *Step 4: Search for a location and define a geographic boundary on the map*
 

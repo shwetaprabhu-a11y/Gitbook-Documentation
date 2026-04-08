@@ -51,7 +51,7 @@ For credit unions, scheduled transfer management is a cash management essential 
 
 Open your web browser and navigate to the Summerville Credit Union digital banking platform. Enter your username and password on the login screen and click "Log In." If prompted, complete the OTP (One-Time Passcode) verification by entering the code sent to your registered device. After successful authentication, you will land on the Dashboard — also called the Account Overview screen. This is your home base. The Dashboard displays all your business accounts (Savings Accounts, Checking Accounts) with their available and current balances. The top navigation bar shows links to Dashboard, Accounts, Transfer & Pay, Cards, Business Banking, and More. On the right sidebar you will see Related Links (Change Password, Account Settings, View Scheduled Transfers, Account Specific Alerts) and a Quick Transfer widget for fast internal transfers. To proceed to Business Banking features, locate the "Business Banking" tab in the top navigation bar and click on it.
 
-![Figure 1 — Log In and Open the Dashboard](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image3.png)
+![Figure 1 — Log In and Open the Dashboard](images/image3.png)
 
 *Figure 1 — Log In and Open the Dashboard*
 
@@ -59,7 +59,7 @@ Open your web browser and navigate to the Summerville Credit Union digital banki
 
 After clicking "Business Banking" in the top navigation bar, the Business Banking Hub loads. This is the central command center for all commercial banking operations. The Hub is organized into three sections: "Transfers" at the top (with tiles for ACH Transfer, Domestic Wire Transfer, Transfer Template, and Payment From File), "Manage" in the middle (with tiles for Role Management, User Management, Approval Settings, and Recipient Management), and "More Options" at the bottom (with tiles for Commercial Activity, Reports, and Approvals). Each tile is a direct entry point to its corresponding feature. Only tiles your role has permission to access will be visible. From here, locate and click the tile for the feature you need — the next steps will guide you through the specific workflow.
 
-![Figure 2 — Open the Business Banking Hub](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image1.png)
+![Figure 2 — Open the Business Banking Hub](images/image1.png)
 
 *Figure 2 — Open the Business Banking Hub*
 
@@ -67,7 +67,7 @@ After clicking "Business Banking" in the top navigation bar, the Business Bankin
 
 From the Dashboard, click "Business Banking" in the left-side navigation menu to open the Business Banking Hub. Navigate to Scheduled Transfers through the Payments menu in the left-side navigation within Business Banking. The Scheduled Transfers page appears with type tabs across the top: Active Scheduled (all scheduled items), External Account, Fund Transfer, Template, and File Upload. The default "Active Scheduled" tab shows all upcoming transfers with columns for Source Account, Destination, Next Execution Date, Frequency (One-Time, Weekly, Monthly), Amount, and Status. Review this list to confirm upcoming payment obligations and ensure adequate account balances. To cancel or modify a scheduled transfer, click the action button on the corresponding row.
 
-![Figure 3 — Navigate to Scheduled Transfers](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image2.png)
+![Figure 3 — Navigate to Scheduled Transfers](images/image2.png)
 
 *Figure 3 — Navigate to Scheduled Transfers*
 
@@ -75,6 +75,6 @@ From the Dashboard, click "Business Banking" in the left-side navigation menu to
 
 Click the "External Account" tab to show only transfers destined for accounts at other financial institutions (outbound ACH and wire payments). This filtered view is critical for cash management — it shows exactly how much money is leaving your credit union accounts and when. Each entry shows the source account, destination external bank account (with recipient name), scheduled execution date, amount, and status. Use this view to forecast outbound cash flows and ensure sufficient funds are available on each execution date. To cancel a scheduled external transfer, click the Cancel button before the execution date.
 
-![Figure 4 — Filter to External Account Transfers](/sessions/admiring-adoring-maxwell/mnt/SUMMERVILLE%20DOCS/Business%20Banking/Business%20Banking-%20Core%20Operations/images/image4.png)
+![Figure 4 — Filter to External Account Transfers](images/image4.png)
 
 *Figure 4 — Filter to External Account Transfers*
