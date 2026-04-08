@@ -1,10 +1,12 @@
+# View-Card-Details
+
 |                                                          |
 | -------------------------------------------------------- |
 | **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE** |
 
 **View Card Details**
 
-Module: nFinia Digital Banking \> Cards \> Card Details
+Module: nFinia Digital Banking > Cards > Card Details
 
 |                        |
 | ---------------------- |
@@ -18,8 +20,8 @@ Card Details is the gateway to all card-specific settings. Any time you need to 
 
 | **Attribute**     | **Detail**                                                                          |
 | ----------------- | ----------------------------------------------------------------------------------- |
-| Module            | nFinia Digital Banking \> Cards \> Card Details                                     |
-| Access            | Cards list \> click on a card                                                       |
+| Module            | nFinia Digital Banking > Cards > Card Details                                       |
+| Access            | Cards list > click on a card                                                        |
 | Information Shown | Card image, masked number, expiry, CVV (reveal option), membership, status, balance |
 | Reward Points     | Shown for eligible credit cards (available, expiring, total due, payment due date)  |
 | Actions Available | Card Controls, Set PIN, Deactivate / Replace Card, View account                     |
@@ -39,23 +41,23 @@ Card Details is the gateway to all card-specific settings. Any time you need to 
 | ------------------------- |
 | **03 STEP-BY-STEP GUIDE** |
 
-*Navigation: Log in to Summerville Credit Union online banking. Click Cards in the top navigation bar, then click on the card you want to view.*
+_Navigation: Log in to Summerville Credit Union online banking. Click Cards in the top navigation bar, then click on the card you want to view._
 
 **Step 1 — Arrive at the Dashboard**
 
 After logging in, you land on the Dashboard showing your account balances, recent payments, and quick-action shortcuts. Click Cards in the top navigation bar to open your card list.
 
-![Step 1: Dashboard — starting point for navigation](images/image2.png)
+![Step 1: Dashboard — starting point for navigation](<../../../.gitbook/assets/image2 (2).png>)
 
-*Step 1: Dashboard — starting point for navigation*
+_Step 1: Dashboard — starting point for navigation_
 
 **Step 2 — Select a Card to View Details**
 
 On the Cards page, each card tile shows a summary view. Click on the card tile or use the Card Controls / Set PIN / Deactivate links at the bottom of the tile to navigate into that card's detail view. The Card Details page loads, showing the full card image, account information, status toggle, balance summary, and quick action links along the top of the detail panel.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (2).png>)
 
-*Step 2: Cards list — click any card or its action links to open Card Details*
+_Step 2: Cards list — click any card or its action links to open Card Details_
 
 |                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

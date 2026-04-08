@@ -1,10 +1,12 @@
+# Location-Controls
+
 |                                                          |
 | -------------------------------------------------------- |
 | **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE** |
 
 **Location Controls**
 
-Module: nFinia Digital Banking \> Cards \> Card Details \> Card Controls \> Location Controls
+Module: nFinia Digital Banking > Cards > Card Details > Card Controls > Location Controls
 
 |                        |
 | ---------------------- |
@@ -16,14 +18,14 @@ When you enable location-based permissions, you can add up to 3 named locations.
 
 **At a Glance**
 
-| **Attribute**       | **Detail**                                                                            |
-| ------------------- | ------------------------------------------------------------------------------------- |
-| Module              | nFinia Digital Banking \> Cards \> Card Details \> Card Controls \> Location Controls |
-| Default State       | International transactions disabled                                                   |
-| Scope Options       | All Countries or Selected Countries / locations                                       |
-| Max Saved Locations | 3 locations                                                                           |
-| Location Search     | By city, state, or zip code with interactive map                                      |
-| Related Features    | Spending Limits, Card Alerts, Usage Control                                           |
+| **Attribute**       | **Detail**                                                                        |
+| ------------------- | --------------------------------------------------------------------------------- |
+| Module              | nFinia Digital Banking > Cards > Card Details > Card Controls > Location Controls |
+| Default State       | International transactions disabled                                               |
+| Scope Options       | All Countries or Selected Countries / locations                                   |
+| Max Saved Locations | 3 locations                                                                       |
+| Location Search     | By city, state, or zip code with interactive map                                  |
+| Related Features    | Spending Limits, Card Alerts, Usage Control                                       |
 
 |                      |
 | -------------------- |
@@ -40,37 +42,37 @@ When you enable location-based permissions, you can add up to 3 named locations.
 | ------------------------- |
 | **03 STEP-BY-STEP GUIDE** |
 
-*Navigation: Log in to Summerville Credit Union online banking. From the Dashboard, click Cards, select your card, click Card Controls, then select Location Controls.*
+_Navigation: Log in to Summerville Credit Union online banking. From the Dashboard, click Cards, select your card, click Card Controls, then select Location Controls._
 
 **Step 1 — Arrive at the Dashboard**
 
-After logging in, you land on the Dashboard. Click Cards in the top navigation, select your card, and open Card Controls from the Card Details page.![Step 1: Dashboard — click Cards to begin](images/image4.png)
+After logging in, you land on the Dashboard. Click Cards in the top navigation, select your card, and open Card Controls from the Card Details page.![Step 1: Dashboard — click Cards to begin](<../../../.gitbook/assets/image4 (1).png>)
 
-*Step 1: Dashboard — click Cards to begin*
+_Step 1: Dashboard — click Cards to begin_
 
 **Step 2 — View Location Controls (Default State)**
 
 The Location Controls tab opens. By default, the Allow International Transactions toggle is set to Off, meaning card transactions are restricted to domestic use. You can switch to All Countries to allow transactions globally, or select Selected Countries to define specific permitted locations.
 
-![](images/image2.png)
+![](../../../.gitbook/assets/image2.png)
 
-*Step 2: Location Controls — international transactions are off by default*
+_Step 2: Location Controls — international transactions are off by default_
 
 **Step 3 — Enable and View Saved Locations**
 
 When Allow International Transactions is turned on, any previously saved locations are displayed with a map indicator. In this example, USA and Spain are enabled. Each saved location shows a remove button. You can have up to 3 active locations at a time. Click Add a Location to define a new one.
 
-![](images/image3.png)
+![](<../../../.gitbook/assets/image3 (2).png>)
 
-*Step 3: Saved locations shown — up to 3 locations can be active at once*
+_Step 3: Saved locations shown — up to 3 locations can be active at once_
 
 **Step 4 — Add a New Location**
 
 The Add a Location panel opens with a search field for city, state, or zip code, and a nickname field for easy identification. As you search, the interactive map zooms to the area and displays a boundary circle. Transactions will be approved for any use within that marked boundary. Click Save Location to add it, or Cancel to discard.
 
-![](images/image1.png)
+![](../../../.gitbook/assets/image1.png)
 
-*Step 4: Search for a location and define a geographic boundary on the map*
+_Step 4: Search for a location and define a geographic boundary on the map_
 
 |                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |

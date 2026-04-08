@@ -1,10 +1,12 @@
+# CSUM-05-Move-Money-Hub
+
 **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE · CSUM-06 of 30**
 
 **Move Money Hub**
 
-Module: nFinia Digital Banking \> Move Money
+Module: nFinia Digital Banking > Move Money
 
-*Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet_
 
 > **01 PRODUCT SUMMARY**
 
@@ -35,29 +37,29 @@ For Summerville staff and power users, the hub also surfaces transfer templates,
 | New Member Orientation   | First-time digital banking users | Browse the Move Money hub to understand all available payment options | Lowers learning curve — all options visible in one location    |
 
 > **03 STEP-BY-STEP GUIDE**
-> 
-> *Navigation: Dashboard \> 'Move Money' in top navigation bar.*
+>
+> _Navigation: Dashboard > 'Move Money' in top navigation bar._
 
 **Step 1 — Start from Dashboard**
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (7).png>)
 
-*Step 1: Start from Dashboard*
+_Step 1: Start from Dashboard_
 
 **Step 2 — Navigate to Move Money Hub**
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles, including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](images/image3.png)
+![](<../../../.gitbook/assets/image3 (7).png>)
 
-*Step 2: Move Money Hub*
+_Step 2: Move Money Hub_
 
 **Step 3 — Browse Payment Options & Bill Pay**
 
 The Move Money hub continues with the same grid layout of payment options. A promotional banner appears below the grid, and an upcoming payments section on the right shows account balances.
 
-![](images/image2.png)
+![](<../../../.gitbook/assets/image2 (7).png>)
 
-*Step 3: Browse Payment Options & Bill Pay*
+_Step 3: Browse Payment Options & Bill Pay_

@@ -1,10 +1,12 @@
+# Manage-Cards
+
 |                                                          |
 | -------------------------------------------------------- |
 | **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE** |
 
 **Manage Cards**
 
-Module: nFinia Digital Banking \> Cards
+Module: nFinia Digital Banking > Cards
 
 |                        |
 | ---------------------- |
@@ -18,8 +20,8 @@ Cards are listed by account and can be filtered using the Select Account dropdow
 
 | **Attribute** | **Detail**                                                      |
 | ------------- | --------------------------------------------------------------- |
-| Module        | nFinia Digital Banking \> Cards                                 |
-| Access        | Top navigation bar \> Cards                                     |
+| Module        | nFinia Digital Banking > Cards                                  |
+| Access        | Top navigation bar > Cards                                      |
 | Cards Shown   | All debit and credit cards linked to the membership             |
 | Filter Option | Filter by account using the Select Account dropdown             |
 | Quick Actions | Card Controls, Set PIN, Deactivate / Replace Card, View account |
@@ -40,23 +42,23 @@ Cards are listed by account and can be filtered using the Select Account dropdow
 | ------------------------- |
 | **03 STEP-BY-STEP GUIDE** |
 
-*Navigation: Log in to Summerville Credit Union online banking. Click Cards in the top navigation bar.*
+_Navigation: Log in to Summerville Credit Union online banking. Click Cards in the top navigation bar._
 
 **Step 1 — Arrive at the Dashboard**
 
 After logging in, you land on the Dashboard showing your account balances, recent payments, and quick-action shortcuts. The Cards section is accessible directly from the top navigation bar.
 
-![Step 1: Dashboard — starting point for navigation](images/image2.png)
+![Step 1: Dashboard — starting point for navigation](<../../../.gitbook/assets/image2 (2).png>)
 
-*Step 1: Dashboard — starting point for navigation*
+_Step 1: Dashboard — starting point for navigation_
 
 **Step 2 — View Your Cards List**
 
 The Cards page displays all cards associated with your membership. Each card tile shows the card image and design, masked card number, expiry date, membership number, and a Card Status toggle. Below the card details you will see Available credit, Current balance, and quick action links: Card Controls | Set PIN | Deactivate / Replace Card | View account. Use the Select Account filter to show cards for a specific account only.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (2).png>)
 
-*Step 2: Cards list — all your debit and credit cards in one view*
+_Step 2: Cards list — all your debit and credit cards in one view_
 
 |                                                                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

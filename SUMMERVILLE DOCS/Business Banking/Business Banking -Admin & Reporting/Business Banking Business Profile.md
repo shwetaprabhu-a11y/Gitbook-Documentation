@@ -1,12 +1,14 @@
+# CSUM-15 Business Banking Business Profile
+
 **SUMMERVILLE CREDIT UNION · BUSINESS BANKING USER GUIDE · CSUM-15 of 16**
 
 **Business Profile**
 
-Module: Business Banking \> More \> Business Information
+Module: Business Banking > More > Business Information
 
 **Navigation: Dashboard → Business Banking → More → Business Information**
 
-*Sources: Summerville Reports Series A + Series B | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A + Series B | Features: nFinia Documentation Features Spreadsheet_
 
 |                        |
 | ---------------------- |
@@ -23,7 +25,7 @@ For credit unions, self-service business profile management reduces branch visit
 | **Attribute**            | **Detail**                                                    |
 | ------------------------ | ------------------------------------------------------------- |
 | **Feature Name**         | Business Profile                                              |
-| **Module**               | Business Banking \> More \> Business Information              |
+| **Module**               | Business Banking > More > Business Information                |
 | **Navigation**           | Dashboard → Business Banking → More → Business Information    |
 | **User Roles**           | Business Owner, Business Admin                                |
 | **Access Level**         | Available to business account primary contacts                |
@@ -51,30 +53,30 @@ For credit unions, self-service business profile management reduces branch visit
 
 Open your web browser and navigate to the Summerville Credit Union digital banking platform. Enter your username and password on the login screen and click "Log In." If prompted, complete the OTP (One-Time Passcode) verification by entering the code sent to your registered device. After successful authentication, you will land on the Dashboard — also called the Account Overview screen. This is your home base. The Dashboard displays all your business accounts (Savings Accounts, Checking Accounts) with their available and current balances. The top navigation bar shows links to Dashboard, Accounts, Transfer & Pay, Cards, Business Banking, and More. On the right sidebar you will see Related Links (Change Password, Account Settings, View Scheduled Transfers, Account Specific Alerts) and a Quick Transfer widget for fast internal transfers. To proceed to Business Banking features, locate the "Business Banking" tab in the top navigation bar and click on it.
 
-![Figure 1 — Log In and Open the Dashboard](images/image1.png)
+![Figure 1 — Log In and Open the Dashboard](<../../../.gitbook/assets/image1 (3).png>)
 
-*Figure 1 — Log In and Open the Dashboard*
+_Figure 1 — Log In and Open the Dashboard_
 
 **Step 2: Open the Business Banking Hub**
 
 After clicking "Business Banking" in the top navigation bar, the Business Banking Hub loads. This is the central command center for all commercial banking operations. The Hub is organized into three sections: "Transfers" at the top (with tiles for ACH Transfer, Domestic Wire Transfer, Transfer Template, and Payment From File), "Manage" in the middle (with tiles for Role Management, User Management, Approval Settings, and Recipient Management), and "More Options" at the bottom (with tiles for Commercial Activity, Reports, and Approvals). Each tile is a direct entry point to its corresponding feature. Only tiles your role has permission to access will be visible. From here, locate and click the tile for the feature you need — the next steps will guide you through the specific workflow.
 
-![Figure 2 — Open the Business Banking Hub](images/image2.png)
+![Figure 2 — Open the Business Banking Hub](<../../../.gitbook/assets/image2 (3).png>)
 
-*Figure 2 — Open the Business Banking Hub*
+_Figure 2 — Open the Business Banking Hub_
 
 **Step 3: Navigate to Business Profile**
 
 From the Dashboard, click "Business Banking" in the left-side navigation menu to open the Business Banking Hub. Navigate to More → Business Information through the left-side navigation within Business Banking. The Business Profile page opens to the "Contact Information" tab (you will also see a "Mailing Address" tab). The page displays all phone numbers on file, organized by type: Cellular (used for OTP codes and SMS alerts), Home, and Business. Each phone entry shows the number, type label, and action links: "Edit" (to change the number) and "Remove" (to delete it). To add a new phone number, click "Add a new phone number" under the appropriate category. If prompted at the top to verify your information, click the link to pull the latest data from the credit union's records.
 
-![Figure 3 — Navigate to Business Profile](images/image3.png)
+![Figure 3 — Navigate to Business Profile](<../../../.gitbook/assets/image3 (3).png>)
 
-*Figure 3 — Navigate to Business Profile*
+_Figure 3 — Navigate to Business Profile_
 
 **Step 4: Review Complete Contact Information**
 
 Scroll down to review all stored phone numbers. Verify that every number on file is current and correct. Pay special attention to the Cellular number — this is where OTP verification codes and security alerts are delivered. An outdated mobile number could prevent you from completing high-value transactions or delay fraud alert notifications. To update a number, click "Edit" next to the entry and type the new number. To remove an old number, click "Remove." To add a new number not currently on file, click "Add a new phone number." Changes are synced with the credit union's core records.
 
-![Figure 4 — Review Complete Contact Information](images/image4.png)
+![Figure 4 — Review Complete Contact Information](<../../../.gitbook/assets/image4 (3).png>)
 
-*Figure 4 — Review Complete Contact Information*
+_Figure 4 — Review Complete Contact Information_

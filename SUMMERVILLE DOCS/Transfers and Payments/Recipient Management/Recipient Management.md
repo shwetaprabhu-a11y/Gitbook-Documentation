@@ -1,10 +1,12 @@
+# CSUM-10-Recipient-Management
+
 **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE · CSUM-11 of 30**
 
 **Recipient Management**
 
-Module: nFinia Digital Banking \> Move Money \> Recipient Management
+Module: nFinia Digital Banking > Move Money > Recipient Management
 
-*Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet_
 
 > **01 PRODUCT SUMMARY**
 
@@ -18,7 +20,7 @@ Transfer Templates are an advanced feature within recipient management that allo
 
 | **Attribute**      | **Detail**                                                         |
 | ------------------ | ------------------------------------------------------------------ |
-| Module             | Move Money \> Recipient Management                                 |
+| Module             | Move Money > Recipient Management                                  |
 | Recipient Types    | CU Member, External ACH, Domestic Wire, International Wire, FedNow |
 | Fields Stored      | Name, institution, routing, account number, account type, nickname |
 | Transfer Templates | Pre-configured full transfers reusable on demand                   |
@@ -35,95 +37,95 @@ Transfer Templates are an advanced feature within recipient management that allo
 | Audit Saved Recipients   | Members reviewing payee list             | View all saved recipients with masked account details | Identify and remove outdated or incorrect payees          |
 
 > **03 STEP-BY-STEP GUIDE**
-> 
-> *Navigation: Dashboard \> Move Money \> 'Recipient Management'.*
+>
+> _Navigation: Dashboard > Move Money > 'Recipient Management'._
 
 **Step 1 — Start from Dashboard**
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](images/image6.png)
+![](<../../../.gitbook/assets/image6 (4).png>)
 
-*Step 1: Start from Dashboard*
+_Step 1: Start from Dashboard_
 
 **Step 2 — Navigate to Move Money Hub**
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](images/image5.png)
+![](<../../../.gitbook/assets/image5 (5).png>)
 
-*Step 2: Move Money Hub*
+_Step 2: Move Money Hub_
 
 **Step 3 — View Recipient List**
 
 The Recipient Management page displays all saved recipients as cards in a grid layout. Recipients shown include Jane Smith, John Smith, Mr Recipient, Nemo Clownfish, Steven Richards, and Tony Stark, each displaying the number of linked accounts. A search bar and 'Add a new recipient' link are available at the top.
 
-![](images/image4.png)
+![](<../../../.gitbook/assets/image4 (8).png>)
 
-*Step 3: View Recipient List*
+_Step 3: View Recipient List_
 
 **Step 4 — View Recipient Details & Linked Accounts**
 
 The Recipient Details page for Jane Smith is displayed. The Accounts section lists two linked external accounts with columns for Nickname, Payment method, and Financial Institution. Each account shows action buttons including 'Initiate Transfer' and a delete option. An 'Add Account' button and 'Remove recipient' link are available below.
 
-![](images/image2.png)
+![](<../../../.gitbook/assets/image2 (8).png>)
 
-*Step 4: View Recipient Details & Linked Accounts*
+_Step 4: View Recipient Details & Linked Accounts_
 
 **Step 5 — Add a New Recipient**
 
 The Add Recipient form is displayed with a 'Recipient Details' section containing a Name field. The Accounts area shows an 'Add Account' link to attach payment accounts to the new recipient. Related Links are available in the right sidebar.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (8).png>)
 
-*Step 5: Add a New Recipient*
+_Step 5: Add a New Recipient_
 
 **Step 6 — Add Account to Recipient**
 
 The Add Account modal is open with fields for Payment type (set to 'within CU'), Membership number, Account type (set to '1st savings account'), optional First name and Last name fields, and a Nickname field. Cancel and 'Save Account' buttons appear at the bottom.
 
-![](images/image3.png)
+![](<../../../.gitbook/assets/image3 (8).png>)
 
-*Step 6: Add Account to Recipient*
+_Step 6: Add Account to Recipient_
 
 **Step 7 —Delete internal Payee**
 
 Search for an Internal payee and and remove the internal payeeSearch for an Internal payee, verify the payee details, and then proceed to remove the internal payee from the recipient management list.
 
-![](images/image13.png)
+![](<../../../.gitbook/assets/image13 (3).png>)
 
 **Step 8 —Delete External Payee**
 
 Search for an External payee and and remove the internal payeeSearch for an External payee, verify the payee details, and then proceed to remove the External payee from the recipient management list.
 
-![](images/image11.png)
+![](<../../../.gitbook/assets/image11 (3).png>)
 
 **Step 9 —Edit external nickname**
 
 Click on edit external payee nickname and change the nickname and click save
 
-![](images/image9.png)
+![](<../../../.gitbook/assets/image9 (4).png>)
 
 **Step 10 —Edit internal nickname**
 
 Click on edit internal payee nickname and change the nickname and click save
 
-![](images/image12.png)
+![](<../../../.gitbook/assets/image12 (3).png>)
 
 **Step 11 —Edit domestic Wire nickname**
 
 Click on edit domestic Wire nickname and change the nickname and click save
 
-![](images/image10.png)
+![](<../../../.gitbook/assets/image10 (4).png>)
 
 **Step 12 —Remove Domestic Wire Recipient Payee**
 
 Click on recipient details,click on the hamburger menu and click on remove option to remove the recipient
 
-![](images/image8.png)
+![](<../../../.gitbook/assets/image8 (3).png>)
 
 **Step 13 —Remove Recipient**
 
 Click on remove Recipient and Click on OK to remove this recipient
 
-![](images/image7.png)
+![](<../../../.gitbook/assets/image7 (3).png>)

@@ -1,10 +1,12 @@
+# Reorder-Card
+
 |                                                          |
 | -------------------------------------------------------- |
 | **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE** |
 
 **Reorder Card**
 
-Module: nFinia Digital Banking \> Cards \> Card Details \> Order a New Card
+Module: nFinia Digital Banking > Cards > Card Details > Order a New Card
 
 |                        |
 | ---------------------- |
@@ -19,7 +21,7 @@ When you reorder, the current card remains active until the new one arrives and 
 |                   |                                                                            |
 | ----------------- | -------------------------------------------------------------------------- |
 | **Attribute**     | **Detail**                                                                 |
-| Module            | Cards \> Card Details \> Order a New Card                                  |
+| Module            | Cards > Card Details > Order a New Card                                    |
 | When to Use       | Card is worn, damaged chip, or needs replacement without being lost/stolen |
 | Current Card      | Remains active until the new card is activated                             |
 | New Card Delivery | Digital card instantly; physical card within 5 days                        |
@@ -40,23 +42,23 @@ When you reorder, the current card remains active until the new one arrives and 
 | ------------------------- |
 | **03 STEP-BY-STEP GUIDE** |
 
-*Navigation: Log in to Summerville Credit Union online banking. Navigate to Cards, select your card, then click Order a New Card. Alternatively, use the Visa Debit / ATM Card Order Request form for non-OLB requests.*
+_Navigation: Log in to Summerville Credit Union online banking. Navigate to Cards, select your card, then click Order a New Card. Alternatively, use the Visa Debit / ATM Card Order Request form for non-OLB requests._
 
 **Step 1 — Arrive at the Dashboard**
 
 After logging in, you land on the Dashboard showing your account balances, recent payments, and quick-action shortcuts. Navigate to Cards in the top navigation bar, then select the account for which you need a replacement card.
 
-![Step 1: Dashboard — starting point for navigation](images/c573d8948e3aa7e6336249734cea774b7c747bdc.png "Step 1: Dashboard — starting point for navigation")
+![Step 1: Dashboard — starting point for navigation](../../../.gitbook/assets/c573d8948e3aa7e6336249734cea774b7c747bdc.png)
 
-*Step 1: Dashboard — starting point for navigation*
+_Step 1: Dashboard — starting point for navigation_
 
 **Step 2 — Complete the Card Order**
 
 From Card Details, click Order a New Card. Select your account, card type, and design. Choose whether you want a physical card mailed to your address. Enter and confirm a new 5-digit PIN. Click to confirm your order. A digital card is available immediately and the physical card will arrive within 5 days.
 
-![Step 2: Order a New Card form — complete details to reorder your card](images/96e220bf7fa4b9c60863fee2f05c47821a59f5a9.png "Step 2: Order a New Card form — complete details to reorder your card")
+![Step 2: Order a New Card form — complete details to reorder your card](../../../.gitbook/assets/96e220bf7fa4b9c60863fee2f05c47821a59f5a9.png)
 
-*Step 2: Order a New Card form — complete details to reorder your card*
+_Step 2: Order a New Card form — complete details to reorder your card_
 
 |                                                                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |

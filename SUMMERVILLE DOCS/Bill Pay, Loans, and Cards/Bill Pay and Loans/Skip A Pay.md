@@ -1,10 +1,12 @@
+# CSUM-18-Skip-A-Pay
+
 **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE · CSUM-21 of 30**
 
 **Skip-A-Pay**
 
-Module: nFinia Digital Banking \> More \> Skip A Pay
+Module: nFinia Digital Banking > More > Skip A Pay
 
-*Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet_
 
 > **01 PRODUCT SUMMARY**
 
@@ -17,7 +19,7 @@ The digital Skip-A-Pay workflow replaces paper or phone requests with a fully se
 |                 |                                                                   |
 | --------------- | ----------------------------------------------------------------- |
 | **Attribute**   | **Detail**                                                        |
-| Module          | More \> Skip A Pay                                                |
+| Module          | More > Skip A Pay                                                 |
 | Eligible Loans  | Qualifying consumer and auto loans per CU eligibility rules       |
 | Effect on Loan  | One payment deferred; interest continues to accrue; term extended |
 | Fee             | Nominal processing fee may apply per CU policy                    |
@@ -34,45 +36,45 @@ The digital Skip-A-Pay workflow replaces paper or phone requests with a fully se
 | Seasonal Income Gap     | Members with seasonal employment            | Skip payment during low-income month                    | Aligns payment obligation with income cycles                   |
 
 > **03 STEP-BY-STEP GUIDE**
-> 
-> *Navigation: Dashboard \> More \> 'Skip A Pay'.*
+>
+> _Navigation: Dashboard > More > 'Skip A Pay'._
 
 **Step 1 — Start from Dashboard**
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](images/01_dashboard_home.png)
+![](../../../.gitbook/assets/01_dashboard_home.png)
 
-*Step 1: Start from Dashboard*
+_Step 1: Start from Dashboard_
 
 **Step 2 — Open the More Menu**
 
 The member clicks ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](images/01_more_menu_top.png)
+![](../../../.gitbook/assets/01_more_menu_top.png)
 
-*Step 2: More Menu*
+_Step 2: More Menu_
 
 **Step 3 — Navigate from Dashboard to Skip A Pay**
 
 The Skip A Pay page shows the selected loan with a current due date of April 2026 and an advanced due date of May 2026. A $35.00 transaction fee is displayed for the skip payment service.
 
-![](images/01_select_loan.png)
+![](../../../.gitbook/assets/01_select_loan.png)
 
-*Step 3: Navigate from Dashboard to Skip A Pay*
+_Step 3: Navigate from Dashboard to Skip A Pay_
 
 **Step 4 — Select Loan & Review Fee Details**
 
 The Skip A Pay confirmation page displays details about the selected loan, the fee structure, payment method options, and a terms and conditions checkbox that must be accepted before proceeding.
 
-![](images/02_confirm_fees.png)
+![](../../../.gitbook/assets/02_confirm_fees.png)
 
-*Step 4: Select Loan & Review Fee Details*
+_Step 4: Select Loan & Review Fee Details_
 
 **Step 5 — Accept & Confirm Skip**
 
 A confirmation screen states 'Your request for a skip payment has been processed' with a Continue button to return to the main interface.
 
-![](images/04_success.png)
+![](../../../.gitbook/assets/04_success.png)
 
-*Step 5: Accept & Confirm Skip*
+_Step 5: Accept & Confirm Skip_

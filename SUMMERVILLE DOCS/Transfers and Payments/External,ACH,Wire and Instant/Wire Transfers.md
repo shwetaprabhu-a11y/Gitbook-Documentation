@@ -1,10 +1,12 @@
+# CSUM-12-Wire-Transfers
+
 **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE · CSUM-13 of 30**
 
 **Wire Transfers — Domestic & International**
 
-Module: nFinia Digital Banking \> Move Money \> Wire Transfer
+Module: nFinia Digital Banking > Move Money > Wire Transfer
 
-*Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet_
 
 > **01 PRODUCT SUMMARY**
 
@@ -19,7 +21,7 @@ Wire transfers are captured as digital forms within the Online Forms portal. The
 |                          |                                                                                  |
 | ------------------------ | -------------------------------------------------------------------------------- |
 | **Attribute**            | **Detail**                                                                       |
-| Module                   | Move Money \> Online Forms \> Wire Transfer                                      |
+| Module                   | Move Money > Online Forms > Wire Transfer                                        |
 | Domestic Network         | Federal Reserve Fedwire                                                          |
 | International Network    | SWIFT                                                                            |
 | Domestic Settlement      | Same business day (if before cut-off)                                            |
@@ -37,37 +39,37 @@ Wire transfers are captured as digital forms within the Online Forms portal. The
 | High-Value Urgent Payment      | Members needing same-day guaranteed settlement     | Use wire instead of ACH for amount-critical same-day needs                 | ACH cannot guarantee same-day; wire settles by end of business day |
 
 > **03 STEP-BY-STEP GUIDE**
-> 
-> *Navigation: Dashboard \> Move Money \> Online Forms \> Wire Transfer Form.*
+>
+> _Navigation: Dashboard > Move Money > Online Forms > Wire Transfer Form._
 
 **Step 1 — Start from Dashboard**
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](images/01_dashboard_home.png)
+![](<../../../.gitbook/assets/01_dashboard_home (1).png>)
 
-*Step 1: Start from Dashboard*
+_Step 1: Start from Dashboard_
 
 **Step 2 — Navigate to Move Money Hub**
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](images/01_move_money_landing.png)
+![](../../../.gitbook/assets/01_move_money_landing.png)
 
-*Step 2: Move Money Hub*
+_Step 2: Move Money Hub_
 
 **Step 3 — Open the Wire Transfer Form**
 
 The Domestic Outgoing Wire Transfer Request form is displayed within the Online Forms section, showing the form title and multiple input fields for initiating a wire transfer request.
 
-![](images/10_domestic_wire_transfer_form.png)
+![](<../../../.gitbook/assets/10_domestic_wire_transfer_form (1).png>)
 
-*Step 3: Open the Wire Transfer Form*
+_Step 3: Open the Wire Transfer Form_
 
 **Step 4 — Review & Submit**
 
 The Forms list page is displayed showing all available form types. The member can review the submitted wire transfer status or access other form types such as ACH Origination, Address Change, Card Order, and more from this screen.
 
-![](images/04_submit_form.png)
+![](../../../.gitbook/assets/04_submit_form.png)
 
-*Step 4: Review & Submit*
+_Step 4: Review & Submit_

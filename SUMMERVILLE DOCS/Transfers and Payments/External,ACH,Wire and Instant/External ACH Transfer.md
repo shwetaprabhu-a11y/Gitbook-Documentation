@@ -1,10 +1,12 @@
+# CSUM-08-External-ACH-Transfer
+
 **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE · CSUM-09 of 30**
 
 **External ACH Transfer**
 
-Module: nFinia Digital Banking \> Move Money \> External Accounts
+Module: nFinia Digital Banking > Move Money > External Accounts
 
-*Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet_
 
 > **01 PRODUCT SUMMARY**
 
@@ -18,7 +20,7 @@ The ACH network processes transfers in 1–3 business days under standard ACH ru
 
 | **Attribute**   | **Detail**                                              |
 | --------------- | ------------------------------------------------------- |
-| Module          | Move Money \> Transfer to External Accounts             |
+| Module          | Move Money > Transfer to External Accounts              |
 | Network         | ACH — Automated Clearing House                          |
 | Transfer Speed  | 1–3 business days (standard); Same-day ACH if available |
 | Verification    | OTP required for first-use or high-value transfers      |
@@ -35,64 +37,64 @@ The ACH network processes transfers in 1–3 business days under standard ACH ru
 | ACH Collection          | Business or power users pulling funds   | Initiate ACH pull from external account into CU                 | Automates regular funding from payroll or investment accounts             |
 
 > **03 STEP-BY-STEP GUIDE**
-> 
-> *Navigation: Dashboard \> Move Money \> 'Transfer to External Accounts'.*
+>
+> _Navigation: Dashboard > Move Money > 'Transfer to External Accounts'._
 
 **Step 1 — Start from Dashboard**
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](images/image5.png)
+![](<../../../.gitbook/assets/image5 (3).png>)
 
-*Step 1: Start from the Dashboard*
+_Step 1: Start from the Dashboard_
 
 **Step 2 — Navigate to Move Money Hub**
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](images/image4.png)
+![](<../../../.gitbook/assets/image4 (6).png>)
 
-*Step 2: Move Money Hub*
+_Step 2: Move Money Hub_
 
 **Step 3 — Navigate from Dashboard to External Transfer**
 
 The Move Money hub is displayed as the landing page for initiating an external account transfer.
 
-![](images/image2.png)
+![](<../../../.gitbook/assets/image2 (6).png>)
 
-*Step 3: Navigate from Dashboard to External Transfer*
+_Step 3: Navigate from Dashboard to External Transfer_
 
 **Step 4 — Fill Transfer Details**
 
 Step 2 shows a simplified form with fields for entering the external account transfer details including the destination account information.
 
-![](images/image9.png)
+![](<../../../.gitbook/assets/image9 (2).png>)
 
-*Step 4: Fill Transfer Details*
+_Step 4: Fill Transfer Details_
 
 **Step 5 — Review Pre-Confirmation**
 
 The confirmation screen displays a $5.00 transfer from Retail Savings Account to an external Retail Savings Account, showing the description and scheduled transfer date.
 
-![](images/image3.png)
+![](<../../../.gitbook/assets/image3 (6).png>)
 
-*Step 5: Review Pre-Confirmation*
+_Step 5: Review Pre-Confirmation_
 
 **Step 6 — Select OTP Verification Method**
 
 A verification modal appears offering three authentication methods — 'Send me a message', 'Call me', or 'Send me an email' — to verify the external transfer before processing.
 
-![](images/image6.png)
+![](<../../../.gitbook/assets/image6 (2).png>)
 
-*Step 6: Select OTP Verification Method*
+_Step 6: Select OTP Verification Method_
 
 **Step 7 — Enter OTP & Submit**
 
 The verification page is displayed with a field to enter the verification code received via the selected authentication method to complete the external transfer.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (6).png>)
 
-*Step 7: Enter OTP & Submit*
+_Step 7: Enter OTP & Submit_
 
 **Scheduled External ACH Transfer Flow**
 
@@ -100,21 +102,21 @@ The verification page is displayed with a field to enter the verification code r
 
 The Move Money hub is displayed as the landing page for initiating an external account transfer.
 
-![](images/image2.png)
+![](<../../../.gitbook/assets/image2 (6).png>)
 
-*Step 3: Navigate from Dashboard to External Transfer*
+_Step 3: Navigate from Dashboard to External Transfer_
 
 **Step 2 — Schedule a transfer on external ACH transfer**
 
 Enter the amount and check a date to schedule the transfer and click on confirm
 
-![](images/image11.png)
+![](<../../../.gitbook/assets/image11 (2).png>)
 
 **Step 3 — confirm the transfer**
 
 Confirm the transfer and recheck the amount and date
 
-![](images/image15.png)
+![](../../../.gitbook/assets/image15.png)
 
 **Step 4 — Move back to transfers HUB and go to scheduled transfers**
 
@@ -122,34 +124,34 @@ Click on move money hub and click on scheduled transfers**Step 4 — Move back t
 
 After completing the previous steps, click on the **Move Money Hub** option in the navigation menu. Once on the Move Money Hub screen, locate and click on the **Scheduled Transfers** section. This action will display a list of all your scheduled transfers.
 
-![](images/image8.png)
+![](<../../../.gitbook/assets/image8 (2).png>)
 
 **Step 4 — Click on a scheduled transfer**
 
 Click on a scheduled transfer and edit or manage the scheduled transfer
 
-![](images/image10.png)
+![](<../../../.gitbook/assets/image10 (2).png>)
 
 **Step 5 — delete a scheduled transfer/edit a scheduled transfer**
 
 After clicking on a transfer, view the transfer details and if needed delete a scheduled transferAfter clicking on a specific transfer, the user can view all the comprehensive details of that transfer, including the amount, date, recipient, and status. If the transfer is a scheduled future transfer and has not been processed yet, the user will have the option to delete or cancel the scheduled transfer if necessary/you can also edit scheduler by clicking the edit option
 
-![](images/image12.png)
+![](<../../../.gitbook/assets/image12 (2).png>)
 
 **Step 6 — edit a scheduler**
 
 After clicking edit scheduler you can edit an existing schedule,make the necessary changes and click o save changes
 
-![](images/image14.png)
+![](../../../.gitbook/assets/image14.png)
 
 **Step 7 — go back to external ACH transfer to make a recurring payment**
 
 Enter amount scheduled date and tick the recurring payment option and select a frequency and repeat frequency and select an end date for these recurring payments
 
-![](images/image7.png)
+![](<../../../.gitbook/assets/image7 (2).png>)
 
 **Step 8— confirm the transfer**
 
 Confirm the transfer and recheck the amount and date
 
-![](images/image13.png)
+![](<../../../.gitbook/assets/image13 (2).png>)

@@ -1,10 +1,12 @@
+# CSUM-11-Zelle-P2P-Payments
+
 **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE · CSUM-12 of 30**
 
 **Zelle® P2P Payments**
 
-Module: nFinia Digital Banking \> Move Money \> Zelle
+Module: nFinia Digital Banking > Move Money > Zelle
 
-*Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet_
 
 > **01 PRODUCT SUMMARY**
 
@@ -18,7 +20,7 @@ Because Zelle® payments to enrolled recipients are processed instantly and are 
 
 | **Attribute**        | **Detail**                                                   |
 | -------------------- | ------------------------------------------------------------ |
-| Module               | Move Money \> Zelle®                                         |
+| Module               | Move Money > Zelle®                                          |
 | Network              | Zelle® P2P Payment Network                                   |
 | Recipient Identifier | US mobile phone number or email address                      |
 | Transfer Speed       | Minutes to enrolled recipients; 14-day window for unenrolled |
@@ -35,41 +37,41 @@ Because Zelle® payments to enrolled recipients are processed instantly and are 
 | Receive Payment   | Members expecting funds from another Zelle user | Share your enrolled phone number or email for others to send to you | Funds arrive directly into linked CU checking account           |
 
 > **03 STEP-BY-STEP GUIDE**
-> 
-> *Navigation: Dashboard \> Move Money \> 'Zelle'.*
+>
+> _Navigation: Dashboard > Move Money > 'Zelle'._
 
 **Step 1 — Start from Dashboard**
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](images/image2.png)
+![](<../../.gitbook/assets/image2 (5).png>)
 
-*Step 1: Start from Dashboard*
+_Step 1: Start from Dashboard_
 
 **Step 2 — Navigate to Move Money Hub**
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](images/image1.png)
+![](<../../.gitbook/assets/image1 (5).png>)
 
-*Step 2: Move Money Hub*
+_Step 2: Move Money Hub_
 
 **Step 3 — Navigate from Dashboard to Zelle**
 
 The Move Money hub is shown with payment options including Pay Bills, Quick Pay, Zelle Payment, and various transfer services available as tiles.
 
-![](images/image5.png)
+![](<../../.gitbook/assets/image5 (2).png>)
 
 **Step 4 — Send a Zelle Payment**
 
 The Zelle Payment form page is displayed from a legacy banking interface with form fields visible for entering recipient and payment details.
 
-![](images/image4.png)
+![](<../../.gitbook/assets/image4 (5).png>)
 
 **Step 5 — Verify Zelle Payment**
 
 The Zelle verification screen prompts the member to enter a 6-digit verification code sent via SMS to verify and complete the Zelle transaction.
 
-![](images/image3.png)
+![](<../../.gitbook/assets/image3 (5).png>)
 
-*Step 5: Verify Zelle Payment*
+_Step 5: Verify Zelle Payment_

@@ -1,10 +1,12 @@
+# CSUM-Add-Multiple-Account-Recipient
+
 **DIAMOND CREDIT UNION · BUSINESS BANKING GUIDE · Add Multiple-Account Recipient**
 
 **Add Multiple-Account Recipient**
 
-Module: nFinia Digital Banking \> Business Banking \> Transfer & Pay \> Recipient Management
+Module: nFinia Digital Banking > Business Banking > Transfer & Pay > Recipient Management
 
-*Platform: Diamond Credit Union nFinia | Feature: Multi-Account Recipient Management | Workflow: Add Multiple Accounts to an Existing Recipient*
+_Platform: Diamond Credit Union nFinia | Feature: Multi-Account Recipient Management | Workflow: Add Multiple Accounts to an Existing Recipient_
 
 > **01 PRODUCT SUMMARY**
 
@@ -19,7 +21,7 @@ For credit unions, this model reduces payee list sprawl, improves transfer accur
 | **Attribute**  | **Detail**                                                       |
 | -------------- | ---------------------------------------------------------------- |
 | Feature Name   | Add Multiple-Account Recipient                                   |
-| Module         | Business Banking \> Transfer & Pay \> Recipient Management       |
+| Module         | Business Banking > Transfer & Pay > Recipient Management         |
 | User Roles     | Business Admin, Authorized Signer                                |
 | Payment Types  | Within CU, ACH, Domestic Wire (per account)                      |
 | Key Actions    | Open Existing Recipient, Add Account, Save                       |
@@ -27,53 +29,53 @@ For credit unions, this model reduces payee list sprawl, improves transfer accur
 | Business Value | Consolidates all accounts for a payee under one recipient record |
 
 > **02 STEP-BY-STEP GUIDE**
-> 
-> *Navigation: Dashboard \> Business Banking \> Transfer & Pay \> Recipient Management \> \[Select existing recipient\] \> + Add Account.*
+>
+> _Navigation: Dashboard > Business Banking > Transfer & Pay > Recipient Management > \[Select existing recipient] > + Add Account._
 
 **Step 1 — Dashboard**
 
 The business admin logs into the nFinia platform and lands on the personalized dashboard, which presents a real-time view of all account balances, upcoming loan obligations, and a Quick Transfer widget. From here, the admin navigates to Business Banking to locate an existing recipient and add a second payment account to their profile.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (8).png>)
 
-*Step 1: Dashboard*
+_Step 1: Dashboard_
 
 **Step 2 — Business Banking Hub**
 
 The Business Banking hub serves as the centralized navigation layer for all commercial payment and administrative operations. The admin navigates to Recipient Management via Transfer & Pay to locate the existing payee and extend their profile with an additional linked account.
 
-![](images/image2.png)
+![](<../../../.gitbook/assets/image2 (8).png>)
 
-*Step 2: Business Banking Hub*
+_Step 2: Business Banking Hub_
 
 **Step 3 — Transfer Account Management**
 
 The Transfer Account Management screen lists all saved recipients associated with the business. The admin locates the existing recipient — Jamie Smith — and clicks their record to open the Transfer Account Details view, where additional accounts can be added.
 
-![](images/image3.png)
+![](<../../../.gitbook/assets/image3 (8).png>)
 
-*Step 3: Transfer Account Management*
+_Step 3: Transfer Account Management_
 
 **Step 4 — Transfer Account Details: Existing Account**
 
 The Transfer Account Details screen shows Jamie Smith’s current profile: one ACH account with nickname “Jamie” linked to BANK OF AMERICA, N.A., with a “Provide Funds” action available. The admin clicks “+ Add Account” to link a second payment account under the same recipient record — avoiding the need to create a duplicate payee entry.
 
-![](images/image4.png)
+![](<../../../.gitbook/assets/image4 (8).png>)
 
-*Step 4: Transfer Account Details — One Account Saved*
+_Step 4: Transfer Account Details — One Account Saved_
 
 **Step 5 — Add Account: Second Account Details**
 
 The Add Account modal is completed for the second account: ACH payment type, account holder Jamie Smith, account number 123456, account type Savings, and routing number 081500875 — with the institution auto-resolved to BANK OF AMERICA via the institution search. The nickname “James” distinguishes this Savings account from the existing Checking account (“Jamie”) so the admin can identify the correct account at transfer time.
 
-![](images/image5.png)
+![](<../../../.gitbook/assets/image5 (5).png>)
 
-*Step 5: Add Account — Second Account (Savings, ACH)*
+_Step 5: Add Account — Second Account (Savings, ACH)_
 
 **Step 6 — Transfer Account Details: Two Accounts Saved**
 
 With both accounts saved, the Transfer Account Details screen now displays Jamie Smith with two independently actionable accounts: “Jamie” (Checking) and “James” (Savings), both at BANK OF AMERICA, N.A. Each account carries its own “Provide Funds” button, allowing the admin to direct payments to either account without modifying the recipient record — a key capability for vendors or employees with multiple bank accounts.
 
-![](images/image6.png)
+![](<../../../.gitbook/assets/image6 (4).png>)
 
-*Step 6: Transfer Account Details — Two Accounts Saved*
+_Step 6: Transfer Account Details — Two Accounts Saved_

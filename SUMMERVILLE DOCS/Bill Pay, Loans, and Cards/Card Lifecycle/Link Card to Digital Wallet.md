@@ -1,14 +1,14 @@
-|                                                                           |
-| ------------------------------------------------------------------------- |
-| **nFinia Digital Banking | Summerville Credit Union | Member User Guide** |
+# Link-Card-to-Digital-Wallet
+
+|                            |
+| -------------------------- |
+| \*\*nFinia Digital Banking |
 
 **Link Card to Digital Wallet**
 
-|  |
-|  |
-|  |
+\| | | | | |
 
-*Module: Banking › Cards › Card Details › Link Card*
+_Module: Banking › Cards › Card Details › Link Card_
 
 |                        |
 | ---------------------- |
@@ -56,19 +56,19 @@ The process takes less than a minute. You navigate to the card you want to link,
 
 |                                                                                   |
 | --------------------------------------------------------------------------------- |
-| *📍 Navigation path: Banking › Cards › \[select card\] › Card Details › Link Card* |
+| _📍 Navigation path: Banking › Cards › \[select card] › Card Details › Link Card_ |
 
 **Step 1 Navigate to Your Cards**
 
 From the nFinia top navigation, click Cards. Your enrolled debit and credit cards are listed as tiles. Locate the card you want to add to a digital wallet.
 
-![](images/image2.png)
+![](<../../../.gitbook/assets/image2 (2).png>)
 
 **Step 2 Open Link Card**
 
 Click Card Controls at the bottom of the card tile. Inside Card Details, find and click the Link Card option. The Link Card screen opens and shows the three available digital wallet options: Apple Pay, Google Pay, and Samsung Pay.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (2).png>)
 
 |                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,14 +1,14 @@
-|                                                                           |
-| ------------------------------------------------------------------------- |
-| **nFinia Digital Banking | Summerville Credit Union | Member User Guide** |
+# Block-Unblock-Card
+
+|                            |
+| -------------------------- |
+| \*\*nFinia Digital Banking |
 
 **Block / Unblock Card**
 
-|  |
-|  |
-|  |
+\| | | | | |
 
-*Module: Banking › Cards › Card Status toggle*
+_Module: Banking › Cards › Card Status toggle_
 
 |                        |
 | ---------------------- |
@@ -43,9 +43,9 @@ The Block / Unblock Card feature lets you instantly control whether your debit o
 | ------------------------- |
 | **03 STEP-BY-STEP GUIDE** |
 
-|                                      |
-| ------------------------------------ |
-| *📍 Navigation path: Banking › Cards* |
+|                                       |
+| ------------------------------------- |
+| _📍 Navigation path: Banking › Cards_ |
 
 |                                                  |
 | ------------------------------------------------ |
@@ -55,7 +55,7 @@ The Block / Unblock Card feature lets you instantly control whether your debit o
 
 From the nFinia home screen, select Cards in the top navigation bar. Your enrolled cards are listed with their card number, expiry, and current Card Status.
 
-![](images/image2.png)
+![](<../../../.gitbook/assets/image2 (2).png>)
 
 **Step 2 Toggle Card Status to Off**
 
@@ -69,7 +69,7 @@ Locate the card you want to block. Click the Card Status toggle — it will swit
 
 Review the confirmation popup. It will show the last 4 digits of the card being blocked. Click Yes to confirm, or No to cancel without making any change.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (2).png>)
 
 |                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- |

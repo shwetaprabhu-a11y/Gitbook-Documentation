@@ -1,3 +1,5 @@
+# sum26-loanrepayment
+
 **Summerville Federal Credit Union**
 
 nFinia Digital Banking Platform
@@ -16,7 +18,7 @@ Tyfone, Inc. | April 2026 | Confidential
 
 Loan Repayment is a core feature of the nFinia Digital Banking platform that enables credit union members to make payments on their loan accounts directly through the digital banking portal. This capability covers one-time payments, scheduled recurring payments, and multiple payment option types including regular payments, next-due-amount payments, payoff amounts, and pay-to-principal options — all accessible through the Transfer Funds to Own Account workflow.
 
-Within the Summerville Federal Credit Union digital banking portal, Loan Repayment is accessible from the Account Details page of any loan account via the “Make Payment” link, or through Move Money \> Transfer Funds to Own Account by selecting a loan account as the destination. The feature integrates with the platform’s existing fund transfer infrastructure, providing a guided three-step workflow (Set up Transfer → Review → Finish) that ensures members can make informed payment decisions with clear confirmation at each stage.
+Within the Summerville Federal Credit Union digital banking portal, Loan Repayment is accessible from the Account Details page of any loan account via the “Make Payment” link, or through Move Money > Transfer Funds to Own Account by selecting a loan account as the destination. The feature integrates with the platform’s existing fund transfer infrastructure, providing a guided three-step workflow (Set up Transfer → Review → Finish) that ensures members can make informed payment decisions with clear confirmation at each stage.
 
 For Summerville FCU, Loan Repayment reduces delinquency rates by making it effortless for members to stay current on their obligations. The self-service capability deflects routine payment inquiries from the contact center, while the recurring payment option promotes consistent repayment behavior. Members benefit from 24/7 payment access, flexible scheduling, and the ability to make additional principal payments to accelerate their payoff timeline.
 
@@ -26,7 +28,7 @@ For Summerville FCU, Loan Repayment reduces delinquency rates by making it effor
 | ------------------------ | -------------------------------------------------------------------------------------------- |
 | **Attribute**            | **Detail**                                                                                   |
 | **Feature Name**         | Loan Repayment (Transfer Funds to Own Account — Loan)                                        |
-| **Module**               | Move Money \> Transfer Funds to Own Account / Accounts \> Account Details \> Make Payment    |
+| **Module**               | Move Money > Transfer Funds to Own Account / Accounts > Account Details > Make Payment       |
 | **User Roles**           | Primary Account Holder, Joint Account Holder, Delegated User (with Transfer permissions)     |
 | **Access Level**         | Account-level; requires active loan account and funded source account                        |
 | **Key Actions**          | Make Payment, Schedule Recurring Payment, Pay Next Due Amount, Payoff Loan, Pay to Principal |
@@ -67,43 +69,43 @@ These use cases reflect the primary loan repayment scenarios for Summerville FCU
 
 **Step 1: View Loan Account Overview**
 
-![01\_Loan-Accounts-Overview.png](images/941cb6109ca40bea557207ec0807c5bc303d7582.png "Screenshot")
+![01\_Loan-Accounts-Overview.png](../../../.gitbook/assets/941cb6109ca40bea557207ec0807c5bc303d7582.png)
 
 The member logs into the Summerville FCU digital banking portal and navigates to Accounts Overview, filtering by Loan Accounts. The overview displays each loan with its account name (e.g., “2019 BMW 0001”), Amount Due, Payment Due / Next Due Date, Payoff Amount, and quick action links including “History” and “Transfer Funds.” Overdue loans are highlighted with a red “Overdue” indicator and the next due date in red text.
 
 **Step 2: View Loan Account Details**
 
-![02\_Loan-Account-Details.png](images/faeef6b4b3667130c900a8c85083cd8af8943042.png "Screenshot")
+![02\_Loan-Account-Details.png](../../../.gitbook/assets/faeef6b4b3667130c900a8c85083cd8af8943042.png)
 
 Clicking on the loan account opens the Account Details page, which provides a comprehensive view of the loan including Amount Due ($498.67), Payment Due / Next Due Date ($0.95 due on Oct 27, 2025), and links to “Make Payment,” “Skip-a-Pay,” and “See more.” Below the summary card, the Transactions section displays the full payment history with deposits, payment credits, and balance progression. The member clicks “Make Payment” to initiate the loan repayment workflow.
 
 **Step 3: Set Up Transfer — Select Payment Option**
 
-![03\_Transfer-Setup-Payment-Options.png](images/419e72b26bfd162ab5880db184ed7f1c29b3e76d.png "Screenshot")
+![03\_Transfer-Setup-Payment-Options.png](../../../.gitbook/assets/419e72b26bfd162ab5880db184ed7f1c29b3e76d.png)
 
 The Transfer Funds to Own Account screen opens with the three-step progress indicator (Set up Transfer → Review → Finish). Step 1 displays the From account (source checking/savings) and To account (the loan). The Payment Option dropdown provides four choices: Select (default), Next due amt, Payoff amount, Pay to principal, and Make a regular payment. The member also has the option to check “Make transfer recurring” to set up automated payments. The “Make this my preferred source account” checkbox allows saving the source account for future payments.
 
 **Step 4: Enter Payment Amount and Date**
 
-![04\_Transfer-Setup-Amount-Date.png](images/10fe725cbd98588d807375aa0160fc96f3875611.png "Screenshot")
+![04\_Transfer-Setup-Amount-Date.png](../../../.gitbook/assets/10fe725cbd98588d807375aa0160fc96f3875611.png)
 
 After selecting a payment option (e.g., “Make a regular payment”), the member enters the Amount to be transferred and an optional Transaction memo (limited to 23 characters). The Transfer Date field defaults to today’s date with a calendar picker for scheduling future payments. A “Make transfer recurring” checkbox is available for setting up automated payment schedules. The member clicks “Continue” to proceed to the review step.
 
 **Step 5: Configure Recurring Payment (Optional)**
 
-![05\_Transfer-Setup-Recurring.png](images/edbb99947b19a2bbc25e91dd2a8f1a343140cc84.png "Screenshot")
+![05\_Transfer-Setup-Recurring.png](../../../.gitbook/assets/edbb99947b19a2bbc25e91dd2a8f1a343140cc84.png)
 
 When “Make transfer recurring” is checked, additional scheduling fields appear: Frequency (Weekly transfer, Bi-Weekly, Monthly, etc.), Repeat (Until end date, Number of times, Until cancelled), and End Date. The system displays a confirmation summary such as “Scheduled Weekly transfer, until April 15, 2026.” This enables members to automate their loan payments on a consistent schedule, reducing the risk of missed payments.
 
 **Step 6: Review Transfer**
 
-![06\_Transfer-Review.png](images/dd6109a2a1574b388fad5f07085bfa600a88d76f.png "Screenshot")
+![06\_Transfer-Review.png](../../../.gitbook/assets/dd6109a2a1574b388fad5f07085bfa600a88d76f.png)
 
 The Review screen (Step 2 of 3) presents a complete summary of the payment: the transfer amount ($1.00), From account (PREFD C 0040 with available balance), To account (2019 BMW 0001), Transfer date, and recurring schedule details if applicable. The member can click “Back” to modify any details, “Cancel” to abort, or “Confirm Transfer” to submit the payment. This review step ensures the member has full visibility before committing.
 
 **Step 7: Transfer Success**
 
-![07\_Transfer-Success.png](images/98f2b25b450f321bfa1599a03392160bc3a15a0b.png "Screenshot")
+![07\_Transfer-Success.png](../../../.gitbook/assets/98f2b25b450f321bfa1599a03392160bc3a15a0b.png)
 
 Upon successful submission, the Finish screen (Step 3 of 3) displays a green checkmark with “Successfully Sent” confirmation showing the transfer amount, source and destination accounts, and transfer date. A “Print” link allows the member to generate a receipt, and the “Done” button returns to the main banking view. The transaction is immediately recorded in the account’s transaction history.
 
@@ -218,17 +220,17 @@ Confirmation screen displayed after successful payment submission.
 | ---------------------- |
 | **5. Quick Reference** |
 
-|                          |                                                                           |                   |                                       |
-| ------------------------ | ------------------------------------------------------------------------- | ----------------- | ------------------------------------- |
-| **Task**                 | **Navigation Path**                                                       | **Who Can Do It** | **Notes**                             |
-| View loan accounts       | Accounts \> Accounts Overview \> Filter: Loan Accounts                    | Account Holder    | Shows all loans with payment status   |
-| Make a loan payment      | Account Details \> Make Payment \> Set up Transfer \> Review \> Confirm   | Account Holder    | 3-step guided workflow                |
-| Pay next due amount      | Make Payment \> Payment option: Next due amt                              | Account Holder    | Auto-populates minimum payment due    |
-| Pay off loan             | Make Payment \> Payment option: Payoff amount                             | Account Holder    | Auto-populates full remaining balance |
-| Pay to principal         | Make Payment \> Payment option: Pay to principal                          | Account Holder    | Entire payment applied to principal   |
-| Set up recurring payment | Make Payment \> Check “Make transfer recurring” \> Set frequency/end date | Account Holder    | Automates future payments on schedule |
-| View payment history     | Account Details \> Transactions                                           | Account Holder    | Searchable, exportable, printable     |
-| Print payment receipt    | Transfer Success \> Print                                                 | Account Holder    | Available after successful payment    |
+|                          |                                                                         |                   |                                       |
+| ------------------------ | ----------------------------------------------------------------------- | ----------------- | ------------------------------------- |
+| **Task**                 | **Navigation Path**                                                     | **Who Can Do It** | **Notes**                             |
+| View loan accounts       | Accounts > Accounts Overview > Filter: Loan Accounts                    | Account Holder    | Shows all loans with payment status   |
+| Make a loan payment      | Account Details > Make Payment > Set up Transfer > Review > Confirm     | Account Holder    | 3-step guided workflow                |
+| Pay next due amount      | Make Payment > Payment option: Next due amt                             | Account Holder    | Auto-populates minimum payment due    |
+| Pay off loan             | Make Payment > Payment option: Payoff amount                            | Account Holder    | Auto-populates full remaining balance |
+| Pay to principal         | Make Payment > Payment option: Pay to principal                         | Account Holder    | Entire payment applied to principal   |
+| Set up recurring payment | Make Payment > Check “Make transfer recurring” > Set frequency/end date | Account Holder    | Automates future payments on schedule |
+| View payment history     | Account Details > Transactions                                          | Account Holder    | Searchable, exportable, printable     |
+| Print payment receipt    | Transfer Success > Print                                                | Account Holder    | Available after successful payment    |
 
 |                   |
 | ----------------- |

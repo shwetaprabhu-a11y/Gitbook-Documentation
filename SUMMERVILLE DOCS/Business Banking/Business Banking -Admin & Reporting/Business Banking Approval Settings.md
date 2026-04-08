@@ -1,12 +1,14 @@
+# CSUM-08 Business Banking Approval Settings
+
 **SUMMERVILLE CREDIT UNION · BUSINESS BANKING USER GUIDE · CSUM-08 of 16**
 
 **Approval Settings**
 
-Module: Business Banking \> Approvals \> Approval Settings
+Module: Business Banking > Approvals > Approval Settings
 
 **Navigation: Dashboard → Business Banking → Approval Settings**
 
-*Sources: Summerville Reports Series A + Series B | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A + Series B | Features: nFinia Documentation Features Spreadsheet_
 
 |                        |
 | ---------------------- |
@@ -23,7 +25,7 @@ For credit unions, approval settings provide the dual-control framework that reg
 | **Attribute**            | **Detail**                                             |
 | ------------------------ | ------------------------------------------------------ |
 | **Feature Name**         | Approval Settings                                      |
-| **Module**               | Business Banking \> Approvals \> Approval Settings     |
+| **Module**               | Business Banking > Approvals > Approval Settings       |
 | **Navigation**           | Dashboard → Business Banking → Approval Settings       |
 | **User Roles**           | Business Admin, Business Owner                         |
 | **Access Level**         | Admin-only; requires Approval Settings permission      |
@@ -51,30 +53,30 @@ For credit unions, approval settings provide the dual-control framework that reg
 
 Open your web browser and navigate to the Summerville Credit Union digital banking platform. Enter your username and password on the login screen and click "Log In." If prompted, complete the OTP (One-Time Passcode) verification by entering the code sent to your registered device. After successful authentication, you will land on the Dashboard — also called the Account Overview screen. This is your home base. The Dashboard displays all your business accounts (Savings Accounts, Checking Accounts) with their available and current balances. The top navigation bar shows links to Dashboard, Accounts, Transfer & Pay, Cards, Business Banking, and More. On the right sidebar you will see Related Links (Change Password, Account Settings, View Scheduled Transfers, Account Specific Alerts) and a Quick Transfer widget for fast internal transfers. To proceed to Business Banking features, locate the "Business Banking" tab in the top navigation bar and click on it.
 
-![Figure 1 — Log In and Open the Dashboard](images/image1.png)
+![Figure 1 — Log In and Open the Dashboard](<../../../.gitbook/assets/image1 (3).png>)
 
-*Figure 1 — Log In and Open the Dashboard*
+_Figure 1 — Log In and Open the Dashboard_
 
 **Step 2: Open the Business Banking Hub**
 
 After clicking "Business Banking" in the top navigation bar, the Business Banking Hub loads. This is the central command center for all commercial banking operations. The Hub is organized into three sections: "Transfers" at the top (with tiles for ACH Transfer, Domestic Wire Transfer, Transfer Template, and Payment From File), "Manage" in the middle (with tiles for Role Management, User Management, Approval Settings, and Recipient Management), and "More Options" at the bottom (with tiles for Commercial Activity, Reports, and Approvals). Each tile is a direct entry point to its corresponding feature. Only tiles your role has permission to access will be visible. From here, locate and click the tile for the feature you need — the next steps will guide you through the specific workflow.
 
-![Figure 2 — Open the Business Banking Hub](images/image3.png)
+![Figure 2 — Open the Business Banking Hub](<../../../.gitbook/assets/image3 (3).png>)
 
-*Figure 2 — Open the Business Banking Hub*
+_Figure 2 — Open the Business Banking Hub_
 
 **Step 3: Navigate to Approval Settings**
 
 From the Dashboard, click "Business Banking" in the left-side navigation menu to open the Business Banking Hub. In the "Manage" section, click the "Approval Settings" tile. The Approval Settings page appears with a table-style layout. Each row represents a transaction type: ACH Payment, ACH Collection, ACH Payroll, and Domestic Wires. Next to each type is a dropdown selector. Click the dropdown for any transaction type to set the required number of approvals. Setting "1" means transactions initiated by an authorized approver are auto-approved — no second person is needed. Setting "2" means every transaction of that type requires a second authorized user to approve it through the Approvals queue before it is processed.
 
-![Figure 3 — Navigate to Approval Settings](images/image2.png)
+![Figure 3 — Navigate to Approval Settings](<../../../.gitbook/assets/image2 (3).png>)
 
-*Figure 3 — Navigate to Approval Settings*
+_Figure 3 — Navigate to Approval Settings_
 
 **Step 4: Configure Thresholds and Save**
 
 Review the complete Approval Settings page. Use the dropdown next to each transaction type to set the appropriate threshold based on your business risk policy. Recommended practice: set Domestic Wires to "2" (dual-control for irrevocable high-value payments), and consider setting ACH Payment to "1" for routine low-risk vendor payments. Read the explanatory note at the top of the page — it describes how auto-approval works when the threshold is set to 1. After adjusting all thresholds, click "Save" to apply your changes. Click "Reset" if you want to revert to the previous configuration. These settings take effect immediately for all future transactions.
 
-![Figure 4 — Configure Thresholds and Save](images/image4.png)
+![Figure 4 — Configure Thresholds and Save](<../../../.gitbook/assets/image4 (3).png>)
 
-*Figure 4 — Configure Thresholds and Save*
+_Figure 4 — Configure Thresholds and Save_

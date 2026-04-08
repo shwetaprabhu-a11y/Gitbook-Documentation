@@ -1,12 +1,14 @@
+# CSUM-02 Business Banking ACH Transfer
+
 **SUMMERVILLE CREDIT UNION · BUSINESS BANKING USER GUIDE · CSUM-02 of 16**
 
 **ACH Transfer**
 
-Module: Business Banking \> ACH Payment — Send Money
+Module: Business Banking > ACH Payment — Send Money
 
 **Navigation: Dashboard → Business Banking → ACH Transfer**
 
-*Sources: Summerville Reports Series A + Series B | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A + Series B | Features: nFinia Documentation Features Spreadsheet_
 
 |                        |
 | ---------------------- |
@@ -23,7 +25,7 @@ For credit unions, ACH transfer is a foundational business banking capability th
 | **Attribute**            | **Detail**                                           |
 | ------------------------ | ---------------------------------------------------- |
 | **Feature Name**         | ACH Transfer                                         |
-| **Module**               | Business Banking \> ACH Payment — Send Money         |
+| **Module**               | Business Banking > ACH Payment — Send Money          |
 | **Navigation**           | Dashboard → Business Banking → ACH Transfer          |
 | **User Roles**           | Business Owner, Authorized Signer                    |
 | **Access Level**         | Role-based with transaction limits                   |
@@ -52,102 +54,102 @@ For credit unions, ACH transfer is a foundational business banking capability th
 
 Open your web browser and navigate to the Summerville Credit Union digital banking platform. Enter your username and password on the login screen and click "Log In." If prompted, complete the OTP (One-Time Passcode) verification by entering the code sent to your registered device. After successful authentication, you will land on the Dashboard — also called the Account Overview screen. This is your home base. The Dashboard displays all your business accounts (Savings Accounts, Checking Accounts) with their available and current balances. The top navigation bar shows links to Dashboard, Accounts, Transfer & Pay, Cards, Business Banking, and More. On the right sidebar you will see Related Links (Change Password, Account Settings, View Scheduled Transfers, Account Specific Alerts) and a Quick Transfer widget for fast internal transfers. To proceed to Business Banking features, locate the "Business Banking" tab in the top navigation bar and click on it.
 
-![Figure 1 — Log In and Open the Dashboard](images/image2.png)
+![Figure 1 — Log In and Open the Dashboard](<../../../.gitbook/assets/image2 (4).png>)
 
-*Figure 1 — Log In and Open the Dashboard*
+_Figure 1 — Log In and Open the Dashboard_
 
 **Step 2: Open the Business Banking Hub**
 
 After clicking "Business Banking" in the top navigation bar, the Business Banking Hub loads. This is the central command center for all commercial banking operations. The Hub is organized into three sections: "Transfers" at the top (with tiles for ACH Transfer, Domestic Wire Transfer, Transfer Template, and Payment From File), "Manage" in the middle (with tiles for Role Management, User Management, Approval Settings, and Recipient Management), and "More Options" at the bottom (with tiles for Commercial Activity, Reports, and Approvals). Each tile is a direct entry point to its corresponding feature. Only tiles your role has permission to access will be visible. From here, locate and click the tile for the feature you need — the next steps will guide you through the specific workflow.
 
-![Figure 2 — Open the Business Banking Hub](images/image1.png)
+![Figure 2 — Open the Business Banking Hub](<../../../.gitbook/assets/image1 (4).png>)
 
-*Figure 2 — Open the Business Banking Hub*
+_Figure 2 — Open the Business Banking Hub_
 
 **Step 3: Navigate to ACH Transfer**
 
 From the Dashboard, click "Business Banking" in the left-side navigation menu. The Business Banking Hub appears. Locate the "Transfers" section at the top of the Hub and click the "ACH Transfer" tile. The ACH Transfer screen opens to Step 1 — "Set up Transfer" with the "Send Money" tab active. You will see a stepper indicator at the top showing three phases: Set up Transfer (highlighted), Review, and Finish. The "From" field is pre-populated with your primary business account (e.g., Business Money Market Account). Below it, the "To" field prompts you to select an External Transfer Account as the payment destination.
 
-![Figure 3 — Navigate to ACH Transfer](images/image6.png)
+![Figure 3 — Navigate to ACH Transfer](<../../../.gitbook/assets/image6 (1).png>)
 
-*Figure 3 — Navigate to ACH Transfer*
+_Figure 3 — Navigate to ACH Transfer_
 
 **Step 4: Select the Destination Account**
 
 Click the "To" dropdown field. A scrollable list of all your pre-configured external transfer accounts appears. These are accounts previously saved through Recipient Management. Each entry shows the recipient's name and masked account number. Scroll through the list and click on the recipient you wish to pay. If your intended recipient does not appear in the list, you will need to add them first via Recipient Management (navigate back to the Hub, click "Recipient Management" under Manage, and add the new account). Once added, return to ACH Transfer and the new recipient will appear in this dropdown.
 
-![Figure 4 — Select the Destination Account](images/image11.png)
+![Figure 4 — Select the Destination Account](<../../../.gitbook/assets/image11 (1).png>)
 
-*Figure 4 — Select the Destination Account*
+_Figure 4 — Select the Destination Account_
 
 **Step 5: Enter the Transfer Amount**
 
 After selecting the destination account, the Amount field appears below. Click into the Amount field and type the dollar amount you wish to send (e.g., 500.00). The system will validate this amount against your role's per-transaction limit and daily cumulative ACH limit. If the amount exceeds your configured limit, the system will block the transaction or require additional verification in a later step. Ensure the amount is correct before proceeding — you will have a chance to review it again on the next screen, but entering the correct amount here saves time.
 
-![Figure 5 — Enter the Transfer Amount](images/image4.png)
+![Figure 5 — Enter the Transfer Amount](<../../../.gitbook/assets/image4 (4).png>)
 
-*Figure 5 — Enter the Transfer Amount*
+_Figure 5 — Enter the Transfer Amount_
 
 **Step 6: Fill in Description, Date, and Frequency**
 
 Below the Amount field, you will see additional optional fields. In the "Description" field, enter a memo or reference (such as an invoice number or payment note) — this text will appear on the recipient's bank statement. Click the "Effective Date" field to open a date picker and select when the transfer should be processed. If you want this to be a one-time payment, leave the frequency as "One Time." If you need a recurring payment (weekly, bi-weekly, monthly), use the Frequency dropdown to set the schedule. These fields help you automate regular payments and maintain clear records.
 
-![Figure 6 — Fill in Description, Date, and Frequency](images/image13.png)
+![Figure 6 — Fill in Description, Date, and Frequency](<../../../.gitbook/assets/image13 (1).png>)
 
-*Figure 6 — Fill in Description, Date, and Frequency*
+_Figure 6 — Fill in Description, Date, and Frequency_
 
 **Step 7: Review Your Entries and Click Continue**
 
 Scroll to the bottom of the form to verify all fields are completed: From account, To account, Amount, Description, Effective Date, and Frequency. Review each entry carefully. When everything looks correct, click the "Continue" button at the bottom of the form. This will advance you to Step 2 — Review. If you need to change anything, simply click on the field you wish to edit before clicking Continue. The Continue button will only become active once all required fields are filled in.
 
-![Figure 7 — Review Your Entries and Click Continue](images/image5.png)
+![Figure 7 — Review Your Entries and Click Continue](<../../../.gitbook/assets/image5 (1).png>)
 
-*Figure 7 — Review Your Entries and Click Continue*
+_Figure 7 — Review Your Entries and Click Continue_
 
 **Step 8: Review the Transfer Summary**
 
 You are now on Step 2 — "Review." The stepper at the top highlights the Review phase. The screen displays a read-only summary of your ACH transfer: source account, destination account, transfer amount, description, effective date, and frequency. Read through every detail carefully. This is your last chance to catch errors before submission. If you spot a mistake, click "Back" to return to Step 1 and correct it. If everything is accurate, click "Submit" (or "Continue") to proceed to confirmation.
 
-![Figure 8 — Review the Transfer Summary](images/image12.png)
+![Figure 8 — Review the Transfer Summary](<../../../.gitbook/assets/image12 (1).png>)
 
-*Figure 8 — Review the Transfer Summary*
+_Figure 8 — Review the Transfer Summary_
 
 **Step 9: Verify the Description/Memo Text**
 
 Take a moment to verify the description/memo field in the review summary. This is the text that will travel with the ACH transaction and appear on the recipient's bank statement. Make sure it contains the correct reference information (invoice number, PO number, or payment purpose). If your organization uses specific coding conventions for payments, confirm the description follows your standard format. A clear, accurate description enables easy reconciliation for both your business and the recipient.
 
-![Figure 9 — Verify the Description/Memo Text](images/image10.png)
+![Figure 9 — Verify the Description/Memo Text](<../../../.gitbook/assets/image10 (1).png>)
 
-*Figure 9 — Verify the Description/Memo Text*
+_Figure 9 — Verify the Description/Memo Text_
 
 **Step 10: Confirm and Submit the Payment**
 
 On the final review screen, verify the complete transaction summary one last time: From account, To account, Amount, Description, Effective Date, and Frequency. When you are satisfied that all details are correct, click the "Submit" button. If your business has dual-control approval settings configured (set in Approval Settings), the transaction will be routed to the Approvals queue for a second authorized user to approve before processing. If no dual-control is required, the payment advances directly to the next step.
 
-![Figure 10 — Confirm and Submit the Payment](images/image9.png)
+![Figure 10 — Confirm and Submit the Payment](<../../../.gitbook/assets/image9 (1).png>)
 
-*Figure 10 — Confirm and Submit the Payment*
+_Figure 10 — Confirm and Submit the Payment_
 
 **Step 11: Acknowledge the Confirmation Dialog**
 
 After clicking Submit, a confirmation dialog appears in the center of the screen. This dialog restates the payment amount and asks you to confirm one final time. Click "Yes, Submit" (or the equivalent confirm button) to authorize the payment. Click "Cancel" if you want to abort. This two-click pattern (Submit + Confirm) is a safety mechanism to prevent accidental payments. The dialog requires your deliberate action — it will not auto-dismiss or time out.
 
-![Figure 11 — Acknowledge the Confirmation Dialog](images/image3.png)
+![Figure 11 — Acknowledge the Confirmation Dialog](<../../../.gitbook/assets/image3 (4).png>)
 
-*Figure 11 — Acknowledge the Confirmation Dialog*
+_Figure 11 — Acknowledge the Confirmation Dialog_
 
 **Step 12: Enter the One-Time Passcode (If Required)**
 
 If the transfer amount exceeds your role's standard threshold, the system will display an OTP (One-Time Passcode) verification screen. Check your registered mobile device or email for a 5-digit verification code. Enter the code in the individual digit boxes shown on screen. Click "Verify" (or equivalent) to proceed. If you did not receive the code, click "Resend" to request a new one. The OTP expires after a short time window, so enter it promptly. This security step ensures that even if your session were compromised, a high-value transfer cannot be completed without access to your physical device.
 
-![Figure 12 — Enter the One-Time Passcode (If Required)](images/image8.png)
+![Figure 12 — Enter the One-Time Passcode (If Required)](<../../../.gitbook/assets/image8 (1).png>)
 
-*Figure 12 — Enter the One-Time Passcode (If Required)*
+_Figure 12 — Enter the One-Time Passcode (If Required)_
 
 **Step 13: View the Success Confirmation**
 
 The screen advances to Step 3 — "Finish." A success confirmation is displayed with a green checkmark or success indicator. You will see the completed transaction details: confirmation/reference number, transfer amount, source and destination accounts, and processing status. Save or note down the confirmation number for your records — you can use it for future reference, reconciliation, or dispute resolution. From this screen, you can click to start a new transfer or navigate back to the Business Banking Hub. The transaction now appears in your Commercial Activity ledger.
 
-![Figure 13 — View the Success Confirmation](images/image7.png)
+![Figure 13 — View the Success Confirmation](<../../../.gitbook/assets/image7 (1).png>)
 
-*Figure 13 — View the Success Confirmation*
+_Figure 13 — View the Success Confirmation_

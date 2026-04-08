@@ -1,10 +1,12 @@
+# Spending-Limits
+
 |                                                          |
 | -------------------------------------------------------- |
 | **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE** |
 
 **Spending Limits**
 
-Module: nFinia Digital Banking \> Cards \> Card Details \> Card Controls \> Spending Limits
+Module: nFinia Digital Banking > Cards > Card Details > Card Controls > Spending Limits
 
 |                        |
 | ---------------------- |
@@ -16,13 +18,13 @@ Spending limits are found under Card Controls in the Card Details view. Each lim
 
 **At a Glance**
 
-| **Attribute**         | **Detail**                                                                          |
-| --------------------- | ----------------------------------------------------------------------------------- |
-| Module                | nFinia Digital Banking \> Cards \> Card Details \> Card Controls \> Spending Limits |
-| Per Transaction Limit | Declines any single transaction exceeding the set amount                            |
-| Per Month Limit       | Declines transactions once the monthly spend cap is reached                         |
-| Toggle                | Each limit can be independently enabled or disabled                                 |
-| Related Features      | Location Controls, Card Alerts, Usage Control                                       |
+| **Attribute**         | **Detail**                                                                      |
+| --------------------- | ------------------------------------------------------------------------------- |
+| Module                | nFinia Digital Banking > Cards > Card Details > Card Controls > Spending Limits |
+| Per Transaction Limit | Declines any single transaction exceeding the set amount                        |
+| Per Month Limit       | Declines transactions once the monthly spend cap is reached                     |
+| Toggle                | Each limit can be independently enabled or disabled                             |
+| Related Features      | Location Controls, Card Alerts, Usage Control                                   |
 
 |                      |
 | -------------------- |
@@ -38,20 +40,20 @@ Spending limits are found under Card Controls in the Card Details view. Each lim
 | ------------------------- |
 | **03 STEP-BY-STEP GUIDE** |
 
-*Navigation: Log in to Summerville Credit Union online banking. From the Dashboard, click Cards, select your card, click Card Controls, then select Spending Limits.*
+_Navigation: Log in to Summerville Credit Union online banking. From the Dashboard, click Cards, select your card, click Card Controls, then select Spending Limits._
 
 **Step 1 — Arrive at the Dashboard**
 
 After logging in, you land on the Dashboard. Click Cards in the top navigation to open your card list, then select the card you want to configure. From Card Details, click Card Controls to open the controls panel.
 
-![Step 1: Dashboard — click Cards to begin](images/image2.png)
+![Step 1: Dashboard — click Cards to begin](../../../.gitbook/assets/image2.png)
 
-*Step 1: Dashboard — click Cards to begin*
+_Step 1: Dashboard — click Cards to begin_
 
 **Step 2 — Configure Spending Limits**
 
 The Spending Limits tab opens under Card Controls. You will see two limit types: Per Transaction and Per Month. Toggle either limit on to activate it, then enter the maximum dollar amount in the input field. For Per Month, your current monthly spend is shown for reference. Toggle a limit off at any time to remove it. Changes take effect immediately.
 
-![](images/image1.png)
+![](../../../.gitbook/assets/image1.png)
 
-*Step 2: Set per-transaction and per-month spending limits for your card*
+_Step 2: Set per-transaction and per-month spending limits for your card_

@@ -1,14 +1,14 @@
-|                                                                           |
-| ------------------------------------------------------------------------- |
-| **nFinia Digital Banking | Summerville Credit Union | Member User Guide** |
+# Card-Alerts
+
+|                            |
+| -------------------------- |
+| \*\*nFinia Digital Banking |
 
 **Card Alerts**
 
-|  |
-|  |
-|  |
+\| | | | | |
 
-*Module: Banking › Cards › Card Details › Card Controls › Card Alerts*
+_Module: Banking › Cards › Card Details › Card Controls › Card Alerts_
 
 |                        |
 | ---------------------- |
@@ -46,19 +46,19 @@ Card Alerts puts you in control of how, where, and when your card is used. From 
 
 |                                                                                                         |
 | ------------------------------------------------------------------------------------------------------- |
-| *📍 Navigation path: Banking › Cards › \[select card\] › Card Details › Card Controls › Card Alerts tab* |
+| _📍 Navigation path: Banking › Cards › \[select card] › Card Details › Card Controls › Card Alerts tab_ |
 
 **Step 1 Open Card Details**
 
 From the nFinia top navigation, select Cards. Locate the card you want to configure and click Card Controls at the bottom of that card tile. This opens the Card Details page.
 
-![](images/image2.png)
+![](../../../.gitbook/assets/image2.png)
 
 **Step 2 Select the Card Alerts Tab**
 
 Inside Card Details, find the Card Controls section. Select the Card Alerts tab. The page will show two sub-sections: Spend Alerts at the top, followed by Transaction Type and Merchant Categories controls below.
 
-![](images/image1.png)
+![](../../../.gitbook/assets/image1.png)
 
 **Step 3 Configure Spend Alerts**
 

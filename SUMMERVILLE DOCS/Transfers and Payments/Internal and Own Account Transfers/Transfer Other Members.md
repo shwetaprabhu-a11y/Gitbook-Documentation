@@ -1,10 +1,12 @@
+# CSUM-07-Transfer-Other-Members
+
 **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE · CSUM-08 of 30**
 
 **Transfer to Other Credit Union Members**
 
-Module: nFinia Digital Banking \> Move Money \> Other Members
+Module: nFinia Digital Banking > Move Money > Other Members
 
-*Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet_
 
 > **01 PRODUCT SUMMARY**
 
@@ -18,7 +20,7 @@ Transfers are processed the same business day, and the recipient's account is cr
 
 | **Attribute**   | **Detail**                                                       |
 | --------------- | ---------------------------------------------------------------- |
-| Module          | Move Money \> Transfer to Other Members                          |
+| Module          | Move Money > Transfer to Other Members                           |
 | Recipient Type  | Other members at the same credit union                           |
 | Multi-Recipient | Supported — split payment to multiple members in one transaction |
 | Transfer Speed  | Same business day                                                |
@@ -35,53 +37,53 @@ Transfers are processed the same business day, and the recipient's account is cr
 | Member-to-Member Gift     | Members gifting funds to another CU member            | Select recipient, enter amount, add memo gift note, confirm   | Instant digital gift within the credit union             |
 
 > **03 STEP-BY-STEP GUIDE**
-> 
-> *Navigation: Dashboard \> Move Money \> 'Transfer to Other Members'.*
+>
+> _Navigation: Dashboard > Move Money > 'Transfer to Other Members'._
 
 **Step 1 — Start from Dashboard**
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](images/image2.png)
+![](<../../../.gitbook/assets/image2 (7).png>)
 
-*Step 1: Start from Dashboard*
+_Step 1: Start from Dashboard_
 
 **Step 2 — Navigate to Move Money Hub**
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](images/image4.png)
+![](<../../../.gitbook/assets/image4 (7).png>)
 
-*Step 2: Move Money Hub*
+_Step 2: Move Money Hub_
 
 **Step 3 — Navigate from Dashboard to Other Members Transfer**
 
 The Move Money hub is displayed with a tooltip providing help for selecting a recipient. This is the starting screen for the Transfer to Other Members workflow.
 
-![](images/image5.png)
+![](<../../../.gitbook/assets/image5 (4).png>)
 
-*Step 3: Navigate from Dashboard to Other Members Transfer*
+_Step 3: Navigate from Dashboard to Other Members Transfer_
 
 **Step 4 — Select Recipient & Enter Details**
 
 Step 2 of the other member transfer shows the account selection screen with a message indicating no eligible accounts and a modal prompting the member to select a recipient.
 
-![](images/image6.png)
+![](<../../../.gitbook/assets/image6 (3).png>)
 
-*Step 4: Select Recipient & Enter Details*
+_Step 4: Select Recipient & Enter Details_
 
 **Step 5 — Review Transfer Summary**
 
 A confirmation overlay displays the transfer details for a $5.00 transfer, showing the source and destination account information for member review before submission.
 
-![](images/image3.png)
+![](<../../../.gitbook/assets/image3 (7).png>)
 
-*Step 5: Review Transfer Summary*
+_Step 5: Review Transfer Summary_
 
 **Step 6 — Transfer Complete**
 
 The success screen confirms the $5.00 transfer to another member with a green checkmark, displaying the transaction details and transfer date.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (7).png>)
 
-*Step 6: Transfer Complete*
+_Step 6: Transfer Complete_

@@ -1,14 +1,14 @@
-|                                                                           |
-| ------------------------------------------------------------------------- |
-| **nFinia Digital Banking | Summerville Credit Union | Member User Guide** |
+# Cards-List
+
+|                            |
+| -------------------------- |
+| \*\*nFinia Digital Banking |
 
 **Cards**
 
-|  |
-|  |
-|  |
+\| | | | | |
 
-*Module: Banking › Cards*
+_Module: Banking › Cards_
 
 |                        |
 | ---------------------- |
@@ -47,15 +47,15 @@ The Cards page is your central hub for all enrolled debit and credit cards. At a
 | ------------------------- |
 | **03 STEP-BY-STEP GUIDE** |
 
-|                                      |
-| ------------------------------------ |
-| *📍 Navigation path: Banking › Cards* |
+|                                       |
+| ------------------------------------- |
+| _📍 Navigation path: Banking › Cards_ |
 
 **Step 1 Navigate to the Cards Page**
 
 From the nFinia top navigation bar, click Cards. The Cards page loads all your enrolled debit and credit cards as individual tiles.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (2).png>)
 
 **Step 2 Read Your Card Tiles**
 

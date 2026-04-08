@@ -1,10 +1,12 @@
+# CSUM-15-Online-Forms-Centre
+
 **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE · CSUM-18 of 30**
 
 **Online Forms Centre**
 
-Module: nFinia Digital Banking \> More \> Forms
+Module: nFinia Digital Banking > More > Forms
 
-*Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet_
 
 > **01 PRODUCT SUMMARY**
 
@@ -19,7 +21,7 @@ The forms library also includes informational forms like FICO Score FAQs, privac
 |                 |                                                                          |
 | --------------- | ------------------------------------------------------------------------ |
 | **Attribute**   | **Detail**                                                               |
-| Module          | More \> Forms                                                            |
+| Module          | More > Forms                                                             |
 | Form Count      | 30+ standard CU service request forms                                    |
 | Pre-Population  | Member account data auto-filled where available                          |
 | Submission      | Digital submission routed to appropriate CU department                   |
@@ -38,141 +40,141 @@ The forms library also includes informational forms like FICO Score FAQs, privac
 | IRA Contribution Election | Members managing retirement accounts | Complete IRA Deposit/Contribution Election form               | Digital alternative to paper IRA contribution instructions  |
 
 > **03 STEP-BY-STEP GUIDE**
-> 
-> *Navigation: Dashboard \> More \> 'Forms'.*
+>
+> _Navigation: Dashboard > More > 'Forms'._
 
 **Step 1 — Start from Dashboard**
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](images/01_dashboard_home.png)
+![](../../../.gitbook/assets/01_dashboard_home.png)
 
-*Step 1: Start from Dashboard*
+_Step 1: Start from Dashboard_
 
 **Step 2 — Open the More Menu**
 
 The member clicks ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](images/01_more_menu_top.png)
+![](../../../.gitbook/assets/01_more_menu_top.png)
 
-*Step 2: More Menu*
+_Step 2: More Menu_
 
 **Step 3 — Navigate from Dashboard to Forms**
 
 The Forms page lists all available request forms including ACH Origination, ACH Revoke, Address Change, Card Order, Certificate Renewal, Wire Transfer, and other form types.
 
-![](images/01_forms_list.png)
+![](../../../.gitbook/assets/01_forms_list.png)
 
-*Step 3: Navigate from Dashboard to Forms*
+_Step 3: Navigate from Dashboard to Forms_
 
 **Step 4 — ACH Origination Form**
 
 The ACH Origination Form is displayed with fields for debit authorization details, financial institution search, transfer information, and payment configuration.
 
-![](images/02_ach_origination_form.png)
+![](../../../.gitbook/assets/02_ach_origination_form.png)
 
-*Step 4: ACH Origination Form*
+_Step 4: ACH Origination Form_
 
 **Step 5 — ACH Revoke Form**
 
 The ACH Revoke Origination Form shows fields for member information and account selection to cancel an existing ACH authorization.
 
-![](images/03_ach_revoke_form.png)
+![](../../../.gitbook/assets/03_ach_revoke_form.png)
 
-*Step 5: ACH Revoke Form*
+_Step 5: ACH Revoke Form_
 
 **Step 6 — ACH Stop Payment Form**
 
 The ACH Stop Payment Order form is displayed with member information fields, payment type selection (one-time or permanent), phone number, and amount entry.
 
-![](images/04_ach_stop_payment_form.png)
+![](../../../.gitbook/assets/04_ach_stop_payment_form.png)
 
-*Step 6: ACH Stop Payment Form*
+_Step 6: ACH Stop Payment Form_
 
 **Step 7 — Address Change Form**
 
 The Address Change Form shows the member's current contact information and provides options to update the local address and foreign address on file.
 
-![](images/05_address_change_form.png)
+![](../../../.gitbook/assets/05_address_change_form.png)
 
-*Step 7: Address Change Form*
+_Step 7: Address Change Form_
 
 **Step 8 — Card Order Request**
 
 The Card Order Request form allows members to request new, replacement, or upgraded cards with options for personal delivery or mailing.
 
-![](images/06_card_order_request_form.png)
+![](../../../.gitbook/assets/06_card_order_request_form.png)
 
-*Step 8: Card Order Request*
+_Step 8: Card Order Request_
 
 **Step 9 — Certificate Renewal Form**
 
 The Certificate Account Renewal Request form is displayed with options for renewal type, term selection (ranging from 6 months to 5 years), and dividend payment preferences.
 
-![](images/07_certificate_renewal_form.png)
+![](../../../.gitbook/assets/07_certificate_renewal_form.png)
 
-*Step 9: Certificate Renewal Form*
+_Step 9: Certificate Renewal Form_
 
 **Step 10 — Courtesy Pay Request**
 
 The Courtesy Pay Request Form shows the terms, conditions, and sign-up options for the overdraft protection service.
 
-![](images/08_courtesy_pay_form.png)
+![](../../../.gitbook/assets/08_courtesy_pay_form.png)
 
-*Step 10: Courtesy Pay Request*
+_Step 10: Courtesy Pay Request_
 
 **Step 11 — Credit Card Balance Transfer**
 
 The Credit Card Balance Transfer Form is displayed with fields for entering transfer details and reviewing the applicable terms.
 
-![](images/09_credit_card_balance_transfer_form.png)
+![](../../../.gitbook/assets/09_credit_card_balance_transfer_form.png)
 
-*Step 11: Credit Card Balance Transfer*
+_Step 11: Credit Card Balance Transfer_
 
 **Step 12 — Domestic Wire Transfer Form**
 
 The Domestic Outgoing Wire Transfer Request form is shown with fields for beneficiary details, bank routing information, and transfer amount.
 
-![](images/10_domestic_wire_transfer_form.png)
+![](../../../.gitbook/assets/10_domestic_wire_transfer_form.png)
 
-*Step 12: Domestic Wire Transfer Form*
+_Step 12: Domestic Wire Transfer Form_
 
 **Step 13 — Payment Due Date Change**
 
 The Payment Due Date Change Request Form is displayed with fields for selecting the account and modifying the payment due date.
 
-![](images/11_payment_due_date_form.png)
+![](../../../.gitbook/assets/11_payment_due_date_form.png)
 
-*Step 13: Payment Due Date Change*
+_Step 13: Payment Due Date Change_
 
 **Step 14 — Payroll Direct Deposit Form**
 
 The Payroll Direct Deposit Form is shown for setting up automatic payroll deposits directly into the member's bank account.
 
-![](images/12_payroll_direct_deposit_form.png)
+![](../../../.gitbook/assets/12_payroll_direct_deposit_form.png)
 
-*Step 14: Payroll Direct Deposit Form*
+_Step 14: Payroll Direct Deposit Form_
 
 **Step 15 — Skip Payment Form**
 
 The Skip Payment Form is displayed for requesting to skip an upcoming loan or credit card payment.
 
-![](images/13_skip_payment_form.png)
+![](../../../.gitbook/assets/13_skip_payment_form.png)
 
-*Step 15: Skip Payment Form*
+_Step 15: Skip Payment Form_
 
 **Step 16 — Check Stop Payment Form**
 
 The Check Stop Payment form is shown with fields and options for stopping payment on a specific check.
 
-![](images/14_check_stop_payment_form.png)
+![](../../../.gitbook/assets/14_check_stop_payment_form.png)
 
-*Step 16: Check Stop Payment Form*
+_Step 16: Check Stop Payment Form_
 
 **Step 17 — Overdraft Coverage Application**
 
 The Overdraft Coverage Application form allows members to set up overdraft protection for their checking account. Members select their membership number, phone number, email address, and an optional alternative phone number. The form provides two coverage preference choices: a First Choice and Second Choice source, with options including Savings and Credit Card. Notes explain that choosing a Visa Credit Card as overdraft coverage will automatically advance funds in multiples of $100 up to the available credit limit with no fee, though interest accrues from the advance date. Courtesy Pay may also cover insufficient items up to $2,000 for a $15 per covered item fee, subject to FICO score qualification of 600 or above and good standing. The form links to the Membership and Account Agreement and the Checking and Savings Account Disclosure for full details.
 
-![](images/15_overdraft_coverage_form.png)
+![](../../../.gitbook/assets/15_overdraft_coverage_form.png)
 
-*Step 17: Overdraft Coverage Application*
+_Step 17: Overdraft Coverage Application_

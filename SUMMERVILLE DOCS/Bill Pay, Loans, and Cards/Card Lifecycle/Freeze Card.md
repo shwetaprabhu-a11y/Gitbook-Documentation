@@ -1,10 +1,12 @@
+# Freeze-Card
+
 |                                                          |
 | -------------------------------------------------------- |
 | **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE** |
 
 **Freeze Card**
 
-Module: nFinia Digital Banking \> Cards \> Card Details \> Freeze Card
+Module: nFinia Digital Banking > Cards > Card Details > Freeze Card
 
 |                        |
 | ---------------------- |
@@ -18,7 +20,7 @@ Freezing a card blocks new purchase and transaction approvals while the card rem
 
 | **Attribute**         | **Detail**                                                     |
 | --------------------- | -------------------------------------------------------------- |
-| Module                | nFinia Digital Banking \> Cards \> Card Details \> Freeze Card |
+| Module                | nFinia Digital Banking > Cards > Card Details > Freeze Card    |
 | Effect                | Immediately blocks new card transactions                       |
 | Reversible            | Yes — card can be unfrozen at any time from the Cards list     |
 | Card Status Indicator | Toggle displayed on the Cards list (On = active, Off = frozen) |
@@ -39,31 +41,31 @@ Freezing a card blocks new purchase and transaction approvals while the card rem
 | ------------------------- |
 | **03 STEP-BY-STEP GUIDE** |
 
-*Navigation: Log in to Summerville Credit Union online banking. From the Dashboard, click Cards in the top navigation bar.*
+_Navigation: Log in to Summerville Credit Union online banking. From the Dashboard, click Cards in the top navigation bar._
 
 **Step 1 — Arrive at the Dashboard**
 
 After logging in, you land on the Dashboard displaying your account balances, recent payments, and quick-access shortcuts. The top navigation bar includes a Cards link that takes you directly to your full card list, where you can manage all cards linked to your membership.
 
-![Step 1: Dashboard — click Cards in the top navigation to access your card list](images/image3.png)
+![Step 1: Dashboard — click Cards in the top navigation to access your card list](../../../.gitbook/assets/image3.png)
 
-*Step 1: Dashboard — click Cards in the top navigation to access your card list*
+_Step 1: Dashboard — click Cards in the top navigation to access your card list_
 
 **Step 2 — Select Your Card and Open Freeze Card**
 
 From the Cards list, locate the card you want to freeze. Click into the card to open its Card Details view. From the card options displayed — which include Card Controls, Set PIN, and Deactivate / Replace Card — select Freeze Card. The Freeze Card confirmation page opens, showing the last four digits of the card to be frozen.
 
-![Step 2: Freeze Card confirmation — review the card details before proceeding](images/image1.png)
+![Step 2: Freeze Card confirmation — review the card details before proceeding](<../../../.gitbook/assets/image1 (2).png>)
 
-*Step 2: Freeze Card confirmation — review the card details before proceeding*
+_Step 2: Freeze Card confirmation — review the card details before proceeding_
 
 **Step 3 — Confirm the Freeze**
 
-The confirmation screen asks: "Are you sure you want to freeze card ending \[last 4 digits\]?" Review the card information to ensure you are freezing the correct card. Click Yes, Freeze Card to apply the freeze immediately, or click No, Cancel to exit without making any changes. The freeze takes effect the moment you confirm — no further steps are required.
+The confirmation screen asks: "Are you sure you want to freeze card ending \[last 4 digits]?" Review the card information to ensure you are freezing the correct card. Click Yes, Freeze Card to apply the freeze immediately, or click No, Cancel to exit without making any changes. The freeze takes effect the moment you confirm — no further steps are required.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (2).png>)
 
-*Step 3: Freeze confirmed — the card is now blocked from new transactions*
+_Step 3: Freeze confirmed — the card is now blocked from new transactions_
 
 |                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |

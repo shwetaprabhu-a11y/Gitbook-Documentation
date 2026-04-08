@@ -1,10 +1,12 @@
+# Deactivate-Replace-Card
+
 |                                                          |
 | -------------------------------------------------------- |
 | **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE** |
 
 **Deactivate / Replace Card**
 
-Module: nFinia Digital Banking \> Cards \> Card Details \> Deactivate / Replace Card
+Module: nFinia Digital Banking > Cards > Card Details > Deactivate / Replace Card
 
 |                        |
 | ---------------------- |
@@ -16,14 +18,14 @@ The flow begins by describing what happened to your card and selecting an action
 
 **At a Glance**
 
-| **Attribute**       | **Detail**                                                                   |
-| ------------------- | ---------------------------------------------------------------------------- |
-| Module              | nFinia Digital Banking \> Cards \> Card Details \> Deactivate / Replace Card |
-| Deactivate Only     | Permanently disables the card — no replacement issued                        |
-| Request Replacement | Issues a digital card instantly; physical card mailed within 5 days          |
-| PIN Required        | A new 5-digit PIN must be set for the replacement card                       |
-| Reversible          | No — deactivation is permanent                                               |
-| Related Features    | Freeze Card, Activate Card, Set PIN                                          |
+| **Attribute**       | **Detail**                                                                |
+| ------------------- | ------------------------------------------------------------------------- |
+| Module              | nFinia Digital Banking > Cards > Card Details > Deactivate / Replace Card |
+| Deactivate Only     | Permanently disables the card — no replacement issued                     |
+| Request Replacement | Issues a digital card instantly; physical card mailed within 5 days       |
+| PIN Required        | A new 5-digit PIN must be set for the replacement card                    |
+| Reversible          | No — deactivation is permanent                                            |
+| Related Features    | Freeze Card, Activate Card, Set PIN                                       |
 
 |                      |
 | -------------------- |
@@ -39,36 +41,36 @@ The flow begins by describing what happened to your card and selecting an action
 | ------------------------- |
 | **03 STEP-BY-STEP GUIDE** |
 
-*Navigation: Log in to Summerville Credit Union online banking. From the Dashboard, click Cards in the top navigation, select your card, then click Deactivate / Replace Card.*
+_Navigation: Log in to Summerville Credit Union online banking. From the Dashboard, click Cards in the top navigation, select your card, then click Deactivate / Replace Card._
 
 **Step 1 — Arrive at the Dashboard**
 
 After logging in, you land on the Dashboard showing your account balances and navigation links. Click Cards in the top navigation bar to access your card list, then select the card you want to manage.
 
-![Step 1: Dashboard — navigate to Cards to begin](images/image4.png)
+![Step 1: Dashboard — navigate to Cards to begin](../../../.gitbook/assets/image4.png)
 
-*Step 1: Dashboard — navigate to Cards to begin*
+_Step 1: Dashboard — navigate to Cards to begin_
 
 **Step 2 — Select What Happened and Choose an Action**
 
 The Deactivate / Replace Card page opens. Use the "What happened to your card?" dropdown to describe the situation, and optionally add a description. Then select one of two options: Deactivate Card (permanent, no replacement) or Request Replacement & Deactivate Card (issues a new card and disables the current one). Click Continue to proceed.
 
-![Step 2: Choose to deactivate only or request a replacement](images/image1.png)
+![Step 2: Choose to deactivate only or request a replacement](<../../../.gitbook/assets/image1 (2).png>)
 
-*Step 2: Choose to deactivate only or request a replacement*
+_Step 2: Choose to deactivate only or request a replacement_
 
 **Step 3 — Configure Replacement Card Details**
 
 If you selected Request Replacement, this screen asks whether you want a physical copy mailed to you. Choose Yes, Please to receive a physical card at your address on file (shown and editable via Change Address), or No, just digital to receive the digital card only. Enter and confirm a new 5-digit PIN for the replacement card, then click Request Replacement and Deactivate Card to submit.
 
-![Step 3: Set your delivery preference and new PIN for the replacement card](images/image3.png)
+![Step 3: Set your delivery preference and new PIN for the replacement card](../../../.gitbook/assets/image3.png)
 
-*Step 3: Set your delivery preference and new PIN for the replacement card*
+_Step 3: Set your delivery preference and new PIN for the replacement card_
 
 **Step 4 — Confirm Deactivation**
 
 A success screen confirms that your card has been deactivated. The message states that the card can no longer perform transactions. Click Go to Cards to return to your card list, or Go to Dashboard to return to the main banking dashboard.
 
-![Step 4: Deactivation confirmed — the card is permanently disabled](images/image2.png)
+![Step 4: Deactivation confirmed — the card is permanently disabled](<../../../.gitbook/assets/image2 (2).png>)
 
-*Step 4: Deactivation confirmed — the card is permanently disabled*
+_Step 4: Deactivation confirmed — the card is permanently disabled_

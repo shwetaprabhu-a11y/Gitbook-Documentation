@@ -1,10 +1,12 @@
+# Usage-Control
+
 |                                                          |
 | -------------------------------------------------------- |
 | **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE** |
 
 **Usage Control**
 
-Module: nFinia Digital Banking \> Cards \> Card Details \> Card Controls \> Usage Control
+Module: nFinia Digital Banking > Cards > Card Details > Card Controls > Usage Control
 
 |                        |
 | ---------------------- |
@@ -18,7 +20,7 @@ Each transaction type and merchant category can be toggled on or off individuall
 
 | **Attribute**       | **Detail**                                                                                                       |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Module              | nFinia Digital Banking \> Cards \> Card Details \> Card Controls \> Usage Control                                |
+| Module              | nFinia Digital Banking > Cards > Card Details > Card Controls > Usage Control                                    |
 | Transaction Types   | In Store, ATM, Mail/Phone Order, eCommerce, Household, Restaurant, Grocery, Personal Care, Other, Age Restricted |
 | Merchant Categories | Department Store, Gas Station, and more                                                                          |
 | Toggle              | Each type/category controlled independently                                                                      |
@@ -40,20 +42,20 @@ Each transaction type and merchant category can be toggled on or off individuall
 | ------------------------- |
 | **03 STEP-BY-STEP GUIDE** |
 
-*Navigation: Log in to Summerville Credit Union online banking. From the Dashboard, click Cards, select your card, click Card Controls, then select Usage Control.*
+_Navigation: Log in to Summerville Credit Union online banking. From the Dashboard, click Cards, select your card, click Card Controls, then select Usage Control._
 
 **Step 1 — Arrive at the Dashboard**
 
 After logging in, you land on the Dashboard. Click Cards in the top navigation, select your card, then open Card Controls from the Card Details page.
 
-![Step 1: Dashboard — click Cards to begin](images/image2.png)
+![Step 1: Dashboard — click Cards to begin](../../../.gitbook/assets/image2.png)
 
-*Step 1: Dashboard — click Cards to begin*
+_Step 1: Dashboard — click Cards to begin_
 
 **Step 2 — Configure Transaction Types and Merchant Categories**
 
 The Usage Control tab displays two columns: Transaction Type and Merchant Categories. Each item has a toggle that can be turned on or off. Disabled items show an Off indicator. Toggle any type or category to control whether your card is accepted for that use. Changes take effect immediately — no save button is needed.
 
-![](images/image1.png)
+![](../../../.gitbook/assets/image1.png)
 
-*Step 2: Toggle individual transaction types and merchant categories on or off*
+_Step 2: Toggle individual transaction types and merchant categories on or off_

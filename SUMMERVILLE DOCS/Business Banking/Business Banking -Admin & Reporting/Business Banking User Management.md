@@ -1,12 +1,14 @@
+# CSUM-07 Business Banking User Management
+
 **SUMMERVILLE CREDIT UNION · BUSINESS BANKING USER GUIDE · CSUM-07 of 16**
 
 **User Management**
 
-Module: Business Banking \> Manage Users
+Module: Business Banking > Manage Users
 
 **Navigation: Dashboard → Business Banking → User Management**
 
-*Sources: Summerville Reports Series A + Series B | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A + Series B | Features: nFinia Documentation Features Spreadsheet_
 
 |                        |
 | ---------------------- |
@@ -23,7 +25,7 @@ For credit unions, robust user management is essential for serving multi-employe
 | **Attribute**            | **Detail**                                                               |
 | ------------------------ | ------------------------------------------------------------------------ |
 | **Feature Name**         | User Management                                                          |
-| **Module**               | Business Banking \> Manage Users                                         |
+| **Module**               | Business Banking > Manage Users                                          |
 | **Navigation**           | Dashboard → Business Banking → User Management                           |
 | **User Roles**           | Business Admin, Business Owner                                           |
 | **Access Level**         | Admin-only; requires User Management permission                          |
@@ -52,62 +54,62 @@ For credit unions, robust user management is essential for serving multi-employe
 
 Open your web browser and navigate to the Summerville Credit Union digital banking platform. Enter your username and password on the login screen and click "Log In." If prompted, complete the OTP (One-Time Passcode) verification by entering the code sent to your registered device. After successful authentication, you will land on the Dashboard — also called the Account Overview screen. This is your home base. The Dashboard displays all your business accounts (Savings Accounts, Checking Accounts) with their available and current balances. The top navigation bar shows links to Dashboard, Accounts, Transfer & Pay, Cards, Business Banking, and More. On the right sidebar you will see Related Links (Change Password, Account Settings, View Scheduled Transfers, Account Specific Alerts) and a Quick Transfer widget for fast internal transfers. To proceed to Business Banking features, locate the "Business Banking" tab in the top navigation bar and click on it.
 
-![Figure 1 — Log In and Open the Dashboard](images/image2.png)
+![Figure 1 — Log In and Open the Dashboard](<../../../.gitbook/assets/image2 (3).png>)
 
-*Figure 1 — Log In and Open the Dashboard*
+_Figure 1 — Log In and Open the Dashboard_
 
 **Step 2: Open the Business Banking Hub**
 
 After clicking "Business Banking" in the top navigation bar, the Business Banking Hub loads. This is the central command center for all commercial banking operations. The Hub is organized into three sections: "Transfers" at the top (with tiles for ACH Transfer, Domestic Wire Transfer, Transfer Template, and Payment From File), "Manage" in the middle (with tiles for Role Management, User Management, Approval Settings, and Recipient Management), and "More Options" at the bottom (with tiles for Commercial Activity, Reports, and Approvals). Each tile is a direct entry point to its corresponding feature. Only tiles your role has permission to access will be visible. From here, locate and click the tile for the feature you need — the next steps will guide you through the specific workflow.
 
-![Figure 2 — Open the Business Banking Hub](images/image1.png)
+![Figure 2 — Open the Business Banking Hub](<../../../.gitbook/assets/image1 (3).png>)
 
-*Figure 2 — Open the Business Banking Hub*
+_Figure 2 — Open the Business Banking Hub_
 
 **Step 3: Navigate to User Management**
 
 From the Dashboard, click "Business Banking" in the left-side navigation menu to open the Business Banking Hub. In the "Manage" section, click the "User Management" tile. The User Management page opens to the "Active Users" tab by default. You will see a list of all team members who currently have active access to business banking. Each entry shows the user's full name, assigned role (e.g., testrole, View-only), and email address. Status tabs across the top — Active Users, New Auth. Signers, Invited, Locked, Deactivated — let you switch between user lifecycle stages. Use the search bar to find a specific user. Click "Invite User" to onboard a new team member.
 
-![Figure 3 — Navigate to User Management](images/image6.png)
+![Figure 3 — Navigate to User Management](../../../.gitbook/assets/image6.png)
 
-*Figure 3 — Navigate to User Management*
+_Figure 3 — Navigate to User Management_
 
 **Step 4: Scroll to View All Active Users**
 
 If your organization has more users than fit on one screen, scroll down to see the complete list of active users. Every entry maintains the same format: name, role, and email. Use this full list to audit your team's access — verify that every active user should still have access and that their assigned roles match their current job responsibilities. If you notice a user who should no longer have access (e.g., a departed employee), proceed to deactivate them using the steps described later in this guide.
 
-![Figure 4 — Scroll to View All Active Users](images/image3.png)
+![Figure 4 — Scroll to View All Active Users](<../../../.gitbook/assets/image3 (3).png>)
 
-*Figure 4 — Scroll to View All Active Users*
+_Figure 4 — Scroll to View All Active Users_
 
 **Step 5: Review New Authorized Signers**
 
 Click the "New Authorized Signers" tab. This tab shows individuals who have been added as authorized signers at the credit union branch level but have not yet been assigned a role in the digital banking platform. Each entry shows the signer's name and their pending status. To complete their setup, click on the signer's entry and assign them an appropriate role from the role dropdown. Once a role is assigned, the signer will move to the Active Users tab and gain access to the business banking features defined by their role.
 
-![Figure 5 — Review New Authorized Signers](images/image8.png)
+![Figure 5 — Review New Authorized Signers](../../../.gitbook/assets/image8.png)
 
-*Figure 5 — Review New Authorized Signers*
+_Figure 5 — Review New Authorized Signers_
 
 **Step 6: Check Invited Users Status**
 
 Click the "Invited Users" tab to see all pending invitations. Each entry shows the invited person's email address, the invitation date, and the pre-assigned role. If an invitation has expired (check the date), click the "Resend" button to send a new invitation. Follow up with team members who have not completed their registration — they need to click the invitation link and complete the enrollment process before they can access business banking.
 
-![Figure 6 — Check Invited Users Status](images/image5.png)
+![Figure 6 — Check Invited Users Status](../../../.gitbook/assets/image5.png)
 
-*Figure 6 — Check Invited Users Status*
+_Figure 6 — Check Invited Users Status_
 
 **Step 7: Manage Locked Users**
 
 Click the "Locked Users" tab to see accounts that have been temporarily locked (either manually by an administrator or automatically due to security triggers like multiple failed login attempts). Each entry shows the user's name, role, and lock reason/date. To unlock a user, click on their entry and select "Unlock." Verify the user's identity before unlocking — call or email them to confirm they are the person requesting access. The unlock restores their previous role and permissions without reconfiguration.
 
-![Figure 7 — Manage Locked Users](images/image4.png)
+![Figure 7 — Manage Locked Users](<../../../.gitbook/assets/image4 (3).png>)
 
-*Figure 7 — Manage Locked Users*
+_Figure 7 — Manage Locked Users_
 
 **Step 8: View Deactivated Users**
 
 Click the "Deactivated Users" tab to see all former users whose access has been permanently revoked. Each entry shows the user's name, former role, and deactivation date. Deactivated users cannot be simply reactivated — they must be re-invited through the standard onboarding process if they need access again. This tab serves as an audit trail of who previously had access and when their access was revoked. Review this list during compliance audits to demonstrate proper offboarding procedures.
 
-![Figure 8 — View Deactivated Users](images/image7.png)
+![Figure 8 — View Deactivated Users](../../../.gitbook/assets/image7.png)
 
-*Figure 8 — View Deactivated Users*
+_Figure 8 — View Deactivated Users_

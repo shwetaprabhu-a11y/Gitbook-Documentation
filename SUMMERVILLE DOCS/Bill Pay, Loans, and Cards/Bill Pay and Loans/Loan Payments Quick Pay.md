@@ -1,10 +1,12 @@
+# CSUM-13-Loan-Payments-Quick-Pay
+
 **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE · CSUM-14 of 30**
 
 **Loan Payments & Quick Pay**
 
-Module: nFinia Digital Banking \> Move Money \> Quick Pay
+Module: nFinia Digital Banking > Move Money > Quick Pay
 
-*Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet_
 
 > **01 PRODUCT SUMMARY**
 
@@ -18,7 +20,7 @@ The Pay Loan from External Account feature allows members to link an external ba
 
 | **Attribute**    | **Detail**                                                      |
 | ---------------- | --------------------------------------------------------------- |
-| Module           | Move Money \> Quick Pay (SSO)                                   |
+| Module           | Move Money > Quick Pay (SSO)                                    |
 | Loan Types       | Auto, Personal, Consumer, Mortgage, Line of Credit, Credit Card |
 | Payment Sources  | Any linked CU account; external account for loan repayments     |
 | Steps            | 2 (Select Loan → Enter Amount)                                  |
@@ -35,37 +37,37 @@ The Pay Loan from External Account feature allows members to link an external ba
 | External Account Loan Payment | Members whose income deposits elsewhere        | Link external bank account as loan payment source        | Enables loan payment from a non-CU account without ACH setup |
 
 > **03 STEP-BY-STEP GUIDE**
-> 
-> *Navigation: Dashboard \> Move Money \> 'Quick Pay' OR Dashboard account tile \> Pay Now.*
+>
+> _Navigation: Dashboard > Move Money > 'Quick Pay' OR Dashboard account tile > Pay Now._
 
 **Step 1 — Start from Dashboard**
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](images/image3.png)
+![](<../../../.gitbook/assets/image3 (1).png>)
 
-*Step 1: Start from Dashboard*
+_Step 1: Start from Dashboard_
 
 **Step 2 — Navigate to Move Money Hub**
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (1).png>)
 
-*Step 2: Move Money Hub*
+_Step 2: Move Money Hub_
 
 **Step 3 — Navigate from Dashboard to Quick Pay**
 
 The Quick Pay page displays the loan selection screen with red action buttons for selecting different loan accounts to make a payment.
 
-![](images/image4.png)
+![](<../../../.gitbook/assets/image4 (2).png>)
 
-*Step 3: Navigate from Dashboard to Quick Pay*
+_Step 3: Navigate from Dashboard to Quick Pay_
 
 **Step 4 — Select Loan & Enter Payment Amount**
 
 The Bill Pay form is displayed from the Summerville banking interface with form fields for entering payment details and selecting the loan to pay.
 
-![](images/image2.png)
+![](<../../../.gitbook/assets/image2 (1).png>)
 
-*Step 4: Select Loan & Enter Payment Amount*
+_Step 4: Select Loan & Enter Payment Amount_

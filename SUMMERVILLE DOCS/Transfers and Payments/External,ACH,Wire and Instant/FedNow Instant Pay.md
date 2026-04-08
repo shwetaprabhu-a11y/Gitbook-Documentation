@@ -1,10 +1,12 @@
+# CSUM-09-FedNow-Instant-Pay
+
 **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE · CSUM-10 of 30**
 
 **FedNow Instant Pay**
 
-Module: nFinia Digital Banking \> Move Money \> FedNow Instant Pay
+Module: nFinia Digital Banking > Move Money > FedNow Instant Pay
 
-*Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet*
+_Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet_
 
 > **01 PRODUCT SUMMARY**
 
@@ -19,7 +21,7 @@ Instant Pay History provides a log of all real-time payment transactions, giving
 |                  |                                                     |
 | ---------------- | --------------------------------------------------- |
 | **Attribute**    | **Detail**                                          |
-| Module           | Move Money \> FedNow Instant Pay / Send Instantly   |
+| Module           | Move Money > FedNow Instant Pay / Send Instantly    |
 | Network          | Federal Reserve FedNow + The Clearing House RTP     |
 | Settlement Speed | Seconds — 24/7/365 including weekends and holidays  |
 | Reversibility    | Irrevocable — cannot be recalled once sent          |
@@ -37,53 +39,53 @@ Instant Pay History provides a log of all real-time payment transactions, giving
 | Instant Confirmation     | Members needing immediate proof of payment      | FedNow confirmation is immediate with a reference number         | Verifiable instant receipt for payer and recipient              |
 
 > **03 STEP-BY-STEP GUIDE**
-> 
-> *Navigation: Dashboard \> Move Money \> 'FedNow Instant Pay' OR 'Send Instantly'.*
+>
+> _Navigation: Dashboard > Move Money > 'FedNow Instant Pay' OR 'Send Instantly'._
 
 **Step 1 — Start from Dashboard**
 
 The member begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More.
 
-![](images/01_dashboard_home.png)
+![](<../../../.gitbook/assets/01_dashboard_home (1).png>)
 
-*Step 1: Start from Dashboard*
+_Step 1: Start from Dashboard_
 
 **Step 2 — Navigate to Move Money Hub**
 
 The member clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](images/01_move_money_landing.png)
+![](../../../.gitbook/assets/01_move_money_landing.png)
 
-*Step 2: Move Money Hub*
+_Step 2: Move Money Hub_
 
 **Step 3 — Navigate from Dashboard to FedNow**
 
 The Move Money hub is shown as the landing page for initiating a FedNow Instant Payment transfer.
 
-![](images/01_step1_select_account.png)
+![](../../../.gitbook/assets/01_step1_select_account.png)
 
-*Step 3: Navigate from Dashboard to FedNow*
+_Step 3: Navigate from Dashboard to FedNow_
 
 **Step 4 — Fill Payment Form**
 
 Step 2 of the FedNow transfer shows a form with fields for entering transfer details and recipient information for the instant payment.
 
-![](images/02_step2_fill_form.png)
+![](../../../.gitbook/assets/02_step2_fill_form.png)
 
-*Step 4: Fill Payment Form*
+_Step 4: Fill Payment Form_
 
 **Step 5 — Review & Accept Terms**
 
 The FedNow Terms and Conditions page is displayed with checkboxes for accepting the agreement before proceeding with the instant payment.
 
-![](images/03_terms_and_conditions.png)
+![](../../../.gitbook/assets/03_terms_and_conditions.png)
 
-*Step 5: Review & Accept Terms*
+_Step 5: Review & Accept Terms_
 
 **Step 6 — Final Confirmation & Send**
 
 The final confirmation screen shows a FedNow instant transfer of $1,000 with full transaction details and a confirmation button to complete the payment.
 
-![](images/04_confirm_1000.png)
+![](../../../.gitbook/assets/04_confirm_1000.png)
 
-*Step 6: Final Confirmation & Send*
+_Step 6: Final Confirmation & Send_

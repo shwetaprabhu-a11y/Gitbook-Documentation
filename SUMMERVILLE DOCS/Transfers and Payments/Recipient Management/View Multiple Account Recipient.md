@@ -1,10 +1,12 @@
+# CSUM-View-Multiple-Account-Recipient
+
 **DIAMOND CREDIT UNION · BUSINESS BANKING GUIDE · View Multiple-Account Recipient**
 
 **View Multiple-Account Recipient**
 
-Module: nFinia Digital Banking \> Business Banking \> Transfer & Pay \> Recipient Management
+Module: nFinia Digital Banking > Business Banking > Transfer & Pay > Recipient Management
 
-*Platform: Diamond Credit Union nFinia | Feature: Transfer Account Details | Workflow: View and Inspect a Multi-Account Recipient*
+_Platform: Diamond Credit Union nFinia | Feature: Transfer Account Details | Workflow: View and Inspect a Multi-Account Recipient_
 
 > **01 PRODUCT SUMMARY**
 
@@ -19,7 +21,7 @@ For credit unions, this visibility layer is critical to payment accuracy and aud
 | **Attribute**     | **Detail**                                                                      |
 | ----------------- | ------------------------------------------------------------------------------- |
 | Feature Name      | View Multiple-Account Recipient                                                 |
-| Module            | Business Banking \> Transfer & Pay \> Recipient Management                      |
+| Module            | Business Banking > Transfer & Pay > Recipient Management                        |
 | User Roles        | Business Admin, Authorized Signer                                               |
 | Key Screens       | Transfer Account Management, Transfer Account Details, Account Details modal    |
 | Verification      | VERIFIED badge displayed for ACH pre-noted accounts                             |
@@ -27,37 +29,37 @@ For credit unions, this visibility layer is critical to payment accuracy and aud
 | Actions Available | Provide Funds, Edit Account, Remove Transfer Account                            |
 
 > **02 STEP-BY-STEP GUIDE**
-> 
-> *Navigation: Business Banking \> Transfer & Pay \> Recipient Management \> \[Select recipient\] \> \[Select account row\].*
+>
+> _Navigation: Business Banking > Transfer & Pay > Recipient Management > \[Select recipient] > \[Select account row]._
 
 **Step 1 — Transfer Account Management**
 
 The admin navigates to Transfer Account Management via Transfer & Pay, which displays all saved recipients as a searchable grid. Each card shows the recipient name, account count, and associated membership — recipients with multiple linked accounts are visible at a glance by their account count. The admin clicks the target recipient to open their Transfer Account Details view.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (8).png>)
 
-*Step 1: Transfer Account Management — Select Recipient*
+_Step 1: Transfer Account Management — Select Recipient_
 
 **Step 2 — Transfer Account Details: Two Accounts**
 
 The Transfer Account Details screen for Jamie Smith (Dunder Mifflin, Inc.) displays both linked ACH accounts in a single view: “Jamie” and “James,” each showing its nickname, payment method, and financial institution. Every account row carries an independent “Provide Funds” button, allowing the admin to direct a payment to either account without modifying the recipient record or selecting from a separate list.
 
-![](images/image2.png)
+![](<../../../.gitbook/assets/image2 (8).png>)
 
-*Step 2: Transfer Account Details — Multiple Accounts*
+_Step 2: Transfer Account Details — Multiple Accounts_
 
 **Step 3 — Account Details: James (Savings)**
 
 Clicking the overflow menu on an account row opens the Account Details modal, surfacing the complete record for that account: account type, account holder name, ABA routing number, and the resolved financial institution name and address. This view lets the admin confirm the correct account is targeted before initiating a transfer — particularly important when a recipient has multiple accounts at the same institution.
 
-![](images/image3.png)
+![](<../../../.gitbook/assets/image3 (8).png>)
 
-*Step 3: Account Details Modal — James (Savings, ACH)*
+_Step 3: Account Details Modal — James (Savings, ACH)_
 
 **Step 4 — Account Details: Jamie (Checking, Verified)**
 
 The Account Details modal for “Jamie” displays a VERIFIED status badge, confirming this account has passed ACH pre-notification validation — a NACHA best practice that sends a zero-dollar test entry before the first live credit or debit. The admin can review the full record — account holder Jamie Smith, account type Checking, account number, ABA routing number 063106145, and BANK OF AMERICA, N.A. at 620 South Tryon Street, Charlotte, NC — and edit or save directly from this modal.
 
-![](images/image4.png)
+![](<../../../.gitbook/assets/image4 (8).png>)
 
-*Step 4: Account Details Modal — Jamie (Checking, VERIFIED)*
+_Step 4: Account Details Modal — Jamie (Checking, VERIFIED)_

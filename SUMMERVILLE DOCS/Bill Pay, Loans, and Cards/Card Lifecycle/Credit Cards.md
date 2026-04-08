@@ -1,10 +1,12 @@
+# Credit-Cards
+
 |                                                          |
 | -------------------------------------------------------- |
 | **SUMMERVILLE CREDIT UNION · CONSOLIDATED MEMBER GUIDE** |
 
 **Credit Cards**
 
-Module: nFinia Digital Banking \> Cards \> Credit Card Accounts
+Module: nFinia Digital Banking > Cards > Credit Card Accounts
 
 |                        |
 | ---------------------- |
@@ -19,7 +21,7 @@ From online banking, you can view your credit card balance, available credit, cu
 | **Attribute**         | **Detail**                                                               |
 | --------------------- | ------------------------------------------------------------------------ |
 | Card Network          | Visa                                                                     |
-| Access in OLB         | Cards section \> select your credit card                                 |
+| Access in OLB         | Cards section > select your credit card                                  |
 | Information Available | Balance, available credit, statement, minimum payment, due date, rewards |
 | Payments              | Make one-time or recurring payments from linked accounts                 |
 | Card Management       | Card Controls, Set PIN, Deactivate / Replace, Link to Digital Wallet     |
@@ -40,23 +42,23 @@ From online banking, you can view your credit card balance, available credit, cu
 | ------------------------- |
 | **03 STEP-BY-STEP GUIDE** |
 
-*Navigation: Log in to Summerville Credit Union online banking. Click Cards in the top navigation bar and select your credit card, or navigate to Accounts to view the credit card account.*
+_Navigation: Log in to Summerville Credit Union online banking. Click Cards in the top navigation bar and select your credit card, or navigate to Accounts to view the credit card account._
 
 **Step 1 — Arrive at the Dashboard**
 
 After logging in, you land on the Dashboard showing your account balances, recent payments, and quick-action shortcuts. Your credit card is listed alongside your debit cards in the Cards section. You can also access it from the Accounts section.
 
-![Step 1: Dashboard — starting point for navigation](images/image2.png)
+![Step 1: Dashboard — starting point for navigation](<../../../.gitbook/assets/image2 (2).png>)
 
-*Step 1: Dashboard — starting point for navigation*
+_Step 1: Dashboard — starting point for navigation_
 
 **Step 2 — View Credit Card Details and Make a Payment**
 
 On the Cards page, select your credit card. The card tile shows your available credit, current balance, minimum payment due, due date, and reward points. To make a payment, use the Quick Transfer widget on the right sidebar — select your credit card as the destination and your checking or savings account as the source. Enter the payment amount and click Confirm.
 
-![](images/image1.png)
+![](<../../../.gitbook/assets/image1 (2).png>)
 
-*Step 2: Credit card displayed in the Cards list with balance and quick action links*
+_Step 2: Credit card displayed in the Cards list with balance and quick action links_
 
 |                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
