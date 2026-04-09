@@ -96,7 +96,7 @@ is created with deposit event details for BSA/AML and Reg CC compliance.
 
 **Screen 1: Deposit Form — Initial State**
 
-![](/.gitbook/assets/64afc208a3772843837d1c9c315c68a6ed676afc.png)
+<figure><img src="/.gitbook/assets/64afc208a3772843837d1c9c315c68a6ed676afc.png" alt="" width="340"><figcaption></figcaption></figure>
 
 *Figure 1: Deposit form with account selector and camera buttons*
 
@@ -112,7 +112,7 @@ is created with deposit event details for BSA/AML and Reg CC compliance.
 
 **Screen 2: Photo Tips Modal**
 
-![](/.gitbook/assets/e03a6bc5d4860110e2dbe8ed156d240f649b3f6c.png)
+<figure><img src="/.gitbook/assets/e03a6bc5d4860110e2dbe8ed156d240f649b3f6c.png" alt="" width="340"><figcaption></figcaption></figure>
 
 *Figure 2: Photo Tips guidance before camera opens*
 
@@ -124,7 +124,7 @@ is created with deposit event details for BSA/AML and Reg CC compliance.
 
 **Screen 3: Deposit Form — Account & Amount Selected**
 
-![](/.gitbook/assets/e0f8dd163bc5a4b2d9aa373fa9c7e8ea55809399.png)
+<figure><img src="/.gitbook/assets/e0f8dd163bc5a4b2d9aa373fa9c7e8ea55809399.png" alt="" width="340"><figcaption></figcaption></figure>
 
 *Figure 3: Account selected (Student Checking) and amount $2,700
 entered*
@@ -138,7 +138,7 @@ entered*
 
 **Screen 4: Front Check Camera (Landscape)**
 
-![](/.gitbook/assets/c5080b3fd480e9b55e0c6ebe434616bdede0a906.png)
+<figure><img src="/.gitbook/assets/c5080b3fd480e9b55e0c6ebe434616bdede0a906.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 4: Camera viewfinder with green corner alignment guides for
 front of check*
@@ -152,7 +152,7 @@ front of check*
 
 **Screen 5: Back Check Camera (Landscape)**
 
-![](/.gitbook/assets/459e49c05b3731e5b9c010ad9cf2257fb35ee201.png)
+<figure><img src="/.gitbook/assets/459e49c05b3731e5b9c010ad9cf2257fb35ee201.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 5: Camera view for capturing endorsed back of check*
 
@@ -165,7 +165,7 @@ front of check*
 
 **Screen 6: Review & Submit**
 
-![](/.gitbook/assets/acfa3869fc989a7fff84017541cf0f041e4823dc.png)
+<figure><img src="/.gitbook/assets/acfa3869fc989a7fff84017541cf0f041e4823dc.png" alt="" width="340"><figcaption></figcaption></figure>
 
 *Figure 6: Review screen with front and back thumbnails before
 submission*
@@ -180,7 +180,7 @@ submission*
 
 **Screen 7: Front Check Retake View**
 
-![](/.gitbook/assets/21700c244149842d703e2ff4fbc2e99a5e71de76.png)
+<figure><img src="/.gitbook/assets/21700c244149842d703e2ff4fbc2e99a5e71de76.png" alt="" width="340"><figcaption></figcaption></figure>
 
 *Figure 7: Front image review with retake option available*
 
@@ -193,7 +193,7 @@ submission*
 
 **Screen 8: Back Check Retake View**
 
-![](/.gitbook/assets/deb630aa4b4b10a13730ed0850b566322c6c5e20.png)
+<figure><img src="/.gitbook/assets/deb630aa4b4b10a13730ed0850b566322c6c5e20.png" alt="" width="340"><figcaption></figcaption></figure>
 
 *Figure 8: Back image review with retake option — shows endorsement
 area*

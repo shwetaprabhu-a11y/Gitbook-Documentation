@@ -56,7 +56,7 @@ CSUM-06 (Move Money), CSUM-11 (Recipient Management)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > Move Money > 'Transfer to External Accounts'.* | **Step 1 — Start from Dashboard**                               | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-06 (Move Money), CSUM-11 (Recipient Management)
 
 you click ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other You, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/.gitbook/assets/img_dd37cd06feee.png)
+<figure><img src="/.gitbook/assets/img_dd37cd06feee.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 2: Move Money Hub*
 
@@ -72,7 +72,7 @@ you click ‘Move Money’ in the top navigation bar. The Move Money Hub display
 
 The Move Money hub is displayed as the landing page for initiating an external account transfer.
 
-![](/.gitbook/assets/img_721f3b4eb101.png)
+<figure><img src="/.gitbook/assets/img_721f3b4eb101.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to External Transfer*
 
@@ -80,7 +80,7 @@ The Move Money hub is displayed as the landing page for initiating an external a
 
 Step 2 shows a simplified form with fields for entering the external account transfer details including the destination account information.
 
-![](/.gitbook/assets/img_0fb04c63eb4a.png)
+<figure><img src="/.gitbook/assets/img_0fb04c63eb4a.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 4: Fill Transfer Details*
 
@@ -88,7 +88,7 @@ Step 2 shows a simplified form with fields for entering the external account tra
 
 The confirmation screen displays a $5.00 transfer from Retail Savings Account to an external Retail Savings Account, showing the description and scheduled transfer date.
 
-![](/.gitbook/assets/img_d7a3f6fa32b6.png)
+<figure><img src="/.gitbook/assets/img_d7a3f6fa32b6.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 5: Review Pre-Confirmation*
 
@@ -96,7 +96,7 @@ The confirmation screen displays a $5.00 transfer from Retail Savings Account to
 
 A verification modal appears offering three authentication methods — 'Send me a message', 'Call me', or 'Send me an email' — to verify the external transfer before processing.
 
-![](/.gitbook/assets/img_4406668196b9.png)
+<figure><img src="/.gitbook/assets/img_4406668196b9.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 6: Select OTP Verification Method*
 
@@ -104,7 +104,7 @@ A verification modal appears offering three authentication methods — 'Send me 
 
 The verification page is displayed with a field to enter the verification code received via the selected authentication method to complete the external transfer.
 
-![](/.gitbook/assets/img_a54afdf9f3c7.png)
+<figure><img src="/.gitbook/assets/img_a54afdf9f3c7.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 7: Enter OTP & Submit*
 

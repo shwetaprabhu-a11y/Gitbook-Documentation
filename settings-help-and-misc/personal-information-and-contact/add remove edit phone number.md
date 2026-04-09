@@ -65,7 +65,7 @@ Every phone number change in nFinia triggers an OTP challenge, ensuring that con
 
 you navigate to the Summerville CU online banking portal and enters their User ID and password. They click **Log in**.
 
-![Screenshot 1](<../../../.gitbook/assets/Screenshot_1_1 (1).png>)
+<figure><img src="/.gitbook/assets/Screenshot_1_1 (1).png" alt="Screenshot 1" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -73,7 +73,7 @@ you navigate to the Summerville CU online banking portal and enters their User I
 
 The system prompts for OTP verification before granting dashboard access. you select how to receive the one-time passcode: **Send me a message**, **Call me**, or **Send me an email**.
 
-![Screenshot 2](<../../../.gitbook/assets/Screenshot_2_2 (1).png>)
+<figure><img src="/.gitbook/assets/Screenshot_2_2 (1).png" alt="Screenshot 2" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -81,7 +81,7 @@ The system prompts for OTP verification before granting dashboard access. you se
 
 If you select "Send me a message" or "Call me", they are presented with a list of masked phone numbers on file to choose the delivery destination.
 
-![Screenshot 3](<../../../.gitbook/assets/Screenshot_3_3 (1).png>)
+<figure><img src="/.gitbook/assets/Screenshot_3_3 (1).png" alt="Screenshot 3" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -89,7 +89,7 @@ If you select "Send me a message" or "Call me", they are presented with a list o
 
 A 6-digit OTP is sent to the selected number. you enter the code in the Enter code field and clicks **Submit**. A retry countdown (52 seconds) is shown if the code has not arrived. you can optionally check **Remember Device/Browser** to skip this step on future logins from the same device.
 
-![Screenshot 4](<../../../.gitbook/assets/Screenshot_4_4 (1).png>)
+<figure><img src="/.gitbook/assets/Screenshot_4_4 (1).png" alt="Screenshot 4" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -97,7 +97,7 @@ A 6-digit OTP is sent to the selected number. you enter the code in the Enter co
 
 After successful OTP entry, you land on the Dashboard, showing their name, account balances, and navigation options.
 
-![Screenshot 5](<../../../.gitbook/assets/Screenshot_5_5 (1).png>)
+<figure><img src="/.gitbook/assets/Screenshot_5_5 (1).png" alt="Screenshot 5" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -105,7 +105,7 @@ After successful OTP entry, you land on the Dashboard, showing their name, accou
 
 If you have multiple profiles (Personal Memberships and/or Business accounts), they may see a profile selection panel. For phone number management, you select **Personal Memberships**.
 
-![Screenshot 6](<../../../.gitbook/assets/Screenshot_6_6 (1).png>)
+<figure><img src="/.gitbook/assets/Screenshot_6_6 (1).png" alt="Screenshot 6" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -113,7 +113,7 @@ If you have multiple profiles (Personal Memberships and/or Business accounts), t
 
 you click **More** in the top navigation, then selects **Personal Information**. The Contact Information tab is displayed by default, showing Primary phone, Primary email, and phone categories (Cellular, Home, Business, Business Cell). Categories without a number show an **Add a new phone number** radio button link.
 
-![Screenshot 7](<../../../.gitbook/assets/Screenshot_7_7 (1).png>)
+<figure><img src="/.gitbook/assets/Screenshot_7_7 (1).png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -121,7 +121,7 @@ you click **More** in the top navigation, then selects **Personal Information**.
 
 you click the **Add a new phone number** radio button under the desired category (e.g., Cellular). An inline form expands showing a **country code dropdown** (defaulting to United States +1) and a **phone number input field**. you enter the 10-digit number and clicks **Add new number**. A **Cancel** button is available to discard the entry.
 
-![Screenshot 8](../../../.gitbook/assets/Screenshot_8_8.png)
+<figure><img src="/.gitbook/assets/Screenshot_8_8.png" alt="Screenshot 8" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -129,7 +129,7 @@ you click the **Add a new phone number** radio button under the desired category
 
 After submitting the new number, the system triggers an OTP challenge. you select the delivery method: **Send me a message** or **Call me**. This OTP is distinct from the login OTP and specifically authorizes the contact change.
 
-![Screenshot 9](../../../.gitbook/assets/Screenshot_9_9.png)
+<figure><img src="/.gitbook/assets/Screenshot_9_9.png" alt="Screenshot 9" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -137,7 +137,7 @@ After submitting the new number, the system triggers an OTP challenge. you selec
 
 you select which existing phone number should receive the OTP to authorize the change.
 
-![Screenshot 10](../../../.gitbook/assets/Screenshot_10_10.png)
+<figure><img src="/.gitbook/assets/Screenshot_10_10.png" alt="Screenshot 10" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -145,7 +145,7 @@ you select which existing phone number should receive the OTP to authorize the c
 
 you enter the 6-digit code sent to the selected number. The retry countdown (58 seconds) is shown if needed.
 
-![Screenshot 11](../../../.gitbook/assets/Screenshot_11_11.png)
+<figure><img src="/.gitbook/assets/Screenshot_11_11.png" alt="Screenshot 11" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -153,7 +153,7 @@ you enter the 6-digit code sent to the selected number. The retry countdown (58 
 
 The system returns to the Personal Information page and displays the success banner: **"New phone number has been added successfully."** The new number appears under its category with Edit and Remove links available.
 
-![Screenshot 12](../../../.gitbook/assets/Screenshot_12_12.png)
+<figure><img src="/.gitbook/assets/Screenshot_12_12.png" alt="Screenshot 12" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -161,37 +161,37 @@ The system returns to the Personal Information page and displays the success ban
 
 **Step 1 — Log In**
 
-![Screenshot 1](../../../.gitbook/assets/Screenshot_1_13.png)
+<figure><img src="/.gitbook/assets/Screenshot_1_13.png" alt="Screenshot 1" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 2 — OTP Verification at Login (Method Selection)**
 
-![Screenshot 2](../../../.gitbook/assets/Screenshot_2_14.png)
+<figure><img src="/.gitbook/assets/Screenshot_2_14.png" alt="Screenshot 2" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 3 — OTP Phone Number Selection**
 
-![Screenshot 3](../../../.gitbook/assets/Screenshot_3_15.png)
+<figure><img src="/.gitbook/assets/Screenshot_3_15.png" alt="Screenshot 3" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 4 — Enter OTP Code at Login**
 
-![Screenshot 4](../../../.gitbook/assets/Screenshot_4_16.png)
+<figure><img src="/.gitbook/assets/Screenshot_4_16.png" alt="Screenshot 4" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 5 — Dashboard**
 
-![Screenshot 5](../../../.gitbook/assets/Screenshot_5_17.png)
+<figure><img src="/.gitbook/assets/Screenshot_5_17.png" alt="Screenshot 5" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 6 — Profile Selection**
 
-![Screenshot 6](../../../.gitbook/assets/Screenshot_6_18.png)
+<figure><img src="/.gitbook/assets/Screenshot_6_18.png" alt="Screenshot 6" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -199,7 +199,7 @@ The system returns to the Personal Information page and displays the success ban
 
 The Contact Information tab shows existing phone numbers. Each number has **Edit** and **Remove** links. you click **Edit** next to the number they want to change.
 
-![Screenshot 7](<../../../.gitbook/assets/Screenshot_7_19 (1).png>)
+<figure><img src="/.gitbook/assets/Screenshot_7_19 (1).png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -207,7 +207,7 @@ The Contact Information tab shows existing phone numbers. Each number has **Edit
 
 The phone number row expands into an editable inline form pre-populated with the existing number. The country code dropdown (United States +1) remains selectable. you clears the current number and enters the updated one, then clicks **Update** (or **Cancel** to abort).
 
-![Screenshot 8](<../../../.gitbook/assets/Screenshot_8_20 (1).png>)
+<figure><img src="/.gitbook/assets/Screenshot_8_20 (1).png" alt="Screenshot 8" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -215,19 +215,19 @@ The phone number row expands into an editable inline form pre-populated with the
 
 Submitting the update triggers an OTP challenge to authorize the change. you select delivery method.
 
-![Screenshot 9](../../../.gitbook/assets/Screenshot_9_21.png)
+<figure><img src="/.gitbook/assets/Screenshot_9_21.png" alt="Screenshot 9" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 10 — OTP Phone Number Selection**
 
-![Screenshot 10](../../../.gitbook/assets/Screenshot_10_22.png)
+<figure><img src="/.gitbook/assets/Screenshot_10_22.png" alt="Screenshot 10" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 11 — Enter OTP Code**
 
-![Screenshot 11](../../../.gitbook/assets/Screenshot_11_23.png)
+<figure><img src="/.gitbook/assets/Screenshot_11_23.png" alt="Screenshot 11" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -235,7 +235,7 @@ Submitting the update triggers an OTP challenge to authorize the change. you sel
 
 The system returns to Personal Information and displays: **"Phone number has been updated successfully."** The updated number is shown in the relevant category row.
 
-![Screenshot 12](../../../.gitbook/assets/Screenshot_12_24.png)
+<figure><img src="/.gitbook/assets/Screenshot_12_24.png" alt="Screenshot 12" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -243,37 +243,37 @@ The system returns to Personal Information and displays: **"Phone number has bee
 
 **Step 1 — Log In**
 
-![Screenshot 1](../../../.gitbook/assets/Screenshot_1_25.png)
+<figure><img src="/.gitbook/assets/Screenshot_1_25.png" alt="Screenshot 1" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 2 — OTP Verification at Login (Method Selection)**
 
-![Screenshot 2](../../../.gitbook/assets/Screenshot_2_26.png)
+<figure><img src="/.gitbook/assets/Screenshot_2_26.png" alt="Screenshot 2" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 3 — OTP Phone Number Selection**
 
-![Screenshot 3](../../../.gitbook/assets/Screenshot_3_27.png)
+<figure><img src="/.gitbook/assets/Screenshot_3_27.png" alt="Screenshot 3" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 4 — Enter OTP Code at Login**
 
-![Screenshot 4](../../../.gitbook/assets/Screenshot_4_28.png)
+<figure><img src="/.gitbook/assets/Screenshot_4_28.png" alt="Screenshot 4" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 5 — Dashboard**
 
-![Screenshot 5](../../../.gitbook/assets/Screenshot_5_29.png)
+<figure><img src="/.gitbook/assets/Screenshot_5_29.png" alt="Screenshot 5" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 6 — Profile Selection**
 
-![Screenshot 6](../../../.gitbook/assets/Screenshot_6_30.png)
+<figure><img src="/.gitbook/assets/Screenshot_6_30.png" alt="Screenshot 6" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -281,7 +281,7 @@ The system returns to Personal Information and displays: **"Phone number has bee
 
 The Contact Information tab lists all existing numbers. you click **Remove** next to the number they want to delete.
 
-![Screenshot 7](<../../../.gitbook/assets/Screenshot_7_31 (1).png>)
+<figure><img src="/.gitbook/assets/Screenshot_7_31 (1).png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -289,7 +289,7 @@ The Contact Information tab lists all existing numbers. you click **Remove** nex
 
 A modal dialog appears: **"Do you want to remove this phone number?"** with **Cancel** and **Confirm** buttons. This prevents accidental deletion.
 
-![Screenshot 8](<../../../.gitbook/assets/Screenshot_8_32 (1).png>)
+<figure><img src="/.gitbook/assets/Screenshot_8_32 (1).png" alt="Screenshot 8" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -297,19 +297,19 @@ A modal dialog appears: **"Do you want to remove this phone number?"** with **Ca
 
 After confirming the modal, the system triggers an OTP challenge. you select the delivery method.
 
-![Screenshot 9](../../../.gitbook/assets/Screenshot_9_33.png)
+<figure><img src="/.gitbook/assets/Screenshot_9_33.png" alt="Screenshot 9" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 10 — OTP Phone Number Selection**
 
-![Screenshot 10](../../../.gitbook/assets/Screenshot_10_34.png)
+<figure><img src="/.gitbook/assets/Screenshot_10_34.png" alt="Screenshot 10" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 11 — Enter OTP Code**
 
-![Screenshot 11](../../../.gitbook/assets/Screenshot_11_35.png)
+<figure><img src="/.gitbook/assets/Screenshot_11_35.png" alt="Screenshot 11" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -317,7 +317,7 @@ After confirming the modal, the system triggers an OTP challenge. you select the
 
 The system returns to Personal Information and displays: **"Phone number has been removed successfully."** The number is no longer shown in its category; an **Add a new phone number** link reappears in its place.
 
-![Screenshot 12](../../../.gitbook/assets/Screenshot_12_36.png)
+<figure><img src="/.gitbook/assets/Screenshot_12_36.png" alt="Screenshot 12" width="620"><figcaption></figcaption></figure>
 
 ***
 

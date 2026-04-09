@@ -96,7 +96,7 @@ Sneak Peek is a genuinely member-centric feature that credit unions can highligh
 
 The Welcome screen is where the Sneak Peek feature delivers its value. The **Balance** widget at the bottom of the screen — available before any login — is the pre-login balance display surface. When Sneak Peek is not yet configured, this widget either shows a prompt or is inactive. Once enabled for one or more accounts, it reveals the current balance on tap.
 
-![Welcome Screen showing Balance widget and pre-login shortcuts](../../../.gitbook/assets/Welcome_Screen_showing_Balance_widget_and_pre-login_shortcut_1.jpeg)
+<figure><img src="/.gitbook/assets/Welcome_Screen_showing_Balance_widget_and_pre-login_shortcut_1.jpeg" alt="Welcome Screen showing Balance widget and pre-login shortcuts" width="340"><figcaption></figcaption></figure>
 
 | Field / Element | Type                               | Description                                                                               | Notes                                                      |
 | --------------- | ---------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -114,7 +114,7 @@ The Welcome screen is where the Sneak Peek feature delivers its value. The **Bal
 
 Full authentication is required once to enable Sneak Peek. The Log In screen collects credentials before routing you through OTP verification to the authenticated session where Account Settings is accessible.
 
-![Log In screen with username, password, Remember Me and Face ID options](../../../.gitbook/assets/Log_In_screen_with_username__password__Remember_Me_and_Face__2.jpeg)
+<figure><img src="/.gitbook/assets/Log_In_screen_with_username__password__Remember_Me_and_Face__2.jpeg" alt="Log In screen with username, password, Remember Me and Face ID options" width="340"><figcaption></figcaption></figure>
 
 | Field / Element        | Type                    | Description                               | Notes                                            |
 | ---------------------- | ----------------------- | ----------------------------------------- | ------------------------------------------------ |
@@ -131,7 +131,7 @@ Full authentication is required once to enable Sneak Peek. The Log In screen col
 
 After credentials are validated, MFA is triggered. you select how to receive their one-time passcode. This step is part of the one-time setup path to reach Account Settings and configure Sneak Peek.
 
-![Verification screen showing Text and Call OTP delivery options with masked phone numbers](../../../.gitbook/assets/Verification_screen_showing_Text_and_Call_OTP_delivery_optio_3.jpeg)
+<figure><img src="/.gitbook/assets/Verification_screen_showing_Text_and_Call_OTP_delivery_optio_3.jpeg" alt="Verification screen showing Text and Call OTP delivery options with masked phone numbers" width="340"><figcaption></figcaption></figure>
 
 | Field / Element               | Type           | Description                                        | Notes                                                    |
 | ----------------------------- | -------------- | -------------------------------------------------- | -------------------------------------------------------- |
@@ -145,7 +145,7 @@ After credentials are validated, MFA is triggered. you select how to receive the
 
 The passcode entry step completes MFA. Once the OTP is submitted and validated, you gains full authenticated access and can navigate to Account Settings to enable Sneak Peek.
 
-![OTP entry screen showing masked destination number, passcode field, retry countdown and Submit button](../../../.gitbook/assets/OTP_entry_screen_showing_masked_destination_number__passcode_4.jpeg)
+<figure><img src="/.gitbook/assets/OTP_entry_screen_showing_masked_destination_number__passcode_4.jpeg" alt="OTP entry screen showing masked destination number, passcode field, retry countdown and Submit button" width="340"><figcaption></figcaption></figure>
 
 | Field / Element       | Type             | Description                                    | Notes                              |
 | --------------------- | ---------------- | ---------------------------------------------- | ---------------------------------- |
@@ -160,7 +160,7 @@ The passcode entry step completes MFA. Once the OTP is submitted and validated, 
 
 After successful authentication, you land on the Dashboard. This is the starting point for navigating to Account Settings to configure Sneak Peek. The hamburger menu (≡) in the top-right opens the side menu.
 
-![Dashboard showing personalized greeting, Credit Score & Offers, All Accounts summary and Retail Checking account card](../../../.gitbook/assets/Dashboard_showing_personalized_greeting__Credit_Score___Offe_5.jpeg)
+<figure><img src="/.gitbook/assets/Dashboard_showing_personalized_greeting__Credit_Score___Offe_5.jpeg" alt="Dashboard showing personalized greeting, Credit Score & Offers, All Accounts summary and Retail Checking account card" width="340"><figcaption></figcaption></figure>
 
 | Field / Element      | Type            | Description                                         | Notes                                                              |
 | -------------------- | --------------- | --------------------------------------------------- | ------------------------------------------------------------------ |
@@ -175,7 +175,7 @@ After successful authentication, you land on the Dashboard. This is the starting
 
 The side menu provides the navigation path to Account Settings where Sneak Peek is configured. you tap **Settings** from this menu to proceed.
 
-![Side menu showing member profile, All Personal Memberships, Enable Alerts toggle, Settings, Alert Settings, Trust this Device, Apply for Loans, Statements and eNotices, Digital Wallet and Log Out](../../../.gitbook/assets/Side_menu_showing_member_profile__All_Personal_Memberships___6.jpeg)
+<figure><img src="/.gitbook/assets/Side_menu_showing_member_profile__All_Personal_Memberships___6.jpeg" alt="Side menu showing member profile, All Personal Memberships, Enable Alerts toggle, Settings, Alert Settings, Trust this Device, Apply for Loans, Statements and eNotices, Digital Wallet and Log Out" width="340"><figcaption></figcaption></figure>
 
 | Field / Element          | Type              | Description                                                      | Notes                                                                   |
 | ------------------------ | ----------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -191,7 +191,7 @@ The side menu provides the navigation path to Account Settings where Sneak Peek 
 
 The Settings hub offers three sub-sections. **Account Settings** is the destination for Sneak Peek configuration.
 
-![Settings screen with Account Settings, Personal Information and User ID and Password options](../../../.gitbook/assets/Settings_screen_with_Account_Settings__Personal_Information__7.jpeg)
+<figure><img src="/.gitbook/assets/Settings_screen_with_Account_Settings__Personal_Information__7.jpeg" alt="Settings screen with Account Settings, Personal Information and User ID and Password options" width="340"><figcaption></figcaption></figure>
 
 | Field / Element      | Type           | Description                                                              | Notes                             |
 | -------------------- | -------------- | ------------------------------------------------------------------------ | --------------------------------- |
@@ -205,7 +205,7 @@ The Settings hub offers three sub-sections. **Account Settings** is the destinat
 
 The Account Settings screen is where Sneak Peek is enabled. By default, the Sneak Peek toggle is **off**. you select the target account from the dropdown and taps the Sneak Peek toggle to turn it on.
 
-![Account Settings showing Retail Checking Account selected, Account title Rename option, Show/Hide toggle on, Sneak Peek toggle off, Activities since last login toggle on](../../../.gitbook/assets/Account_Settings_showing_Retail_Checking_Account_selected__A_8.jpeg)
+<figure><img src="/.gitbook/assets/Account_Settings_showing_Retail_Checking_Account_selected__A_8.jpeg" alt="Account Settings showing Retail Checking Account selected, Account title Rename option, Show/Hide toggle on, Sneak Peek toggle off, Activities since last login toggle on" width="340"><figcaption></figcaption></figure>
 
 | Field / Element                    | Type                  | Description                                                                                  | Notes                                                          |
 | ---------------------------------- | --------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -221,7 +221,7 @@ The Account Settings screen is where Sneak Peek is enabled. By default, the Snea
 
 After you tap the Sneak Peek toggle to the on position and saves, the confirmation toast _"Your account settings have been updated."_ is displayed. The Sneak Peek toggle is now shown in its active (green) state. From this point forward, the account's balance is visible on the Welcome screen without logging in.
 
-![Account Settings with Sneak Peek toggle enabled (green), Activities since last login on, and Your account settings have been updated toast at the bottom](../../../.gitbook/assets/Account_Settings_with_Sneak_Peek_toggle_enabled__green___Act_9.jpeg)
+<figure><img src="/.gitbook/assets/Account_Settings_with_Sneak_Peek_toggle_enabled__green___Act_9.jpeg" alt="Account Settings with Sneak Peek toggle enabled (green), Activities since last login on, and Your account settings have been updated toast at the bottom" width="340"><figcaption></figcaption></figure>
 
 | Field / Element                                | Type                    | Description                                                                    | Notes                                               |
 | ---------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------- |

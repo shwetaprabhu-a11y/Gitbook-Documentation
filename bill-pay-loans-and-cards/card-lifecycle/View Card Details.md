@@ -47,7 +47,7 @@ _Navigation: Log in to Summerville Credit Union online banking. Click Cards in t
 
 After logging in, you land on the Dashboard showing your account balances, recent payments, and quick-action shortcuts. Click Cards in the top navigation bar to open your card list.
 
-![Step 1: Dashboard — starting point for navigation](<../../../.gitbook/assets/image2 (2).png>)
+<figure><img src="/.gitbook/assets/image2 (2).png" alt="Step 1: Dashboard — starting point for navigation" width="480"><figcaption></figcaption></figure>
 
 _Step 1: Dashboard — starting point for navigation_
 
@@ -55,7 +55,7 @@ _Step 1: Dashboard — starting point for navigation_
 
 On the Cards page, each card tile shows a summary view. Click on the card tile or use the Card Controls / Set PIN / Deactivate links at the bottom of the tile to navigate into that card's detail view. The Card Details page loads, showing the full card image, account information, status toggle, balance summary, and quick action links along the top of the detail panel.
 
-![](<../../../.gitbook/assets/image1 (2).png>)
+<figure><img src="/.gitbook/assets/image1 (2).png" alt="" width="480"><figcaption></figcaption></figure>
 
 _Step 2: Cards list — click any card or its action links to open Card Details_
 

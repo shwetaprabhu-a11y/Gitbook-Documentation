@@ -53,7 +53,7 @@ The Manage Devices and Forget Device features are especially valuable for credit
 
 you open the Summerville CU app and sees the Welcome screen. The screen provides quick-action tiles: **Accounts**, **Move Money**, **Check Deposit**, and **Manage Devices**. you may tap **Manage Devices** directly from this unauthenticated state, or tap **Log In** to authenticate first.
 
-![](../../../.gitbook/assets/image_1.jpeg)
+<figure><img src="/.gitbook/assets/image_1.jpeg" alt="" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -61,7 +61,7 @@ you open the Summerville CU app and sees the Welcome screen. The screen provides
 
 you enter their **Username** and **Password**. Optionally, they may check **Remember me** (to save the username for future logins) or **Enable Face ID**. Tapping **Log In** submits credentials for authentication.
 
-![](../../../.gitbook/assets/image_2.jpeg)
+<figure><img src="/.gitbook/assets/image_2.jpeg" alt="" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -69,7 +69,7 @@ you enter their **Username** and **Password**. Optionally, they may check **Reme
 
 If logging in from a device that is not already recognized and trusted, the platform prompts you to select an OTP delivery method. Options include Text and Call across all verified phone numbers on file. Masked phone numbers are shown for privacy. you select their preferred channel.
 
-![](../../../.gitbook/assets/image_3.jpeg)
+<figure><img src="/.gitbook/assets/image_3.jpeg" alt="" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -77,7 +77,7 @@ If logging in from a device that is not already recognized and trusted, the plat
 
 A six-digit OTP is delivered to the selected contact. you enter the passcode in the **Enter passcode** field and taps **Submit**. A 60-second retry timer is shown. If the code is not received, you may retry after the timer expires.
 
-![](../../../.gitbook/assets/image_4.jpeg)
+<figure><img src="/.gitbook/assets/image_4.jpeg" alt="" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -85,7 +85,7 @@ A six-digit OTP is delivered to the selected contact. you enter the passcode in 
 
 After successful authentication, you land on the Dashboard showing their name, credit score offer, account balances, and bottom navigation (Dashboard, Accounts, Move Money, Deposit). To navigate to Manage Devices, you tap the **hamburger menu (≡)** in the top right.
 
-![](../../../.gitbook/assets/image_5.jpeg)
+<figure><img src="/.gitbook/assets/image_5.jpeg" alt="" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -93,7 +93,7 @@ After successful authentication, you land on the Dashboard showing their name, c
 
 The slide-out menu displays your name, last login timestamp, and profile options. you tap **Settings** (Account and security settings) to proceed.
 
-![](../../../.gitbook/assets/image_6.jpeg)
+<figure><img src="/.gitbook/assets/image_6.jpeg" alt="" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -101,7 +101,7 @@ The slide-out menu displays your name, last login timestamp, and profile options
 
 The Settings screen presents three categories: **Account Settings** (manage accounts), **Personal Information** (manage devices and contact details), and **User ID and Password** (update credentials and OTP method). you tap **Personal Information**.
 
-![](../../../.gitbook/assets/image_7.jpeg)
+<figure><img src="/.gitbook/assets/image_7.jpeg" alt="" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -109,7 +109,7 @@ The Settings screen presents three categories: **Account Settings** (manage acco
 
 The Personal Information screen lists all updateable contact and device entries: Phone Number, Email Address, Mailing Address, Residential Address, and **Manage Devices**. you tap **Manage Devices** to proceed.
 
-![](../../../.gitbook/assets/image_8.jpeg)
+<figure><img src="/.gitbook/assets/image_8.jpeg" alt="" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -123,7 +123,7 @@ Example devices shown:
 * **Online or Desktop** — OS X Version 10_15_7, Last Accessed 3/6/26, 7:16 AM
 * **Google SDK Emulator (Android)** — Android Version 16, Last Accessed 3/5/26, 11:53 AM
 
-![](../../../.gitbook/assets/image_9.jpeg)
+<figure><img src="/.gitbook/assets/image_9.jpeg" alt="" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -139,7 +139,7 @@ On the Manage Devices screen, you tap **Forget** next to the device they wish to
 
 A modal dialog appears with the message: _"Are you sure you want to remove the selected device?"_ Two actions are presented: **Cancel** (dismisses the dialog without taking action) and **OK** (confirms removal).
 
-![](../../../.gitbook/assets/image_10.jpeg)
+<figure><img src="/.gitbook/assets/image_10.jpeg" alt="" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -147,7 +147,7 @@ A modal dialog appears with the message: _"Are you sure you want to remove the s
 
 Upon tapping **OK**, the platform removes the device from the linked devices list and displays a dark toast notification at the bottom of the screen: _"Your device has been removed."_ The device entry disappears from the list, and the remaining devices are displayed in updated order.
 
-![](../../../.gitbook/assets/image_11.jpeg)
+<figure><img src="/.gitbook/assets/image_11.jpeg" alt="" width="340"><figcaption></figcaption></figure>
 
 ***
 

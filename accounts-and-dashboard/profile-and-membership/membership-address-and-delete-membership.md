@@ -60,42 +60,42 @@ The Delete Membership and Manage Membership Address features collectively reduce
 **Step 1 — Login**\
 you navigate to the Summerville Online Banking portal and enters their User ID and password, then clicks **Log in**.
 
-![Step 1 - Login screen](../../../.gitbook/assets/Step_1_-_Login_screen_21.png)
+<figure><img src="/.gitbook/assets/Step_1_-_Login_screen_21.png" alt="Step 1 - Login screen" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 2 — OTP Verification: Select Delivery Method**\
 The platform presents the Verification screen prompting you to choose how they want to receive their One-Time Passcode: **Send me a message**, **Call me**, or **Send me an email**.
 
-![Step 2 - OTP delivery method selection](../../../.gitbook/assets/Step_2_-_OTP_delivery_method_selection_22.png)
+<figure><img src="/.gitbook/assets/Step_2_-_OTP_delivery_method_selection_22.png" alt="Step 2 - OTP delivery method selection" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 3 — OTP Verification: Select Contact**\
 If you select "Send me a message," the platform lists available phone numbers on file (masked for security). you select the desired number.
 
-![Step 3 - Select phone number for OTP](../../../.gitbook/assets/Step_3_-_Select_phone_number_for_OTP_23.png)
+<figure><img src="/.gitbook/assets/Step_3_-_Select_phone_number_for_OTP_23.png" alt="Step 3 - Select phone number for OTP" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 4 — OTP Entry**\
 An OTP is sent to the selected contact. you enter the 6-digit code. A "Retry in 52s" countdown is displayed. you may optionally check **Remember Device/Browser** to skip this step on future logins from the same device.
 
-![Step 4 - OTP entry screen](../../../.gitbook/assets/Step_4_-_OTP_entry_33.png)
+<figure><img src="/.gitbook/assets/Step_4_-_OTP_entry_33.png" alt="Step 4 - OTP entry screen" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 5 — Dashboard**\
 Upon successful authentication, you land on the personalized Dashboard showing account balances and the Quick Transfer widget.
 
-![Step 5 - Dashboard after login](../../../.gitbook/assets/Step_5_-_Dashboard_34.png)
+<figure><img src="/.gitbook/assets/Step_5_-_Dashboard_34.png" alt="Step 5 - Dashboard after login" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 6 — Navigate to Membership Settings**\
 you click **More** in the top navigation bar. The expanded menu reveals options including **Membership Setting**, **Accounts and Memberships**, and **Personal Information**. you click **Membership Setting**.
 
-![Step 6 - More menu expanded](../../../.gitbook/assets/Step_6_-_More_menu_expanded_26.png)
+<figure><img src="/.gitbook/assets/Step_6_-_More_menu_expanded_26.png" alt="Step 6 - More menu expanded" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -108,14 +108,14 @@ The Membership Settings page displays under the **Account Settings / Membership 
 * Mask membership numbers toggle
 * A **Delete membership** button in red at the bottom
 
-![Step 7 - Membership Settings page with Delete membership button](../../../.gitbook/assets/Step_7_-_Membership_Settings_page_with_Delete_membership_but_27.png)
+<figure><img src="/.gitbook/assets/Step_7_-_Membership_Settings_page_with_Delete_membership_but_27.png" alt="Step 7 - Membership Settings page with Delete membership button" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 8 — Confirmation Dialog**\
 Clicking **Delete membership** triggers a modal dialog: _"Are you sure you want to delete the following membership?"_ with two buttons: **Cancel** and **Proceed**.
 
-![Step 8 - Delete confirmation dialog](../../../.gitbook/assets/Step_8_-_Delete_confirmation_dialog_28.png)
+<figure><img src="/.gitbook/assets/Step_8_-_Delete_confirmation_dialog_28.png" alt="Step 8 - Delete confirmation dialog" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -124,7 +124,7 @@ After clicking **Proceed**, the platform returns to the Membership Settings page
 &#xNAN;_"Membership #: 0000059991 deleted successfully."_\
 The dropdown now shows the next available membership (e.g., #0000060071 - VICTOR), confirming the deleted membership has been removed from the digital banking view.
 
-![Step 9 - Deletion success confirmation](../../../.gitbook/assets/Step_9_-_Deletion_success_confirmation_29.png)
+<figure><img src="/.gitbook/assets/Step_9_-_Deletion_success_confirmation_29.png" alt="Step 9 - Deletion success confirmation" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -160,45 +160,45 @@ The dropdown now shows the next available membership (e.g., #0000060071 - VICTOR
 **Step 1 — Login**\
 Same login flow as Delete Membership (steps 1–5 above).
 
-![Step 1 - Login screen](<../../../.gitbook/assets/Step_1_-_Login_screen_21 (1).png>)
+<figure><img src="/.gitbook/assets/Step_1_-_Login_screen_21 (1).png" alt="Step 1 - Login screen" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 2 — OTP: Select Delivery Method**
 
-![Step 2 - OTP delivery method selection](<../../../.gitbook/assets/Step_2_-_OTP_delivery_method_selection_22 (1).png>)
+<figure><img src="/.gitbook/assets/Step_2_-_OTP_delivery_method_selection_22 (1).png" alt="Step 2 - OTP delivery method selection" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 3 — OTP: Select Contact**
 
-![Step 3 - Select phone number for OTP](<../../../.gitbook/assets/Step_3_-_Select_phone_number_for_OTP_23 (1).png>)
+<figure><img src="/.gitbook/assets/Step_3_-_Select_phone_number_for_OTP_23 (1).png" alt="Step 3 - Select phone number for OTP" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 4 — OTP Entry**
 
-![Step 4 - OTP entry](<../../../.gitbook/assets/Step_4_-_OTP_entry_33 (1).png>)
+<figure><img src="/.gitbook/assets/Step_4_-_OTP_entry_33 (1).png" alt="Step 4 - OTP entry" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 5 — Dashboard**
 
-![Step 5 - Dashboard](<../../../.gitbook/assets/Step_5_-_Dashboard_34 (1).png>)
+<figure><img src="/.gitbook/assets/Step_5_-_Dashboard_34 (1).png" alt="Step 5 - Dashboard" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 6 — Navigate via More Menu**\
 you click **More** in the top navigation. They navigate to **Forms** under the Utilities section.
 
-![Step 6 - More menu navigation](<../../../.gitbook/assets/Step_6_-_More_menu_expanded_26 (1).png>)
+<figure><img src="/.gitbook/assets/Step_6_-_More_menu_expanded_26 (1).png" alt="Step 6 - More menu navigation" width="620"><figcaption></figcaption></figure>
 
 ***
 
 **Step 7 — Forms Library**\
 The Forms page lists all available self-service forms. you locates and clicks **Address Change Form**.
 
-![Step 7 - Forms library showing Address Change Form](../../../.gitbook/assets/Step_7_-_Forms_library_showing_Address_Change_Form_36.png)
+<figure><img src="/.gitbook/assets/Step_7_-_Forms_library_showing_Address_Change_Form_36.png" alt="Step 7 - Forms library showing Address Change Form" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -212,7 +212,7 @@ An important note is displayed: _"Any recent personal account changes could proh
 
 you select **"Update Local Address"** radio button and proceeds.
 
-![Step 8 - Address Change Form with current contact pre-populated](../../../.gitbook/assets/Step_8_-_Address_Change_Form_with_current_contact_pre-popula_37.png)
+<figure><img src="/.gitbook/assets/Step_8_-_Address_Change_Form_with_current_contact_pre-popula_37.png" alt="Step 8 - Address Change Form with current contact pre-populated" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -228,7 +228,7 @@ The form expands to show the **New Address of Residence Information** section:
 
 The current address is pre-filled for your convenience. you update the fields as needed.
 
-![Step 9 - New Address of Residence fields](../../../.gitbook/assets/Step_9_-_New_Address_of_Residence_fields_38.png)
+<figure><img src="/.gitbook/assets/Step_9_-_New_Address_of_Residence_fields_38.png" alt="Step 9 - New Address of Residence fields" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -241,7 +241,7 @@ Below the domestic address section:
 * **Legal acknowledgment text**: Confirms you are requesting the address change across all selected accounts
 * **Reset** and **Submit** buttons
 
-![Step 10 - Additional memberships, effective date, and Submit](../../../.gitbook/assets/Step_10_-_Additional_memberships__effective_date__and_Submit_39.png)
+<figure><img src="/.gitbook/assets/Step_10_-_Additional_memberships__effective_date__and_Submit_39.png" alt="Step 10 - Additional memberships, effective date, and Submit" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -250,7 +250,7 @@ After submission, you are returned to the Forms page with a green success banner
 &#xNAN;_"Address Change Form submitted successfully."_\
 The form is queued for back-office processing within three business days.
 
-![Step 11 - Address Change Form success confirmation](../../../.gitbook/assets/Step_11_-_Address_Change_Form_success_confirmation_40.png)
+<figure><img src="/.gitbook/assets/Step_11_-_Address_Change_Form_success_confirmation_40.png" alt="Step 11 - Address Change Form success confirmation" width="620"><figcaption></figcaption></figure>
 
 ***
 

@@ -55,7 +55,7 @@ Address management self-service is a high-frequency, low-complexity operation th
 
 you navigate to the Summerville CU online banking portal and enters their **User ID** and **Password** on the login screen, then clicks **Log in**.
 
-![Step 1 — Login screen](../../../.gitbook/assets/Step_1___Login_screen_1.png)
+<figure><img src="/.gitbook/assets/Step_1___Login_screen_1.png" alt="Step 1 — Login screen" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -69,7 +69,7 @@ The platform presents a **Verification** screen prompting you to select how they
 
 you select their preferred channel.
 
-![Step 2 — OTP channel selection](../../../.gitbook/assets/Step_2___OTP_channel_selection_2.png)
+<figure><img src="/.gitbook/assets/Step_2___OTP_channel_selection_2.png" alt="Step 2 — OTP channel selection" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -77,7 +77,7 @@ you select their preferred channel.
 
 If you select **Send me a message**, the system displays the registered phone numbers on file (masked for security, e.g., `(+1) 2**-***-**01`). you select the number they want the OTP sent to.
 
-![Step 3 — Select phone number for OTP](../../../.gitbook/assets/Step_3___Select_phone_number_for_OTP_3.png)
+<figure><img src="/.gitbook/assets/Step_3___Select_phone_number_for_OTP_3.png" alt="Step 3 — Select phone number for OTP" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -87,7 +87,7 @@ The system sends a 6-digit OTP to the selected contact. you enter the code on th
 
 you enter the code and clicks **Submit**.
 
-![Step 4 — Enter OTP code](../../../.gitbook/assets/Step_4___Enter_OTP_code_4.png)
+<figure><img src="/.gitbook/assets/Step_4___Enter_OTP_code_4.png" alt="Step 4 — Enter OTP code" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -95,7 +95,7 @@ you enter the code and clicks **Submit**.
 
 Upon successful authentication, you land on the **Dashboard**, personalized with their name (e.g., "Good Morning, DONALD BLAKE"). you navigate to the **More** menu in the top navigation bar.
 
-![Step 5 — Dashboard](../../../.gitbook/assets/Step_5___Dashboard_5.png)
+<figure><img src="/.gitbook/assets/Step_5___Dashboard_5.png" alt="Step 5 — Dashboard" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -103,7 +103,7 @@ Upon successful authentication, you land on the **Dashboard**, personalized with
 
 Clicking **More** opens a full-page overlay displaying all secondary navigation options. Under **Settings**, you click **Personal Information** — described as "Manage your devices and contact details."
 
-![Step 6 — More menu, navigating to Personal Information](../../../.gitbook/assets/Step_6___More_menu__navigating_to_Personal_Information_6.png)
+<figure><img src="/.gitbook/assets/Step_6___More_menu__navigating_to_Personal_Information_6.png" alt="Step 6 — More menu, navigating to Personal Information" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -115,7 +115,7 @@ you are taken to the **Personal Information** page. The navigation tabs at the t
 
 The **Address** tab (mailing address) is active by default. your current mailing address is displayed under "Address details." An **Edit address** link is available below the address block.
 
-![Step 7 — Mailing Address view](../../../.gitbook/assets/Step_7___Mailing_Address_view_7.png)
+<figure><img src="/.gitbook/assets/Step_7___Mailing_Address_view_7.png" alt="Step 7 — Mailing Address view" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -132,7 +132,7 @@ Clicking **Edit address** expands an inline edit form with the following fields 
 
 you update the relevant fields and clicks **Save** (or **Cancel** to discard changes).
 
-![Step 8 — Edit mailing address form](../../../.gitbook/assets/Step_8___Edit_mailing_address_form_8.png)
+<figure><img src="/.gitbook/assets/Step_8___Edit_mailing_address_form_8.png" alt="Step 8 — Edit mailing address form" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -140,7 +140,7 @@ you update the relevant fields and clicks **Save** (or **Cancel** to discard cha
 
 Upon saving, the form collapses and a **success banner** appears: _"Your mailing address has been updated."_ The updated address is immediately reflected in the Address details block below.
 
-![Step 9 — Mailing address updated confirmation](../../../.gitbook/assets/Step_9___Mailing_address_updated_confirmation_9.png)
+<figure><img src="/.gitbook/assets/Step_9___Mailing_address_updated_confirmation_9.png" alt="Step 9 — Mailing address updated confirmation" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -150,7 +150,7 @@ Upon saving, the form collapses and a **success banner** appears: _"Your mailing
 
 you click the **Residential address** tab. The current residential address is displayed under "Address details" along with an **Edit address** link.
 
-![Step 7 — Residential Address view](../../../.gitbook/assets/Step_7___Residential_Address_view_10.png)
+<figure><img src="/.gitbook/assets/Step_7___Residential_Address_view_10.png" alt="Step 7 — Residential Address view" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -158,7 +158,7 @@ you click the **Residential address** tab. The current residential address is di
 
 Clicking **Edit address** presents the same editable form structure as the mailing address (Street address, Apartment number, Country, City/Town, State, ZIP Code), pre-populated with the current residential address on file.
 
-![Step 8 — Edit residential address form](../../../.gitbook/assets/Step_8___Edit_residential_address_form_11.png)
+<figure><img src="/.gitbook/assets/Step_8___Edit_residential_address_form_11.png" alt="Step 8 — Edit residential address form" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -166,7 +166,7 @@ Clicking **Edit address** presents the same editable form structure as the maili
 
 After saving, the success banner — _"Your mailing address has been updated."_ — confirms the change. The updated address is displayed in the Residential address details block.
 
-![Step 9 — Residential address updated confirmation](../../../.gitbook/assets/Step_9___Residential_address_updated_confirmation_12.png)
+<figure><img src="/.gitbook/assets/Step_9___Residential_address_updated_confirmation_12.png" alt="Step 9 — Residential address updated confirmation" width="620"><figcaption></figcaption></figure>
 
 ***
 

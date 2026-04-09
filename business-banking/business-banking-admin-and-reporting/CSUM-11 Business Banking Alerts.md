@@ -49,7 +49,7 @@ For credit unions, business alerts are a proactive security and engagement tool.
 
 Open your web browser and navigate to the Summerville Credit Union digital banking platform. Enter your username and password on the login screen and click "Log In." If prompted, complete the OTP (One-Time Passcode) verification by entering the code sent to your registered device. After successful authentication, you will land on the Dashboard — also called the Account Overview screen. This is your home base. The Dashboard displays all your business accounts (Savings Accounts, Checking Accounts) with their available and current balances. The top navigation bar shows links to Dashboard, Accounts, Transfer & Pay, Cards, Business Banking, and More. On the right sidebar you will see Related Links (Change Password, Account Settings, View Scheduled Transfers, Account Specific Alerts) and a Quick Transfer widget for fast internal transfers. To proceed to Business Banking features, locate the "Business Banking" tab in the top navigation bar and click on it.
 
-![Figure 1 — Log In and Open the Dashboard](/.gitbook/assets/img_5c532a850867.png)
+<figure><img src="/.gitbook/assets/img_5c532a850867.png" alt="Figure 1 — Log In and Open the Dashboard" width="620"><figcaption></figcaption></figure>
 
 *Figure 1 — Log In and Open the Dashboard*
 
@@ -57,7 +57,7 @@ Open your web browser and navigate to the Summerville Credit Union digital banki
 
 After clicking "Business Banking" in the top navigation bar, the Business Banking Hub loads. This is the central command center for all commercial banking operations. The Hub is organized into three sections: "Transfers" at the top (with tiles for ACH Transfer, Domestic Wire Transfer, Transfer Template, and Payment From File), "Manage" in the middle (with tiles for Role Management, User Management, Approval Settings, and Recipient Management), and "More Options" at the bottom (with tiles for Commercial Activity, Reports, and Approvals). Each tile is a direct entry point to its corresponding feature. Only tiles your role has permission to access will be visible. From here, locate and click the tile for the feature you need — the next steps will guide you through the specific workflow.
 
-![Figure 2 — Open the Business Banking Hub](/.gitbook/assets/img_04cfec25c89e.png)
+<figure><img src="/.gitbook/assets/img_04cfec25c89e.png" alt="Figure 2 — Open the Business Banking Hub" width="620"><figcaption></figcaption></figure>
 
 *Figure 2 — Open the Business Banking Hub*
 
@@ -65,7 +65,7 @@ After clicking "Business Banking" in the top navigation bar, the Business Bankin
 
 From the Dashboard, click "Business Banking" in the left-side navigation menu to open the Business Banking Hub. Navigate to the Business Alerts feature by clicking More → Business Alerts in the left-side navigation within Business Banking. The Business Alerts page appears. At the top, select the business entity whose alerts you want to configure (if you manage multiple business accounts). You will see a master "Enable" toggle — this is a global on/off switch for all business alerts. The "Show Enabled Alerts" filter (displaying "10/18 Enabled") lets you view only active alerts. Click "Expand All" to open all alert categories at once. The first visible category is "Security and Account Alerts."
 
-![Figure 3 — Navigate to Business Alerts](/.gitbook/assets/img_877e66eb886e.png)
+<figure><img src="/.gitbook/assets/img_877e66eb886e.png" alt="Figure 3 — Navigate to Business Alerts" width="620"><figcaption></figcaption></figure>
 
 *Figure 3 — Navigate to Business Alerts*
 
@@ -73,7 +73,7 @@ From the Dashboard, click "Business Banking" in the left-side navigation menu to
 
 Click to expand the "Security and Account Alerts" category if it is not already open. You will see individual alert types: Entitlement Changed (when a user's permissions are modified), Password Changed, Login from New Device, Failed Login Attempt, Account Locked, and User Added/Removed. Toggle each alert ON to receive notifications when that event occurs, or OFF to disable it. Recommendation: enable ALL security alerts, as these cover events that could indicate unauthorized access or account compromise. The notifications will be delivered via email, SMS, or in-app based on your contact preferences.
 
-![Figure 4 — Configure Security and Account Alerts](/.gitbook/assets/img_09dc3ce8fe17.png)
+<figure><img src="/.gitbook/assets/img_09dc3ce8fe17.png" alt="Figure 4 — Configure Security and Account Alerts" width="620"><figcaption></figcaption></figure>
 
 *Figure 4 — Configure Security and Account Alerts*
 
@@ -81,7 +81,7 @@ Click to expand the "Security and Account Alerts" category if it is not already 
 
 Scroll down to see the "Wire Alerts" and "ACH Alerts" categories. Expand each category and configure the individual alert toggles. Wire Alerts include: Wire Transfer Initiated, Wire Transfer Approved, Wire Transfer Declined, Wire Transfer Processed, and Wire Transfer Failed. ACH Alerts cover: ACH Payment Sent, ACH Payment Received, ACH Collection Initiated, ACH Batch Processed, and ACH Transaction Failed. Toggle ON the alerts most important to your business operations. For high-volume payment operations, wire alerts are especially critical since wires are irrevocable.
 
-![Figure 5 — Configure Wire and ACH Alerts](/.gitbook/assets/img_ed9561e0e5c2.png)
+<figure><img src="/.gitbook/assets/img_ed9561e0e5c2.png" alt="Figure 5 — Configure Wire and ACH Alerts" width="620"><figcaption></figcaption></figure>
 
 *Figure 5 — Configure Wire and ACH Alerts*
 
@@ -89,7 +89,7 @@ Scroll down to see the "Wire Alerts" and "ACH Alerts" categories. Expand each ca
 
 Continue scrolling to the bottom of the page. You will see remaining ACH Alerts and the "Transfer Alerts" category covering internal fund transfers between your credit union accounts. Configure these toggles based on your needs: Internal Transfer Completed, Scheduled Transfer Executed, Transfer Template Run, and Transfer Failed. After configuring all categories, click "Save" to commit your alert settings. The "10/18 Enabled" counter at the top updates in real-time as you toggle alerts on or off, giving you immediate visibility into how many alerts are active.
 
-![Figure 6 — Configure Transfer Alerts and Save](/.gitbook/assets/img_e189d366c4ac.png)
+<figure><img src="/.gitbook/assets/img_e189d366c4ac.png" alt="Figure 6 — Configure Transfer Alerts and Save" width="620"><figcaption></figcaption></figure>
 
 *Figure 6 — Configure Transfer Alerts and Save*
 

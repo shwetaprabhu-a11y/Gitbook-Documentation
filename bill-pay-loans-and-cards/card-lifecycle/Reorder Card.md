@@ -48,7 +48,7 @@ _Navigation: Log in to Summerville Credit Union online banking. Navigate to Card
 
 After logging in, you land on the Dashboard showing your account balances, recent payments, and quick-action shortcuts. Navigate to Cards in the top navigation bar, then select the account for which you need a replacement card.
 
-![Step 1: Dashboard — starting point for navigation](../../../.gitbook/assets/c573d8948e3aa7e6336249734cea774b7c747bdc.png)
+<figure><img src="/.gitbook/assets/c573d8948e3aa7e6336249734cea774b7c747bdc.png" alt="Step 1: Dashboard — starting point for navigation" width="480"><figcaption></figcaption></figure>
 
 _Step 1: Dashboard — starting point for navigation_
 
@@ -56,7 +56,7 @@ _Step 1: Dashboard — starting point for navigation_
 
 From Card Details, click Order a New Card. Select your account, card type, and design. Choose whether you want a physical card mailed to your address. Enter and confirm a new 5-digit PIN. Click to confirm your order. A digital card is available immediately and the physical card will arrive within 5 days.
 
-![Step 2: Order a New Card form — complete details to reorder your card](../../../.gitbook/assets/96e220bf7fa4b9c60863fee2f05c47821a59f5a9.png)
+<figure><img src="/.gitbook/assets/96e220bf7fa4b9c60863fee2f05c47821a59f5a9.png" alt="Step 2: Order a New Card form — complete details to reorder your card" width="480"><figcaption></figcaption></figure>
 
 _Step 2: Order a New Card form — complete details to reorder your card_
 

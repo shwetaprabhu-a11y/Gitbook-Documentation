@@ -66,7 +66,7 @@ These use cases reflect the core scenarios encountered by Summerville FCU's busi
 
 **Step 1: Log in to Summerville FCU Dashboard**
 
-![](/.gitbook/assets/f3baee20922a81473c94f88c7dc5d2b96ed0796f.png){width="6.458333333333333in" height="4.041666666666667in"}
+<figure><img src="/.gitbook/assets/f3baee20922a81473c94f88c7dc5d2b96ed0796f.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.458333333333333in" height="4.041666666666667in"}
 
 The primary user logs into the Summerville Federal Credit Union digital banking portal and lands on the Dashboard. The Dashboard provides a consolidated view of account summaries, recent transactions, quick actions, and key financial insights.
 
@@ -74,7 +74,7 @@ From the Dashboard, the user navigates to the Secondary Users section under Pers
 
 **Step 2: Secondary Users Management Hub**
 
-![](/.gitbook/assets/0ec0dff056ede78dfade7488479121ffa9fa7130.png){width="6.458333333333333in" height="2.9166666666666665in"}
+<figure><img src="/.gitbook/assets/0ec0dff056ede78dfade7488479121ffa9fa7130.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.458333333333333in" height="2.9166666666666665in"}
 
 The Secondary Users hub is the central management screen with three primary tabs: Secondary User Management, Approvals, and Secondary User Activity. The right sidebar provides Related Links for quick navigation.
 
@@ -82,7 +82,7 @@ From this screen, the primary user can view all existing secondary users, manage
 
 **Step 3: Add a New Secondary User --- Enter Details**
 
-![](/.gitbook/assets/a851a2002507b398b2253c12d54d9e0f16988566.png){width="6.458333333333333in" height="4.979166666666667in"}
+<figure><img src="/.gitbook/assets/a851a2002507b398b2253c12d54d9e0f16988566.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.458333333333333in" height="4.979166666666667in"}
 
 To add a new secondary user, the primary user clicks the Secondary User Management tab and selects "Add User." The system presents a form requiring First Name, Last Name, Email Address, and Phone Number.
 
@@ -90,7 +90,7 @@ The phone number field includes a country code selector (defaulting to United St
 
 **Step 4: Assign Feature Permissions**
 
-![](/.gitbook/assets/314b280fe493ea3ebe0b0d955541a9c6a577cc97.png){width="6.458333333333333in" height="3.6875in"}
+<figure><img src="/.gitbook/assets/314b280fe493ea3ebe0b0d955541a9c6a577cc97.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.458333333333333in" height="3.6875in"}
 
 The next step presents the Select Feature Permissions screen. The primary user can either clone permissions from an existing secondary user or create new custom permissions.
 
@@ -98,7 +98,7 @@ This two-path approach streamlines the process: for businesses with standardized
 
 **Step 5: Configure Granular Access Levels**
 
-![](/.gitbook/assets/59f2458c39fe2ece67c1207229727be003744c50.png){width="6.458333333333333in" height="11.927083333333334in"}
+<figure><img src="/.gitbook/assets/59f2458c39fe2ece67c1207229727be003744c50.png" alt="" width="340"><figcaption></figcaption></figure>{width="6.458333333333333in" height="11.927083333333334in"}
 
 When creating new permissions, the system displays three access levels: View Only (can only view features and account details), Full Access (complete account access with no restricted actions), and Custom (view details and perform selected actions).
 
@@ -106,7 +106,7 @@ The permissions grid covers Account Information, Alerts, Approvals, Banking Serv
 
 **Step 6: Select Accounts to Share**
 
-![](/.gitbook/assets/326cb39659e4673b99328a239831187ecf61a191.png){width="6.458333333333333in" height="7.958333333333333in"}
+<figure><img src="/.gitbook/assets/326cb39659e4673b99328a239831187ecf61a191.png" alt="" width="480"><figcaption></figcaption></figure>{width="6.458333333333333in" height="7.958333333333333in"}
 
 After setting permissions, the primary user selects which specific accounts to share with the secondary user. The screen lists all own accounts including savings, checking, credit cards, and loans with their account numbers and membership details.
 
@@ -114,7 +114,7 @@ At least one account must be selected to proceed. This granular account selectio
 
 **Step 7: Configure Transaction Limits**
 
-![](/.gitbook/assets/935e9be6a2101d256f329c761d236618cfc93e37.png){width="6.458333333333333in" height="10.1875in"}
+<figure><img src="/.gitbook/assets/935e9be6a2101d256f329c761d236618cfc93e37.png" alt="" width="340"><figcaption></figcaption></figure>{width="6.458333333333333in" height="10.1875in"}
 
 For each shared account, the primary user can set transaction limits that control the maximum amounts the secondary user can transact. Limits can be configured per transaction type (transfers, payments, etc.) and per time period (daily, weekly, monthly).
 
@@ -122,7 +122,7 @@ This limit-setting capability is critical for business banking compliance. It en
 
 **Step 8: Review and Confirm Setup**
 
-![](/.gitbook/assets/707e7e7bdfaf54bc063a76b95801ba5055de95f4.png){width="6.458333333333333in" height="7.25in"}
+<figure><img src="/.gitbook/assets/707e7e7bdfaf54bc063a76b95801ba5055de95f4.png" alt="" width="480"><figcaption></figcaption></figure>{width="6.458333333333333in" height="7.25in"}
 
 The system presents a comprehensive review screen summarizing all configured settings: user details, assigned permissions, selected accounts, and transaction limits. The primary user can go back to modify any section or confirm to send the invitation.
 
@@ -132,7 +132,7 @@ Upon confirmation, the system generates a secure invitation email that is sent t
 
 **Step 9: Invitation Email Received**
 
-![](/.gitbook/assets/926c73fd76372a6ba6abd3b0d115f3b26d31c0fe.png){width="6.458333333333333in" height="4.65625in"}
+<figure><img src="/.gitbook/assets/926c73fd76372a6ba6abd3b0d115f3b26d31c0fe.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.458333333333333in" height="4.65625in"}
 
 The secondary user receives an email notification from the platform informing them that the primary account holder has invited them to access their account in Summerville FCU Digital Banking.
 
@@ -140,7 +140,7 @@ The email contains an "Accept Invitation" button, clear instructions to complete
 
 **Step 10: Begin Enrolment --- Login or Register**
 
-![](/.gitbook/assets/c67b52a301cba107d43d9f40f3e4228244f51bd5.png){width="6.458333333333333in" height="3.6354166666666665in"}
+<figure><img src="/.gitbook/assets/c67b52a301cba107d43d9f40f3e4228244f51bd5.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.458333333333333in" height="3.6354166666666665in"}
 
 Clicking the invitation link takes the secondary user to the enrolment landing page. The system asks whether they already have login credentials (for existing digital banking users) or need to create new ones.
 
@@ -148,7 +148,7 @@ This branching logic supports two scenarios: existing You who already have porta
 
 **Step 11: Create Account Credentials**
 
-![](/.gitbook/assets/9fb4c0bd0220d8a80221484108dd21f5eec35f52.png){width="6.458333333333333in" height="4.96875in"}
+<figure><img src="/.gitbook/assets/9fb4c0bd0220d8a80221484108dd21f5eec35f52.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.458333333333333in" height="4.96875in"}
 
 New secondary users create their account by entering a username and password. The system enforces strong credential requirements: username must be 8--25 characters without spaces or special symbols, and the password must be 8--20 characters with at least one number, one letter, one uppercase letter, one lowercase letter, and one special character.
 
@@ -156,7 +156,7 @@ A progress stepper at the top (Create your account → Identity verification →
 
 **Step 12: Enrolment Complete**
 
-![](/.gitbook/assets/c6691b82bd52b4e53370ffcbfc59280c14902d42.png){width="6.458333333333333in" height="2.7708333333333335in"}
+<figure><img src="/.gitbook/assets/c6691b82bd52b4e53370ffcbfc59280c14902d42.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.458333333333333in" height="2.7708333333333335in"}
 
 After identity verification and OTP confirmation, the secondary user sees a "Congratulations!" success screen confirming they have been successfully enrolled into digital banking. A "Log in" button allows immediate access.
 
@@ -166,7 +166,7 @@ Upon first login, the secondary user's dashboard will display only the accounts 
 
 **Step 13: View and Edit User Profile**
 
-![](/.gitbook/assets/18a57863c251a6f03a298c96202ca435815184b0.png){width="6.458333333333333in" height="7.90625in"}
+<figure><img src="/.gitbook/assets/18a57863c251a6f03a298c96202ca435815184b0.png" alt="" width="480"><figcaption></figcaption></figure>{width="6.458333333333333in" height="7.90625in"}
 
 After enrolment, the primary user can access the secondary user's profile to view and modify all delegated access settings. The User Profile screen displays user management details, account control settings, current access level, and shared accounts with their limits.
 
@@ -174,7 +174,7 @@ From this screen, the primary user can edit permissions, change account access, 
 
 **Step 14: Review Pending Approvals**
 
-![](/.gitbook/assets/6c1bbd71c0e6dc800e22dd6e4e95ecd0b8ee9d6b.png){width="6.458333333333333in" height="5.010416666666667in"}
+<figure><img src="/.gitbook/assets/6c1bbd71c0e6dc800e22dd6e4e95ecd0b8ee9d6b.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.458333333333333in" height="5.010416666666667in"}
 
 The Secondary User Activity screen provides a comprehensive audit log of all actions taken by secondary users. The primary user can filter by secondary user name and view transaction details including date, activity type, status (Pending approval, Processed), and amount.
 
@@ -184,7 +184,7 @@ Each transaction entry shows full details: the fund transfer type, source and de
 
 **Step 15: Alerts to Secondary User**
 
-![](/.gitbook/assets/86de7fc2065967a5c7ce74d902d91e83c567a91e.png){width="6.458333333333333in" height="4.875in"}
+<figure><img src="/.gitbook/assets/86de7fc2065967a5c7ce74d902d91e83c567a91e.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.458333333333333in" height="4.875in"}
 
 Secondary users receive email notifications for key events in the delegated access lifecycle. These include invitation emails, enrolment confirmations, transaction approval/denial notifications, and account access change alerts.
 
@@ -192,7 +192,7 @@ The notification system ensures secondary users stay informed about their access
 
 **Step 16: Alerts to Primary User**
 
-![](/.gitbook/assets/008087bd12f428858a8969f81d10eb63152327c3.png){width="6.458333333333333in" height="5.135416666666667in"}
+<figure><img src="/.gitbook/assets/008087bd12f428858a8969f81d10eb63152327c3.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.458333333333333in" height="5.135416666666667in"}
 
 Primary account holders receive notifications when secondary users perform significant actions, including fund transfers that require approval, account access requests, and profile changes.
 
@@ -202,7 +202,7 @@ These alerts enable the primary user to maintain oversight of delegated activiti
 
 **Step 17: Member Profile in Core System**
 
-![](/.gitbook/assets/3eea5ffdd4e8c21db17119e5e27aa78cba560fa5.png){width="6.458333333333333in" height="4.072916666666667in"}
+<figure><img src="/.gitbook/assets/3eea5ffdd4e8c21db17119e5e27aa78cba560fa5.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.458333333333333in" height="4.072916666666667in"}
 
 The Delegated Access feature integrates with the Harmoney core banking system. When a secondary user is added through the digital banking portal, their profile is reflected in the core system's member management module.
 

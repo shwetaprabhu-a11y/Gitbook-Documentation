@@ -48,7 +48,7 @@ _Navigation: Log in to Summerville Credit Union online banking. Click Cards, sel
 
 After logging in, you land on the Dashboard showing your account balances, recent payments, and quick-action shortcuts. Click Cards in the top navigation bar, then select the card you want to manage.
 
-![Step 1: Dashboard — starting point for navigation](../../../.gitbook/assets/image2.png)
+<figure><img src="/.gitbook/assets/image2.png" alt="Step 1: Dashboard — starting point for navigation" width="480"><figcaption></figcaption></figure>
 
 _Step 1: Dashboard — starting point for navigation_
 
@@ -56,7 +56,7 @@ _Step 1: Dashboard — starting point for navigation_
 
 From the Card Details page, click Card Controls in the quick action row beneath the card balance summary. The Card Controls panel opens with four tabs: Spending Limits, Usage Control, Card Alerts, and Location Controls. Click any tab to configure that sub-feature. Each setting takes effect immediately when saved — no additional confirmation step is required.
 
-![](../../../.gitbook/assets/image1.png)
+<figure><img src="/.gitbook/assets/image1.png" alt="" width="340"><figcaption></figcaption></figure>
 
 _Step 2: Card Controls panel — select any tab to configure that control area_
 

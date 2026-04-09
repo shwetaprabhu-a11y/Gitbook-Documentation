@@ -47,7 +47,7 @@ _Navigation: Log in to Summerville Credit Union online banking. From the Dashboa
 
 After logging in, you land on the Dashboard showing your account balances and navigation links. Click Cards in the top navigation bar to access your card list, then select the card you want to manage.
 
-![Step 1: Dashboard — navigate to Cards to begin](../../../.gitbook/assets/image4.png)
+<figure><img src="/.gitbook/assets/image4.png" alt="Step 1: Dashboard — navigate to Cards to begin" width="480"><figcaption></figcaption></figure>
 
 _Step 1: Dashboard — navigate to Cards to begin_
 
@@ -55,7 +55,7 @@ _Step 1: Dashboard — navigate to Cards to begin_
 
 The Deactivate / Replace Card page opens. Use the "What happened to your card?" dropdown to describe the situation, and optionally add a description. Then select one of two options: Deactivate Card (permanent, no replacement) or Request Replacement & Deactivate Card (issues a new card and disables the current one). Click Continue to proceed.
 
-![Step 2: Choose to deactivate only or request a replacement](<../../../.gitbook/assets/image1 (2).png>)
+<figure><img src="/.gitbook/assets/image1 (2).png" alt="Step 2: Choose to deactivate only or request a replacement" width="480"><figcaption></figcaption></figure>
 
 _Step 2: Choose to deactivate only or request a replacement_
 
@@ -63,7 +63,7 @@ _Step 2: Choose to deactivate only or request a replacement_
 
 If you selected Request Replacement, this screen asks whether you want a physical copy mailed to you. Choose Yes, Please to receive a physical card at your address on file (shown and editable via Change Address), or No, just digital to receive the digital card only. Enter and confirm a new 5-digit PIN for the replacement card, then click Request Replacement and Deactivate Card to submit.
 
-![Step 3: Set your delivery preference and new PIN for the replacement card](../../../.gitbook/assets/image3.png)
+<figure><img src="/.gitbook/assets/image3.png" alt="Step 3: Set your delivery preference and new PIN for the replacement card" width="480"><figcaption></figcaption></figure>
 
 _Step 3: Set your delivery preference and new PIN for the replacement card_
 
@@ -71,6 +71,6 @@ _Step 3: Set your delivery preference and new PIN for the replacement card_
 
 A success screen confirms that your card has been deactivated. The message states that the card can no longer perform transactions. Click Go to Cards to return to your card list, or Go to Dashboard to return to the main banking dashboard.
 
-![Step 4: Deactivation confirmed — the card is permanently disabled](<../../../.gitbook/assets/image2 (2).png>)
+<figure><img src="/.gitbook/assets/image2 (2).png" alt="Step 4: Deactivation confirmed — the card is permanently disabled" width="480"><figcaption></figcaption></figure>
 
 _Step 4: Deactivation confirmed — the card is permanently disabled_

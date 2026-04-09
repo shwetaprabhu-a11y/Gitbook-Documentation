@@ -52,13 +52,13 @@ Card Alerts puts you in control of how, where, and when your card is used. From 
 
 From the nFinia top navigation, select Cards. Locate the card you want to configure and click Card Controls at the bottom of that card tile. This opens the Card Details page.
 
-![](../../../.gitbook/assets/image2.png)
+<figure><img src="/.gitbook/assets/image2.png" alt="" width="480"><figcaption></figcaption></figure>
 
 **Step 2 Select the Card Alerts Tab**
 
 Inside Card Details, find the Card Controls section. Select the Card Alerts tab. The page will show two sub-sections: Spend Alerts at the top, followed by Transaction Type and Merchant Categories controls below.
 
-![](../../../.gitbook/assets/image1.png)
+<figure><img src="/.gitbook/assets/image1.png" alt="" width="340"><figcaption></figcaption></figure>
 
 **Step 3 Configure Spend Alerts**
 

@@ -127,7 +127,7 @@ Admin Portal. It allows FI Operations to define the push notification
 delivery channel, authenticate with Tyfone, and initiate test
 notifications.
 
-![](/.gitbook/assets/e5ae27c7b7f0533f28471dd480ceb5426df96899.png)
+<figure><img src="/.gitbook/assets/e5ae27c7b7f0533f28471dd480ceb5426df96899.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 1: Prisma Admin Portal — Push Notifications Setup Configuration*
 
@@ -147,7 +147,7 @@ This modal dialog appears when the "Test Push Notification" button is
 clicked. It allows FI Operations to send a test push to a specific
 member device by entering their Individual ID.
 
-![](/.gitbook/assets/a2e8c62678ac84a8bfb659e4b95f6d4eb6c9fc12.png)
+<figure><img src="/.gitbook/assets/a2e8c62678ac84a8bfb659e4b95f6d4eb6c9fc12.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 2: Test Push Notification Delivery Modal*
 
@@ -169,7 +169,7 @@ content, and a delivery timestamp. The screenshot below shows successful
 delivery of multiple Summerville CU push notifications grouped on a
 member iOS device.
 
-![](/.gitbook/assets/06544a40cc00e9658819cf4aa56f23e1e8844e7b.png)
+<figure><img src="/.gitbook/assets/06544a40cc00e9658819cf4aa56f23e1e8844e7b.png" alt="" width="340"><figcaption></figcaption></figure>
 
 *Figure 3: Summerville CU Push Notifications Grouped in iOS Notification
 Centre*

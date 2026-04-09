@@ -56,7 +56,7 @@ CSUM-02 (Dashboard), CSUM-03 (Account Overview)
 | **  03  STEP-BY-STEP GUIDE**   | *Navigation: Dashboard > More > 'Recent Activities' OR 'My Insights'.* | **Step 1 — Start from Dashboard**                                  | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-02 (Dashboard), CSUM-03 (Account Overview)
 
 you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](/.gitbook/assets/img_ba578ecd81d3.png)
+<figure><img src="/.gitbook/assets/img_ba578ecd81d3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 2: More Menu*
 
@@ -72,7 +72,7 @@ you click ‘More’ in the top navigation bar. The More options panel expands t
 
 The Recent Activities modal is displayed showing a chronological list of your actions since their last login, each entry with a timestamp and activity description.
 
-![](/.gitbook/assets/img_4a4de4ca3296.png)
+<figure><img src="/.gitbook/assets/img_4a4de4ca3296.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Recent Activities*
 
@@ -80,7 +80,7 @@ The Recent Activities modal is displayed showing a chronological list of your ac
 
 The My Insights dashboard page is shown with various financial insight cards and a promotional advertisement banner displayed alongside the analytics content.
 
-![](/.gitbook/assets/img_e604fd3ef65b.png)
+<figure><img src="/.gitbook/assets/img_e604fd3ef65b.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 4: Navigate from Dashboard to My Insights Overview*
 
@@ -88,7 +88,7 @@ The My Insights dashboard page is shown with various financial insight cards and
 
 The My Insights page displays a metrics card showing account balance information and financial trend data for your spending and income analysis.
 
-![](/.gitbook/assets/img_f542418ebcc4.png)
+<figure><img src="/.gitbook/assets/img_f542418ebcc4.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 5: Explore Insights Category Breakdown*
 

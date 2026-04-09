@@ -85,7 +85,7 @@ the personalized Dashboard showing account balances, quick transfer,
 upcoming payments, and credit score. The Dashboard is the central hub
 for all banking operations — every workflow begins here.
 
-![](/.gitbook/assets/1a19568ff18131f218abd77ce89a1be61f1d1d82.png)
+<figure><img src="/.gitbook/assets/1a19568ff18131f218abd77ce89a1be61f1d1d82.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 1 — Summerville FCU Dashboard*
 
@@ -104,7 +104,7 @@ role has permission to access will be visible. From here, locate and
 click the tile for the feature you need — the next steps will guide you
 through the specific workflow.
 
-![](/.gitbook/assets/4c26e21f2a941fd4d0531c900025b3d6ab137178.png)
+<figure><img src="/.gitbook/assets/4c26e21f2a941fd4d0531c900025b3d6ab137178.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 2 — Business Banking Hub*
 
@@ -122,7 +122,7 @@ is needed. Setting "2" means every transaction of that type requires a
 second authorized user to approve it through the Approvals queue before
 it is processed.
 
-![](/.gitbook/assets/e8a9398b3d8ef1e97ccfe43db5eaadc2a978be71.png)
+<figure><img src="/.gitbook/assets/e8a9398b3d8ef1e97ccfe43db5eaadc2a978be71.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 3 — Approval Settings Page*
 
@@ -139,7 +139,7 @@ click "Save" to apply your changes. Click "Reset" if you want to revert
 to the previous configuration. These settings take effect immediately
 for all future transactions.
 
-![](/.gitbook/assets/ddd8ab4a06611644970b2d15112e5d20cf5c17a9.png)
+<figure><img src="/.gitbook/assets/ddd8ab4a06611644970b2d15112e5d20cf5c17a9.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 4 — Configure Thresholds and Save*
 

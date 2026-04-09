@@ -56,7 +56,7 @@ CSUM-01 (Login & Auth), CSUM-23 (Settings), CSUM-28 (Device Management)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > Settings > 'User ID & Password' OR 'MFA Settings'.* | **Step 1 — Start from Dashboard**                                           | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-01 (Login & Auth), CSUM-23 (Settings), CSUM-28 (Device Management)
 
 you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](/.gitbook/assets/img_ba578ecd81d3.png)
+<figure><img src="/.gitbook/assets/img_ba578ecd81d3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 2: More Menu*
 
@@ -72,7 +72,7 @@ you click ‘More’ in the top navigation bar. The More options panel expands t
 
 The User ID and Password Settings page is displayed with tabs for User ID, Password, and Multi-Factor Authentication, allowing you to manage their login credentials.
 
-![](/.gitbook/assets/img_e7e55face41b.png)
+<figure><img src="/.gitbook/assets/img_e7e55face41b.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to User ID Settings*
 
@@ -80,7 +80,7 @@ The User ID and Password Settings page is displayed with tabs for User ID, Passw
 
 The Password change form is shown with 'Enter new password' and 'Confirm new password' input fields along with a list of Password Requirements (minimum length, special characters, etc.).
 
-![](/.gitbook/assets/img_46fdd7da971c.png)
+<figure><img src="/.gitbook/assets/img_46fdd7da971c.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 4: Change User ID*
 
@@ -88,7 +88,7 @@ The Password change form is shown with 'Enter new password' and 'Confirm new pas
 
 The User ID and Password Settings page shows the Multi-Factor Authentication preferences section where you can manage their MFA delivery methods.
 
-![](/.gitbook/assets/img_f25e080818ae.png)
+<figure><img src="/.gitbook/assets/img_f25e080818ae.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 5: Review MFA Preferences*
 

@@ -56,7 +56,7 @@ CSUM-24 (My Insights), CSUM-03 (Account Overview)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > More > 'Credit Score' OR 'Financial Tools'.* | **Step 1 — Start from Dashboard**                                    | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-24 (My Insights), CSUM-03 (Account Overview)
 
 you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](/.gitbook/assets/img_ba578ecd81d3.png)
+<figure><img src="/.gitbook/assets/img_ba578ecd81d3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 2: More Menu*
 
@@ -72,7 +72,7 @@ you click ‘More’ in the top navigation bar. The More options panel expands t
 
 The Credit Score page is displayed with consent information describing the credit score service and a blue action button for you to access their credit score data.
 
-![](/.gitbook/assets/img_c11a5a1ced0c.png)
+<figure><img src="/.gitbook/assets/img_c11a5a1ced0c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Credit Score*
 
@@ -80,7 +80,7 @@ The Credit Score page is displayed with consent information describing the credi
 
 The Credit Score page shows a message indicating that credit score information is not currently available, with a button to proceed or retry the lookup.
 
-![](/.gitbook/assets/img_4db8387e6bb2.png)
+<figure><img src="/.gitbook/assets/img_4db8387e6bb2.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 4: Score Not Found — Thin Credit File*
 
@@ -88,7 +88,7 @@ The Credit Score page shows a message indicating that credit score information i
 
 The Credit Score page displays a re-confirmation consent screen with updated terms and information about accessing credit score data.
 
-![](/.gitbook/assets/img_5e76e3f791d4.png)
+<figure><img src="/.gitbook/assets/img_5e76e3f791d4.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 5: Re-Confirm Credit Score Consent*
 

@@ -54,7 +54,7 @@ Account-specific and general alerts together give Summerville CU You a layered n
 
 you navigate to the Summerville CU Online Banking portal and enters their User ID and password, then clicks **Log in**.
 
-![Screenshot 1](../../../.gitbook/assets/Screenshot_1_1.png)
+<figure><img src="/.gitbook/assets/Screenshot_1_1.png" alt="Screenshot 1" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -62,7 +62,7 @@ you navigate to the Summerville CU Online Banking portal and enters their User I
 
 The system prompts for a One-Time Passcode. you select how to receive it: Send me a message, Call me, or Send me an email.
 
-![Screenshot 2](../../../.gitbook/assets/Screenshot_2_2.png)
+<figure><img src="/.gitbook/assets/Screenshot_2_2.png" alt="Screenshot 2" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -70,7 +70,7 @@ The system prompts for a One-Time Passcode. you select how to receive it: Send m
 
 After choosing "Send me a message," you select the registered phone number to receive the OTP.
 
-![Screenshot 3](../../../.gitbook/assets/Screenshot_3_3.png)
+<figure><img src="/.gitbook/assets/Screenshot_3_3.png" alt="Screenshot 3" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -78,7 +78,7 @@ After choosing "Send me a message," you select the registered phone number to re
 
 you enter the 6-digit code sent to their selected contact. The **Remember Device/Browser** option is available to skip OTP on future logins from this device.
 
-![Screenshot 4](../../../.gitbook/assets/Screenshot_4_4.png)
+<figure><img src="/.gitbook/assets/Screenshot_4_4.png" alt="Screenshot 4" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -86,7 +86,7 @@ you enter the 6-digit code sent to their selected contact. The **Remember Device
 
 After successful authentication, you land on the main Dashboard showing account balances and the Quick Transfer panel.
 
-![Screenshot 5](../../../.gitbook/assets/Screenshot_5_5.png)
+<figure><img src="/.gitbook/assets/Screenshot_5_5.png" alt="Screenshot 5" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -94,7 +94,7 @@ After successful authentication, you land on the main Dashboard showing account 
 
 you click **More** in the navigation bar. A panel expands showing Alerts options: Account Alerts, General Alerts, Do-Not-Disturb, and Alert Settings. you click **Alert Settings**.
 
-![Screenshot 6](../../../.gitbook/assets/Screenshot_6_6.png)
+<figure><img src="/.gitbook/assets/Screenshot_6_6.png" alt="Screenshot 6" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -107,7 +107,7 @@ The **Alert Settings** tab loads. you can:
 
 The screen displays the registered phone number and email address that alerts will be sent to.
 
-![Screenshot 7](../../../.gitbook/assets/Screenshot_7_7.png)
+<figure><img src="/.gitbook/assets/Screenshot_7_7.png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -124,7 +124,7 @@ The tab displays four alert categories, each with an "Add a new alert" link:
 * Deposit alerts
 * Withdrawal alerts
 
-![Screenshot 7](../../../.gitbook/assets/Screenshot_7_8.png)
+<figure><img src="/.gitbook/assets/Screenshot_7_8.png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -135,7 +135,7 @@ you click **+ Add a new alert** under Balance Alerts. A modal titled **"Add new 
 1. Selects the account from the dropdown (e.g., Retail Checking Account #0001)
 2. Sets the condition: "Alert me if my available balance is [Less than] [$1,000]"
 
-![Screenshot 8](../../../.gitbook/assets/Screenshot_8_9.png)
+<figure><img src="/.gitbook/assets/Screenshot_8_9.png" alt="Screenshot 8" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -143,7 +143,7 @@ you click **+ Add a new alert** under Balance Alerts. A modal titled **"Add new 
 
 After clicking **Save**, the modal closes and the Account-Specific Alerts tab refreshes. A green success banner reads "Available balance alert successfully added." The new alert appears listed under Balance Alerts (1) with the account name, condition, and **Edit** / **Remove** actions.
 
-![Screenshot 9](../../../.gitbook/assets/Screenshot_9_10.png)
+<figure><img src="/.gitbook/assets/Screenshot_9_10.png" alt="Screenshot 9" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -158,7 +158,7 @@ The tab is divided into two sections:
 * **Optional Alerts**: Events you can configure (e.g., Stop check request, Check reorder). Each row has a dropdown with four options: Send all alerts / Send success alerts / Send failure alerts / Disable alerts.
 * **Mandatory Alerts**: Events that always trigger regardless of preferences (failed login attempt, password change, account lock, contact info update, new device remembered, A2A transfer micro-deposit).
 
-![Screenshot 7](../../../.gitbook/assets/Screenshot_7_11.png)
+<figure><img src="/.gitbook/assets/Screenshot_7_11.png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -166,7 +166,7 @@ The tab is divided into two sections:
 
 you click the dropdown on an optional alert row and selects the desired delivery option. The system saves the selection and displays a green success banner: "Alert has been updated successfully."
 
-![Screenshot 8](../../../.gitbook/assets/Screenshot_8_12.png)
+<figure><img src="/.gitbook/assets/Screenshot_8_12.png" alt="Screenshot 8" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -178,7 +178,7 @@ Steps 1–6 are identical. At Step 6, you click **Do-Not-Disturb**.
 
 The Do-Not-Disturb screen loads. A message states "You have not set a Do-Not-Disturb period." A **Set Do-Not-Disturb period** button is prominently displayed. A disclaimer in red text clarifies that mandatory alerts bypass DND and will always be delivered.
 
-![Screenshot 7](../../../.gitbook/assets/Screenshot_7_13.png)
+<figure><img src="/.gitbook/assets/Screenshot_7_13.png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -192,7 +192,7 @@ After clicking **Set Do-Not-Disturb period**, a form appears inline with three f
 
 A preview message in red reads: "You will not receive alerts between [Start time] & [End time] the next day." you click **Set Do-Not-Disturb**.
 
-![Screenshot 8](../../../.gitbook/assets/Screenshot_8_14.png)
+<figure><img src="/.gitbook/assets/Screenshot_8_14.png" alt="Screenshot 8" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -200,7 +200,7 @@ A preview message in red reads: "You will not receive alerts between [Start time
 
 A green banner reads "Your Do-Not-Disturb period has been set." The page reflects the active DND window and shows a "Processing…" indicator as the system saves the preference.
 
-![Screenshot 9](../../../.gitbook/assets/Screenshot_9_15.png)
+<figure><img src="/.gitbook/assets/Screenshot_9_15.png" alt="Screenshot 9" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -212,7 +212,7 @@ After a DND period is active, the Do-Not-Disturb tab displays the current period
 
 The current DND window is shown (e.g., "10:00 PM PST to 07:00 AM PST") with Edit and Remove links. The red disclaimer about mandatory alerts remains visible.
 
-![Screenshot 7](../../../.gitbook/assets/Screenshot_7_16.png)
+<figure><img src="/.gitbook/assets/Screenshot_7_16.png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -220,7 +220,7 @@ The current DND window is shown (e.g., "10:00 PM PST to 07:00 AM PST") with Edit
 
 Clicking **Edit** expands the form with the current values pre-populated. you adjusts Timezone, Start time, or End time and clicks **Set Do-Not-Disturb** to save.
 
-![Screenshot 8](../../../.gitbook/assets/Screenshot_8_17.png)
+<figure><img src="/.gitbook/assets/Screenshot_8_17.png" alt="Screenshot 8" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -228,7 +228,7 @@ Clicking **Edit** expands the form with the current values pre-populated. you ad
 
 A green banner confirms "Your Do-Not-Disturb period has been set." The updated values are reflected immediately.
 
-![Screenshot 9](../../../.gitbook/assets/Screenshot_9_18.png)
+<figure><img src="/.gitbook/assets/Screenshot_9_18.png" alt="Screenshot 9" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -238,7 +238,7 @@ A green banner confirms "Your Do-Not-Disturb period has been set." The updated v
 
 On the Do-Not-Disturb tab, you click **Remove** next to the active period.
 
-![Screenshot 7](../../../.gitbook/assets/Screenshot_7_19.png)
+<figure><img src="/.gitbook/assets/Screenshot_7_19.png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -246,7 +246,7 @@ On the Do-Not-Disturb tab, you click **Remove** next to the active period.
 
 The system processes the request and displays a green banner: "Do-Not-Disturb-Period has been removed successfully." The page returns to the "no period set" state, restoring full-hour alert delivery.
 
-![Screenshot 8](../../../.gitbook/assets/Screenshot_8_20.png)
+<figure><img src="/.gitbook/assets/Screenshot_8_20.png" alt="Screenshot 8" width="620"><figcaption></figcaption></figure>
 
 ***
 
@@ -271,7 +271,7 @@ The system processes the request and displays a green banner: "Do-Not-Disturb-Pe
 
 The entry point for all Summerville CU Online Banking sessions. You authenticate with User ID and password before reaching any alert configuration screens.
 
-![Screenshot 1](../../../.gitbook/assets/Screenshot_1_21.png)
+<figure><img src="/.gitbook/assets/Screenshot_1_21.png" alt="Screenshot 1" width="620"><figcaption></figcaption></figure>
 
 | Field / Element        | Type               | Description                        | Notes                                            |
 | ---------------------- | ------------------ | ---------------------------------- | ------------------------------------------------ |
@@ -287,7 +287,7 @@ The entry point for all Summerville CU Online Banking sessions. You authenticate
 
 Displayed after successful credential entry. Enforces step-up authentication before any account access.
 
-![Screenshot 2](../../../.gitbook/assets/Screenshot_2_22.png)
+<figure><img src="/.gitbook/assets/Screenshot_2_22.png" alt="Screenshot 2" width="620"><figcaption></figcaption></figure>
 
 | Field / Element   | Type              | Description                 | Notes                                |
 | ----------------- | ----------------- | --------------------------- | ------------------------------------ |
@@ -301,7 +301,7 @@ Displayed after successful credential entry. Enforces step-up authentication bef
 
 Shown after selecting "Send me a message." Displays masked registered phone numbers for you to choose from.
 
-![Screenshot 3](../../../.gitbook/assets/Screenshot_3_23.png)
+<figure><img src="/.gitbook/assets/Screenshot_3_23.png" alt="Screenshot 3" width="620"><figcaption></figcaption></figure>
 
 | Field / Element                   | Type            | Description                          | Notes                                               |
 | --------------------------------- | --------------- | ------------------------------------ | --------------------------------------------------- |
@@ -313,7 +313,7 @@ Shown after selecting "Send me a message." Displays masked registered phone numb
 
 ### OTP Verification — Enter Code
 
-![Screenshot 4](../../../.gitbook/assets/Screenshot_4_24.png)
+<figure><img src="/.gitbook/assets/Screenshot_4_24.png" alt="Screenshot 4" width="620"><figcaption></figcaption></figure>
 
 | Field / Element                        | Type             | Description                          | Notes                                       |
 | -------------------------------------- | ---------------- | ------------------------------------ | ------------------------------------------- |
@@ -328,7 +328,7 @@ Shown after selecting "Send me a message." Displays masked registered phone numb
 
 Post-login landing screen. Starting point for navigation to all alert management features.
 
-![Screenshot 5](../../../.gitbook/assets/Screenshot_5_25.png)
+<figure><img src="/.gitbook/assets/Screenshot_5_25.png" alt="Screenshot 5" width="620"><figcaption></figcaption></figure>
 
 | Field / Element | Type          | Description                                        | Notes                          |
 | --------------- | ------------- | -------------------------------------------------- | ------------------------------ |
@@ -344,7 +344,7 @@ Post-login landing screen. Starting point for navigation to all alert management
 
 Expanded view of the More navigation menu. The Alerts section surfaces four alert-related destinations.
 
-![Screenshot 6](../../../.gitbook/assets/Screenshot_6_26.png)
+<figure><img src="/.gitbook/assets/Screenshot_6_26.png" alt="Screenshot 6" width="620"><figcaption></figcaption></figure>
 
 | Field / Element | Type      | Description                              | Notes                                         |
 | --------------- | --------- | ---------------------------------------- | --------------------------------------------- |
@@ -359,7 +359,7 @@ Expanded view of the More navigation menu. The Alerts section surfaces four aler
 
 Controls master alert delivery and individual channel preferences.
 
-![Screenshot 7](../../../.gitbook/assets/Screenshot_7_27.png)
+<figure><img src="/.gitbook/assets/Screenshot_7_27.png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 | Field / Element             | Type         | Description                                          | Notes                                         |
 | --------------------------- | ------------ | ---------------------------------------------------- | --------------------------------------------- |
@@ -379,7 +379,7 @@ Controls master alert delivery and individual channel preferences.
 
 Allows You to configure threshold-based alerts tied to specific accounts.
 
-![Screenshot 7](../../../.gitbook/assets/Screenshot_7_28.png)
+<figure><img src="/.gitbook/assets/Screenshot_7_28.png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 | Field / Element             | Type           | Description                             | Notes                  |
 | --------------------------- | -------------- | --------------------------------------- | ---------------------- |
@@ -395,7 +395,7 @@ Allows You to configure threshold-based alerts tied to specific accounts.
 
 Modal dialog for creating a threshold alert on a specific account.
 
-![Screenshot 8](../../../.gitbook/assets/Screenshot_8_29.png)
+<figure><img src="/.gitbook/assets/Screenshot_8_29.png" alt="Screenshot 8" width="620"><figcaption></figcaption></figure>
 
 | Field / Element    | Type           | Description                          | Notes                                    |
 | ------------------ | -------------- | ------------------------------------ | ---------------------------------------- |
@@ -409,7 +409,7 @@ Modal dialog for creating a threshold alert on a specific account.
 
 ### Account-Specific Alerts — Post-Save Confirmation
 
-![Screenshot 9](../../../.gitbook/assets/Screenshot_9_30.png)
+<figure><img src="/.gitbook/assets/Screenshot_9_30.png" alt="Screenshot 9" width="620"><figcaption></figcaption></figure>
 
 | Field / Element | Type                | Description                                   | Notes                                     |
 | --------------- | ------------------- | --------------------------------------------- | ----------------------------------------- |
@@ -422,7 +422,7 @@ Modal dialog for creating a threshold alert on a specific account.
 
 ### General Alerts Tab — Optional & Mandatory
 
-![Screenshot 7](../../../.gitbook/assets/Screenshot_7_31.png)
+<figure><img src="/.gitbook/assets/Screenshot_7_31.png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 | Field / Element          | Type           | Description                           | Notes                                                     |
 | ------------------------ | -------------- | ------------------------------------- | --------------------------------------------------------- |
@@ -436,7 +436,7 @@ Modal dialog for creating a threshold alert on a specific account.
 
 ### General Alerts — Post-Update Confirmation
 
-![Screenshot 8](../../../.gitbook/assets/Screenshot_8_32.png)
+<figure><img src="/.gitbook/assets/Screenshot_8_32.png" alt="Screenshot 8" width="620"><figcaption></figcaption></figure>
 
 | Field / Element   | Type                | Description                                        | Notes                                     |
 | ----------------- | ------------------- | -------------------------------------------------- | ----------------------------------------- |
@@ -447,7 +447,7 @@ Modal dialog for creating a threshold alert on a specific account.
 
 ### Do-Not-Disturb — No Period Set
 
-![Screenshot 7](../../../.gitbook/assets/Screenshot_7_33.png)
+<figure><img src="/.gitbook/assets/Screenshot_7_33.png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 | Field / Element            | Type               | Description                                 | Notes                                |
 | -------------------------- | ------------------ | ------------------------------------------- | ------------------------------------ |
@@ -459,7 +459,7 @@ Modal dialog for creating a threshold alert on a specific account.
 
 ### Do-Not-Disturb — Set Period Form
 
-![Screenshot 8](../../../.gitbook/assets/Screenshot_8_34.png)
+<figure><img src="/.gitbook/assets/Screenshot_8_34.png" alt="Screenshot 8" width="620"><figcaption></figcaption></figure>
 
 | Field / Element    | Type            | Description                                                          | Notes                                      |
 | ------------------ | --------------- | -------------------------------------------------------------------- | ------------------------------------------ |
@@ -474,7 +474,7 @@ Modal dialog for creating a threshold alert on a specific account.
 
 ### Do-Not-Disturb — Period Active (Edit / Remove)
 
-![Screenshot 7](../../../.gitbook/assets/Screenshot_7_35.png)
+<figure><img src="/.gitbook/assets/Screenshot_7_35.png" alt="Screenshot 7" width="620"><figcaption></figcaption></figure>
 
 | Field / Element       | Type        | Description                                                 | Notes                        |
 | --------------------- | ----------- | ----------------------------------------------------------- | ---------------------------- |
@@ -486,7 +486,7 @@ Modal dialog for creating a threshold alert on a specific account.
 
 ### Do-Not-Disturb — Period Removed Confirmation
 
-![Screenshot 8](../../../.gitbook/assets/Screenshot_8_36.png)
+<figure><img src="/.gitbook/assets/Screenshot_8_36.png" alt="Screenshot 8" width="620"><figcaption></figcaption></figure>
 
 | Field / Element | Type                | Description                                            | Notes                            |
 | --------------- | ------------------- | ------------------------------------------------------ | -------------------------------- |

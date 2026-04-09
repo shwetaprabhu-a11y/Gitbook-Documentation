@@ -81,7 +81,7 @@ Transfers, Account Specific Alerts) and a Quick Transfer widget for fast
 internal transfers. To proceed to Business Banking features, locate the
 "Business Banking" tab in the top navigation bar and click on it.
 
-![](/.gitbook/assets/1a19568ff18131f218abd77ce89a1be61f1d1d82.png)
+<figure><img src="/.gitbook/assets/1a19568ff18131f218abd77ce89a1be61f1d1d82.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 1 — Log In and Open the Dashboard*
 
@@ -100,7 +100,7 @@ role has permission to access will be visible. From here, locate and
 click the tile for the feature you need — the next steps will guide you
 through the specific workflow.
 
-![](/.gitbook/assets/4c26e21f2a941fd4d0531c900025b3d6ab137178.png)
+<figure><img src="/.gitbook/assets/4c26e21f2a941fd4d0531c900025b3d6ab137178.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 2 — Open the Business Banking Hub*
 
@@ -117,7 +117,7 @@ act on a request, click the row to expand the full details, then click
 "Approve" to authorize or "Decline" to reject. The badge on the Pending
 tab shows the total count of items awaiting your action.
 
-![](/.gitbook/assets/ebd71113c6a249aedb055630afa3a05e14bda55f.png)
+<figure><img src="/.gitbook/assets/ebd71113c6a249aedb055630afa3a05e14bda55f.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 3 — Navigate to Approvals and Review Pending Requests*
 
@@ -132,7 +132,7 @@ range to review approvals for specific periods. This serves as your
 positive audit trail for compliance reviews — it documents who approved
 what and when.
 
-![](/.gitbook/assets/98cbb9a713b60d2d41604182037ed7b5db885acb.png)
+<figure><img src="/.gitbook/assets/98cbb9a713b60d2d41604182037ed7b5db885acb.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 4 — Review Approved Transactions*
 
@@ -146,7 +146,7 @@ transaction if the payment is still needed. Review this tab regularly: a
 high number of declines may indicate unauthorized activity, incorrect
 amounts, or training gaps that need attention.
 
-![](/.gitbook/assets/939c6dc152b336361537a60d73f67cb23ddc93cf.png)
+<figure><img src="/.gitbook/assets/939c6dc152b336361537a60d73f67cb23ddc93cf.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 5 — Review Declined Transactions*
 
@@ -162,7 +162,7 @@ monitoring the queue regularly. Consider enabling Business Alerts for
 approval notifications to ensure approvers are promptly notified of
 pending items.
 
-![](/.gitbook/assets/b58a4156c2221efdceff60c7c2d7b08c247fa8e0.png)
+<figure><img src="/.gitbook/assets/b58a4156c2221efdceff60c7c2d7b08c247fa8e0.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 6 — Check Expired Requests*
 
@@ -176,7 +176,7 @@ all five tabs together during compliance audits to demonstrate that your
 dual-control approval process is functioning correctly and that all
 transaction outcomes are documented.
 
-![](/.gitbook/assets/f9ec52b0b937a39b748130bd2680e62c0fea84d8.png)
+<figure><img src="/.gitbook/assets/f9ec52b0b937a39b748130bd2680e62c0fea84d8.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 7 — Review Cancelled Requests*
 
@@ -196,7 +196,7 @@ account, bank name, routing number, and amount. Two action buttons
 appear: "Decline request" (red) and "Approve request" (blue with
 checkmark).
 
-![](/.gitbook/assets/0a258baf91054c69676dd7f76a084918f815d357.png)
+<figure><img src="/.gitbook/assets/0a258baf91054c69676dd7f76a084918f815d357.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Figure 8 — Pending Approval Request — Expanded Details*
 
@@ -213,7 +213,7 @@ number of additional approvals still needed (e.g., "Awaiting 3 more
 approval(s)"), giving visibility into the multi-party authorization
 workflow.
 
-![](/.gitbook/assets/e51442b5ebaf9d030d54e8d3d93a8c77ce844dca.png)
+<figure><img src="/.gitbook/assets/e51442b5ebaf9d030d54e8d3d93a8c77ce844dca.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Figure 9 — Multiple Pending Requests with Details*
 
@@ -229,7 +229,7 @@ declination" (dark blue button) to finalize the decline, or "Close" to
 cancel and return to the queue. Declined requests move to the "Declined
 requests" tab for record-keeping and audit purposes.
 
-![](/.gitbook/assets/2bf382e576e3d64d2d67ab9048e468c5c9e978c3.png)
+<figure><img src="/.gitbook/assets/2bf382e576e3d64d2d67ab9048e468c5c9e978c3.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Figure 10 — Confirm Request Declination Dialog*
 
@@ -244,6 +244,6 @@ documentation and regulatory examination preparation. The approved
 requests list serves as the primary compliance evidence that
 dual-control requirements were followed for each transaction.
 
-![](/.gitbook/assets/0e49f0f35955bccfb1e18e8ea951aa0f00429f4a.png)
+<figure><img src="/.gitbook/assets/0e49f0f35955bccfb1e18e8ea951aa0f00429f4a.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 11 — Approved Requests Tab with Export*

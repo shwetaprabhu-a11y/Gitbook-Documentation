@@ -48,7 +48,7 @@ _Navigation: Log in to Summerville Credit Union online banking. Click Cards in t
 
 After logging in, you land on the Dashboard showing your account balances, recent payments, and quick-action shortcuts. The Cards section is accessible directly from the top navigation bar.
 
-![Step 1: Dashboard — starting point for navigation](<../../../.gitbook/assets/image2 (2).png>)
+<figure><img src="/.gitbook/assets/image2 (2).png" alt="Step 1: Dashboard — starting point for navigation" width="480"><figcaption></figcaption></figure>
 
 _Step 1: Dashboard — starting point for navigation_
 
@@ -56,7 +56,7 @@ _Step 1: Dashboard — starting point for navigation_
 
 The Cards page displays all cards associated with your membership. Each card tile shows the card image and design, masked card number, expiry date, membership number, and a Card Status toggle. Below the card details you will see Available credit, Current balance, and quick action links: Card Controls | Set PIN | Deactivate / Replace Card | View account. Use the Select Account filter to show cards for a specific account only.
 
-![](<../../../.gitbook/assets/image1 (2).png>)
+<figure><img src="/.gitbook/assets/image1 (2).png" alt="" width="480"><figcaption></figcaption></figure>
 
 _Step 2: Cards list — all your debit and credit cards in one view_
 

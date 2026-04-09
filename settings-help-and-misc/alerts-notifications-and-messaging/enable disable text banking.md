@@ -58,7 +58,7 @@ These use cases reflect the range of interactions Summerville CU You will encoun
 
 you open the Summerville nFinia mobile app. The Welcome screen presents options to Enroll, Log In, access Accounts/Move Money/Check Deposit/Manage Devices as a guest, or check a quick Balance.
 
-![Welcome Screen](../../../.gitbook/assets/Welcome_Screen_1.jpeg)
+<figure><img src="/.gitbook/assets/Welcome_Screen_1.jpeg" alt="Welcome Screen" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -66,7 +66,7 @@ you open the Summerville nFinia mobile app. The Welcome screen presents options 
 
 you tap **Log In** and enters their Username and Password. "Remember me" is available to persist the username. you tap the **Log In** button to proceed.
 
-![Log In Screen](../../../.gitbook/assets/Log_In_Screen_2.jpeg)
+<figure><img src="/.gitbook/assets/Log_In_Screen_2.jpeg" alt="Log In Screen" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -76,7 +76,7 @@ The system triggers an OTP challenge. you are presented with all registered phon
 
 > _Note: If you does not see their updated contact information, a **Refresh** link is available to reload the phone number list from the profile._
 
-![Verification — Select Authentication Method](../../../.gitbook/assets/Verification___Select_Authentication_Method_3.jpeg)
+<figure><img src="/.gitbook/assets/Verification___Select_Authentication_Method_3.jpeg" alt="Verification — Select Authentication Method" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -84,7 +84,7 @@ The system triggers an OTP challenge. you are presented with all registered phon
 
 A one-time passcode is sent to the selected number. you enter the passcode in the field provided and taps **Submit**. A retry timer (58 seconds) is displayed — if the code does not arrive, you must wait before requesting a new one.
 
-![User Verification — OTP Entry](../../../.gitbook/assets/User_Verification___OTP_Entry_4.jpeg)
+<figure><img src="/.gitbook/assets/User_Verification___OTP_Entry_4.jpeg" alt="User Verification — OTP Entry" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -92,7 +92,7 @@ A one-time passcode is sent to the selected number. you enter the passcode in th
 
 Upon successful authentication, you land on the Dashboard, which shows a personalized greeting, Credit Score & Offers, and an overview of all accounts with total deposits and outstanding loans.
 
-![Dashboard](../../../.gitbook/assets/Dashboard_5.jpeg)
+<figure><img src="/.gitbook/assets/Dashboard_5.jpeg" alt="Dashboard" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -100,7 +100,7 @@ Upon successful authentication, you land on the Dashboard, which shows a persona
 
 you tap the hamburger menu icon (top right) to open the navigation drawer. The menu displays your name, last login timestamp, and options including Statements & eNotices, Digital Wallet, Help, **More Options**, My Insights, Feedback, Stop Check Payment, and My Offers.
 
-![Side Menu](../../../.gitbook/assets/Side_Menu_6.jpeg)
+<figure><img src="/.gitbook/assets/Side_Menu_6.jpeg" alt="Side Menu" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -108,7 +108,7 @@ you tap the hamburger menu icon (top right) to open the navigation drawer. The m
 
 you tap **More Options** in the side menu. The More Options screen lists: Contact us, Branch and ATM, Card fraud alerts, Disclosures and agreement, **Text banking**, and Close Account. you tap **Text banking**.
 
-![More Options](../../../.gitbook/assets/More_Options_7.jpeg)
+<figure><img src="/.gitbook/assets/More_Options_7.jpeg" alt="More Options" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -124,7 +124,7 @@ The system displays a confirmation toast: **"Text Banking has now been enabled."
 
 The screen also displays the short code (**28640**) and the supported text commands for immediate reference.
 
-![Text Banking — Enabled](../../../.gitbook/assets/Text_Banking___Enabled_8.jpeg)
+<figure><img src="/.gitbook/assets/Text_Banking___Enabled_8.jpeg" alt="Text Banking — Enabled" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -141,7 +141,7 @@ On the Text Banking screen, the toggle is currently **ON** (green). you:
 
 The system displays a confirmation toast: **"Text Banking has now been disabled."**
 
-![Text Banking — Disabled](../../../.gitbook/assets/Text_Banking___Disabled_9.jpeg)
+<figure><img src="/.gitbook/assets/Text_Banking___Disabled_9.jpeg" alt="Text Banking — Disabled" width="340"><figcaption></figcaption></figure>
 
 ***
 
@@ -182,7 +182,7 @@ Upon tapping **Update** with a valid toggle state and phone number selected, the
 
 The app entry point. Displays Summerville branding and four unauthenticated quick-access tiles (Accounts, Move Money, Check Deposit, Manage Devices) plus a Balance slider. The Log In and Enroll buttons initiate authenticated flows.
 
-![Welcome Screen](../../../.gitbook/assets/Welcome_Screen_10.jpeg)
+<figure><img src="/.gitbook/assets/Welcome_Screen_10.jpeg" alt="Welcome Screen" width="340"><figcaption></figcaption></figure>
 
 | Field / Element | Type            | Description                                  | Notes                    |
 | --------------- | --------------- | -------------------------------------------- | ------------------------ |
@@ -200,7 +200,7 @@ The app entry point. Displays Summerville branding and four unauthenticated quic
 
 Standard credential entry screen. Username is pre-filled when "Remember me" was previously checked.
 
-![Log In Screen](../../../.gitbook/assets/Log_In_Screen_11.jpeg)
+<figure><img src="/.gitbook/assets/Log_In_Screen_11.jpeg" alt="Log In Screen" width="340"><figcaption></figcaption></figure>
 
 | Field / Element         | Type           | Description                                  | Notes                                   |
 | ----------------------- | -------------- | -------------------------------------------- | --------------------------------------- |
@@ -219,7 +219,7 @@ Standard credential entry screen. Username is pre-filled when "Remember me" was 
 
 Presented after credential submission when OTP is required. Lists all registered phone numbers with Text and Call options for each.
 
-![Verification Screen](../../../.gitbook/assets/Verification_Screen_12.jpeg)
+<figure><img src="/.gitbook/assets/Verification_Screen_12.jpeg" alt="Verification Screen" width="340"><figcaption></figcaption></figure>
 
 | Field / Element                   | Type              | Description                              | Notes                                 |
 | --------------------------------- | ----------------- | ---------------------------------------- | ------------------------------------- |
@@ -236,7 +236,7 @@ Presented after credential submission when OTP is required. Lists all registered
 
 Displayed after you select a delivery method. Accepts the one-time passcode.
 
-![User Verification Screen](../../../.gitbook/assets/User_Verification_Screen_13.jpeg)
+<figure><img src="/.gitbook/assets/User_Verification_Screen_13.jpeg" alt="User Verification Screen" width="340"><figcaption></figcaption></figure>
 
 | Field / Element       | Type        | Description                               | Notes                                     |
 | --------------------- | ----------- | ----------------------------------------- | ----------------------------------------- |
@@ -253,7 +253,7 @@ Displayed after you select a delivery method. Accepts the one-time passcode.
 
 Post-login landing screen. Shows account summary, credit score widget, and offers. Bottom navigation bar provides access to Dashboard, Accounts, Move Money, and Deposit.
 
-![Dashboard](../../../.gitbook/assets/Dashboard_14.jpeg)
+<figure><img src="/.gitbook/assets/Dashboard_14.jpeg" alt="Dashboard" width="340"><figcaption></figcaption></figure>
 
 | Field / Element                             | Type             | Description                                              | Notes                                 |
 | ------------------------------------------- | ---------------- | -------------------------------------------------------- | ------------------------------------- |
@@ -270,7 +270,7 @@ Post-login landing screen. Shows account summary, credit score widget, and offer
 
 Accessed via the hamburger icon (top right). Shows member identity, profile switcher, and secondary navigation options.
 
-![Side Menu](../../../.gitbook/assets/Side_Menu_15.jpeg)
+<figure><img src="/.gitbook/assets/Side_Menu_15.jpeg" alt="Side Menu" width="340"><figcaption></figcaption></figure>
 
 | Field / Element          | Type          | Description                                         | Notes                          |
 | ------------------------ | ------------- | --------------------------------------------------- | ------------------------------ |
@@ -293,7 +293,7 @@ Accessed via the hamburger icon (top right). Shows member identity, profile swit
 
 Secondary navigation screen accessible from the side menu. Contains miscellaneous settings and tools not in the primary navigation.
 
-![More Options Screen](../../../.gitbook/assets/More_Options_Screen_16.jpeg)
+<figure><img src="/.gitbook/assets/More_Options_Screen_16.jpeg" alt="More Options Screen" width="340"><figcaption></figcaption></figure>
 
 | Field / Element           | Type       | Description                                       | Notes                                    |
 | ------------------------- | ---------- | ------------------------------------------------- | ---------------------------------------- |
@@ -313,11 +313,11 @@ The core feature screen. Controls the Text Banking toggle, phone number selectio
 
 **State A: Text Banking Enabled**
 
-![Text Banking — Enabled State](../../../.gitbook/assets/Text_Banking___Enabled_State_17.jpeg)
+<figure><img src="/.gitbook/assets/Text_Banking___Enabled_State_17.jpeg" alt="Text Banking — Enabled State" width="340"><figcaption></figcaption></figure>
 
 **State B: Text Banking Disabled**
 
-![Text Banking — Disabled State](../../../.gitbook/assets/Text_Banking___Disabled_State_18.jpeg)
+<figure><img src="/.gitbook/assets/Text_Banking___Disabled_State_18.jpeg" alt="Text Banking — Disabled State" width="340"><figcaption></figcaption></figure>
 
 | Field / Element                        | Type               | Description                                                   | Notes                                               |
 | -------------------------------------- | ------------------ | ------------------------------------------------------------- | --------------------------------------------------- |

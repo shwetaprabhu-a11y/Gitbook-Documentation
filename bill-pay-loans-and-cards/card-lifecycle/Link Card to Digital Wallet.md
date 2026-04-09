@@ -62,13 +62,13 @@ The process takes less than a minute. You navigate to the card you want to link,
 
 From the nFinia top navigation, click Cards. Your enrolled debit and credit cards are listed as tiles. Locate the card you want to add to a digital wallet.
 
-![](<../../../.gitbook/assets/image2 (2).png>)
+<figure><img src="/.gitbook/assets/image2 (2).png" alt="" width="480"><figcaption></figcaption></figure>
 
 **Step 2 Open Link Card**
 
 Click Card Controls at the bottom of the card tile. Inside Card Details, find and click the Link Card option. The Link Card screen opens and shows the three available digital wallet options: Apple Pay, Google Pay, and Samsung Pay.
 
-![](<../../../.gitbook/assets/image1 (2).png>)
+<figure><img src="/.gitbook/assets/image1 (2).png" alt="" width="480"><figcaption></figcaption></figure>
 
 |                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -54,13 +54,13 @@ The reissuance is started from the Deactivate / Replace Card flow. Your old card
 
 From the nFinia top navigation, select Cards. Locate the card that needs to be replaced. At the bottom of the card tile, click Deactivate / Replace Card.
 
-![](../../../.gitbook/assets/image4.png)
+<figure><img src="/.gitbook/assets/image4.png" alt="" width="480"><figcaption></figcaption></figure>
 
 **Step 2 Select "Request Replacement & Deactivate Card"**
 
 The Deactivate / Replace Card page asks what happened to your card. Enter a description if needed, then choose between two options: Deactivate Card (permanent, no replacement) or Request Replacement & Deactivate Card. Select Request Replacement & Deactivate Card to begin the digital reissuance. Click Continue.
 
-![](../../../.gitbook/assets/image3.png)
+<figure><img src="/.gitbook/assets/image3.png" alt="" width="480"><figcaption></figcaption></figure>
 
 |                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,7 +76,7 @@ On the Request Replacement form you will be asked: "Would you like a physical co
 
 Confirm or update your mailing address if selecting the physical card option. Then set a new 5-digit PIN for the replacement card and click Request Replacement and Deactivate Card to submit.
 
-![](<../../../.gitbook/assets/image2 (2).png>)
+<figure><img src="/.gitbook/assets/image2 (2).png" alt="" width="480"><figcaption></figcaption></figure>
 
 |                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -86,7 +86,7 @@ Confirm or update your mailing address if selecting the physical card option. Th
 
 Once submitted, a confirmation screen will confirm that the old card has been deactivated. Your new digital card is now available immediately in the Cards section. Navigate to Cards, find your new card tile, and click "Reveal card number and CVV" to see the new card number, expiry, and security code for online purchases.
 
-![](<../../../.gitbook/assets/image1 (2).png>)
+<figure><img src="/.gitbook/assets/image1 (2).png" alt="" width="480"><figcaption></figcaption></figure>
 
 |                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

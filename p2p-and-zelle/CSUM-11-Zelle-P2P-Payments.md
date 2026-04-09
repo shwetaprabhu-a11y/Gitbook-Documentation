@@ -56,7 +56,7 @@ CSUM-06 (Move Money Hub), CSUM-09 (External ACH)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > Move Money > 'Zelle'.* | **Step 1 — Start from Dashboard**                                   | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-06 (Move Money Hub), CSUM-09 (External ACH)
 
 you click ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other You, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/.gitbook/assets/img_dd37cd06feee.png)
+<figure><img src="/.gitbook/assets/img_dd37cd06feee.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 2: Move Money Hub*
 
@@ -72,7 +72,7 @@ you click ‘Move Money’ in the top navigation bar. The Move Money Hub display
 
 The Move Money hub is shown with payment options including Pay Bills, Quick Pay, Zelle Payment, and various transfer services available as tiles.
 
-![](/.gitbook/assets/img_dd37cd06feee.png)
+<figure><img src="/.gitbook/assets/img_dd37cd06feee.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Zelle*
 
@@ -86,7 +86,7 @@ The Zelle Payment form page is displayed from a legacy banking interface with fo
 
 The Zelle verification screen prompts you to enter a 6-digit verification code sent via SMS to verify and complete the Zelle transaction.
 
-![](/.gitbook/assets/img_3b24cb4ab0a1.png)
+<figure><img src="/.gitbook/assets/img_3b24cb4ab0a1.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 5: Verify Zelle Payment*
 

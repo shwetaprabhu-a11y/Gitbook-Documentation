@@ -56,7 +56,7 @@ CSUM-28 (Device Management), CSUM-25 (Settings), CSUM-01 (Login)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > More > 'Personal Information'.* | **Step 1 — Start from Dashboard**                        | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-28 (Device Management), CSUM-25 (Settings), CSUM-01 (Login)
 
 you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](/.gitbook/assets/img_ba578ecd81d3.png)
+<figure><img src="/.gitbook/assets/img_ba578ecd81d3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 2: More Menu*
 
@@ -72,7 +72,7 @@ you click ‘More’ in the top navigation bar. The More options panel expands t
 
 The Personal Information page is displayed showing the Devices tab. A list of registered devices is shown, each with a 'Forget Device' button for removing access.
 
-![](/.gitbook/assets/img_d1c115b8a116.png)
+<figure><img src="/.gitbook/assets/img_d1c115b8a116.png" alt="" width="340"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Personal Information*
 
@@ -80,7 +80,7 @@ The Personal Information page is displayed showing the Devices tab. A list of re
 
 The Personal Information page shows the Contact Information section displayed in a form format with various fields for phone numbers and email addresses.
 
-![](/.gitbook/assets/img_f99177713c01.png)
+<figure><img src="/.gitbook/assets/img_f99177713c01.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 4: View Contact Information*
 
@@ -88,7 +88,7 @@ The Personal Information page shows the Contact Information section displayed in
 
 The Mailing Address section displays your current address at 5841 INDEPENDENCE DR, UTICA, MI 48451-7871 with an 'Edit addresses' button available.
 
-![](/.gitbook/assets/img_da4b7977eac6.png)
+<figure><img src="/.gitbook/assets/img_da4b7977eac6.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 5: View Mailing Address*
 
@@ -96,7 +96,7 @@ The Mailing Address section displays your current address at 5841 INDEPENDENCE D
 
 The Personal Information page shows tabs for Contact Information, Address, Residential Address, Devices, and Trusted Device. The residential address section is currently active.
 
-![](/.gitbook/assets/img_18d0ab4e695b.png)
+<figure><img src="/.gitbook/assets/img_18d0ab4e695b.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 6: View Residential Address*
 
@@ -104,7 +104,7 @@ The Personal Information page shows tabs for Contact Information, Address, Resid
 
 The Trusted Device section is displayed with a shield icon and a message indicating the trusted device status has been successfully registered.
 
-![](/.gitbook/assets/img_23d0e9af31eb.png)
+<figure><img src="/.gitbook/assets/img_23d0e9af31eb.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 7: View Trusted Device Detail*
 
@@ -112,7 +112,7 @@ The Trusted Device section is displayed with a shield icon and a message indicat
 
 The Personal Information contact editing form is shown with multiple input fields for updating your contact details such as phone numbers and email addresses.
 
-![](/.gitbook/assets/img_abc04ea1d848.png)
+<figure><img src="/.gitbook/assets/img_abc04ea1d848.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 8: Edit Contact Information*
 

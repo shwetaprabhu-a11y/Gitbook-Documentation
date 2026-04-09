@@ -55,7 +55,7 @@ The Cards page is your central hub for all enrolled debit and credit cards. At a
 
 From the nFinia top navigation bar, click Cards. The Cards page loads all your enrolled debit and credit cards as individual tiles.
 
-![](<../../../.gitbook/assets/image1 (2).png>)
+<figure><img src="/.gitbook/assets/image1 (2).png" alt="" width="480"><figcaption></figcaption></figure>
 
 **Step 2 Read Your Card Tiles**
 

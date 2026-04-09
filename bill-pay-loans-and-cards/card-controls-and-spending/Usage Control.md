@@ -48,7 +48,7 @@ _Navigation: Log in to Summerville Credit Union online banking. From the Dashboa
 
 After logging in, you land on the Dashboard. Click Cards in the top navigation, select your card, then open Card Controls from the Card Details page.
 
-![Step 1: Dashboard — click Cards to begin](../../../.gitbook/assets/image2.png)
+<figure><img src="/.gitbook/assets/image2.png" alt="Step 1: Dashboard — click Cards to begin" width="480"><figcaption></figcaption></figure>
 
 _Step 1: Dashboard — click Cards to begin_
 
@@ -56,6 +56,6 @@ _Step 1: Dashboard — click Cards to begin_
 
 The Usage Control tab displays two columns: Transaction Type and Merchant Categories. Each item has a toggle that can be turned on or off. Disabled items show an Off indicator. Toggle any type or category to control whether your card is accepted for that use. Changes take effect immediately — no save button is needed.
 
-![](../../../.gitbook/assets/image1.png)
+<figure><img src="/.gitbook/assets/image1.png" alt="" width="340"><figcaption></figcaption></figure>
 
 _Step 2: Toggle individual transaction types and merchant categories on or off_

@@ -93,7 +93,7 @@ available for compliance review.
 
 **Screen 1: Deposit Your Check**
 
-![](/.gitbook/assets/82f93319ebbf1b2e491e21b3f18ed1a5da2ff5c6.png)
+<figure><img src="/.gitbook/assets/82f93319ebbf1b2e491e21b3f18ed1a5da2ff5c6.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Figure 1: Web deposit form showing account details, balance, deposit
 limit, and image upload areas*
@@ -114,7 +114,7 @@ limit, and image upload areas*
 
 **Screen 2: Check Deposit History**
 
-![](/.gitbook/assets/8503f46ecf3dcc3560dee8c9763c77ae7e8fbb7e.png)
+<figure><img src="/.gitbook/assets/8503f46ecf3dcc3560dee8c9763c77ae7e8fbb7e.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 2: History tab showing multi-channel deposit records with filter
 options and view image capability*

@@ -104,7 +104,7 @@ Upon successful Face ID enrollment and login:
 
 The Welcome screen is the app's pre-authentication landing page. It presents quick-access options for unauthenticated actions alongside the primary Login and Enrollment calls to action. Face ID itself is not surfaced here — this screen is the gateway to it.
 
-![Summerville CU Welcome Screen — nFinia Mobile App](../../../.gitbook/assets/Summerville_CU_Welcome_Screen___nFinia_Mobile_App_1.jpeg) _Figure 1: Summerville CU Welcome Screen — nFinia Mobile App_
+<figure><img src="/.gitbook/assets/Summerville_CU_Welcome_Screen___nFinia_Mobile_App_1.jpeg" alt="Summerville CU Welcome Screen — nFinia Mobile App" width="340"><figcaption></figcaption></figure> _Figure 1: Summerville CU Welcome Screen — nFinia Mobile App_
 
 | Field / Element      | Type                   | Description                                | Notes                                  |
 | -------------------- | ---------------------- | ------------------------------------------ | -------------------------------------- |
@@ -124,7 +124,7 @@ The Welcome screen is the app's pre-authentication landing page. It presents qui
 
 The Log In screen is where Face ID enrollment is triggered. you enter their credentials and, if they wish to enable biometric login for future sessions, checks the **Enable Face ID** checkbox before submitting.
 
-![Summerville CU Log In Screen — Enable Face ID Checkbox](../../../.gitbook/assets/Summerville_CU_Log_In_Screen___Enable_Face_ID_Checkbox_2.jpeg) _Figure 2: Summerville CU Log In Screen — Enable Face ID Option_
+<figure><img src="/.gitbook/assets/Summerville_CU_Log_In_Screen___Enable_Face_ID_Checkbox_2.jpeg" alt="Summerville CU Log In Screen — Enable Face ID Checkbox" width="340"><figcaption></figcaption></figure> _Figure 2: Summerville CU Log In Screen — Enable Face ID Option_
 
 | Field / Element             | Type                       | Description                                                                      | Notes                                                                                                    |
 | --------------------------- | -------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |

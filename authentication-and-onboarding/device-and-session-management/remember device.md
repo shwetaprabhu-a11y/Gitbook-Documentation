@@ -89,7 +89,7 @@ There is no explicit confirmation message when Remember Me is enabled. The visua
 
 The Welcome Screen is the unauthenticated landing page that you encounter on app launch. It provides entry points to both Log In and Enroll. From here, you tap **Log In** to reach the screen where Remember Me can be enabled.
 
-![Welcome Screen — Summerville nFinia](../../../.gitbook/assets/Welcome_Screen___Summerville_nFinia_1.jpeg)
+<figure><img src="/.gitbook/assets/Welcome_Screen___Summerville_nFinia_1.jpeg" alt="Welcome Screen — Summerville nFinia" width="340"><figcaption></figcaption></figure>
 
 _Screenshot 1: Summerville CU Welcome Screen — the starting point before reaching the Log In screen where Remember Me is available._
 
@@ -108,7 +108,7 @@ _Screenshot 1: Summerville CU Welcome Screen — the starting point before reach
 
 The Log In screen is where the **Remember Me** feature is accessed and enabled. The checkbox sits below the Password field, and when checked, instructs the platform to persist the username locally on the device for future sessions. The Password field is never persisted regardless of this setting.
 
-![Log In Screen — Summerville nFinia](../../../.gitbook/assets/Log_In_Screen___Summerville_nFinia_2.jpeg)
+<figure><img src="/.gitbook/assets/Log_In_Screen___Summerville_nFinia_2.jpeg" alt="Log In Screen — Summerville nFinia" width="340"><figcaption></figcaption></figure>
 
 _Screenshot 2: Summerville CU Log In Screen — the Remember Me checkbox (checked) is visible below the Password field, alongside the Enable Face ID option._
 

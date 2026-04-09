@@ -56,7 +56,7 @@ CSUM-06 (Move Money Hub), CSUM-21 (Skip A Pay)
 | **  03  STEP-BY-STEP GUIDE**  | *Navigation: Dashboard > Move Money > 'Quick Pay' OR Dashboard account tile > Pay Now.* | **Step 1 — Start from Dashboard**                        | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-06 (Move Money Hub), CSUM-21 (Skip A Pay)
 
 you click ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other You, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/.gitbook/assets/img_dd37cd06feee.png)
+<figure><img src="/.gitbook/assets/img_dd37cd06feee.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 2: Move Money Hub*
 
@@ -72,7 +72,7 @@ you click ‘Move Money’ in the top navigation bar. The Move Money Hub display
 
 The Quick Pay page displays the loan selection screen with red action buttons for selecting different loan accounts to make a payment.
 
-![](/.gitbook/assets/img_cad422bef630.png)
+<figure><img src="/.gitbook/assets/img_cad422bef630.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Quick Pay*
 
@@ -80,7 +80,7 @@ The Quick Pay page displays the loan selection screen with red action buttons fo
 
 The Bill Pay form is displayed from the Summerville banking interface with form fields for entering payment details and selecting the loan to pay.
 
-![](/.gitbook/assets/img_f019eb2801e6.png)
+<figure><img src="/.gitbook/assets/img_f019eb2801e6.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 4: Select Loan & Enter Payment Amount*
 

@@ -56,7 +56,7 @@ CSUM-24 (Message Center), CSUM-25 (Settings & Security)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > Settings (gear icon) > 'Alerts' OR More > Settings > Alerts.* | **Step 1 — Start from Dashboard**                     | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-24 (Message Center), CSUM-25 (Settings & Security)
 
 you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](/.gitbook/assets/img_ba578ecd81d3.png)
+<figure><img src="/.gitbook/assets/img_ba578ecd81d3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 2: More Menu*
 
@@ -72,7 +72,7 @@ you click ‘More’ in the top navigation bar. The More options panel expands t
 
 The Alert Settings page is displayed with tabs for General alerts, Account-specific alerts, Alert Settings, and Do-Not-Disturb. The current view shows alert category options available for configuration.
 
-![](/.gitbook/assets/img_e9ea763cf298.png)
+<figure><img src="/.gitbook/assets/img_e9ea763cf298.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Alerts*
 
@@ -80,7 +80,7 @@ The Alert Settings page is displayed with tabs for General alerts, Account-speci
 
 The Alert Settings General tab shows alert delivery channel options including toggles for enabling or disabling push notifications and SMS alerts.
 
-![](/.gitbook/assets/img_9ad5af02d744.png)
+<figure><img src="/.gitbook/assets/img_9ad5af02d744.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 4: Configure General Alert Settings*
 
@@ -88,7 +88,7 @@ The Alert Settings General tab shows alert delivery channel options including to
 
 The Alert Settings Account tab is displayed with a modal dialog open for adding a new available balance alert, showing account selection and threshold amount fields.
 
-![](/.gitbook/assets/img_22574ef20eff.png)
+<figure><img src="/.gitbook/assets/img_22574ef20eff.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 5: Configure Account-Level Alert Settings*
 
@@ -96,7 +96,7 @@ The Alert Settings Account tab is displayed with a modal dialog open for adding 
 
 The Do-Not-Disturb settings page is shown with options to configure quiet hours during which all alert notifications will be suppressed.
 
-![](/.gitbook/assets/img_64e025a93c8b.png)
+<figure><img src="/.gitbook/assets/img_64e025a93c8b.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 6: Set Do Not Disturb Hours*
 
@@ -104,7 +104,7 @@ The Do-Not-Disturb settings page is shown with options to configure quiet hours 
 
 The Account Specific Alerts section displays options for adding different alert types including balance alerts, periodic alerts, deposit alerts, withdrawal alerts, and payment alerts.
 
-![](/.gitbook/assets/img_e9ea763cf298.png)
+<figure><img src="/.gitbook/assets/img_e9ea763cf298.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 7: Review Active Balance Alerts*
 
@@ -112,7 +112,7 @@ The Account Specific Alerts section displays options for adding different alert 
 
 A modal dialog for adding a new available balance alert is displayed with a dropdown to select the account and a text field to set the alert threshold amount.
 
-![](/.gitbook/assets/img_22574ef20eff.png)
+<figure><img src="/.gitbook/assets/img_22574ef20eff.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 8: Add a Balance Alert*
 

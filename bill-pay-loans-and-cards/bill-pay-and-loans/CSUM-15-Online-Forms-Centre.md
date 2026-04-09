@@ -57,7 +57,7 @@ CSUM-06 (Move Money Hub), CSUM-13 (Wire Transfers), CSUM-21 (Skip A Pay)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > More > 'Forms'.* | **Step 1 — Start from Dashboard**                             | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -65,7 +65,7 @@ CSUM-06 (Move Money Hub), CSUM-13 (Wire Transfers), CSUM-21 (Skip A Pay)
 
 you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](/.gitbook/assets/img_ba578ecd81d3.png)
+<figure><img src="/.gitbook/assets/img_ba578ecd81d3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 2: More Menu*
 
@@ -73,7 +73,7 @@ you click ‘More’ in the top navigation bar. The More options panel expands t
 
 The Forms page lists all available request forms including ACH Origination, ACH Revoke, Address Change, Card Order, Certificate Renewal, Wire Transfer, and other form types.
 
-![](/.gitbook/assets/img_f9d355ea13e7.png)
+<figure><img src="/.gitbook/assets/img_f9d355ea13e7.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Forms*
 
@@ -81,7 +81,7 @@ The Forms page lists all available request forms including ACH Origination, ACH 
 
 The ACH Origination Form is displayed with fields for debit authorization details, financial institution search, transfer information, and payment configuration.
 
-![](/.gitbook/assets/img_8cecbcc7dd31.png)
+<figure><img src="/.gitbook/assets/img_8cecbcc7dd31.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 4: ACH Origination Form*
 
@@ -89,7 +89,7 @@ The ACH Origination Form is displayed with fields for debit authorization detail
 
 The ACH Revoke Origination Form shows fields for member information and account selection to cancel an existing ACH authorization.
 
-![](/.gitbook/assets/img_489e0fd6841c.png)
+<figure><img src="/.gitbook/assets/img_489e0fd6841c.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 5: ACH Revoke Form*
 
@@ -97,7 +97,7 @@ The ACH Revoke Origination Form shows fields for member information and account 
 
 The ACH Stop Payment Order form is displayed with member information fields, payment type selection (one-time or permanent), phone number, and amount entry.
 
-![](/.gitbook/assets/img_73912cc848f7.png)
+<figure><img src="/.gitbook/assets/img_73912cc848f7.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 6: ACH Stop Payment Form*
 
@@ -105,7 +105,7 @@ The ACH Stop Payment Order form is displayed with member information fields, pay
 
 The Address Change Form shows your current contact information and provides options to update the local address and foreign address on file.
 
-![](/.gitbook/assets/img_6b86ab5700d4.png)
+<figure><img src="/.gitbook/assets/img_6b86ab5700d4.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 7: Address Change Form*
 
@@ -113,7 +113,7 @@ The Address Change Form shows your current contact information and provides opti
 
 The Card Order Request form allows You to request new, replacement, or upgraded cards with options for personal delivery or mailing.
 
-![](/.gitbook/assets/img_90cb16a7e474.png)
+<figure><img src="/.gitbook/assets/img_90cb16a7e474.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 8: Card Order Request*
 
@@ -121,7 +121,7 @@ The Card Order Request form allows You to request new, replacement, or upgraded 
 
 The Certificate Account Renewal Request form is displayed with options for renewal type, term selection (ranging from 6 months to 5 years), and dividend payment preferences.
 
-![](/.gitbook/assets/img_24e84dd46831.png)
+<figure><img src="/.gitbook/assets/img_24e84dd46831.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 9: Certificate Renewal Form*
 
@@ -129,7 +129,7 @@ The Certificate Account Renewal Request form is displayed with options for renew
 
 The Courtesy Pay Request Form shows the terms, conditions, and sign-up options for the overdraft protection service.
 
-![](/.gitbook/assets/img_d76853984d0a.png)
+<figure><img src="/.gitbook/assets/img_d76853984d0a.png" alt="" width="340"><figcaption></figcaption></figure>
 
 *Step 10: Courtesy Pay Request*
 
@@ -137,7 +137,7 @@ The Courtesy Pay Request Form shows the terms, conditions, and sign-up options f
 
 The Credit Card Balance Transfer Form is displayed with fields for entering transfer details and reviewing the applicable terms.
 
-![](/.gitbook/assets/img_5d8c2385d49c.png)
+<figure><img src="/.gitbook/assets/img_5d8c2385d49c.png" alt="" width="340"><figcaption></figcaption></figure>
 
 *Step 11: Credit Card Balance Transfer*
 
@@ -145,7 +145,7 @@ The Credit Card Balance Transfer Form is displayed with fields for entering tran
 
 The Domestic Outgoing Wire Transfer Request form is shown with fields for beneficiary details, bank routing information, and transfer amount.
 
-![](/.gitbook/assets/img_c21ec81c1fad.png)
+<figure><img src="/.gitbook/assets/img_c21ec81c1fad.png" alt="" width="340"><figcaption></figcaption></figure>
 
 *Step 12: Domestic Wire Transfer Form*
 
@@ -153,7 +153,7 @@ The Domestic Outgoing Wire Transfer Request form is shown with fields for benefi
 
 The Payment Due Date Change Request Form is displayed with fields for selecting the account and modifying the payment due date.
 
-![](/.gitbook/assets/img_5422ecd56b1a.png)
+<figure><img src="/.gitbook/assets/img_5422ecd56b1a.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 13: Payment Due Date Change*
 
@@ -161,7 +161,7 @@ The Payment Due Date Change Request Form is displayed with fields for selecting 
 
 The Payroll Direct Deposit Form is shown for setting up automatic payroll deposits directly into your bank account.
 
-![](/.gitbook/assets/img_b80df369a252.png)
+<figure><img src="/.gitbook/assets/img_b80df369a252.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 14: Payroll Direct Deposit Form*
 
@@ -169,7 +169,7 @@ The Payroll Direct Deposit Form is shown for setting up automatic payroll deposi
 
 The Skip Payment Form is displayed for requesting to skip an upcoming loan or credit card payment.
 
-![](/.gitbook/assets/img_08e012eb6560.png)
+<figure><img src="/.gitbook/assets/img_08e012eb6560.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 15: Skip Payment Form*
 
@@ -177,7 +177,7 @@ The Skip Payment Form is displayed for requesting to skip an upcoming loan or cr
 
 The Check Stop Payment form is shown with fields and options for stopping payment on a specific check.
 
-![](/.gitbook/assets/img_7e5ecb1656a9.png)
+<figure><img src="/.gitbook/assets/img_7e5ecb1656a9.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 16: Check Stop Payment Form*
 

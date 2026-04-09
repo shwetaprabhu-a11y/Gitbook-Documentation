@@ -86,7 +86,7 @@ Transfers, Account Specific Alerts) and a Quick Transfer widget for fast
 internal transfers. To proceed to Business Banking features, locate the
 "Business Banking" tab in the top navigation bar and click on it.
 
-![](/.gitbook/assets/1a19568ff18131f218abd77ce89a1be61f1d1d82.png)
+<figure><img src="/.gitbook/assets/1a19568ff18131f218abd77ce89a1be61f1d1d82.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 1 — Log In and Open the Dashboard*
 
@@ -105,7 +105,7 @@ role has permission to access will be visible. From here, locate and
 click the tile for the feature you need — the next steps will guide you
 through the specific workflow.
 
-![](/.gitbook/assets/4c26e21f2a941fd4d0531c900025b3d6ab137178.png)
+<figure><img src="/.gitbook/assets/4c26e21f2a941fd4d0531c900025b3d6ab137178.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 2 — Open the Business Banking Hub*
 
@@ -122,7 +122,7 @@ Signers, Invited, Locked, Deactivated — let you switch between user
 lifecycle stages. Use the search bar to find a specific user. Click
 "Invite User" to onboard a new team member.
 
-![](/.gitbook/assets/555c4be79e1e5c4f506dc53d1b590757e8863dca.png)
+<figure><img src="/.gitbook/assets/555c4be79e1e5c4f506dc53d1b590757e8863dca.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 3 — Navigate to User Management*
 
@@ -137,7 +137,7 @@ notice a user who should no longer have access (e.g., a departed
 employee), proceed to deactivate them using the steps described later in
 this guide.
 
-![](/.gitbook/assets/96edcec5c6b08cec268744accd6260048f0bacbc.png)
+<figure><img src="/.gitbook/assets/96edcec5c6b08cec268744accd6260048f0bacbc.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 4 — Scroll to View All Active Users*
 
@@ -152,7 +152,7 @@ role from the role dropdown. Once a role is assigned, the signer will
 move to the Active Users tab and gain access to the business banking
 features defined by their role.
 
-![](/.gitbook/assets/8e40e5f16990cab0af35581635a9d80ff9b3477e.png)
+<figure><img src="/.gitbook/assets/8e40e5f16990cab0af35581635a9d80ff9b3477e.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 5 — Review New Authorized Signers*
 
@@ -166,7 +166,7 @@ members who have not completed their registration — they need to click
 the invitation link and complete the enrollment process before they can
 access business banking.
 
-![](/.gitbook/assets/328fe1f89eca68ea321139d02b0f186b4816769a.png)
+<figure><img src="/.gitbook/assets/328fe1f89eca68ea321139d02b0f186b4816769a.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 6 — Check Invited Users Status*
 
@@ -181,7 +181,7 @@ unlocking — call or email them to confirm they are the person requesting
 access. The unlock restores their previous role and permissions without
 reconfiguration.
 
-![](/.gitbook/assets/c02c2407561f2cada90d1baa6e2bf6207f698874.png)
+<figure><img src="/.gitbook/assets/c02c2407561f2cada90d1baa6e2bf6207f698874.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 7 — Manage Locked Users*
 
@@ -196,7 +196,7 @@ who previously had access and when their access was revoked. Review this
 list during compliance audits to demonstrate proper offboarding
 procedures.
 
-![](/.gitbook/assets/c6168d65299617b5a547392ce78c75c0b2acefcd.png)
+<figure><img src="/.gitbook/assets/c6168d65299617b5a547392ce78c75c0b2acefcd.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 8 — View Deactivated Users*
 
@@ -216,7 +216,7 @@ privileges" link to inspect what permissions that role grants. The
 Money Market Account (S6500). This page is the central reference for
 auditing any individual user's access configuration.
 
-![](/.gitbook/assets/486fe3e3ceffacfa404412718d5491fbc5d2cb4e.png)
+<figure><img src="/.gitbook/assets/486fe3e3ceffacfa404412718d5491fbc5d2cb4e.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 9 — View User Information and Profile Details*
 
@@ -234,7 +234,7 @@ may effectively access all digital banking features." After making
 changes, click "Save" to apply. Role changes take effect immediately —
 the user's permissions and limits update in real-time.
 
-![](/.gitbook/assets/fb83cc55634553a2e5bdd7fd66c469dfd66fd026.png)
+<figure><img src="/.gitbook/assets/fb83cc55634553a2e5bdd7fd66c469dfd66fd026.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 10 — Edit User Information and Role Assignment*
 
@@ -252,7 +252,7 @@ system for audit purposes. They can be reactivated later if needed. This
 is the recommended action for temporary access removal, such as employee
 leave.
 
-![](/.gitbook/assets/06a9ea7c68fbdd644d0930c9aef8fc95e23ee02d.png)
+<figure><img src="/.gitbook/assets/06a9ea7c68fbdd644d0930c9aef8fc95e23ee02d.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 11 — Deactivate a User*
 
@@ -269,7 +269,7 @@ deactivation, removal is a more permanent action — the user must be
 re-invited and re-onboarded to regain access. Use this for departed
 employees who will not return.
 
-![](/.gitbook/assets/8e81f1e6ad3e15e5d9216545977c804b05321009.png)
+<figure><img src="/.gitbook/assets/8e81f1e6ad3e15e5d9216545977c804b05321009.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 12 — Remove User from Business*
 
@@ -289,7 +289,7 @@ the business. The Invited users tab also shows tabs for Active users,
 New authorized signers, Locked users, and Deactivated users for complete
 user lifecycle management.
 
-![](/.gitbook/assets/94ee662f22837c28d52c035810e1836fecb89d9c.png)
+<figure><img src="/.gitbook/assets/94ee662f22837c28d52c035810e1836fecb89d9c.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Figure 13 — Manage Invited Users and Cancel Invitations*
 

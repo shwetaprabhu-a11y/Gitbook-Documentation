@@ -56,7 +56,7 @@ CSUM-06 (Move Money Hub), CSUM-11 (Recipient Management)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > Move Money > 'Transfer to Other You'.* | **Step 1 — Start from Dashboard**                           | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-06 (Move Money Hub), CSUM-11 (Recipient Management)
 
 you click ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other You, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/.gitbook/assets/img_dd37cd06feee.png)
+<figure><img src="/.gitbook/assets/img_dd37cd06feee.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 2: Move Money Hub*
 
@@ -72,7 +72,7 @@ you click ‘Move Money’ in the top navigation bar. The Move Money Hub display
 
 The Move Money hub is displayed with a tooltip providing help for selecting a recipient. This is the starting screen for the Transfer to Other You workflow.
 
-![](/.gitbook/assets/img_ba0dcc1d207f.png)
+<figure><img src="/.gitbook/assets/img_ba0dcc1d207f.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Other You Transfer*
 
@@ -80,7 +80,7 @@ The Move Money hub is displayed with a tooltip providing help for selecting a re
 
 Step 2 of the other member transfer shows the account selection screen with a message indicating no eligible accounts and a modal prompting you to select a recipient.
 
-![](/.gitbook/assets/img_34365f51c03d.png)
+<figure><img src="/.gitbook/assets/img_34365f51c03d.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 4: Select Recipient & Enter Details*
 
@@ -88,7 +88,7 @@ Step 2 of the other member transfer shows the account selection screen with a me
 
 A confirmation overlay displays the transfer details for a $5.00 transfer, showing the source and destination account information for member review before submission.
 
-![](/.gitbook/assets/img_e440833de365.png)
+<figure><img src="/.gitbook/assets/img_e440833de365.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 5: Review Transfer Summary*
 
@@ -96,7 +96,7 @@ A confirmation overlay displays the transfer details for a $5.00 transfer, showi
 
 The success screen confirms the $5.00 transfer to another member with a green checkmark, displaying the transaction details and transfer date.
 
-![](/.gitbook/assets/img_61c8bdec2005.png)
+<figure><img src="/.gitbook/assets/img_61c8bdec2005.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 6: Transfer Complete*
 

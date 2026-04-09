@@ -57,7 +57,7 @@ CSUM-03 (Account Overview), CSUM-14 (Loan Payments), CSUM-05 (eDocuments)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > Accounts > tap any account tile.* | **Step 1 — Start from Dashboard**                                          | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -65,7 +65,7 @@ CSUM-03 (Account Overview), CSUM-14 (Loan Payments), CSUM-05 (eDocuments)
 
 you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](/.gitbook/assets/img_ba578ecd81d3.png)
+<figure><img src="/.gitbook/assets/img_ba578ecd81d3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 2: More Menu*
 
@@ -73,7 +73,7 @@ you click ‘More’ in the top navigation bar. The More options panel expands t
 
 The Account Overview page is shown in membership view with checking and savings accounts displaying their balances. A promotional banner and the Quick Transfer section are visible on the right side.
 
-![](/.gitbook/assets/img_57d573490ef8.png)
+<figure><img src="/.gitbook/assets/img_57d573490ef8.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Account Detail*
 
@@ -81,7 +81,7 @@ The Account Overview page is shown in membership view with checking and savings 
 
 The Retail Checking Account detail page displays the current balance, YTD dividend amounts, and a filterable transaction history. A Quick Transfer widget is available in the right sidebar.
 
-![](/.gitbook/assets/img_f201cdebf6f4.png)
+<figure><img src="/.gitbook/assets/img_f201cdebf6f4.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 4: View Checking Account Balance & History*
 

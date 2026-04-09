@@ -49,7 +49,7 @@ _Navigation: Log in to Summerville Credit Union online banking. From the Dashboa
 
 After logging in, you land on the Dashboard. Click More in the top navigation bar to expand the menu and find Travel Notice. This option is not visible in the main navigation bar by default.
 
-![Step 1: Dashboard — click More in the top navigation to find Travel Notice](../../../.gitbook/assets/c573d8948e3aa7e6336249734cea774b7c747bdc.png)
+<figure><img src="/.gitbook/assets/c573d8948e3aa7e6336249734cea774b7c747bdc.png" alt="Step 1: Dashboard — click More in the top navigation to find Travel Notice" width="480"><figcaption></figcaption></figure>
 
 _Step 1: Dashboard — click More in the top navigation to find Travel Notice_
 
@@ -57,7 +57,7 @@ _Step 1: Dashboard — click More in the top navigation to find Travel Notice_
 
 The Travel Notice page opens on the Travel Itineraries tab, which shows any travel notices you have already submitted. Each entry displays the card, travel dates, destination, and options to Remove itinerary or Edit itinerary. Click the Set Travel Notice tab to create a new notice.
 
-![Step 2: Travel Itineraries tab — view, edit, or remove existing travel notices](../../../.gitbook/assets/3ba4c1f93d7a71ad9dab8d4cf10bd440a2202840.png)
+<figure><img src="/.gitbook/assets/3ba4c1f93d7a71ad9dab8d4cf10bd440a2202840.png" alt="Step 2: Travel Itineraries tab — view, edit, or remove existing travel notices" width="480"><figcaption></figcaption></figure>
 
 _Step 2: Travel Itineraries tab — view, edit, or remove existing travel notices_
 
@@ -65,7 +65,7 @@ _Step 2: Travel Itineraries tab — view, edit, or remove existing travel notice
 
 On the Set Travel Notice tab, select the card you will be using for travel, enter the destination location(s), and select the travel year and month. A reminder at the bottom advises that the selected card must be active and enabled for international transactions. Click Save Travel Notice to submit, or Cancel to discard.
 
-![Step 3: Enter your card, destination, and travel dates, then click Save Travel Notice](../../../.gitbook/assets/d97ee4642bfcb25b3696c05c8adab7b090e885b3.png)
+<figure><img src="/.gitbook/assets/d97ee4642bfcb25b3696c05c8adab7b090e885b3.png" alt="Step 3: Enter your card, destination, and travel dates, then click Save Travel Notice" width="480"><figcaption></figcaption></figure>
 
 _Step 3: Enter your card, destination, and travel dates, then click Save Travel Notice_
 

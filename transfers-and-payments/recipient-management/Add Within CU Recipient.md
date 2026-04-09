@@ -36,7 +36,7 @@ For credit unions deploying nFinia for commercial You, Within CU transfers are c
 
 The business admin logs into the nFinia platform and lands on the personalized dashboard, which presents a real-time view of all account balances, upcoming loan obligations, and a Quick Transfer widget — giving the business member immediate visibility into their cash position. From here, the admin navigates to Business Banking to begin setting up a new intra-credit union recipient.
 
-![](<../../../.gitbook/assets/image1 (8).png>)
+<figure><img src="/.gitbook/assets/image1 (8).png" alt="" width="480"><figcaption></figcaption></figure>
 
 _Step 1: Dashboard_
 
@@ -44,7 +44,7 @@ _Step 1: Dashboard_
 
 The Business Banking hub consolidates all commercial payment and administrative operations in a single navigation layer — ACH origination, wire transfers, payment file uploads, user and role management, approvals, and reporting. The admin navigates to Recipient Management via Transfer & Pay to begin adding a new Within CU transfer account.
 
-![](<../../../.gitbook/assets/image2 (8).png>)
+<figure><img src="/.gitbook/assets/image2 (8).png" alt="" width="480"><figcaption></figcaption></figure>
 
 _Step 2: Business Banking Hub_
 
@@ -52,7 +52,7 @@ _Step 2: Business Banking Hub_
 
 The Transfer Account Management screen displays all saved external recipients linked to the business’s accounts, organized as a searchable grid showing each recipient’s name, account count, and associated membership. The admin clicks “+ Add a new transfer account” to begin registering a new payee.
 
-![](<../../../.gitbook/assets/image3 (8).png>)
+<figure><img src="/.gitbook/assets/image3 (8).png" alt="" width="480"><figcaption></figcaption></figure>
 
 _Step 3: Transfer Account Management_
 
@@ -60,7 +60,7 @@ _Step 3: Transfer Account Management_
 
 On the Add Transfer Account screen, the admin enters the accountholder’s name — this becomes the top-level identity record for the recipient, under which one or more payment accounts can be linked. Once the name is entered, the admin clicks “+ Add Account” to define the payment method and account details.
 
-![](<../../../.gitbook/assets/image4 (8).png>)
+<figure><img src="/.gitbook/assets/image4 (8).png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 4: Add Transfer Account_
 
@@ -68,7 +68,7 @@ _Step 4: Add Transfer Account_
 
 The Add Account modal presents three payment type options: Within CU (for transfers to accounts held at the same credit union), ACH (for external bank accounts via the ACH network), and Domestic Wire. The admin selects “Within CU” — this restricts the transfer to You of the same institution and requires membership-based verification rather than external routing details.
 
-![](<../../../.gitbook/assets/image5 (5).png>)
+<figure><img src="/.gitbook/assets/image5 (5).png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 5: Payment Type Selection_
 
@@ -76,7 +76,7 @@ _Step 5: Payment Type Selection_
 
 With Within CU selected, the form reveals four fields: Membership number, Account type (Checking or Savings), Last name, and Nickname. Unlike the ACH path, no routing number or institution search is required — the platform resolves the destination account entirely from the credit union’s own membership records.
 
-![](<../../../.gitbook/assets/image6 (4).png>)
+<figure><img src="/.gitbook/assets/image6 (4).png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 6: Within CU Form — Empty_
 
@@ -84,7 +84,7 @@ _Step 6: Within CU Form — Empty_
 
 The admin enters the recipient’s membership number (123456), selects Checking as the account type — which surfaces the Account# field, pre-populated from the membership record — and provides the last name (Smith) for identity verification. A nickname (“Adam S.”) is added to label this account for easy selection in future transfer workflows.
 
-![](<../../../.gitbook/assets/image7 (3).png>)
+<figure><img src="/.gitbook/assets/image7 (3).png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 7: Within CU Form — Filled_
 
@@ -92,6 +92,6 @@ _Step 7: Within CU Form — Filled_
 
 Upon attempting to save, the platform validates the submitted membership number, account number, and last name against the credit union’s member records — a security control that prevents unauthorized recipient registration. If the details do not match, an inline error is displayed and the admin is prompted to re-enter valid information before the recipient can be saved.
 
-![](<../../../.gitbook/assets/image8 (3).png>)
+<figure><img src="/.gitbook/assets/image8 (3).png" alt="" width="480"><figcaption></figcaption></figure>
 
 _Step 8: Validation Result — Add Transfer Account_

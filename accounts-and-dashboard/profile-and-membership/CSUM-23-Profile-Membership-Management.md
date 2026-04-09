@@ -56,7 +56,7 @@ CSUM-23 (Settings), CSUM-27 (Credit Score)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > Profile icon (top navigation) OR More > Accounts & Memberships.* | **Step 1 — Start from Dashboard**                           | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-23 (Settings), CSUM-27 (Credit Score)
 
 you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](/.gitbook/assets/img_ba578ecd81d3.png)
+<figure><img src="/.gitbook/assets/img_ba578ecd81d3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 2: More Menu*
 
@@ -72,7 +72,7 @@ you click ‘More’ in the top navigation bar. The More options panel expands t
 
 The Accounts and Memberships page is displayed with a checkbox option for adding an existing membership to digital banking.
 
-![](/.gitbook/assets/img_f0e24e109eec.png)
+<figure><img src="/.gitbook/assets/img_f0e24e109eec.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Membership Settings*
 
@@ -80,7 +80,7 @@ The Accounts and Memberships page is displayed with a checkbox option for adding
 
 The 'Add an existing membership to digital banking' page is shown with input fields for entering the membership number and details.
 
-![](/.gitbook/assets/img_a90122bbb7d1.png)
+<figure><img src="/.gitbook/assets/img_a90122bbb7d1.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 4: View Account Settings*
 
@@ -88,7 +88,7 @@ The 'Add an existing membership to digital banking' page is shown with input fie
 
 The 'Add an existing membership' page displays the Membership number field and a Quick Transfer section with account selection dropdowns for configuring transfer preferences.
 
-![](/.gitbook/assets/img_d4f6d20bd4a9.png)
+<figure><img src="/.gitbook/assets/img_d4f6d20bd4a9.png" alt="" width="340"><figcaption></figcaption></figure>
 
 *Step 5: Configure Account Display Settings*
 
@@ -96,7 +96,7 @@ The 'Add an existing membership' page displays the Membership number field and a
 
 The Profile selection modal is displayed for user Donald Blake, showing the Preferred profile option and Personal Memberships group with two associated business accounts listed.
 
-![](/.gitbook/assets/img_1f7e6199aa5b.png)
+<figure><img src="/.gitbook/assets/img_1f7e6199aa5b.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 6: Switch Active Membership via Profile*
 

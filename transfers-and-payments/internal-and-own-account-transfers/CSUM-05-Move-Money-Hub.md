@@ -56,7 +56,7 @@ CSUM-07–15 (all transfer/payment reports)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > 'Move Money' in top navigation bar.* | **Step 1 — Start from Dashboard**                                 | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-07–15 (all transfer/payment reports)
 
 you click ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other You, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/.gitbook/assets/img_dd37cd06feee.png)
+<figure><img src="/.gitbook/assets/img_dd37cd06feee.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 2: Move Money Hub*
 
@@ -72,7 +72,7 @@ you click ‘Move Money’ in the top navigation bar. The Move Money Hub display
 
 The Move Money hub is displayed, showing a grid of payment and transfer options including Pay Bills, Quick Pay, Zelle Payment, and various transfer types for different recipient categories.
 
-![](/.gitbook/assets/img_dd37cd06feee.png)
+<figure><img src="/.gitbook/assets/img_dd37cd06feee.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Move Money*
 
@@ -80,7 +80,7 @@ The Move Money hub is displayed, showing a grid of payment and transfer options 
 
 The Move Money hub continues with the same grid layout of payment options. A promotional banner appears below the grid, and an upcoming payments section on the right shows account balances.
 
-![](/.gitbook/assets/img_45cd7e736a9b.png)
+<figure><img src="/.gitbook/assets/img_45cd7e736a9b.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 4: Browse Payment Options & Bill Pay*
 

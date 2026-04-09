@@ -36,7 +36,7 @@ For credit unions, this fee validation gate is an important operational safeguar
 
 The admin accesses Account Overview via the main navigation, which presents a consolidated view of all savings and checking accounts including current balances and recent transaction summaries. This screen serves as the primary entry point for account-specific services, including stop payment requests initiated against checking accounts. From here, the admin identifies the relevant account and navigates to the stop payment service.
 
-![](<../../../.gitbook/assets/image1 (6).png>)
+<figure><img src="/.gitbook/assets/image1 (6).png" alt="" width="340"><figcaption></figcaption></figure>
 
 _Step 1: Account Overview — Select Starting Point_
 
@@ -44,7 +44,7 @@ _Step 1: Account Overview — Select Starting Point_
 
 The services navigation menu organizes available banking functions into logical categories, giving the admin a single hub to reach account management, payment services, document retrieval, and membership tools. The Check Stop Payments option is accessible from this menu, allowing the admin to navigate directly to the stop payment verification feature without drilling through multiple screens.
 
-![](<../../../.gitbook/assets/image2 (6).png>)
+<figure><img src="/.gitbook/assets/image2 (6).png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 2: Services Menu — Access Stop Payments_
 
@@ -52,7 +52,7 @@ _Step 2: Services Menu — Access Stop Payments_
 
 On the Check Stop Payments screen, the admin selects the target checking account from the “Select account name” dropdown, which lists all eligible accounts associated with the business membership. Once an account is selected, the platform evaluates the account for any active or pending stop payment records. This account-scoped search ensures the admin is reviewing the correct account before taking action.
 
-![](<../../../.gitbook/assets/image3 (6).png>)
+<figure><img src="/.gitbook/assets/image3 (6).png" alt="" width="480"><figcaption></figcaption></figure>
 
 _Step 3: Check Stop Payments — Account Selection_
 
@@ -60,6 +60,6 @@ _Step 3: Check Stop Payments — Account Selection_
 
 After account selection, the platform performs a real-time balance check against the stop payment processing fee of $30.00. If insufficient funds are available, an inline notification is displayed — “Not enough funds to cover stop payment fees of $30.00” — preventing the admin from initiating a request that would fail at processing. This fee validation gate protects the credit union from uncollectable service charges and gives the admin clear, actionable guidance on what is needed to proceed.
 
-![](<../../../.gitbook/assets/image4 (6).png>)
+<figure><img src="/.gitbook/assets/image4 (6).png" alt="" width="480"><figcaption></figcaption></figure>
 
 _Step 4: Check Stop Payments — Insufficient Funds Notification_

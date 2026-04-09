@@ -56,7 +56,7 @@ All three sub-workflows — Add, Edit, and Remove — share the same OTP authent
 
 you navigate to the Summerville CU online banking portal and enters their User ID and password on the Login screen, then clicks **Log in**.
 
-![](../../../.gitbook/assets/image_1.png)
+<figure><img src="/.gitbook/assets/image_1.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 1 — Login screen: Member enters credentials_
 
@@ -66,7 +66,7 @@ _Step 1 — Login screen: Member enters credentials_
 
 The system presents the Verification screen, prompting you to select how they would like to receive their One-Time Passcode: **Send me a message** (SMS), **Call me**, or **Send me an email**.
 
-![](../../../.gitbook/assets/image_2.png)
+<figure><img src="/.gitbook/assets/image_2.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 2 — OTP method selection: Choose SMS, call, or email_
 
@@ -76,7 +76,7 @@ _Step 2 — OTP method selection: Choose SMS, call, or email_
 
 If you select **Send me a message**, they are shown a list of registered phone numbers (masked for security, e.g. (+1) 2\*\*-\*\*\*-\*\*01). you select the number where the OTP should be sent.
 
-![](../../../.gitbook/assets/image_3.png)
+<figure><img src="/.gitbook/assets/image_3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 3 — Select the phone number to receive the OTP_
 
@@ -86,7 +86,7 @@ _Step 3 — Select the phone number to receive the OTP_
 
 The system confirms the OTP has been dispatched ("A One-Time Passcode (OTP) has been sent to (+1) 2\*\*-\*\*\*-\*\*01"). you enter the 5-digit code in the **Enter code** fields. A retry countdown timer is displayed. you may optionally select **Remember Device/Browser** before clicking **Submit**.
 
-![](../../../.gitbook/assets/image_4.png)
+<figure><img src="/.gitbook/assets/image_4.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 4 — Enter the OTP code and optionally remember the device_
 
@@ -96,7 +96,7 @@ _Step 4 — Enter the OTP code and optionally remember the device_
 
 After successful OTP verification, you land on the main Dashboard ("Good Morning, DONALD BLAKE"). From here, they navigate to **More** in the top navigation bar.
 
-![](../../../.gitbook/assets/image_5.png)
+<figure><img src="/.gitbook/assets/image_5.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 5 — Dashboard: Navigate to More_
 
@@ -106,7 +106,7 @@ _Step 5 — Dashboard: Navigate to More_
 
 you open the account profile switcher and selects **View Personal Information**. This brings up the Contact Information section.
 
-![](../../../.gitbook/assets/image_6.png)
+<figure><img src="/.gitbook/assets/image_6.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 6 — Profile selector: Choose View Personal Information_
 
@@ -116,7 +116,7 @@ _Step 6 — Profile selector: Choose View Personal Information_
 
 The system displays the Contact Information page. Under the **Personal email** section, the current email addresses are shown. you click **Add a new email address**, which reveals an inline text input field. you types the new email address and clicks **Add a new email address** (submit button) or **Cancel** to abandon.
 
-![](../../../.gitbook/assets/image_7.png)
+<figure><img src="/.gitbook/assets/image_7.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 7 — Contact Information: Enter new email address in the inline input field_
 
@@ -126,7 +126,7 @@ _Step 7 — Contact Information: Enter new email address in the inline input fie
 
 Upon saving, the Personal Information page reloads and displays a green success banner: **"New email ID has been added successfully."** The new email now appears in the Personal email list.
 
-![](../../../.gitbook/assets/image_8.png)
+<figure><img src="/.gitbook/assets/image_8.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 8 — Success: New email ID has been added successfully_
 
@@ -140,7 +140,7 @@ Steps 1–6 are identical to the Add Email flow (Login → OTP method → Phone 
 
 On the Contact Information screen, you locates the email entry they want to update under **Personal email** and clicks **Edit**. The email field becomes an editable text input pre-populated with the current value. you modifies the address and clicks **Save changes**, or clicks **Cancel** to discard.
 
-![](../../../.gitbook/assets/image_9.png)
+<figure><img src="/.gitbook/assets/image_9.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 7 (Edit) — Contact Information: Edit the email address inline_
 
@@ -150,7 +150,7 @@ _Step 7 (Edit) — Contact Information: Edit the email address inline_
 
 After saving, a green success banner appears: **"Email ID has been updated successfully."** The updated address is reflected immediately in the contact list.
 
-![](../../../.gitbook/assets/image_10.png)
+<figure><img src="/.gitbook/assets/image_10.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 8 (Edit) — Success: Email ID has been updated successfully_
 
@@ -164,7 +164,7 @@ Steps 1–6 are identical to the Add Email flow.
 
 On the Contact Information screen, you locates the email entry they wish to delete and clicks **Remove**. The page shows the full contact info list with multiple email addresses visible, each with Edit and Remove links.
 
-![](../../../.gitbook/assets/image_11.png)
+<figure><img src="/.gitbook/assets/image_11.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 7 (Remove) — Contact Information: Multiple emails shown with Remove option_
 
@@ -174,7 +174,7 @@ _Step 7 (Remove) — Contact Information: Multiple emails shown with Remove opti
 
 A confirmation modal dialog appears overlaying the page: **"Do you want to remove this email ID?"** with two options — **Cancel** and **Confirm**. you must explicitly click **Confirm** to proceed; clicking **Cancel** or closing the modal aborts the action.
 
-![](../../../.gitbook/assets/image_12.png)
+<figure><img src="/.gitbook/assets/image_12.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 8 (Remove) — Confirmation modal: Do you want to remove this email ID?_
 
@@ -184,7 +184,7 @@ _Step 8 (Remove) — Confirmation modal: Do you want to remove this email ID?_
 
 After confirming, the page reloads and displays a green success banner: **"Email ID has been removed successfully."** The removed address no longer appears in the contact list.
 
-![](../../../.gitbook/assets/image_13.png)
+<figure><img src="/.gitbook/assets/image_13.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Step 9 (Remove) — Success: Email ID has been removed successfully_
 
@@ -226,7 +226,7 @@ The entry point to the platform. you provide their **User ID** and **Password** 
 | I need help logging in | Link           | Navigates to credential recovery options    | Available without authentication                        |
 | Enroll                 | Button         | New member registration entry point         | Top-right corner                                        |
 
-![](../../../.gitbook/assets/image_14.png)
+<figure><img src="/.gitbook/assets/image_14.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Login Screen — Summerville CU nFinia portal_
 
@@ -242,7 +242,7 @@ Presented immediately after credential validation. you select their preferred OT
 | Call me           | Option Button | Delivers OTP via automated voice call      | Selecting opens phone number sub-selection |
 | Send me an email  | Option Button | Delivers OTP to the primary email on file  | Used when phone access is unavailable      |
 
-![](../../../.gitbook/assets/image_15.png)
+<figure><img src="/.gitbook/assets/image_15.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _OTP Method Selection Screen_
 
@@ -258,7 +258,7 @@ Shown when SMS or Call is chosen. Lists all registered phone numbers (masked) so
 | Phone number options                                   | Selectable Rows | Masked registered numbers (e.g. (+1) 2\*\*-\*\*\*-\*\*01) | Each row navigates to OTP entry on selection     |
 | Don't see your updated contact information? Click here | Link            | Retrieves latest contact data from core                   | Useful if contact was recently updated at branch |
 
-![](../../../.gitbook/assets/image_16.png)
+<figure><img src="/.gitbook/assets/image_16.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Phone Number Selection Screen for OTP delivery_
 
@@ -275,7 +275,7 @@ you enter the 5-digit code dispatched to their chosen contact method. A retry ti
 | Remember Device/Browser               | Checkbox     | Marks this device as trusted for future sessions | Optional; reduces OTP friction on repeat logins |
 | Submit                                | Button       | Validates entered OTP and proceeds               | Inactive until all 5 digits are entered         |
 
-![](../../../.gitbook/assets/image_17.png)
+<figure><img src="/.gitbook/assets/image_17.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _OTP Entry Screen — Enter the 5-digit code_
 
@@ -291,7 +291,7 @@ The authenticated home screen for you. Accessed after successful OTP validation.
 | Quick Transfer widget            | Panel            | Right-side transfer initiation shortcut         | Not relevant to email management workflow    |
 | Personal Memberships (top right) | Profile Switcher | Switches between personal and business profiles | Business You must select correct profile |
 
-![](../../../.gitbook/assets/image_18.png)
+<figure><img src="/.gitbook/assets/image_18.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Dashboard — Navigate via More to reach Contact Information_
 
@@ -306,7 +306,7 @@ Appears when you click their profile/membership indicator. Lists all memberships
 | Personal Memberships                                            | Selectable Card  | Routes to personal banking context | Highlighted when active                      |
 | Business entries (e.g. Perfect Pitch Music, Green Thumb Lands…) | Selectable Cards | Routes to business banking context | Shows role (e.g. Basic Role, Business Admin) |
 
-![](../../../.gitbook/assets/image_19.png)
+<figure><img src="/.gitbook/assets/image_19.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Profile Selector — Choose Personal Memberships or a Business profile_
 
@@ -325,7 +325,7 @@ Displays all contact data on file: phone numbers and email addresses for Home, B
 | Cancel                              | Button             | Collapses the input without saving            | No change is persisted                       |
 | Business email / Add a new email ID | Section + Link     | Adds an email to the Business email category  | Separate from Personal email                 |
 
-![](../../../.gitbook/assets/image_20.png)
+<figure><img src="/.gitbook/assets/image_20.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Contact Information — Add a new email address inline_
 
@@ -341,7 +341,7 @@ The existing email entry transforms into an editable text field pre-filled with 
 | Save changes             | Button              | Persists the updated email to you record    | Triggers success confirmation on save    |
 | Cancel                   | Button              | Discards edits; field reverts to read-only display | No changes saved                         |
 
-![](../../../.gitbook/assets/image_21.png)
+<figure><img src="/.gitbook/assets/image_21.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Contact Information — Edit email address inline with Save changes / Cancel_
 
@@ -358,7 +358,7 @@ When Remove is clicked, a modal overlay appears requiring explicit confirmation 
 | Cancel (modal)                                | Button         | Dismisses modal; no change made     | Safe exit path                                     |
 | Confirm (modal)                               | Button         | Executes the email removal          | Action is immediate upon click                     |
 
-![](../../../.gitbook/assets/image_22.png)
+<figure><img src="/.gitbook/assets/image_22.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Removal Confirmation Modal — Confirm or Cancel_
 
@@ -374,15 +374,15 @@ After Add, Edit, or Remove, the Personal Information page reloads and displays a
 | Email updated | "Email ID has been updated successfully."   |
 | Email removed | "Email ID has been removed successfully."   |
 
-![](../../../.gitbook/assets/image_23.png)
+<figure><img src="/.gitbook/assets/image_23.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Success — New email ID has been added successfully_
 
-![](../../../.gitbook/assets/image_24.png)
+<figure><img src="/.gitbook/assets/image_24.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Success — Email ID has been updated successfully_
 
-![](../../../.gitbook/assets/image_25.png)
+<figure><img src="/.gitbook/assets/image_25.png" alt="" width="620"><figcaption></figcaption></figure>
 
 _Success — Email ID has been removed successfully_
 

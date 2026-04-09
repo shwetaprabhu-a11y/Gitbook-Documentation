@@ -58,13 +58,13 @@ Theme personalization is increasingly table stakes in consumer-facing digital pr
 
 **Step 1 -- Dashboard (Light Mode):** Member logs into nFinia Online Banking and lands on the Account Overview dashboard in Light Mode (default). The interface presents a clean, white and light-blue color scheme with the Summerville wave logo, navigation bar (Dashboard, Accounts, Move Money, More), account balance tiles with dark navy headers, Quick Transfer widget, Upcoming Payments section, Credit Score meter, and Related Links sidebar. The footer displays branch information, contact details, and compliance logos against a light background.
 
-![](/.gitbook/assets/4d84470d6d89d8a6fa87d3208abb4fab251f5cf4.png){width="3.9583333333333335in" height="5.947916666666667in"}
+<figure><img src="/.gitbook/assets/4d84470d6d89d8a6fa87d3208abb4fab251f5cf4.png" alt="" width="340"><figcaption></figcaption></figure>{width="3.9583333333333335in" height="5.947916666666667in"}
 
 *Figure 1: Summerville FCU Dashboard -- Light Mode*
 
 **Step 2 -- Dashboard (Dark Mode):** Member toggles the theme to Dark Mode. The entire dashboard transforms to a deep navy-purple palette. Account tiles use vibrant gradient backgrounds, the navigation bar and header shift to dark tones with bright accent text, the Quick Transfer widget and Credit Score meter adapt their backgrounds and text colors for dark-mode readability, and the footer transitions to a matching dark scheme. All functionality remains identical---only the visual presentation changes. Balances, links, widgets, and actions are all fully accessible in both themes.
 
-![](/.gitbook/assets/8c7bc558be6f326e79504593b267c6ca1205b01c.png){width="3.8541666666666665in" height="5.84375in"}
+<figure><img src="/.gitbook/assets/8c7bc558be6f326e79504593b267c6ca1205b01c.png" alt="" width="340"><figcaption></figcaption></figure>{width="3.8541666666666665in" height="5.84375in"}
 
 *Figure 2: Summerville FCU Dashboard -- Dark Mode*
 

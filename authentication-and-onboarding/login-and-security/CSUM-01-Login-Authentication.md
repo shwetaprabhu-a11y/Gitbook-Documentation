@@ -57,7 +57,7 @@ CSUM-02 (Dashboard), CSUM-26 (Password & User ID), CSUM-28 (Device Management)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Navigate to https://summerville.nfinia.com (or launch the mobile app). The Login screen is the first screen presented.* | **Step 1 — Launch the Login Screen**                             | The Summerville Credit Union digital banking login page is displayed. A welcome modal appears over a blue background with financial service icons, showing the User ID and Password input fields along with a prominent 'SIGN IN' button. |
 
 
-![](/.gitbook/assets/img_ba47001101d4.png)
+<figure><img src="/.gitbook/assets/img_ba47001101d4.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 1: Launch the Login Screen*
 
@@ -65,7 +65,7 @@ CSUM-02 (Dashboard), CSUM-26 (Password & User ID), CSUM-28 (Device Management)
 
 The same login screen is shown. you enter their registered User ID and password into the respective fields and clicks 'SIGN IN' to begin the authentication process.
 
-![](/.gitbook/assets/img_ba47001101d4.png)
+<figure><img src="/.gitbook/assets/img_ba47001101d4.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 2: Enter Credentials & Click Log In*
 
@@ -73,7 +73,7 @@ The same login screen is shown. you enter their registered User ID and password 
 
 The Verification screen appears, offering three OTP delivery options: 'Send me a text message', 'Call me', and 'Send me an email'. you select their preferred method to receive the one-time passcode.
 
-![](/.gitbook/assets/img_af24a462cfc3.png)
+<figure><img src="/.gitbook/assets/img_af24a462cfc3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 3: Select OTP Delivery Method*
 
@@ -81,7 +81,7 @@ The Verification screen appears, offering three OTP delivery options: 'Send me a
 
 The email OTP option is selected. The screen displays 'Send me an email' as the chosen method with an input field for you to confirm or select the registered email address for receiving the verification code.
 
-![](/.gitbook/assets/img_d002b4246e94.png)
+<figure><img src="/.gitbook/assets/img_d002b4246e94.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 4: Select Email Address (if Email chosen)*
 
@@ -89,7 +89,7 @@ The email OTP option is selected. The screen displays 'Send me an email' as the 
 
 A verification code entry form is displayed with an 'Enter code' text field. A 'Didn't receive your code? Resend' link is available below the input for You who need the OTP re-sent.
 
-![](/.gitbook/assets/img_a44197ff9ff7.png)
+<figure><img src="/.gitbook/assets/img_a44197ff9ff7.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 5: Enter OTP Code*
 
@@ -97,7 +97,7 @@ A verification code entry form is displayed with an 'Enter code' text field. A '
 
 The Dashboard loads successfully after authentication. The screen greets you by name ('Good Evening, SAM WILSON') and displays account balances, a quick transfer widget, and promotional messaging.
 
-![](/.gitbook/assets/img_76d367ae9a07.png)
+<figure><img src="/.gitbook/assets/img_76d367ae9a07.png" alt="" width="340"><figcaption></figcaption></figure>
 
 *Step 6: Arrive at Dashboard*
 
@@ -105,7 +105,7 @@ The Dashboard loads successfully after authentication. The screen greets you by 
 
 The self-service recovery page is displayed with three options: 'I forgot My user ID', 'I forgot My Password', and 'Unlock My user ID'. Each option has an icon and a 'Back to login' link at the bottom to return to the main login screen.
 
-![](/.gitbook/assets/img_8692cb9435f4.png)
+<figure><img src="/.gitbook/assets/img_8692cb9435f4.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 7: Access Self-Service Recovery Options*
 
@@ -113,7 +113,7 @@ The self-service recovery page is displayed with three options: 'I forgot My use
 
 The Forgot User ID form is displayed. you are prompted to enter their Social Security Number (SSN) in two matching fields for confirmation, and their Date of Birth. A note states the User ID will be sent to the registered email and/or mobile number. Cancel and Retrieve User ID buttons are at the bottom.
 
-![](/.gitbook/assets/img_441889e049ea.png)
+<figure><img src="/.gitbook/assets/img_441889e049ea.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 8: Forgot User ID — Enter SSN & Date of Birth*
 
@@ -121,7 +121,7 @@ The Forgot User ID form is displayed. you are prompted to enter their Social Sec
 
 The Forgot Password flow begins at Step 1 (User info) of a 5-step wizard: User info, Identity verification, Authentication, Password reset, and Success. you enter their Membership Number and User ID, then clicks Next to proceed. Cancel is also available.
 
-![](/.gitbook/assets/img_e1c29585d221.png)
+<figure><img src="/.gitbook/assets/img_e1c29585d221.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 9: Forgot Password — Enter Membership & User ID*
 
@@ -129,7 +129,7 @@ The Forgot Password flow begins at Step 1 (User info) of a 5-step wizard: User i
 
 The Unlock Account flow begins at Step 1 (Member verification) of a 5-step wizard: Member verification, Identity verification, One-Time Passcode (OTP), Choose password, and Success. you enter their User ID and Membership Number, then clicks Next. Cancel is also available.
 
-![](/.gitbook/assets/img_dfa5fbc96fa9.png)
+<figure><img src="/.gitbook/assets/img_dfa5fbc96fa9.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 10: Unlock Account — Enter User ID & Membership*
 

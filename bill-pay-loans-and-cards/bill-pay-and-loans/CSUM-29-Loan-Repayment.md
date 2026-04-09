@@ -67,43 +67,43 @@ These use cases reflect the primary loan repayment scenarios for Summerville FCU
 
 **Step 1: View Loan Account Overview**
 
-![](/.gitbook/assets/941cb6109ca40bea557207ec0807c5bc303d7582.png){width="6.395833333333333in" height="4.666666666666667in"}
+<figure><img src="/.gitbook/assets/941cb6109ca40bea557207ec0807c5bc303d7582.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.395833333333333in" height="4.666666666666667in"}
 
 you log into the Summerville FCU digital banking portal and navigates to Accounts Overview, filtering by Loan Accounts. The overview displays each loan with its account name (e.g., "2019 BMW 0001"), Amount Due, Payment Due / Next Due Date, Payoff Amount, and quick action links including "History" and "Transfer Funds." Overdue loans are highlighted with a red "Overdue" indicator and the next due date in red text.
 
 **Step 2: View Loan Account Details**
 
-![](/.gitbook/assets/faeef6b4b3667130c900a8c85083cd8af8943042.png){width="6.28125in" height="4.791666666666667in"}
+<figure><img src="/.gitbook/assets/faeef6b4b3667130c900a8c85083cd8af8943042.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.28125in" height="4.791666666666667in"}
 
 Clicking on the loan account opens the Account Details page, which provides a comprehensive view of the loan including Amount Due (\$498.67), Payment Due / Next Due Date (\$0.95 due on Oct 27, 2025), and links to "Make Payment," "Skip-a-Pay," and "See more." Below the summary card, the Transactions section displays the full payment history with deposits, payment credits, and balance progression. you click "Make Payment" to initiate the loan repayment workflow.
 
 **Step 3: Set Up Transfer --- Select Payment Option**
 
-![](/.gitbook/assets/419e72b26bfd162ab5880db184ed7f1c29b3e76d.png){width="6.333333333333333in" height="4.854166666666667in"}
+<figure><img src="/.gitbook/assets/419e72b26bfd162ab5880db184ed7f1c29b3e76d.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.333333333333333in" height="4.854166666666667in"}
 
 The Transfer Funds to Own Account screen opens with the three-step progress indicator (Set up Transfer → Review → Finish). Step 1 displays the From account (source checking/savings) and To account (the loan). The Payment Option dropdown provides four choices: Select (default), Next due amt, Payoff amount, Pay to principal, and Make a regular payment. you also has the option to check "Make transfer recurring" to set up automated payments. The "Make this my preferred source account" checkbox allows saving the source account for future payments.
 
 **Step 4: Enter Payment Amount and Date**
 
-![](/.gitbook/assets/10fe725cbd98588d807375aa0160fc96f3875611.png){width="6.416666666666667in" height="4.895833333333333in"}
+<figure><img src="/.gitbook/assets/10fe725cbd98588d807375aa0160fc96f3875611.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.416666666666667in" height="4.895833333333333in"}
 
 After selecting a payment option (e.g., "Make a regular payment"), you enter the Amount to be transferred and an optional Transaction memo (limited to 23 characters). The Transfer Date field defaults to today's date with a calendar picker for scheduling future payments. A "Make transfer recurring" checkbox is available for setting up automated payment schedules. you click "Continue" to proceed to the review step.
 
 **Step 5: Configure Recurring Payment (Optional)**
 
-![](/.gitbook/assets/edbb99947b19a2bbc25e91dd2a8f1a343140cc84.png){width="6.458333333333333in" height="4.895833333333333in"}
+<figure><img src="/.gitbook/assets/edbb99947b19a2bbc25e91dd2a8f1a343140cc84.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.458333333333333in" height="4.895833333333333in"}
 
 When "Make transfer recurring" is checked, additional scheduling fields appear: Frequency (Weekly transfer, Bi-Weekly, Monthly, etc.), Repeat (Until end date, Number of times, Until cancelled), and End Date. The system displays a confirmation summary such as "Scheduled Weekly transfer, until April 15, 2026." This enables You to automate their loan payments on a consistent schedule, reducing the risk of missed payments.
 
 **Step 6: Review Transfer**
 
-![](/.gitbook/assets/dd6109a2a1574b388fad5f07085bfa600a88d76f.png){width="6.385416666666667in" height="3.34375in"}
+<figure><img src="/.gitbook/assets/dd6109a2a1574b388fad5f07085bfa600a88d76f.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.385416666666667in" height="3.34375in"}
 
 The Review screen (Step 2 of 3) presents a complete summary of the payment: the transfer amount (\$1.00), From account (PREFD C 0040 with available balance), To account (2019 BMW 0001), Transfer date, and recurring schedule details if applicable. you can click "Back" to modify any details, "Cancel" to abort, or "Confirm Transfer" to submit the payment. This review step ensures you have full visibility before committing.
 
 **Step 7: Transfer Success**
 
-![](/.gitbook/assets/98f2b25b450f321bfa1599a03392160bc3a15a0b.png){width="6.427083333333333in" height="3.8020833333333335in"}
+<figure><img src="/.gitbook/assets/98f2b25b450f321bfa1599a03392160bc3a15a0b.png" alt="" width="620"><figcaption></figcaption></figure>{width="6.427083333333333in" height="3.8020833333333335in"}
 
 Upon successful submission, the Finish screen (Step 3 of 3) displays a green checkmark with "Successfully Sent" confirmation showing the transfer amount, source and destination accounts, and transfer date. A "Print" link allows you to generate a receipt, and the "Done" button returns to the main banking view. The transaction is immediately recorded in the account's transaction history.
 

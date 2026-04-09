@@ -56,7 +56,7 @@ CSUM-22 (Personal Information), CSUM-01 (Login & Auth), CSUM-25 (Password & MFA)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > More > Personal Information > Devices tab.* | **Step 1 — Start from Dashboard**                           | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-22 (Personal Information), CSUM-01 (Login & Auth), CSUM-25 (Password & MFA)
 
 you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](/.gitbook/assets/img_ba578ecd81d3.png)
+<figure><img src="/.gitbook/assets/img_ba578ecd81d3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 2: More Menu*
 
@@ -84,7 +84,7 @@ The Personal Information page displays a comprehensive list of registered device
 
 A confirmation modal asks 'Are you sure you want to forget this device?' with Cancel and Proceed buttons for you to confirm or cancel the device removal.
 
-![](/.gitbook/assets/img_02399f4ee5dd.png)
+<figure><img src="/.gitbook/assets/img_02399f4ee5dd.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 5: Remove a Trusted Device*
 

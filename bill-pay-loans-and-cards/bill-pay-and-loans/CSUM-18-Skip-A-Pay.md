@@ -53,7 +53,7 @@ CSUM-14 (Loan Payments), CSUM-18 (Online Forms)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > More > 'Skip A Pay'.* | **Step 1 — Start from Dashboard**                       | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -61,7 +61,7 @@ CSUM-14 (Loan Payments), CSUM-18 (Online Forms)
 
 you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](/.gitbook/assets/img_ba578ecd81d3.png)
+<figure><img src="/.gitbook/assets/img_ba578ecd81d3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 2: More Menu*
 
@@ -69,7 +69,7 @@ you click ‘More’ in the top navigation bar. The More options panel expands t
 
 The Skip A Pay page shows the selected loan with a current due date of April 2026 and an advanced due date of May 2026. A $35.00 transaction fee is displayed for the skip payment service.
 
-![](/.gitbook/assets/img_cad422bef630.png)
+<figure><img src="/.gitbook/assets/img_cad422bef630.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Skip A Pay*
 
@@ -77,7 +77,7 @@ The Skip A Pay page shows the selected loan with a current due date of April 202
 
 The Skip A Pay confirmation page displays details about the selected loan, the fee structure, payment method options, and a terms and conditions checkbox that must be accepted before proceeding.
 
-![](/.gitbook/assets/img_bfdb47ae6026.png)
+<figure><img src="/.gitbook/assets/img_bfdb47ae6026.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 4: Select Loan & Review Fee Details*
 
@@ -85,7 +85,7 @@ The Skip A Pay confirmation page displays details about the selected loan, the f
 
 A confirmation screen states 'Your request for a skip payment has been processed' with a Continue button to return to the main interface.
 
-![](/.gitbook/assets/img_6ae501e73bc0.png)
+<figure><img src="/.gitbook/assets/img_6ae501e73bc0.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 5: Accept & Confirm Skip*
 

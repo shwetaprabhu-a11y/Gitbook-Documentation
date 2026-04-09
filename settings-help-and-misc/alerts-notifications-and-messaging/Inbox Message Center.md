@@ -56,7 +56,7 @@ CSUM-19 (Alerts), CSUM-25 (Settings)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > Inbox (bell/envelope icon in top navigation).* | **Step 1 — Start from Dashboard**                            | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-19 (Alerts), CSUM-25 (Settings)
 
 you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](/.gitbook/assets/img_ba578ecd81d3.png)
+<figure><img src="/.gitbook/assets/img_ba578ecd81d3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 2: More Menu*
 
@@ -72,7 +72,7 @@ you click ‘More’ in the top navigation bar. The More options panel expands t
 
 The Inbox page displays a list of support tickets in a table format with columns for ID, Subject, Last Updated, Assigned To, and Status. Tickets include Account Inquiry, Transaction Inquiry, and General inquiries.
 
-![](/.gitbook/assets/img_48cfc445ce8c.png)
+<figure><img src="/.gitbook/assets/img_48cfc445ce8c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Inbox*
 
@@ -80,7 +80,7 @@ The Inbox page displays a list of support tickets in a table format with columns
 
 The Inbox interface shows the support messages view with a table listing various support tickets and their details including status and assigned representative.
 
-![](/.gitbook/assets/img_806c7b1a7ffa.png)
+<figure><img src="/.gitbook/assets/img_806c7b1a7ffa.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 4: View Support Messages*
 
@@ -88,7 +88,7 @@ The Inbox interface shows the support messages view with a table listing various
 
 A 'Create New Ticket' modal is displayed with fields for Inquiry Type (set to General Inquiry), Subject, Message body, and a file attachment option with a 20 MB size limit.
 
-![](/.gitbook/assets/img_fdb8e24d3d09.png)
+<figure><img src="/.gitbook/assets/img_fdb8e24d3d09.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 5: Send a New Support Message*
 
@@ -96,7 +96,7 @@ A 'Create New Ticket' modal is displayed with fields for Inquiry Type (set to Ge
 
 A success message modal confirms the ticket was created successfully with ID 07703. The list of recently created support tickets is visible in the background.
 
-![](/.gitbook/assets/img_fe8c1cbfcfcf.png)
+<figure><img src="/.gitbook/assets/img_fe8c1cbfcfcf.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 6: Reply to a Support Thread*
 

@@ -56,7 +56,7 @@ CSUM-06 (Move Money Hub), CSUM-09 (ACH Transfer)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > Move Money > 'FedNow Instant Pay' OR 'Send Instantly'.* | **Step 1 — Start from Dashboard**                                | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-06 (Move Money Hub), CSUM-09 (ACH Transfer)
 
 you click ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other You, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
-![](/.gitbook/assets/img_dd37cd06feee.png)
+<figure><img src="/.gitbook/assets/img_dd37cd06feee.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 2: Move Money Hub*
 
@@ -72,7 +72,7 @@ you click ‘Move Money’ in the top navigation bar. The Move Money Hub display
 
 The Move Money hub is shown as the landing page for initiating a FedNow Instant Payment transfer.
 
-![](/.gitbook/assets/img_721f3b4eb101.png)
+<figure><img src="/.gitbook/assets/img_721f3b4eb101.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to FedNow*
 
@@ -80,7 +80,7 @@ The Move Money hub is shown as the landing page for initiating a FedNow Instant 
 
 Step 2 of the FedNow transfer shows a form with fields for entering transfer details and recipient information for the instant payment.
 
-![](/.gitbook/assets/img_721f3b4eb101.png)
+<figure><img src="/.gitbook/assets/img_721f3b4eb101.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 4: Fill Payment Form*
 
@@ -88,7 +88,7 @@ Step 2 of the FedNow transfer shows a form with fields for entering transfer det
 
 The FedNow Terms and Conditions page is displayed with checkboxes for accepting the agreement before proceeding with the instant payment.
 
-![](/.gitbook/assets/img_5bb27bf07334.png)
+<figure><img src="/.gitbook/assets/img_5bb27bf07334.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 5: Review & Accept Terms*
 
@@ -96,7 +96,7 @@ The FedNow Terms and Conditions page is displayed with checkboxes for accepting 
 
 The final confirmation screen shows a FedNow instant transfer of $1,000 with full transaction details and a confirmation button to complete the payment.
 
-![](/.gitbook/assets/img_adaac69aff07.png)
+<figure><img src="/.gitbook/assets/img_adaac69aff07.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 6: Final Confirmation & Send*
 

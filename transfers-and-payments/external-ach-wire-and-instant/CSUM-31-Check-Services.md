@@ -62,21 +62,21 @@ These use cases demonstrate how Check Services reduces friction for both persona
 
 Step 1: Member logs into the Summerville FCU nFinia portal and lands on the Dashboard. The dashboard displays all accounts with balances, Quick Transfer widget, upcoming payments, and credit score.
 
-![](/.gitbook/assets/24c30f617e73e6629d17809c27be42eacd3ba8fb.png){width="5.0in" height="7.854166666666667in"}
+<figure><img src="/.gitbook/assets/24c30f617e73e6629d17809c27be42eacd3ba8fb.png" alt="" width="340"><figcaption></figcaption></figure>{width="5.0in" height="7.854166666666667in"}
 
 Step 2: Member clicks the \"More\" button in the top navigation bar to access additional banking services. The More options page displays all available personal banking features including Notifications, User ID and Password, Personal Information, Accounts and Memberships, Alert Settings, Add Membership, Travel Notice, Reorder Checks, Check Stop Payment, and Skip-a-Pay.
 
-![](/.gitbook/assets/5d113ae19a7e22fd64da3337eeb9f7f8da6a8917.png){width="5.833333333333333in" height="3.3645833333333335in"}
+<figure><img src="/.gitbook/assets/5d113ae19a7e22fd64da3337eeb9f7f8da6a8917.png" alt="" width="620"><figcaption></figcaption></figure>{width="5.833333333333333in" height="3.3645833333333335in"}
 
 Step 3: Member selects \"Check Stop Payment\" from the More menu. The Check Stop Payment form appears with account selection, check number entry, optional amount, and memo fields. you select their account, enters the check number, optionally enters the check amount, and accepts the terms and conditions before clicking \"Stop Payments.\"
 
-![](/.gitbook/assets/3faef7d73969f2738ed25c9ea1984ccea0e21a5c.png){width="5.625in" height="5.947916666666667in"}
+<figure><img src="/.gitbook/assets/3faef7d73969f2738ed25c9ea1984ccea0e21a5c.png" alt="" width="480"><figcaption></figcaption></figure>{width="5.625in" height="5.947916666666667in"}
 
 **3.3 Reorder Checks Flow**
 
 Step 4: To reorder checks, you navigate to Banking > More > Reorder Checks. The system displays the selected account details including membership owner(s), primary owner, email ID, and verified mailing address pulled directly from the core system.
 
-![](/.gitbook/assets/70963dd07db7a4dc2a38907cdf9f2294c961f755.png){width="5.625in" height="5.302083333333333in"}
+<figure><img src="/.gitbook/assets/70963dd07db7a4dc2a38907cdf9f2294c961f755.png" alt="" width="480"><figcaption></figcaption></figure>{width="5.625in" height="5.302083333333333in"}
 
 Step 5: Member reviews the pre-populated information including account number, owner details, and mailing address. After confirming the details are correct, they click \"Place checkbook order\" to submit the request.
 

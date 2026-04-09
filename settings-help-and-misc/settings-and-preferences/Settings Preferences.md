@@ -56,7 +56,7 @@ CSUM-25 (Password & User ID), CSUM-19 (Alerts), CSUM-26 (Profile & Memberships)
 | **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > Settings (gear icon) OR More > Settings.* | **Step 1 — Start from Dashboard**                                | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
 
-![](/.gitbook/assets/img_eb0a7d21423c.png)
+<figure><img src="/.gitbook/assets/img_eb0a7d21423c.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 1: Start from Dashboard*
 
@@ -64,7 +64,7 @@ CSUM-25 (Password & User ID), CSUM-19 (Alerts), CSUM-26 (Profile & Memberships)
 
 you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
-![](/.gitbook/assets/img_ba578ecd81d3.png)
+<figure><img src="/.gitbook/assets/img_ba578ecd81d3.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 2: More Menu*
 
@@ -72,7 +72,7 @@ you click ‘More’ in the top navigation bar. The More options panel expands t
 
 The User ID and Password Settings page is displayed with a password change form containing 'Enter a new password' and 'Confirm new password' fields, along with a list of Password Requirements.
 
-![](/.gitbook/assets/img_496966521d78.png)
+<figure><img src="/.gitbook/assets/img_496966521d78.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 3: Navigate from Dashboard to Settings*
 
@@ -80,7 +80,7 @@ The User ID and Password Settings page is displayed with a password change form 
 
 The User ID and Password Settings page shows tabs for User ID, Password, and Multi-Factor Authentication options available for you to configure.
 
-![](/.gitbook/assets/img_f25e080818ae.png)
+<figure><img src="/.gitbook/assets/img_f25e080818ae.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 4: View MFA Settings*
 
@@ -88,7 +88,7 @@ The User ID and Password Settings page shows tabs for User ID, Password, and Mul
 
 The Accounts and Memberships settings page is displayed with checkboxes for managing membership and account preferences.
 
-![](/.gitbook/assets/img_d89dcb8f0776.png)
+<figure><img src="/.gitbook/assets/img_d89dcb8f0776.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 5: View Accounts & Memberships Settings*
 
@@ -96,7 +96,7 @@ The Accounts and Memberships settings page is displayed with checkboxes for mana
 
 The Alert Settings page shows alert configuration options with toggle switches for enabling Push Notifications and SMS Alerts delivery channels.
 
-![](/.gitbook/assets/img_0e8421ca8c3e.png)
+<figure><img src="/.gitbook/assets/img_0e8421ca8c3e.png" alt="" width="480"><figcaption></figcaption></figure>
 
 *Step 6: Update MFA Preferences*
 
@@ -104,7 +104,7 @@ The Alert Settings page shows alert configuration options with toggle switches f
 
 The Accounts and Memberships settings page is shown with a loading state and options for managing memberships and account display preferences.
 
-![](/.gitbook/assets/img_f0e24e109eec.png)
+<figure><img src="/.gitbook/assets/img_f0e24e109eec.png" alt="" width="620"><figcaption></figcaption></figure>
 
 *Step 7: Additional Accounts & Memberships View*
 
