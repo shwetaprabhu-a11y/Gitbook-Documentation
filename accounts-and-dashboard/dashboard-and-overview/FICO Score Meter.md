@@ -64,19 +64,19 @@ These use cases demonstrate how the FICO® Score Meter serves both member empowe
 
 1.  **Start from the Dashboard:** After logging into the nFinia digital banking platform, the member lands on the Account Overview / Dashboard page. This screen displays account balances, membership details, quick transfer options, and upcoming payments. To access the FICO Score feature, the member navigates via the top navigation bar.
 
-![Dashboard / Account Overview page](media/0626ee68834c4ae05407526488a70359313c95cc.png "Dashboard / Account Overview page"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/0626ee68834c4ae05407526488a70359313c95cc.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 1: Dashboard --- Account Overview starting point*
 
 2.  **Open the More Menu:** From the top navigation bar, the member clicks More. The expanded menu hub reveals all available self-service features organized in a grid layout. The member locates Additional Services or navigates directly to the FICO Score page from the available feature tiles.
 
-![More Menu hub with self-service features](media/3255656de6c4325ca6347991aa2185fccc616569.png "More Menu hub with self-service features"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/3255656de6c4325ca6347991aa2185fccc616569.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 2: More Menu --- Self-service feature hub*
 
 3.  **View FICO® Score:** The FICO Score page loads displaying the member's current score prominently. The page includes: (a) the FICO® Score badge showing the numeric score (e.g., 400) with the tagline "The score lenders use," (b) a color-coded FICO® Score Meter graphic with ranges from 300 (min) through 580, 670, 740, 800, to 850 (max), and (c) the date the score was last pulled. The score is based on the FICO® Score 8 model using Experian data.
 
-![FICO Score page with meter and key factors](media/79c37bde1ec9f0e2abda936af6cfe7b9639b23f0.png "FICO Score page with meter and key factors"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/79c37bde1ec9f0e2abda936af6cfe7b9639b23f0.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 3: FICO® Score Meter --- Score display with key factors and credit education*
 

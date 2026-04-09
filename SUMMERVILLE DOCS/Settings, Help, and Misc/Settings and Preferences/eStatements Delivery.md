@@ -64,29 +64,29 @@ These use cases demonstrate how eStatements serves both operational efficiency a
 
 1.  **Start from the Dashboard:** After logging into the nFinia digital banking platform, the member lands on the Dashboard / Account Overview page. This screen displays account summaries, membership details, related links, and quick transfer options. To access eStatements, the member navigates via the top navigation bar.
 
-![Dashboard / Account Overview page](media/0626ee68834c4ae05407526488a70359313c95cc.png "Dashboard / Account Overview page"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/0626ee68834c4ae05407526488a70359313c95cc.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 1: Dashboard --- Account Overview starting point*
 
 2.  **Open the More Menu:** From the top navigation bar, the member clicks More. The expanded menu hub reveals all available self-service features organized in a grid layout, including eStatements, Approval Requests, Accounts and Memberships, Stop Payment, Direct Deposit Form, and more. The member locates and selects eStatements to access their electronic statements.
 
-![More Menu hub with self-service features](media/3255656de6c4325ca6347991aa2185fccc616569.png "More Menu hub with self-service features"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/3255656de6c4325ca6347991aa2185fccc616569.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 2: More Menu --- Self-service feature hub with eStatements highlighted*
 
 3.  **eStatements Landing Page:** The eStatements page displays with two tabs: eStatements (active by default) and Delivery Settings. The member sees a document type dropdown (defaulting to "eStatements"), their Member \# with account holder name, opt-in status, and email address on file. If statements are available, they appear below; if the service is temporarily unavailable, a notification message is displayed.
 
-![eStatements landing page](media/04db8e5e08bd9d21eabc7dd493348a62028e5207.png "eStatements landing page"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/04db8e5e08bd9d21eabc7dd493348a62028e5207.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 3: eStatements landing page with member information and upcoming payments*
 
 4.  **View Documents & Statements:** The member can browse their statements through three tabs: Documents (monthly account statements), Disclosures (regulatory and account disclosures), and Statement Search (find statements by criteria). Monthly Statements are listed by date (e.g., Mar 2026, Feb 2026). Credit Card Statements appear in a separate section with billing period details and year-end summaries. A Notices section displays system alerts such as insufficient funds notifications.
 
-![eStatements documents view with tabs](media/425522ae9832687c3ef708d776647d4f60800bf7.png "eStatements documents view with tabs"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/425522ae9832687c3ef708d776647d4f60800bf7.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 4: eStatements document browser with Monthly Statements, Credit Card Statements, and Notices*
 
-![eStatements main view with View eStatements button](media/4a8ce27cfca52b4c1c27a62651565dfda66f43c2.png "eStatements main view with View eStatements button"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/4a8ce27cfca52b4c1c27a62651565dfda66f43c2.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 5: eStatements view with View eStatements action button*
 
@@ -94,13 +94,13 @@ These use cases demonstrate how eStatements serves both operational efficiency a
 
 6.  **eStatements Delivery (Email):** When eStatements mode is selected, the system confirms: "You will receive an email notification when your statement is ready to view." The member's registered email address is displayed below. A link to update the email address is provided. Quick links on the right sidebar offer access to Change Password and View Scheduled Transfers.
 
-![Delivery Settings - eStatements (email) mode](media/4ac82b75deebb16efa3f14c7e43d8b46b0f0a500.png "Delivery Settings - eStatements (email) mode"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/4ac82b75deebb16efa3f14c7e43d8b46b0f0a500.png) mode"){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 6: Delivery Settings --- eStatements mode with email notification*
 
 7.  **Paper Delivery:** When Paper delivery is selected, the system displays a notice: "Statements will be sent to your mailing address. Please note a \$3 monthly fee may be assessed for mailed statements. See our Fee Schedule for more information." The member's registered mailing address is shown below (e.g., 1103 W BALLARD RD, SPOKANE, WA, 99208-8201). A link to update the address is provided.
 
-![Delivery Settings - Paper delivery mode](media/9f4aed024818fff1f1dd075444d33ab8a2d7e48f.png "Delivery Settings - Paper delivery mode"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/9f4aed024818fff1f1dd075444d33ab8a2d7e48f.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 7: Delivery Settings --- Paper delivery mode with mailing address and fee disclosure*
 

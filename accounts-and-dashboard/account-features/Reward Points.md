@@ -60,25 +60,25 @@ These use cases reflect the primary ways credit union members interact with thei
 
 Step 1: Member logs into nFinia digital banking and lands on the Dashboard. The account overview displays all linked accounts including checking, savings, and credit card accounts with current balances. The bottom navigation provides quick links and the More menu for accessing additional features.
 
-![nFinia platform screenshot](media/24c30f617e73e6629d17809c27be42eacd3ba8fb.png "Screenshot"){width="3.75in" height="5.885416666666667in"}
+![](/.gitbook/assets/24c30f617e73e6629d17809c27be42eacd3ba8fb.png){width="3.75in" height="5.885416666666667in"}
 
 The Dashboard shows the member\'s full account portfolio at a glance. Credit card accounts are listed alongside deposit accounts, displaying the current balance. The member can navigate to specific features through the top navigation bar or the More menu hub at the bottom of the page.
 
 Step 2: Member taps the \'More\' option from the bottom navigation or the +More menu link. The More Menu Hub opens, displaying a grid of all available banking features organized by category.
 
-![nFinia platform screenshot](media/5d113ae19a7e22fd64da3337eeb9f7f8da6a8917.png "Screenshot"){width="5.833333333333333in" height="3.3645833333333335in"}
+![](/.gitbook/assets/5d113ae19a7e22fd64da3337eeb9f7f8da6a8917.png){width="5.833333333333333in" height="3.3645833333333335in"}
 
 The More Menu Hub provides a centralized navigation point for features beyond the primary tabs. Members can access Cards, Check Services, Reward Points, Skip-a-Pay, and other account management features from this hub. The member selects the credit card account or navigates to the Cards section to access reward points.
 
 Step 3: Member selects the credit card account (e.g., \'P-Money\'s Credit Card (\#160)\') from the Accounts section. The system navigates to the Credit Card Account Detail view showing the full card summary and reward points balance.
 
-![nFinia platform screenshot](media/3ac017b513676685e7cb991f11e2120fc2e369ad.png "Screenshot"){width="5.833333333333333in" height="2.8333333333333335in"}
+![](/.gitbook/assets/3ac017b513676685e7cb991f11e2120fc2e369ad.png){width="5.833333333333333in" height="2.8333333333333335in"}
 
 The Credit Card Account Detail screen displays: card image and name, credit limit (\$5,000.00), available credit (\$1,241.67), payment due date and amount, total due (\$3,758.33). Below the summary, the \'Cards in this account\' section shows linked card numbers (masked), card type (Visa Signature), cardholder name, and lock/unlock status toggle. The Reward Points summary row shows Earned to Date (3,914 points), Rewards Points Available (57,496), Redeemed to Date (0 points), and Expiring Points (58 points on 04/30/2025).
 
 Step 4: Member clicks \'Redeem/View\' link to open the Reward Points modal for detailed information and card-level breakdown.
 
-![nFinia platform screenshot](media/86142214e31c42bcdc8c075973a8c2595fb98abd.png "Screenshot"){width="5.833333333333333in" height="1.8958333333333333in"}
+![](/.gitbook/assets/86142214e31c42bcdc8c075973a8c2595fb98abd.png){width="5.833333333333333in" height="1.8958333333333333in"}
 
 The Reward Points modal displays a card-level breakdown: card number (masked), status (ACTIVE), cardholder name (PERCIVAL F CEREZO), and a Redeem/View action link. The summary header shows: Earned to Date (0 points for current period), Rewards Points Available (3,000), Redeemed to Date (-2,500), and Expiring Points (3,000 on 11/30/2028).
 

@@ -58,13 +58,13 @@ These use cases reflect the reality that joint accounts and beneficiary designat
 
 **Step 1 -- Dashboard (Account Overview):** Member logs into nFinia Online Banking and lands on the Account Overview dashboard. All enrolled memberships and accounts are displayed as tile cards showing account type, balance, and last activity.
 
-![Summerville FCU -- Account Overview Dashboard](media/0626ee68834c4ae05407526488a70359313c95cc.png "Summerville FCU – Account Overview Dashboard"){width="5.208333333333333in" height="4.208333333333333in"}
+![](/.gitbook/assets/0626ee68834c4ae05407526488a70359313c95cc.png){width="5.208333333333333in" height="4.208333333333333in"}
 
 *Figure 1: Summerville FCU -- Account Overview Dashboard*
 
 **Step 2 -- Account Detail (Joint Owners & Beneficiary View):** Member clicks on a specific account tile (e.g., Savings Account) to open the Account Detail page. The page displays account balances (Available, Current, Minimum), quick action links (Internal Transfer, See More), and the All Account Holders section. Expanding this section reveals each holder with their role: Primary Holder, Joint Holder, or Beneficiary. The right sidebar provides related links including Change Password, Account Settings, Download E-Statements, and more.
 
-![Account Detail -- Joint Owners & Beneficiary Names](media/a6c93798a570e4af43975ecfb4e05b0aade0c037.png "Account Detail – Joint Owners & Beneficiary Names"){width="5.729166666666667in" height="3.9375in"}
+![](/.gitbook/assets/a6c93798a570e4af43975ecfb4e05b0aade0c037.png){width="5.729166666666667in" height="3.9375in"}
 
 *Figure 2: Account Detail -- Joint Owners & Beneficiary Names*
 

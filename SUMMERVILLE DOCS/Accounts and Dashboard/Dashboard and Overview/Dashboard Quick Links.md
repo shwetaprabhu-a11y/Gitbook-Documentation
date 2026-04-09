@@ -54,7 +54,7 @@ The Dashboard Quick Links serve as an always-available bridge between digital ba
 
 The Summerville FCU dashboard is the member's primary landing page after login. It displays account balances, Quick Transfer, upcoming payments, credit score, and related links. At the very bottom of the dashboard, the footer section contains the five quick links.
 
-![00\_Dashboard.png](media/24c30f617e73e6629d17809c27be42eacd3ba8fb.png "Screenshot"){width="4.791666666666667in" height="7.520833333333333in"}
+![](/.gitbook/assets/24c30f617e73e6629d17809c27be42eacd3ba8fb.png){width="4.791666666666667in" height="7.520833333333333in"}
 
 **3.2 Security Policy**
 
@@ -64,19 +64,19 @@ The Security Policy link opens the credit union's security guidelines page. This
 
 Clicking Branch Appointments launches the Penni scheduling platform. Penni provides a multi-step appointment booking flow: Personal Info, Appointment Type, Date & Time, and Confirmation. Members enter their name, email, phone number, and can optionally add notes before selecting an available time slot at their preferred branch.
 
-![03\_Branch-Appointments-Penni.png](media/5b13eb218018fc050193b60811631162d4f8078c.png "Screenshot"){width="5.625in" height="4.197916666666667in"}
+![](/.gitbook/assets/5b13eb218018fc050193b60811631162d4f8078c.png){width="5.625in" height="4.197916666666667in"}
 
 **3.4 Locations & Rates**
 
 The Locations and Rates links connect to Summerville FCU's pages on the Tyfone nFinia platform. The platform --- branded as "Dramatically Different: Digital Banking + Payments + AI" --- hosts the credit union's branch locator with hours, addresses, and ATM information, as well as current rate tables for savings, checking, certificates, and loan products.
 
-![05\_Tyfone-Platform.png](media/964a5c60cb2fb66a33a7a9655ca4baef87341ccf.png "Screenshot"){width="5.833333333333333in" height="3.0625in"}
+![](/.gitbook/assets/964a5c60cb2fb66a33a7a9655ca4baef87341ccf.png){width="5.833333333333333in" height="3.0625in"}
 
 **3.5 Text Banking**
 
 The Text Banking link opens a reference page listing all available SMS commands. Members send text commands to the short code 28640 to interact with their accounts. Available commands include SV HELP (list commands), SV BAL (default account balance), SV BAL ALL (all account balances), SV HIST (transaction history), and SV STOP (deactivate text banking).
 
-![04\_Text-Banking.png](media/d81a50f5a5078c8188072b36c8634d6e9fe78a9b.png "Screenshot"){width="5.833333333333333in" height="3.0729166666666665in"}
+![](/.gitbook/assets/d81a50f5a5078c8188072b36c8634d6e9fe78a9b.png){width="5.833333333333333in" height="3.0729166666666665in"}
 
 **3.6 Completion**
 

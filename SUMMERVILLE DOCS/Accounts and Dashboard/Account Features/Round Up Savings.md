@@ -64,25 +64,25 @@ These use cases demonstrate how Round Up to Savings serves Summerville FCU's str
 
 1.  **Start from the Dashboard:** After logging into the nFinia digital banking platform, the member lands on the **Dashboard / Account Overview** page. This screen displays the member's account summary, membership details, related links, and quick transfer options. To access Round Up to Savings, the member navigates via the top navigation bar.
 
-![Dashboard / Account Overview page](media/fd69f6c8b01624fae1f8d73a52e431bb9a8d4fb0.png "Dashboard / Account Overview page"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/fd69f6c8b01624fae1f8d73a52e431bb9a8d4fb0.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 1: Dashboard --- Account Overview starting point*
 
 2.  **Open the More Menu:** From the top navigation bar, the member clicks **More**. The More menu expands to reveal available self-service features. The member clicks **Round up to savings** which is highlighted with the description "Increase your savings when you transact."
 
-![More menu with Round Up to Savings highlighted](media/3255656de6c4325ca6347991aa2185fccc616569.png "More menu with Round Up to Savings highlighted"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/3255656de6c4325ca6347991aa2185fccc616569.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 2: More menu showing the Round Up to Savings entry point*
 
 3.  **Select From Account:** The Round Up to Savings setup page loads, displaying an explanation of how the feature works. The member selects their checking account from the "From account" dropdown. Available options include all checking accounts under their membership (e.g., BONUS CHECKING, MAIN CHECKING). The dropdown displays account name and account number for clear identification.
 
-![From account dropdown selection](media/f9d7fa52eb62a6b8436bb5dbd2d1da8be22439c1.png "From account dropdown selection"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/f9d7fa52eb62a6b8436bb5dbd2d1da8be22439c1.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 3: Selecting the source checking account for round-ups*
 
 4.  **Select To Account:** The member selects their destination savings account from the "To account" dropdown. Eligible savings account types include Share Savings -- Special, Peak Money Market Savings, and other savings products. The dropdown filters to only show savings-eligible accounts under the selected membership.
 
-![To account dropdown selection](media/5878fa47299c5fc24131ca44e9e00253e7884048.png "To account dropdown selection"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/5878fa47299c5fc24131ca44e9e00253e7884048.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 4: Selecting the destination savings account*
 
@@ -94,11 +94,11 @@ These use cases demonstrate how Round Up to Savings serves Summerville FCU's str
 
 Each option includes an "Example" link that displays a tooltip illustrating the calculation with a sample transaction amount.
 
-![Round to nearest dollar with example tooltip](media/546aa1e48552395e8aad0910ca8030a80fdc72c8.png "Round to nearest dollar with example tooltip"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/546aa1e48552395e8aad0910ca8030a80fdc72c8.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 5: Round to nearest dollar option with example tooltip (\$9.50 → \$0.50 transferred)*
 
-![Double round-up option with example tooltip](media/0c61c683bbaf6264b6b083508f892be4b92ed529.png "Double round-up option with example tooltip"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/0c61c683bbaf6264b6b083508f892be4b92ed529.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 6: Double the round-up option with example tooltip (\$9.50 → \$1.00 transferred)*
 
@@ -106,7 +106,7 @@ Each option includes an "Example" link that displays a tooltip illustrating the 
 
 7.  **Activate Round Up:** The member clicks the "Set up Round Up to Savings" button. The system validates the configuration and activates the round-up rule.
 
-![Completed setup form ready to submit](media/1d4aafaa3237b688388a6c61e156552693e84393.png "Completed setup form ready to submit"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/1d4aafaa3237b688388a6c61e156552693e84393.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 7: Completed enrollment form with all options selected and T&C accepted*
 
@@ -122,7 +122,7 @@ Each option includes an "Example" link that displays a tooltip illustrating the 
 
 Upon successful activation, the system displays a confirmation banner: "Round Up to Savings preference saved successfully." The page transitions to show the active round-up configuration including the linked accounts, the selected rounding method, and a savings metrics dashboard.
 
-![Successful enrollment confirmation](media/0628f15cef1839e75ba9b49d9f077eb61eddaa09.png "Successful enrollment confirmation"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/0628f15cef1839e75ba9b49d9f077eb61eddaa09.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 8: Confirmation screen with savings metrics dashboard (MTD, YTD, Last Year, Total)*
 
@@ -132,7 +132,7 @@ The savings dashboard displays four key metrics: Month to Date savings, Year to 
 
 Once enrolled, the member can return to the Round Up to Savings page at any time to manage their preferences. The active configuration view displays the linked account pairing, savings metrics, and the current rounding method. Two action links are available: Edit (to modify the rounding method or linked accounts) and Remove (to deactivate the round-up rule).
 
-![Edit view of existing round-up configuration](media/32e419ed84507b239a65f942e72bfe8d542fa180.png "Edit view of existing round-up configuration"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/32e419ed84507b239a65f942e72bfe8d542fa180.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 9: Active round-up configuration with Edit and Save options*
 
@@ -140,7 +140,7 @@ Once enrolled, the member can return to the Round Up to Savings page at any time
 
 When a member clicks "Remove" on an active round-up configuration, a modal confirmation dialog appears asking: "Are you sure you want to opt out from Round Up to Savings?" The dialog presents two clear options: "No" (cancel and return to the management view) and "Yes" (confirm removal and deactivate the round-up rule). This two-step confirmation prevents accidental deactivation.
 
-![Opt-out confirmation dialog](media/d87dd35b6a9d97a41aa998bbdf986731cee0edbe.png "Opt-out confirmation dialog"){width="6.041666666666667in" height="3.5416666666666665in"}
+![](/.gitbook/assets/d87dd35b6a9d97a41aa998bbdf986731cee0edbe.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 10: Opt-out confirmation dialog with No/Yes options*
 

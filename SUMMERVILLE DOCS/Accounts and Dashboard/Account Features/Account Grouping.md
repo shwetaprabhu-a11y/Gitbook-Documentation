@@ -58,49 +58,49 @@ These use cases highlight how Custom Account Grouping transforms the Accounts Ov
 
 Step 1: Member logs into nFinia digital banking and lands on the Dashboard. The account overview displays all linked accounts including checking, savings, loan, and credit card accounts with current balances.
 
-![nFinia platform screenshot](media/24c30f617e73e6629d17809c27be42eacd3ba8fb.png "Screenshot"){width="3.75in" height="5.885416666666667in"}
+![](/.gitbook/assets/24c30f617e73e6629d17809c27be42eacd3ba8fb.png){width="3.75in" height="5.885416666666667in"}
 
 The Dashboard provides the member\'s full account portfolio at a glance. From here, the member navigates to the Accounts section to access the Account Grouping feature.
 
 Step 2: Member navigates to the Accounts Overview screen. The Account Group dropdown at the top of the screen defaults to \'All Accounts,\' showing all linked accounts in system-defined groups (Deposit Accounts, Loan Accounts, etc.).
 
-![nFinia platform screenshot](media/a945ccfd28f58814a3e6f42105ca7f1d041affeb.png "Screenshot"){width="5.833333333333333in" height="2.5625in"}
+![](/.gitbook/assets/a945ccfd28f58814a3e6f42105ca7f1d041affeb.png){width="5.833333333333333in" height="2.5625in"}
 
 The Account Group dropdown reveals all available groups --- both system-defined and any custom groups the member has created. Selecting a group filters the Accounts Overview to show only accounts within that group. The \'Manage Groups\' option at the bottom of the dropdown opens the group management interface.
 
 Step 3: Member selects \'Manage Groups\' from the dropdown or navigates to the group management screen. To create a new custom group, the member taps the \'New Custom Group\' option. The system displays an empty group creation form.
 
-![nFinia platform screenshot](media/04108ad58b03fea0bc4487ee60b7078f425d26d4.png "Screenshot"){width="5.833333333333333in" height="2.4583333333333335in"}
+![](/.gitbook/assets/04108ad58b03fea0bc4487ee60b7078f425d26d4.png){width="5.833333333333333in" height="2.4583333333333335in"}
 
 The New Custom Group form presents fields for the group name and allows the member to add sections and accounts. The form starts empty, ready for the member to define their custom organizational structure.
 
 Step 4: Member fills in the group details --- enters a Group Name (e.g., \'BanC3 Business Profile\'), adds sections, and selects accounts to include in the group.
 
-![nFinia platform screenshot](media/6dc0deac0d36ee7134f87c17788efd355f2170c0.png "Screenshot"){width="5.833333333333333in" height="2.46875in"}
+![](/.gitbook/assets/6dc0deac0d36ee7134f87c17788efd355f2170c0.png){width="5.833333333333333in" height="2.46875in"}
 
 The completed form shows the group name, any sections created within the group, and the accounts assigned. Each account displays its name and current balance. The member can add multiple sections and distribute accounts across sections for granular organization.
 
 Step 5: When adding accounts, the member uses the \'Add Account\' dropdown to select from all available accounts not yet assigned to this group.
 
-![nFinia platform screenshot](media/6e0099bf3bcf548dccb3333c52f88d252338be3e.png "Screenshot"){width="5.833333333333333in" height="2.46875in"}
+![](/.gitbook/assets/6e0099bf3bcf548dccb3333c52f88d252338be3e.png){width="5.833333333333333in" height="2.46875in"}
 
 The Add Account dropdown lists all eligible accounts with their names and masked account numbers. The member selects one or more accounts to add to the current group or section. Accounts can belong to multiple custom groups simultaneously.
 
 Step 6: To modify a system-defined group, the member selects \'Edit\' on an existing system group (e.g., Deposit Accounts). The system displays the group\'s current configuration with options to add sections, move accounts, or rename sections.
 
-![nFinia platform screenshot](media/7092a724a8094dc0630e22de9ddc6ba0f6d52103.png "Screenshot"){width="5.833333333333333in" height="2.46875in"}
+![](/.gitbook/assets/7092a724a8094dc0630e22de9ddc6ba0f6d52103.png){width="5.833333333333333in" height="2.46875in"}
 
 The Edit System Group view shows the group\'s current accounts and sections. Members can add new sections within system groups to further organize their default account view. System group names cannot be changed, but their internal structure is fully customizable.
 
 Step 7: To edit a custom group, the member selects \'Edit\' on their custom group. The full group configuration is displayed with options to rename, add/remove sections, add/remove accounts, or delete the group entirely.
 
-![nFinia platform screenshot](media/acd46680f36cd2ec736de44aafd4c25519d7c442.png "Screenshot"){width="5.833333333333333in" height="2.8333333333333335in"}
+![](/.gitbook/assets/acd46680f36cd2ec736de44aafd4c25519d7c442.png){width="5.833333333333333in" height="2.8333333333333335in"}
 
 The Edit Custom Group view provides full CRUD operations: rename the group, add or remove sections, move accounts between sections, add new accounts via the dropdown, or delete the entire group. Changes are saved when the member confirms the edit.
 
 Step 8: To reorder groups, the member accesses the Manage Groups sort interface. Groups are displayed in a sortable list with drag handles, allowing the member to arrange groups in their preferred display order.
 
-![nFinia platform screenshot](media/abc75d9ba70e8c0897886de81e977d764c73b9b7.png "Screenshot"){width="5.833333333333333in" height="2.3854166666666665in"}
+![](/.gitbook/assets/abc75d9ba70e8c0897886de81e977d764c73b9b7.png){width="5.833333333333333in" height="2.3854166666666665in"}
 
 The Manage Groups sort page shows all groups (both system and custom) in their current display order. The member can drag and drop groups to rearrange them. The sort order determines the sequence in which groups appear in the Account Group dropdown and on the Accounts Overview screen.
 
