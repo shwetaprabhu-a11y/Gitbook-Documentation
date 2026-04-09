@@ -14,18 +14,18 @@ Tyfone, Inc. \| April 2026 \| Confidential
   **1. Product Summary**
   ------------------------
 
-Certificate Management is a core feature of the nFinia Digital Banking platform that enables credit union members to manage their investment certificate (CD) accounts directly through the digital banking portal. This capability allows members to renew certificates, hold balances without renewal, and close certificates at maturity --- all without visiting a branch or calling the contact center.
+Certificate Management is a core feature of the nFinia Digital Banking platform that enables credit union You to manage their investment certificate (CD) accounts directly through the digital banking portal. This capability allows You to renew certificates, hold balances without renewal, and close certificates at maturity --- all without visiting a branch or calling the contact center.
 
 Within the Summerville Federal Credit Union digital banking portal, Certificate Management is accessible from the Account Details page via the "Manage Certificate" link on any eligible investment account. The feature provides a guided, step-by-step workflow for each maturity option: renewing the certificate for the same or a different term, holding the balance in a non-accruing state, or transferring the balance to a checking or savings account upon maturity.
 
-For Summerville FCU, Certificate Management reduces operational burden on branch staff by enabling self-service certificate lifecycle management. Members benefit from 24/7 access to manage their investment accounts on their own schedule, with clear review screens and confirmation steps that ensure informed decision-making. The feature supports Ultra Data core integration and is configured through the nFinia platform's system configuration framework.
+For Summerville FCU, Certificate Management reduces operational burden on branch staff by enabling self-service certificate lifecycle management. You benefit from 24/7 access to manage their investment accounts on their own schedule, with clear review screens and confirmation steps that ensure informed decision-making. The feature supports Ultra Data core integration and is configured through the nFinia platform's system configuration framework.
 
 **At a Glance**
 
   -------------------------- ---------------------------------------------------------------------------
   **Attribute**              **Detail**
   **Feature Name**           Certificate Management (Manage Certificate)
-  **Module**                 Accounts \> Account Details \> Manage Certificate
+  **Module**                 Accounts > Account Details > Manage Certificate
   **User Roles**             Primary Account Holder, Joint Account Holder
   **Access Level**           Account-level; requires eligible Investment (Product ID type "I") account
   **Key Actions**            Renew Certificate, Hold Balance Without Renewing, Close at Maturity
@@ -44,10 +44,10 @@ For Summerville FCU, Certificate Management reduces operational burden on branch
   Hold balance without renewing         Account Holder     Selects Hold Balance option, accepts Terms & Conditions, confirms the hold request                                                                    Preserves funds in account without commitment; member retains option to renew or withdraw later
   Close certificate at maturity         Account Holder     Selects Close at Maturity, chooses transfer-to account (Checking/Savings), optionally selects closure reason, accepts T&C, confirms                   Enables orderly certificate closure with funds directed to preferred account; optional reason tracking for FI analytics
   View certificate details              Account Holder     Views Account Details page showing current balance, interest rate, term, and maturity date with Manage Certificate link                               Provides at-a-glance certificate health; single entry point to all management actions
-  FI configures maturity options        FI Administrator   Configures MANAGE\_CERTIFICATE\_CONFIG to enable/disable renewal, hold, and close options per credit union                                            Allows each FI to tailor available options to their product strategy and core system capabilities
+  FI configures maturity options        FI Administrator   Configures MANAGE_CERTIFICATE_CONFIG to enable/disable renewal, hold, and close options per credit union                                            Allows each FI to tailor available options to their product strategy and core system capabilities
   ------------------------------------- ------------------ ----------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------
 
-These use cases reflect the primary scenarios for Summerville FCU members managing investment certificates. The combination of self-service renewal, flexible rollover options, and orderly closure workflows addresses both the operational efficiency needs of the credit union and the convenience expectations of members who prefer to manage their finances digitally.
+These use cases reflect the primary scenarios for Summerville FCU You managing investment certificates. The combination of self-service renewal, flexible rollover options, and orderly closure workflows addresses both the operational efficiency needs of the credit union and the convenience expectations of You who prefer to manage their finances digitally.
 
   ----------------------------
   **3. End-to-End Workflow**
@@ -57,9 +57,9 @@ These use cases reflect the primary scenarios for Summerville FCU members managi
 
 • Member must be enrolled in Summerville FCU digital banking with an active membership.
 
-• The member must hold at least one eligible Investment account (Product ID type "I" in Ultra Data core).
+• you must hold at least one eligible Investment account (Product ID type "I" in Ultra Data core).
 
-• The Certificate Management feature must be enabled in the FI's system configuration (MANAGE\_CERTIFICATE\_CONFIG).
+• The Certificate Management feature must be enabled in the FI's system configuration (MANAGE_CERTIFICATE_CONFIG).
 
 • The certificate must be within its maturity management window for renewal, hold, or closure options to appear.
 
@@ -69,31 +69,31 @@ These use cases reflect the primary scenarios for Summerville FCU members managi
 
 ![](/.gitbook/assets/ecf7fd81a0106ba3cb8422c1d9045df07d6a4a7c.png){width="4.416666666666667in" height="0.7083333333333334in"}
 
-The member logs into the Summerville FCU digital banking portal and navigates to their Account Details page for the investment certificate. The page displays key certificate information including Current Balance, Interest Rate, Term (in days), and Maturity Date. A "Manage Certificate" link is prominently displayed, providing the single entry point to all certificate management actions.
+you logs into the Summerville FCU digital banking portal and navigates to their Account Details page for the investment certificate. The page displays key certificate information including Current Balance, Interest Rate, Term (in days), and Maturity Date. A "Manage Certificate" link is prominently displayed, providing the single entry point to all certificate management actions.
 
 **Step 2: Manage Certificate Options**
 
 ![](/.gitbook/assets/c8c988948de3b52730ceacd99431a2e2a8843970.png){width="6.458333333333333in" height="5.729166666666667in"}
 
-Clicking "Manage Certificate" presents the available maturity options configured for this certificate. The options include Renew Certificate (reinvest the full balance or rollover to a new product), Hold Balance Without Renewing (keep funds in account without accruing additional interest), and Close at Maturity (transfer balance to another account). The available options are determined by the MANAGE\_CERTIFICATE\_CONFIG system configuration and the core system's availableMaturityOptions response.
+Clicking "Manage Certificate" presents the available maturity options configured for this certificate. The options include Renew Certificate (reinvest the full balance or rollover to a new product), Hold Balance Without Renewing (keep funds in account without accruing additional interest), and Close at Maturity (transfer balance to another account). The available options are determined by the MANAGE_CERTIFICATE_CONFIG system configuration and the core system's availableMaturityOptions response.
 
 **Step 3: Renew Certificate --- Select Renewal Option**
 
 ![](/.gitbook/assets/575cf0cd493eb7949a8d5815242572f5bd1e6ad6.png){width="6.458333333333333in" height="5.885416666666667in"}
 
-When the member selects Renew Certificate, they are presented with renewal options in a guided stepper workflow. Step 1 asks the member to choose between renewing the existing certificate (reinvest full balance at current or new term) or reinvesting/rolling over to a new certificate product. The current maturity option is pre-selected based on the currentMaturityOption API response. If the member selects Reinvest or Rollover, additional fields appear for selecting the rollover product and specifying a partial withdrawal amount.
+When you selects Renew Certificate, they are presented with renewal options in a guided stepper workflow. Step 1 asks you to choose between renewing the existing certificate (reinvest full balance at current or new term) or reinvesting/rolling over to a new certificate product. The current maturity option is pre-selected based on the currentMaturityOption API response. If you selects Reinvest or Rollover, additional fields appear for selecting the rollover product and specifying a partial withdrawal amount.
 
 **Step 4: Select Term**
 
 ![](/.gitbook/assets/669585442174622e38b603264d9541d2ca0642f3.png){width="6.458333333333333in" height="5.833333333333333in"}
 
-In Step 2 of the renewal flow, the member selects the term for the renewed certificate. For Ultra Data core, the term is entered as a number of days with minimum and maximum validation based on the availableReinvestTerms API response (minTerm and maxTerm values). For Correlation core, terms are presented as a dropdown selection. The member reviews the selected term and clicks Next to proceed to the review screen.
+In Step 2 of the renewal flow, you selects the term for the renewed certificate. For Ultra Data core, the term is entered as a number of days with minimum and maximum validation based on the availableReinvestTerms API response (minTerm and maxTerm values). For Correlation core, terms are presented as a dropdown selection. you reviews the selected term and clicks Next to proceed to the review screen.
 
 **Step 5: Review Renewal Details**
 
 ![](/.gitbook/assets/24f456174cd789add3372fab19c384fad68c176c.png){width="6.458333333333333in" height="6.114583333333333in"}
 
-The Review screen presents a comprehensive summary of the renewal configuration: the certificate account, selected renewal option, chosen term, current balance, interest rate, and maturity date. The member can click Back to modify any selection (all previously entered data is retained) or click Renew to submit the renewal request to the core banking system.
+The Review screen presents a comprehensive summary of the renewal configuration: the certificate account, selected renewal option, chosen term, current balance, interest rate, and maturity date. you can click Back to modify any selection (all previously entered data is retained) or click Renew to submit the renewal request to the core banking system.
 
 **Step 6: Renewal Success**
 
@@ -105,19 +105,19 @@ Upon successful submission, the system displays a confirmation screen with the r
 
 ![](/.gitbook/assets/b98be393a3c5f9cea5235173d5fb3503ad024201.png){width="6.458333333333333in" height="5.770833333333333in"}
 
-When the member selects Hold Balance Without Renewing, the system presents a confirmation screen explaining that the certificate will not be renewed and the balance will remain in the account without accruing additional interest post-maturity. The member must accept the Terms and Conditions via a checkbox before the Submit button becomes active. This ensures informed consent and creates an audit trail of the member's decision.
+When you selects Hold Balance Without Renewing, the system presents a confirmation screen explaining that the certificate will not be renewed and the balance will remain in the account without accruing additional interest post-maturity. you must accept the Terms and Conditions via a checkbox before the Submit button becomes active. This ensures informed consent and creates an audit trail of you's decision.
 
 **Step 8: Hold Balance Success**
 
 ![](/.gitbook/assets/7e1a6c25cc3eb8257cfea0e0382c24f292b6fbf9.png){width="6.458333333333333in" height="5.770833333333333in"}
 
-After accepting the terms and submitting, the system confirms the hold request with a success screen. The balance remains accessible and the member retains the option to renew the certificate at a later date, transfer the balance, or withdraw funds without penalty.
+After accepting the terms and submitting, the system confirms the hold request with a success screen. The balance remains accessible and you retains the option to renew the certificate at a later date, transfer the balance, or withdraw funds without penalty.
 
 **Step 9: Close at Maturity**
 
 ![](/.gitbook/assets/eb74ebde9fa15467ce03d3f776ca08c93aebe26a.png){width="6.458333333333333in" height="5.21875in"}
 
-When the member selects Close at Maturity, they are prompted to select a transfer-to account (filtered to eligible Checking, Savings, or Loan accounts based on the accountConfigs and memberConfigs configuration). An optional reason selector is displayed if IS\_CLOSE\_CERTIFICATE\_REASON\_MANDATORY is configured; selecting "Other" reveals a free-text input field. The member must accept the Terms and Conditions before submitting the closure request.
+When you selects Close at Maturity, they are prompted to select a transfer-to account (filtered to eligible Checking, Savings, or Loan accounts based on the accountConfigs and memberConfigs configuration). An optional reason selector is displayed if IS_CLOSE_CERTIFICATE_REASON_MANDATORY is configured; selecting "Other" reveals a free-text input field. you must accept the Terms and Conditions before submitting the closure request.
 
 **Step 10: Close at Maturity Success**
 
@@ -131,11 +131,11 @@ The Certificate Management workflow includes several decision points that affect
 
 • Renewal Option Selection: Choosing "Renew existing certificate" follows a straightforward term selection flow. Choosing "Reinvest or Rollover" adds an additional step to select the target certificate product from rolloverTypeList and optionally specify a partial withdrawal amount.
 
-• Partial Withdrawal: If the member opts to withdraw a portion of the balance during rollover, the system validates the amount against minimum and maximum thresholds and requires selection of an eligible transfer-to account.
+• Partial Withdrawal: If you opts to withdraw a portion of the balance during rollover, the system validates the amount against minimum and maximum thresholds and requires selection of an eligible transfer-to account.
 
 • Core System Variation: Ultra Data presents term selection as a free-text day input with min/max validation. Correlation presents terms as a dropdown selection. The widgetType configuration key controls which input is displayed.
 
-• Closure Reason: The reason field on Close at Maturity is optional or required based on IS\_CLOSE\_CERTIFICATE\_REASON\_MANDATORY configuration. Reasons are maintained in nFinia configs and tracked in Harmoney for analytics.
+• Closure Reason: The reason field on Close at Maturity is optional or required based on IS_CLOSE_CERTIFICATE_REASON_MANDATORY configuration. Reasons are maintained in nFinia configs and tracked in Harmoney for analytics.
 
 **3.4 Completion & Confirmation**
 
@@ -169,20 +169,20 @@ Presents the available maturity options for the certificate based on system conf
 
   ------------------------------- -------------- ---------------------------------------------------- ------------------------------------------------------------
   **Field / Element**             **Type**       **Description**                                      **Notes**
-  Renew Certificate               Radio Button   Select to begin the certificate renewal workflow     Available when REINVEST is in AVAILABLE\_MATURITY\_OPTIONS
+  Renew Certificate               Radio Button   Select to begin the certificate renewal workflow     Available when REINVEST is in AVAILABLE_MATURITY_OPTIONS
   Hold Balance Without Renewing   Radio Button   Select to hold funds without renewal                 Supported on Correlation core
-  Close at Maturity               Radio Button   Select to close the certificate and transfer funds   Available when CLOSE\_AT\_MATURITY is configured
+  Close at Maturity               Radio Button   Select to close the certificate and transfer funds   Available when CLOSE_AT_MATURITY is configured
   Next                            Button         Proceeds to the selected option's workflow           Primary blue button; disabled until selection made
   Cancel                          Button         Returns to Account Details                           Secondary outlined button
   ------------------------------- -------------- ---------------------------------------------------- ------------------------------------------------------------
 
 **4.3 Renew Certificate --- Renewal Option (Step 1)**
 
-First step of the renewal stepper where the member selects their preferred renewal method.
+First step of the renewal stepper where you selects their preferred renewal method.
 
   ----------------------------------------- -------------- -------------------------------------------------------------------- ------------------------------------------------
   **Field / Element**                       **Type**       **Description**                                                      **Notes**
-  Stepper Progress                          UI Indicator   Shows current position: Renewal Option \> Term \> Review \> Finish   4-step progress indicator
+  Stepper Progress                          UI Indicator   Shows current position: Renewal Option > Term > Review > Finish   4-step progress indicator
   Renew the existing certificate            Radio Button   Reinvest full balance into same product type                         Auto-selected if currentMaturityOption matches
   Reinvest or rollover to new certificate   Radio Button   Move funds to a different certificate product                        Shows additional rollover product dropdown
   Rollover Product Dropdown                 Dropdown       Lists available certificate products from rolloverTypeList           Visible only when Rollover is selected
@@ -194,7 +194,7 @@ First step of the renewal stepper where the member selects their preferred renew
 
 **4.4 Renew Certificate --- Term Selection (Step 2)**
 
-Second step where the member specifies the renewal term for their certificate.
+Second step where you specifies the renewal term for their certificate.
 
   --------------------- ------------ --------------------------------------------------- -------------------------------------------
   **Field / Element**   **Type**     **Description**                                     **Notes**
@@ -206,7 +206,7 @@ Second step where the member specifies the renewal term for their certificate.
 
 **4.5 Renew Certificate --- Review (Step 3)**
 
-Summary screen for the member to verify all renewal details before submission.
+Summary screen for you to verify all renewal details before submission.
 
   --------------------- ---------- ------------------------------------------- -----------------------------------
   **Field / Element**   **Type**   **Description**                             **Notes**
@@ -222,7 +222,7 @@ Summary screen for the member to verify all renewal details before submission.
 
 **4.6 Hold Balance Without Renewing**
 
-Confirmation screen where the member agrees to hold funds without certificate renewal.
+Confirmation screen where you agrees to hold funds without certificate renewal.
 
   --------------------- ---------------- ------------------------------------------------------------- -------------------------------------------------
   **Field / Element**   **Type**         **Description**                                               **Notes**
@@ -252,22 +252,22 @@ Form for closing the certificate and transferring the balance to another account
 
   ------------------------------- ------------------------------------------------------------------------------ ------------------- --------------------------------------------
   **Task**                        **Navigation Path**                                                            **Who Can Do It**   **Notes**
-  View certificate details        Accounts \> Account Details                                                    Account Holder      Shows balance, rate, term, maturity date
-  Open Manage Certificate         Account Details \> Manage Certificate                                          Account Holder      Requires eligible Investment account
-  Renew existing certificate      Manage Certificate \> Renew \> Renewal Option \> Term \> Review \> Renew       Account Holder      Full balance reinvested at selected term
-  Rollover to new certificate     Manage Certificate \> Renew \> Rollover \> Select Product \> Review \> Renew   Account Holder      Optional partial withdrawal available
-  Hold balance without renewal    Manage Certificate \> Hold Balance \> Accept T&C \> Submit                     Account Holder      Balance accessible; no interest accrual
-  Close certificate at maturity   Manage Certificate \> Close \> Select Account \> Accept T&C \> Submit          Account Holder      Funds transferred to selected account
-  Configure maturity options      System Config \> MANAGE\_CERTIFICATE\_CONFIG                                   FI Administrator    Controls which options are available
-  Enable/disable feature          System Config \> MANAGE\_CERTIFICATE\_OPTIONS                                  FI Administrator    Per-slug enable: reinvest, rollover, close
+  View certificate details        Accounts > Account Details                                                    Account Holder      Shows balance, rate, term, maturity date
+  Open Manage Certificate         Account Details > Manage Certificate                                          Account Holder      Requires eligible Investment account
+  Renew existing certificate      Manage Certificate > Renew > Renewal Option > Term > Review > Renew       Account Holder      Full balance reinvested at selected term
+  Rollover to new certificate     Manage Certificate > Renew > Rollover > Select Product > Review > Renew   Account Holder      Optional partial withdrawal available
+  Hold balance without renewal    Manage Certificate > Hold Balance > Accept T&C > Submit                     Account Holder      Balance accessible; no interest accrual
+  Close certificate at maturity   Manage Certificate > Close > Select Account > Accept T&C > Submit          Account Holder      Funds transferred to selected account
+  Configure maturity options      System Config > MANAGE_CERTIFICATE_CONFIG                                   FI Administrator    Controls which options are available
+  Enable/disable feature          System Config > MANAGE_CERTIFICATE_OPTIONS                                  FI Administrator    Per-slug enable: reinvest, rollover, close
   ------------------------------- ------------------------------------------------------------------------------ ------------------- --------------------------------------------
 
   -------------------
   **5. Conclusion**
   -------------------
 
-Certificate Management is a critical self-service capability for Summerville Federal Credit Union's digital banking offering on the nFinia platform. The feature addresses a fundamental gap in the member experience by enabling account holders to manage the full lifecycle of their investment certificates --- from renewal and rollover to balance holds and maturity closures --- without requiring branch visits or phone calls.
+Certificate Management is a critical self-service capability for Summerville Federal Credit Union's digital banking offering on the nFinia platform. The feature addresses a fundamental gap in you experience by enabling account holders to manage the full lifecycle of their investment certificates --- from renewal and rollover to balance holds and maturity closures --- without requiring branch visits or phone calls.
 
-The guided stepper workflow with clear review screens and Terms & Conditions acceptance ensures members make informed decisions while creating the audit trail required for regulatory compliance. The configurable architecture --- driven by MANAGE\_CERTIFICATE\_CONFIG and core system API responses --- allows Summerville FCU to tailor the available options to their product strategy and core system capabilities. The Ultra Data core integration is fully supported in the current release, with Correlation core support planned for future iterations.
+The guided stepper workflow with clear review screens and Terms & Conditions acceptance ensures You make informed decisions while creating the audit trail required for regulatory compliance. The configurable architecture --- driven by MANAGE_CERTIFICATE_CONFIG and core system API responses --- allows Summerville FCU to tailor the available options to their product strategy and core system capabilities. The Ultra Data core integration is fully supported in the current release, with Correlation core support planned for future iterations.
 
-For Summerville FCU, Certificate Management strengthens member retention by providing the digital convenience that today's members expect. Members who can easily renew their certificates online are more likely to keep their deposits with the credit union rather than shopping competitor rates. The feature reduces operational costs by deflecting routine certificate management inquiries from the contact center and branch staff, allowing them to focus on higher-value advisory interactions.
+For Summerville FCU, Certificate Management strengthens member retention by providing the digital convenience that today's You expect. You who can easily renew their certificates online are more likely to keep their deposits with the credit union rather than shopping competitor rates. The feature reduces operational costs by deflecting routine certificate management inquiries from the contact center and branch staff, allowing them to focus on higher-value advisory interactions.

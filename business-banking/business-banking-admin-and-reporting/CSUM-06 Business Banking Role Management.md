@@ -3,7 +3,7 @@
 
 **Role Management**
 
-Module: Business Banking \> Role Management
+Module: Business Banking > Role Management
 
 **Navigation: Dashboard → Business Banking → Role Management**
 
@@ -43,7 +43,7 @@ prevention.
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Attribute**        | **Detail**                                                                                                                                               |
 | Feature Name         | Role Management                                                                                                                                          |
-| Module               | Business Banking \> Role Management                                                                                                                      |
+| Module               | Business Banking > Role Management                                                                                                                      |
 | Navigation           | Dashboard → Business Banking → Role Management                                                                                                           |
 | User Roles           | Business Admin, Business Owner                                                                                                                           |
 | Access Level         | Admin-only; requires Role Management permission                                                                                                          |
@@ -91,9 +91,7 @@ Transfers, Account Specific Alerts) and a Quick Transfer widget for fast
 internal transfers. To proceed to Business Banking features, locate the
 "Business Banking" tab in the top navigation bar and click on it.
 
-![Fig
-1](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/1a19568ff18131f218abd77ce89a1be61f1d1d82.png
-"Fig 1")
+![](/.gitbook/assets/1a19568ff18131f218abd77ce89a1be61f1d1d82.png)
 
 *Figure 1 — Log In and Open the Dashboard*
 
@@ -112,9 +110,7 @@ role has permission to access will be visible. From here, locate and
 click the tile for the feature you need — the next steps will guide you
 through the specific workflow.
 
-![Fig
-2](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/4c26e21f2a941fd4d0531c900025b3d6ab137178.png
-"Fig 2")
+![](/.gitbook/assets/4c26e21f2a941fd4d0531c900025b3d6ab137178.png)
 
 *Figure 2 — Open the Business Banking Hub*
 
@@ -131,9 +127,7 @@ Users, and Settings. Click any tab to expand that dimension for the
 selected role. To create a new role, click "Create New Role" at the top
 of the page.
 
-![Fig
-3](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/448d4b229fdaca1e425d06609b1b8907922c41d6.png
-"Fig 3")
+![](/.gitbook/assets/448d4b229fdaca1e425d06609b1b8907922c41d6.png)
 
 *Figure 3 — Navigate to Role Management*
 
@@ -150,9 +144,7 @@ access, toggle it OFF (grayed out). A "Select All" option at the top
 enables every permission at once. Changes are saved when you click
 "Save" at the bottom of the panel.
 
-![Fig
-4](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/402ab9e6dba46fff8843e866afcd34df422a3b21.png
-"Fig 4")
+![](/.gitbook/assets/402ab9e6dba46fff8843e866afcd34df422a3b21.png)
 
 *Figure 4 — View and Configure Role Permissions*
 
@@ -168,9 +160,7 @@ has exactly the access it needs — no more, no less. For example, an "AP
 Clerk" role should have ACH Transfer and Recipient Management enabled,
 but Role Management and User Management disabled.
 
-![Fig
-5](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/46f5b82e8142404dff26ef8410fbf64f8b6e7adf.png
-"Fig 5")
+![](/.gitbook/assets/46f5b82e8142404dff26ef8410fbf64f8b6e7adf.png)
 
 *Figure 5 — Scroll to See All Permission Categories*
 
@@ -186,9 +176,7 @@ real-time — if a user assigned to this role attempts a transaction
 exceeding these thresholds, the system will block it. Click "Save" when
 finished. Adjust limits based on business need and risk tolerance.
 
-![Fig
-6](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/80dc6a42ea881bd076ce32e73ac573d68ab0c459.png
-"Fig 6")
+![](/.gitbook/assets/80dc6a42ea881bd076ce32e73ac573d68ab0c459.png)
 
 *Figure 6 — Set Transaction Limits for the Role*
 
@@ -203,9 +191,7 @@ user from a role revokes all permissions associated with that role
 immediately. The user will need to be reassigned to a different role to
 regain access.
 
-![Fig
-7](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/92f042e8db546163b78620f48f6a6f3e999276d4.png
-"Fig 7")
+![](/.gitbook/assets/92f042e8db546163b78620f48f6a6f3e999276d4.png)
 
 *Figure 7 — View Users Assigned to the Role*
 
@@ -219,9 +205,7 @@ behaviors like whether transactions initiated by this role require
 approval from another role. Update the settings as needed and click
 "Save."
 
-![Fig
-8](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/204f8f8c10e13f12f78d73928bad58dd90f1faa1.png
-"Fig 8")
+![](/.gitbook/assets/204f8f8c10e13f12f78d73928bad58dd90f1faa1.png)
 
 *Figure 8 — Review Role Settings*
 
@@ -236,9 +220,7 @@ immediately for all users assigned to this role. Be cautious when
 editing roles with active users, as permission changes affect their
 access in real-time.
 
-![Fig
-9](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/a9ff020e6922e6b539683dcc8ab0318a5e47bbd6.png
-"Fig 9")
+![](/.gitbook/assets/a9ff020e6922e6b539683dcc8ab0318a5e47bbd6.png)
 
 *Figure 9 — Edit an Existing Role*
 
@@ -252,9 +234,7 @@ name will appear throughout the platform wherever role assignments are
 displayed. Click "Continue" or "Next" to proceed to permission
 configuration.
 
-![Fig
-10](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/2ddca15f587d3f757e2862548ed30412d11b6f59.png
-"Fig 10")
+![](/.gitbook/assets/2ddca15f587d3f757e2862548ed30412d11b6f59.png)
 
 *Figure 10 — Create a New Role — Enter the Role Name*
 
@@ -267,9 +247,7 @@ selection step. The role name can be changed later through the Settings
 tab if needed, but it is best practice to set a clear, descriptive name
 from the start to maintain an organized role structure.
 
-![Fig
-11](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/c173e7157610ddeec8de77fd5bc2d1877b035247.png
-"Fig 11")
+![](/.gitbook/assets/c173e7157610ddeec8de77fd5bc2d1877b035247.png)
 
 *Figure 11 — Confirm the Role Name and Proceed*
 
@@ -285,9 +263,7 @@ necessary for this role's job function — following the principle of
 least privilege minimizes security risk. Click "Continue" to proceed to
 entitlement configuration.
 
-![Fig
-12](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/3454de4077a36ecdcfa37ff8658f3f3543fea0d7.png
-"Fig 12")
+![](/.gitbook/assets/3454de4077a36ecdcfa37ff8658f3f3543fea0d7.png)
 
 *Figure 12 — Select Feature Privileges for the New Role*
 
@@ -303,15 +279,13 @@ role should be able to do. After configuring all entitlements, click
 in the Role Management dashboard and is ready for users to be assigned
 to it.
 
-![Fig
-13](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/4c4932f87df9f994c5ae85a9740838ea0c4211c0.png
-"Fig 13")
+![](/.gitbook/assets/4c4932f87df9f994c5ae85a9740838ea0c4211c0.png)
 
 *Figure 13 — Configure Detailed Entitlements and Save*
 
 **Step 14: View User Information and Role Assignment**
 
-From the User Management screen (Business Banking \> Manage Users),
+From the User Management screen (Business Banking > Manage Users),
 click on any user to view their full profile. The User Information page
 displays the user's initials badge, name, and quick-action links: "Edit
 user" and "Deactivate user." Below, you see the Email ID, Mobile number,
@@ -325,9 +299,7 @@ privileges" link to inspect what permissions that role grants. The
 Money Market Account (S6500). This page is the central reference for
 auditing any individual user's access configuration.
 
-![Fig
-14](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/486fe3e3ceffacfa404412718d5491fbc5d2cb4e.png
-"Fig 14")
+![](/.gitbook/assets/486fe3e3ceffacfa404412718d5491fbc5d2cb4e.png)
 
 *Figure 14 — View User Information and Role Assignment*
 
@@ -345,9 +317,7 @@ may effectively access all digital banking features." After making
 changes, click "Save" to apply. Role changes take effect immediately —
 the user's permissions and limits update in real-time.
 
-![Fig
-15](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/fb83cc55634553a2e5bdd7fd66c469dfd66fd026.png
-"Fig 15")
+![](/.gitbook/assets/fb83cc55634553a2e5bdd7fd66c469dfd66fd026.png)
 
 *Figure 15 — Edit User Information and Role Assignment*
 
@@ -365,9 +335,7 @@ system for audit purposes. They can be reactivated later if needed. This
 is the recommended action for temporary access removal, such as employee
 leave.
 
-![Fig
-16](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/06a9ea7c68fbdd644d0930c9aef8fc95e23ee02d.png
-"Fig 16")
+![](/.gitbook/assets/06a9ea7c68fbdd644d0930c9aef8fc95e23ee02d.png)
 
 *Figure 16 — Deactivate a User*
 
@@ -383,9 +351,7 @@ confirm removal or "No" to cancel. Unlike deactivation, removal is a
 more permanent action — the user must be re-invited and re-onboarded to
 regain access. Use this for departed employees who will not return.
 
-![Fig
-17](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/8e81f1e6ad3e15e5d9216545977c804b05321009.png
-"Fig 17")
+![](/.gitbook/assets/8e81f1e6ad3e15e5d9216545977c804b05321009.png)
 
 *Figure 17 — Remove User from Business*
 
@@ -405,9 +371,7 @@ the business. The Invited users tab also shows tabs for Active users,
 New authorized signers, Locked users, and Deactivated users for complete
 user lifecycle management.
 
-![Fig
-18](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-06-Business-Banking-Role-Management/media/94ee662f22837c28d52c035810e1836fecb89d9c.png
-"Fig 18")
+![](/.gitbook/assets/94ee662f22837c28d52c035810e1836fecb89d9c.png)
 
 *Figure 18 — Manage Invited Users and Cancel Invitations*
 

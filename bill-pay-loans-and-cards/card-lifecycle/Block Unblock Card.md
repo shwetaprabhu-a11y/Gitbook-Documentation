@@ -22,7 +22,7 @@ The Block / Unblock Card feature lets you instantly control whether your debit o
 | --------------------- | ----------------------------------------------------------------------------------------- |
 | **Also Known As**     | Freeze Card, Card Status toggle                                                           |
 | **Module Location**   | Banking › Cards › Card Status                                                             |
-| **Who Can Use**       | All nFinia Digital Banking members                                                        |
+| **Who Can Use**       | All nFinia Digital Banking You                                                        |
 | **Block Effect**      | Card is immediately suspended — no new purchases, ATM withdrawals, or online transactions |
 | **Unblock Effect**    | Card is immediately reactivated for all transactions                                      |
 | **Confirmation Step** | A popup prompt appears before the action is applied                                       |

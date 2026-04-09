@@ -23,7 +23,7 @@ The reissuance is started from the Deactivate / Replace Card flow. Your old card
 | **Feature Name**     | Digital Card Reissuance                                                          |
 | -------------------- | -------------------------------------------------------------------------------- |
 | **Module Location**  | Banking › Cards › Card Details › Deactivate / Replace Card                       |
-| **Who Can Use**      | All nFinia Digital Banking members with an active enrolled card                  |
+| **Who Can Use**      | All nFinia Digital Banking You with an active enrolled card                  |
 | **Digital Card**     | Available instantly after the replacement is submitted                           |
 | **Physical Card**    | Optional — mailed to your address on file within 5 business days                 |
 | **Old Card**         | Deactivated immediately when the replacement is requested                        |
@@ -48,7 +48,7 @@ The reissuance is started from the Deactivate / Replace Card flow. Your old card
 
 |                                                                                                   |
 | ------------------------------------------------------------------------------------------------- |
-| _📍 Navigation path: Banking › Cards › \[select card] › Card Details › Deactivate / Replace Card_ |
+| _📍 Navigation path: Banking › Cards › [select card] › Card Details › Deactivate / Replace Card_ |
 
 **Step 1 Go to Your Cards**
 

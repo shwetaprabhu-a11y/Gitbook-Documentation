@@ -6,11 +6,11 @@
 
 ## Section 1 — Product Summary
 
-The Alerts & Notifications feature in Summerville Credit Union's nFinia platform gives members real-time visibility into the activity on their accounts. Members can subscribe to a range of alerts—from balance thresholds and deposit confirmations to security events like failed login attempts—and choose exactly how they receive them: push notification to a trusted device, SMS to a registered phone number, or email to a linked address. The system distinguishes between **Optional Alerts**, which members configure themselves, and **Mandatory Alerts**, which the platform automatically delivers regardless of individual preferences whenever security-critical events occur (e.g., password changes, account lockouts, new remembered device additions).
+The Alerts & Notifications feature in Summerville Credit Union's nFinia platform gives You real-time visibility into the activity on their accounts. You can subscribe to a range of alerts—from balance thresholds and deposit confirmations to security events like failed login attempts—and choose exactly how they receive them: push notification to a trusted device, SMS to a registered phone number, or email to a linked address. The system distinguishes between **Optional Alerts**, which You configure themselves, and **Mandatory Alerts**, which the platform automatically delivers regardless of individual preferences whenever security-critical events occur (e.g., password changes, account lockouts, new remembered device additions).
 
-The feature is organized under **Alert Settings**, accessible via More > Alerts, and is composed of four tabs: **General Alerts**, **Account-Specific Alerts**, **Alert Settings**, and **Do-Not-Disturb**. Together these tabs give members fine-grained control over what they hear about, how they hear about it, and when they can be reached. For the credit union, this translates directly into reduced inbound support volume (members self-serve on transaction questions), stronger fraud detection outcomes (members receive and act on security alerts), and higher digital channel engagement.
+The feature is organized under **Alert Settings**, accessible via More > Alerts, and is composed of four tabs: **General Alerts**, **Account-Specific Alerts**, **Alert Settings**, and **Do-Not-Disturb**. Together these tabs give You fine-grained control over what they hear about, how they hear about it, and when they can be reached. For the credit union, this translates directly into reduced inbound support volume (You self-serve on transaction questions), stronger fraud detection outcomes (You receive and act on security alerts), and higher digital channel engagement.
 
-The Do-Not-Disturb (DND) sub-feature extends alert control further by letting members suppress non-mandatory alert delivery during defined quiet hours—a timezone-aware window set to the member's local time zone. Mandatory alerts bypass DND by design, ensuring security-critical communications are never silenced.
+The Do-Not-Disturb (DND) sub-feature extends alert control further by letting You suppress non-mandatory alert delivery during defined quiet hours—a timezone-aware window set to you's local time zone. Mandatory alerts bypass DND by design, ensuring security-critical communications are never silenced.
 
 | Attribute                | Detail                                                                                                                                        |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,14 +27,14 @@ The Do-Not-Disturb (DND) sub-feature extends alert control further by letting me
 
 | Use Case                                  | Who Uses It   | What They Do                                                                                                                                                                         | Business Value                                                                                                      |
 | ----------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| **Enable alert delivery channels**        | Retail Member | Navigates to Alert Settings tab, confirms or adjusts push, SMS, and email toggles to select preferred delivery channels                                                              | Ensures alerts reach the member on their preferred channel; reduces missed notifications and support calls          |
-| **Add an account-specific balance alert** | Retail Member | Selects Account-Specific Alerts tab, clicks "Add a new alert" under Balance Alerts, selects account, sets condition (e.g., Less than $1,000), saves                                  | Proactively warns members of low balances, reducing overdraft events and associated fees                            |
-| **Configure optional general alerts**     | Retail Member | On General Alerts tab, sets per-event preferences (Send all alerts / Send success alerts / Send failure alerts / Disable alerts) for events like Stop check request or Check reorder | Reduces noise for members who only care about outcomes, while keeping those who want full visibility fully informed |
+| **Enable alert delivery channels**        | Retail Member | Navigates to Alert Settings tab, confirms or adjusts push, SMS, and email toggles to select preferred delivery channels                                                              | Ensures alerts reach you on their preferred channel; reduces missed notifications and support calls          |
+| **Add an account-specific balance alert** | Retail Member | Selects Account-Specific Alerts tab, clicks "Add a new alert" under Balance Alerts, selects account, sets condition (e.g., Less than $1,000), saves                                  | Proactively warns You of low balances, reducing overdraft events and associated fees                            |
+| **Configure optional general alerts**     | Retail Member | On General Alerts tab, sets per-event preferences (Send all alerts / Send success alerts / Send failure alerts / Disable alerts) for events like Stop check request or Check reorder | Reduces noise for You who only care about outcomes, while keeping those who want full visibility fully informed |
 | **Set a Do-Not-Disturb quiet period**     | Retail Member | Navigates to Do-Not-Disturb tab, sets timezone, start time, and end time; confirms                                                                                                   | Prevents late-night alert fatigue; improves member satisfaction and alert engagement rates during active hours      |
-| **Edit an existing DND period**           | Retail Member | On Do-Not-Disturb tab, clicks Edit next to the active period, adjusts times, saves                                                                                                   | Gives members ongoing control without requiring them to remove and recreate preferences                             |
-| **Remove a DND period**                   | Retail Member | On Do-Not-Disturb tab, clicks Remove; system confirms removal and restores full-hour alert delivery                                                                                  | Allows members to re-enable all-hours alerting when their schedule changes (e.g., new work shift)                   |
+| **Edit an existing DND period**           | Retail Member | On Do-Not-Disturb tab, clicks Edit next to the active period, adjusts times, saves                                                                                                   | Gives You ongoing control without requiring them to remove and recreate preferences                             |
+| **Remove a DND period**                   | Retail Member | On Do-Not-Disturb tab, clicks Remove; system confirms removal and restores full-hour alert delivery                                                                                  | Allows You to re-enable all-hours alerting when their schedule changes (e.g., new work shift)                   |
 
-Account-specific and general alerts together give Summerville CU members a layered notification model that mirrors what business-class banking platforms offer—a meaningful differentiator for credit unions competing with larger FIs for financially engaged members.
+Account-specific and general alerts together give Summerville CU You a layered notification model that mirrors what business-class banking platforms offer—a meaningful differentiator for credit unions competing with larger FIs for financially engaged You.
 
 ***
 
@@ -43,8 +43,8 @@ Account-specific and general alerts together give Summerville CU members a layer
 ### 3.1 Prerequisites
 
 * Member holds an active Summerville CU account enrolled in online banking.
-* Member has at least one registered contact (phone number or email) on file for OTP and alert delivery.
-* Member's device is enrolled as trusted, or member is prepared to complete OTP verification at login.
+* you have at least one registered contact (phone number or email) on file for OTP and alert delivery.
+* your device is enrolled as trusted, or you are prepared to complete OTP verification at login.
 
 ***
 
@@ -52,7 +52,7 @@ Account-specific and general alerts together give Summerville CU members a layer
 
 **Step 1 — Log in to Online Banking**
 
-The member navigates to the Summerville CU Online Banking portal and enters their User ID and password, then clicks **Log in**.
+you navigates to the Summerville CU Online Banking portal and enters their User ID and password, then clicks **Log in**.
 
 ![Screenshot 1](../../../.gitbook/assets/Screenshot_1_1.png)
 
@@ -60,7 +60,7 @@ The member navigates to the Summerville CU Online Banking portal and enters thei
 
 **Step 2 — Complete OTP Verification (Select Method)**
 
-The system prompts for a One-Time Passcode. The member selects how to receive it: Send me a message, Call me, or Send me an email.
+The system prompts for a One-Time Passcode. you selects how to receive it: Send me a message, Call me, or Send me an email.
 
 ![Screenshot 2](../../../.gitbook/assets/Screenshot_2_2.png)
 
@@ -68,7 +68,7 @@ The system prompts for a One-Time Passcode. The member selects how to receive it
 
 **Step 3 — Select Contact Number**
 
-After choosing "Send me a message," the member selects the registered phone number to receive the OTP.
+After choosing "Send me a message," you selects the registered phone number to receive the OTP.
 
 ![Screenshot 3](../../../.gitbook/assets/Screenshot_3_3.png)
 
@@ -76,7 +76,7 @@ After choosing "Send me a message," the member selects the registered phone numb
 
 **Step 4 — Enter OTP**
 
-The member enters the 6-digit code sent to their selected contact. The **Remember Device/Browser** option is available to skip OTP on future logins from this device.
+you enters the 6-digit code sent to their selected contact. The **Remember Device/Browser** option is available to skip OTP on future logins from this device.
 
 ![Screenshot 4](../../../.gitbook/assets/Screenshot_4_4.png)
 
@@ -84,7 +84,7 @@ The member enters the 6-digit code sent to their selected contact. The **Remembe
 
 **Step 5 — Dashboard Loads**
 
-After successful authentication, the member lands on the main Dashboard showing account balances and the Quick Transfer panel.
+After successful authentication, you lands on the main Dashboard showing account balances and the Quick Transfer panel.
 
 ![Screenshot 5](../../../.gitbook/assets/Screenshot_5_5.png)
 
@@ -92,7 +92,7 @@ After successful authentication, the member lands on the main Dashboard showing 
 
 **Step 6 — Open More > Alert Settings**
 
-The member clicks **More** in the navigation bar. A panel expands showing Alerts options: Account Alerts, General Alerts, Do-Not-Disturb, and Alert Settings. The member clicks **Alert Settings**.
+you clicks **More** in the navigation bar. A panel expands showing Alerts options: Account Alerts, General Alerts, Do-Not-Disturb, and Alert Settings. you clicks **Alert Settings**.
 
 ![Screenshot 6](../../../.gitbook/assets/Screenshot_6_6.png)
 
@@ -100,7 +100,7 @@ The member clicks **More** in the navigation bar. A panel expands showing Alerts
 
 **Step 7 — Alert Settings Tab: Configure Channels**
 
-The **Alert Settings** tab loads. The member can:
+The **Alert Settings** tab loads. you can:
 
 * Toggle **Enable alerts** on or off (disabling suspends delivery without deleting configured alerts)
 * Toggle each delivery channel independently: **Push notifications**, **SMS alerts**, **Email alerts**
@@ -113,7 +113,7 @@ The screen displays the registered phone number and email address that alerts wi
 
 ### 3.3 Step-by-Step Flow — Add an Account-Specific Alert
 
-Steps 1–6 are identical to the Alert Preferences flow above (login → OTP → Dashboard → More → Alert Settings). At Step 6, the member instead navigates to the **Account-Specific Alerts** tab.
+Steps 1–6 are identical to the Alert Preferences flow above (login → OTP → Dashboard → More → Alert Settings). At Step 6, you instead navigates to the **Account-Specific Alerts** tab.
 
 **Step 7 — Account-Specific Alerts Tab**
 
@@ -130,10 +130,10 @@ The tab displays four alert categories, each with an "Add a new alert" link:
 
 **Step 8 — Open Add Alert Modal**
 
-The member clicks **+ Add a new alert** under Balance Alerts. A modal titled **"Add new 'Available balance alert'"** appears. The member:
+you clicks **+ Add a new alert** under Balance Alerts. A modal titled **"Add new 'Available balance alert'"** appears. you:
 
 1. Selects the account from the dropdown (e.g., Retail Checking Account #0001)
-2. Sets the condition: "Alert me if my available balance is \[Less than] \[$1,000]"
+2. Sets the condition: "Alert me if my available balance is [Less than] [$1,000]"
 
 ![Screenshot 8](../../../.gitbook/assets/Screenshot_8_9.png)
 
@@ -149,13 +149,13 @@ After clicking **Save**, the modal closes and the Account-Specific Alerts tab re
 
 ### 3.4 Step-by-Step Flow — Configure General (Optional) Alerts
 
-Steps 1–6 are identical. At Step 6, the member navigates to **General Alerts** tab.
+Steps 1–6 are identical. At Step 6, you navigates to **General Alerts** tab.
 
 **Step 7 — General Alerts Tab**
 
 The tab is divided into two sections:
 
-* **Optional Alerts**: Events the member can configure (e.g., Stop check request, Check reorder). Each row has a dropdown with four options: Send all alerts / Send success alerts / Send failure alerts / Disable alerts.
+* **Optional Alerts**: Events you can configure (e.g., Stop check request, Check reorder). Each row has a dropdown with four options: Send all alerts / Send success alerts / Send failure alerts / Disable alerts.
 * **Mandatory Alerts**: Events that always trigger regardless of preferences (failed login attempt, password change, account lock, contact info update, new device remembered, A2A transfer micro-deposit).
 
 ![Screenshot 7](../../../.gitbook/assets/Screenshot_7_11.png)
@@ -164,7 +164,7 @@ The tab is divided into two sections:
 
 **Step 8 — Set Optional Alert Preference**
 
-The member clicks the dropdown on an optional alert row and selects the desired delivery option. The system saves the selection and displays a green success banner: "Alert has been updated successfully."
+you clicks the dropdown on an optional alert row and selects the desired delivery option. The system saves the selection and displays a green success banner: "Alert has been updated successfully."
 
 ![Screenshot 8](../../../.gitbook/assets/Screenshot_8_12.png)
 
@@ -172,7 +172,7 @@ The member clicks the dropdown on an optional alert row and selects the desired 
 
 ### 3.5 Step-by-Step Flow — Set Do-Not-Disturb Period
 
-Steps 1–6 are identical. At Step 6, the member clicks **Do-Not-Disturb**.
+Steps 1–6 are identical. At Step 6, you clicks **Do-Not-Disturb**.
 
 **Step 7 — Do-Not-Disturb Landing (No Period Set)**
 
@@ -190,7 +190,7 @@ After clicking **Set Do-Not-Disturb period**, a form appears inline with three f
 * **Start time** (time picker, e.g., 10:00 PM)
 * **End time** (time picker, e.g., 7:00 AM)
 
-A preview message in red reads: "You will not receive alerts between \[Start time] & \[End time] the next day." The member clicks **Set Do-Not-Disturb**.
+A preview message in red reads: "You will not receive alerts between [Start time] & [End time] the next day." you clicks **Set Do-Not-Disturb**.
 
 ![Screenshot 8](../../../.gitbook/assets/Screenshot_8_14.png)
 
@@ -218,7 +218,7 @@ The current DND window is shown (e.g., "10:00 PM PST to 07:00 AM PST") with Edit
 
 **Edit Form**
 
-Clicking **Edit** expands the form with the current values pre-populated. The member adjusts Timezone, Start time, or End time and clicks **Set Do-Not-Disturb** to save.
+Clicking **Edit** expands the form with the current values pre-populated. you adjusts Timezone, Start time, or End time and clicks **Set Do-Not-Disturb** to save.
 
 ![Screenshot 8](../../../.gitbook/assets/Screenshot_8_17.png)
 
@@ -236,7 +236,7 @@ A green banner confirms "Your Do-Not-Disturb period has been set." The updated v
 
 **Remove Action**
 
-On the Do-Not-Disturb tab, the member clicks **Remove** next to the active period.
+On the Do-Not-Disturb tab, you clicks **Remove** next to the active period.
 
 ![Screenshot 7](../../../.gitbook/assets/Screenshot_7_19.png)
 
@@ -255,11 +255,11 @@ The system processes the request and displays a green banner: "Do-Not-Disturb-Pe
 * **Enable alerts toggle OFF**: All optional and mandatory alert delivery is suspended. Disabling does not delete configured alert rules—they resume when toggled back on.
 * **DND period active + mandatory alert triggered**: System bypasses DND and delivers the mandatory alert immediately on all active channels.
 * **No registered phone**: The SMS channel option will not be available; member must add a contact number via Personal Information before enabling SMS alerts.
-* **OTP not received**: Member can click "Retry in \[N] seconds" or select "Select another method" to switch OTP delivery channel.
+* **OTP not received**: you can click "Retry in [N] seconds" or select "Select another method" to switch OTP delivery channel.
 
 ### 3.9 Error Handling
 
-* If the member saves an alert with no account selected, the modal displays an inline validation error requiring account selection before saving.
+* If you saves an alert with no account selected, the modal displays an inline validation error requiring account selection before saving.
 * If the DND start time and end time are identical, the system will not allow submission.
 * If contact information is missing or outdated, a notice on the Alert Settings page states "Have you not been receiving your alerts? Check your contact information on record" with a direct link to Personal Information settings.
 
@@ -269,17 +269,17 @@ The system processes the request and displays a green banner: "Do-Not-Disturb-Pe
 
 ### Login Screen
 
-The entry point for all Summerville CU Online Banking sessions. Members authenticate with User ID and password before reaching any alert configuration screens.
+The entry point for all Summerville CU Online Banking sessions. You authenticate with User ID and password before reaching any alert configuration screens.
 
 ![Screenshot 1](../../../.gitbook/assets/Screenshot_1_21.png)
 
 | Field / Element        | Type               | Description                        | Notes                                            |
 | ---------------------- | ------------------ | ---------------------------------- | ------------------------------------------------ |
-| User ID                | Text input         | Member's enrolled username         | Pre-filled if "Save User ID" was used previously |
-| Password               | Password input     | Member's account password          | Masked by default; eye icon to reveal            |
+| User ID                | Text input         | your enrolled username         | Pre-filled if "Save User ID" was used previously |
+| Password               | Password input     | your account password          | Masked by default; eye icon to reveal            |
 | I need help logging in | Link               | Navigates to account recovery flow | For forgotten User ID or password                |
 | Log in                 | Button             | Submits credentials                | Disabled until both fields are populated         |
-| Enroll                 | Button (top right) | Opens new member enrollment        | For prospective members only                     |
+| Enroll                 | Button (top right) | Opens new member enrollment        | For prospective You only                     |
 
 ***
 
@@ -299,7 +299,7 @@ Displayed after successful credential entry. Enforces step-up authentication bef
 
 ### OTP Verification — Select Contact
 
-Shown after selecting "Send me a message." Displays masked registered phone numbers for the member to choose from.
+Shown after selecting "Send me a message." Displays masked registered phone numbers for you to choose from.
 
 ![Screenshot 3](../../../.gitbook/assets/Screenshot_3_23.png)
 
@@ -307,7 +307,7 @@ Shown after selecting "Send me a message." Displays masked registered phone numb
 | --------------------------------- | --------------- | ------------------------------------ | --------------------------------------------------- |
 | Select another method             | Link            | Returns to method selection screen   | Allows switching delivery method                    |
 | Contact number rows               | Selectable list | Masked phone numbers on record       | Member taps the desired number                      |
-| "Don't see your updated contact?" | Informational   | Link to retrieve latest contact info | Supports members who recently updated their profile |
+| "Don't see your updated contact?" | Informational   | Link to retrieve latest contact info | Supports You who recently updated their profile |
 
 ***
 
@@ -377,7 +377,7 @@ Controls master alert delivery and individual channel preferences.
 
 ### Account-Specific Alerts Tab
 
-Allows members to configure threshold-based alerts tied to specific accounts.
+Allows You to configure threshold-based alerts tied to specific accounts.
 
 ![Screenshot 7](../../../.gitbook/assets/Screenshot_7_28.png)
 
@@ -463,10 +463,10 @@ Modal dialog for creating a threshold alert on a specific account.
 
 | Field / Element    | Type            | Description                                                          | Notes                                      |
 | ------------------ | --------------- | -------------------------------------------------------------------- | ------------------------------------------ |
-| Timezone           | Dropdown        | Member's local timezone (e.g., PST)                                  | Required; affects alert suppression window |
+| Timezone           | Dropdown        | your local timezone (e.g., PST)                                  | Required; affects alert suppression window |
 | Start time         | Time picker     | Beginning of quiet period (e.g., 10:00 PM)                           | Required                                   |
 | End time           | Time picker     | End of quiet period (e.g., 7:00 AM)                                  | Required; can cross midnight               |
-| Preview message    | Red inline text | "You will not receive alerts between \[start] & \[end] the next day" | Dynamically updates as times change        |
+| Preview message    | Red inline text | "You will not receive alerts between [start] & [end] the next day" | Dynamically updates as times change        |
 | Cancel             | Button          | Dismisses form without saving                                        |                                            |
 | Set Do-Not-Disturb | Button          | Saves DND period                                                     | Triggers success banner                    |
 
@@ -503,8 +503,8 @@ Modal dialog for creating a threshold alert on a specific account.
 | Change delivery channel (Push / SMS / Email) | More > Alert Settings > Alert Settings tab                                             | Any authenticated member | Registered contact required for SMS and Email             |
 | Add a balance alert                          | More > Alert Settings > Account-Specific Alerts tab > Balance Alerts > Add a new alert | Any authenticated member | Select account and set threshold amount                   |
 | Add a deposit or withdrawal alert            | More > Alert Settings > Account-Specific Alerts tab > Deposit/Withdrawal alerts        | Any authenticated member | Same modal flow as balance alert                          |
-| Edit or remove an account alert              | More > Alert Settings > Account-Specific Alerts tab > \[Alert row] > Edit / Remove     | Any authenticated member | Edit opens same modal; Remove is immediate                |
-| Set optional general alert preference        | More > Alert Settings > General Alerts tab > \[Event row] dropdown                     | Any authenticated member | Options: Send all / Send success / Send failure / Disable |
+| Edit or remove an account alert              | More > Alert Settings > Account-Specific Alerts tab > [Alert row] > Edit / Remove     | Any authenticated member | Edit opens same modal; Remove is immediate                |
+| Set optional general alert preference        | More > Alert Settings > General Alerts tab > [Event row] dropdown                     | Any authenticated member | Options: Send all / Send success / Send failure / Disable |
 | Set Do-Not-Disturb period                    | More > Alert Settings > Do-Not-Disturb tab > Set Do-Not-Disturb period                 | Any authenticated member | Mandatory alerts always bypass DND                        |
 | Edit Do-Not-Disturb period                   | More > Alert Settings > Do-Not-Disturb tab > Edit                                      | Any authenticated member | Pre-fills current values                                  |
 | Remove Do-Not-Disturb period                 | More > Alert Settings > Do-Not-Disturb tab > Remove                                    | Any authenticated member | Restores full-hour alert delivery immediately             |

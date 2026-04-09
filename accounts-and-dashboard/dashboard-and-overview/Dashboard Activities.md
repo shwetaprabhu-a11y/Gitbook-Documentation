@@ -1,28 +1,28 @@
-__  SUMMERVILLE CREDIT UNION  ·  CONSOLIDATED MEMBER GUIDE  ·  CSUM\-02 of 30__
+**  SUMMERVILLE CREDIT UNION  ·  CONSOLIDATED MEMBER GUIDE  ·  CSUM-02 of 30**
 
-__Dashboard & Activities Since Last Login__
+**Dashboard & Activities Since Last Login**
 
 Module: nFinia Digital Banking > Dashboard
 
-*Sources: Summerville Reports Series A \(36 docs\) \+ Series B \(25 docs\) | Features: nFinia Documentation Features Spreadsheet*
+*Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet*
 
-__  01  PRODUCT SUMMARY__
+**  01  PRODUCT SUMMARY**
 
-The Dashboard — Banking Summary is the first screen a Summerville Credit Union member encounters after completing multi\-factor authentication\. It is the command centre of the nFinia digital banking experience: a single, consolidated view presenting the member's complete financial picture — all account balances, recent transactions, pending items, and primary action shortcuts — without requiring navigation to individual account pages\.
+The Dashboard — Banking Summary is the first screen a Summerville Credit Union member encounters after completing multi-factor authentication. It is the command centre of the nFinia digital banking experience: a single, consolidated view presenting you's complete financial picture — all account balances, recent transactions, pending items, and primary action shortcuts — without requiring navigation to individual account pages.
 
-Quick\-action tiles on the Dashboard provide one\-tap access to the most common member tasks: initiating a transfer, making a payment, depositing a check, or viewing recent activity\. The Dashboard is intentionally designed as a zero\-friction summary, enabling members to assess their financial position and initiate the most common banking actions directly from one screen\.
+Quick-action tiles on the Dashboard provide one-tap access to the most common member tasks: initiating a transfer, making a payment, depositing a check, or viewing recent activity. The Dashboard is intentionally designed as a zero-friction summary, enabling You to assess their financial position and initiate the most common banking actions directly from one screen.
 
-The Activities Since Last Login feature \(accessible via More > Recent Activities\) presents a real\-time audit log of all account events that occurred since the member's previous session, providing an instant security check and activity summary\.
+The Activities Since Last Login feature (accessible via More > Recent Activities) presents a real-time audit log of all account events that occurred since you's previous session, providing an instant security check and activity summary.
 
-__At a Glance__
+**At a Glance**
 
-__Attribute__
+**Attribute**
 
-__Detail__
+**Detail**
 
 Module
 
-nFinia Dashboard \(post\-login landing screen\)
+nFinia Dashboard (post-login landing screen)
 
 Accounts Shown
 
@@ -34,121 +34,83 @@ Transfer, Pay, Deposit, Alerts, Move Money
 
 Activities Log
 
-Events since last login \(Recent Activities / More menu\)
+Events since last login (Recent Activities / More menu)
 
 Refresh
 
-Pull\-to\-refresh or auto\-refresh on session open
+Pull-to-refresh or auto-refresh on session open
 
 Related Reports
 
-CSUM\-01 \(Login\), CSUM\-03 \(Account Overview\), CSUM\-31 \(Recent Activities\)
+CSUM-01 (Login), CSUM-03 (Account Overview), CSUM-31 (Recent Activities)
 
-__  02  KEY USE CASES__
+**  02  KEY USE CASES**
 
-__Use Case__
 
-__Who Uses It__
+| Use Case                     | Who Uses It                                                                                                          | What They Do                                            | Business Value                                                                                                                                                                                                    |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Morning Balance Check        | Member starting their day                                                                                            | Open app, view Dashboard for all account balances       | Single-screen financial overview without navigating to each account                                                                                                                                               |
+| Quick Transfer               | Member moving funds between accounts                                                                                 | Tap Transfer tile on Dashboard, complete transfer       | Fastest path to internal transfer without full navigation                                                                                                                                                         |
+| Post-Login Security Review   | Security-conscious member                                                                                            | View Activities Since Last Login for unexpected events  | Instant detection of unauthorized account activity                                                                                                                                                                |
+| Sneak Peek Balance           | Member wanting balance without full login                                                                            | Enable Sneak Peek to view balance before authentication | Quick balance check without full credential entry                                                                                                                                                                 |
+| **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard is the landing screen immediately after successful login. No additional navigation required.* | **Step 1 — Start from Dashboard**                       | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
-__What They Do__
-
-__Business Value__
-
-Morning Balance Check
-
-Member starting their day
-
-Open app, view Dashboard for all account balances
-
-Single\-screen financial overview without navigating to each account
-
-Quick Transfer
-
-Member moving funds between accounts
-
-Tap Transfer tile on Dashboard, complete transfer
-
-Fastest path to internal transfer without full navigation
-
-Post\-Login Security Review
-
-Security\-conscious member
-
-View Activities Since Last Login for unexpected events
-
-Instant detection of unauthorized account activity
-
-Sneak Peek Balance
-
-Member wanting balance without full login
-
-Enable Sneak Peek to view balance before authentication
-
-Quick balance check without full credential entry
-
-__  03  STEP\-BY\-STEP GUIDE__
-
-*Navigation: Dashboard is the landing screen immediately after successful login\. No additional navigation required\.*
-
-__Step 1 — Start from Dashboard__
-
-The member begins at the Dashboard after logging in\. The Dashboard displays all account balances, upcoming payments, quick\-action tiles, and the top navigation bar with links to Accounts, Move Money, and More\.
 
 ![](/.gitbook/assets/img_eb0a7d21423c.png)
 
 *Step 1: Start from Dashboard*
 
-__Step 2 — Navigate to Move Money Hub__
+**Step 2 — Navigate to Move Money Hub**
 
-The member clicks ‘Move Money’ in the top navigation bar\. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same\-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer\.
+you clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other You, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
 ![](/.gitbook/assets/img_dd37cd06feee.png)
 
 *Step 2: Move Money Hub*
 
-__Step 3 — View the Dashboard__
+**Step 3 — View the Dashboard**
 
-The main Dashboard is displayed after login, showing multiple account cards with current balances, an upcoming payments sidebar on the right, and quick transfer options available in the right panel\.
+The main Dashboard is displayed after login, showing multiple account cards with current balances, an upcoming payments sidebar on the right, and quick transfer options available in the right panel.
 
 ![](/.gitbook/assets/img_eb0a7d21423c.png)
 
 *Step 3: View the Dashboard*
 
-__Step 4 — Use Quick Transfer from Dashboard__
+**Step 4 — Use Quick Transfer from Dashboard**
 
-The Accounts page is shown with a detailed list of multiple checking and savings accounts\. Each account displays the account name, masked number, and current balance with available action buttons\.
+The Accounts page is shown with a detailed list of multiple checking and savings accounts. Each account displays the account name, masked number, and current balance with available action buttons.
 
 ![](/.gitbook/assets/img_d627ced1170e.png)
 
 *Step 4: Use Quick Transfer from Dashboard*
 
-__Step 5 — Fill Quick Transfer Details__
+**Step 5 — Fill Quick Transfer Details**
 
-The accounts list view is displayed in a scrollable format showing multiple account options with their account types and current balances for selection\.
+The accounts list view is displayed in a scrollable format showing multiple account options with their account types and current balances for selection.
 
 ![](/.gitbook/assets/img_cf945ff36b05.png)
 
 *Step 5: Fill Quick Transfer Details*
 
-__Step 6 — Enter Transfer Amount__
+**Step 6 — Enter Transfer Amount**
 
-A full Accounts page is shown displaying all account types — checking, savings, credit cards, and loans — organized by category with their respective balances and transaction history links\.
+A full Accounts page is shown displaying all account types — checking, savings, credit cards, and loans — organized by category with their respective balances and transaction history links.
 
 ![](/.gitbook/assets/img_50570104e8a7.png)
 
 *Step 6: Enter Transfer Amount*
 
-__Step 7 — Confirm Quick Transfer__
+**Step 7 — Confirm Quick Transfer**
 
-The account overview page displays all account types organized by category\. Recent transactions and related action buttons are visible for each account entry\.
+The account overview page displays all account types organized by category. Recent transactions and related action buttons are visible for each account entry.
 
 ![](/.gitbook/assets/img_8f5e5651edc8.png)
 
 *Step 7: Confirm Quick Transfer*
 
-__Step 8 — Log Off Securely__
+**Step 8 — Log Off Securely**
 
-A logout confirmation modal is displayed over the accounts page interface\. The modal prompts the member to confirm they want to end their session before logging out\.
+A logout confirmation modal is displayed over the accounts page interface. The modal prompts you to confirm they want to end their session before logging out.
 
 ![](/.gitbook/assets/img_109f62839cb9.png)
 

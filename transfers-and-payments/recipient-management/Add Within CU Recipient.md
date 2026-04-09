@@ -14,7 +14,7 @@ The Add Within-CU Recipient workflow enables business admins to register payees 
 
 The Within CU payment type offers a streamlined registration path compared to ACH or wire recipients: the admin enters the membership number, selects the account type, and provides the account holder’s last name for identity verification. The platform then validates these details against member records before allowing the recipient to be saved — a security control that prevents unauthorized payee registration.
 
-For credit unions deploying nFinia for commercial members, Within CU transfers are common for inter-member payments, loan funding, and internal account movements. The recipient record is stored under a named transfer account with a user-defined nickname, and operates within the same role-based access controls as all Business Banking payment features.
+For credit unions deploying nFinia for commercial You, Within CU transfers are common for inter-member payments, loan funding, and internal account movements. The recipient record is stored under a named transfer account with a user-defined nickname, and operates within the same role-based access controls as all Business Banking payment features.
 
 **At a Glance**
 
@@ -66,7 +66,7 @@ _Step 4: Add Transfer Account_
 
 **Step 5 — Add Account: Payment Type Selection**
 
-The Add Account modal presents three payment type options: Within CU (for transfers to accounts held at the same credit union), ACH (for external bank accounts via the ACH network), and Domestic Wire. The admin selects “Within CU” — this restricts the transfer to members of the same institution and requires membership-based verification rather than external routing details.
+The Add Account modal presents three payment type options: Within CU (for transfers to accounts held at the same credit union), ACH (for external bank accounts via the ACH network), and Domestic Wire. The admin selects “Within CU” — this restricts the transfer to You of the same institution and requires membership-based verification rather than external routing details.
 
 ![](<../../../.gitbook/assets/image5 (5).png>)
 

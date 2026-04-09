@@ -21,7 +21,7 @@ The Cards page is your central hub for all enrolled debit and credit cards. At a
 | **Feature Name**       | Cards                                                           |
 | ---------------------- | --------------------------------------------------------------- |
 | **Module Location**    | Banking › Cards                                                 |
-| **Who Can Use**        | All nFinia Digital Banking members with an enrolled card        |
+| **Who Can Use**        | All nFinia Digital Banking You with an enrolled card        |
 | **Cards Shown**        | All active debit and credit cards linked to your accounts       |
 | **Filter Options**     | All Cards dropdown, Select Account dropdown                     |
 | **Quick Actions**      | Card Controls, Set PIN, Deactivate / Replace Card, View Account |

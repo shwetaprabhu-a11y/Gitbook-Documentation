@@ -3,7 +3,7 @@
 
 **User Management**
 
-Module: Business Banking \> Manage Users
+Module: Business Banking > Manage Users
 
 **Navigation: Dashboard → Business Banking → User Management**
 
@@ -39,7 +39,7 @@ accounts and what actions they can perform.
 | -------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Attribute**        | **Detail**                                                                                                      |
 | Feature Name         | User Management                                                                                                 |
-| Module               | Business Banking \> Manage Users                                                                                |
+| Module               | Business Banking > Manage Users                                                                                |
 | Navigation           | Dashboard → Business Banking → User Management                                                                  |
 | User Roles           | Business Admin, Business Owner                                                                                  |
 | Access Level         | Admin-only; requires User Management permission                                                                 |
@@ -86,9 +86,7 @@ Transfers, Account Specific Alerts) and a Quick Transfer widget for fast
 internal transfers. To proceed to Business Banking features, locate the
 "Business Banking" tab in the top navigation bar and click on it.
 
-![Fig
-1](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-07-Business-Banking-User-Management/media/1a19568ff18131f218abd77ce89a1be61f1d1d82.png
-"Fig 1")
+![](/.gitbook/assets/1a19568ff18131f218abd77ce89a1be61f1d1d82.png)
 
 *Figure 1 — Log In and Open the Dashboard*
 
@@ -107,9 +105,7 @@ role has permission to access will be visible. From here, locate and
 click the tile for the feature you need — the next steps will guide you
 through the specific workflow.
 
-![Fig
-2](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-07-Business-Banking-User-Management/media/4c26e21f2a941fd4d0531c900025b3d6ab137178.png
-"Fig 2")
+![](/.gitbook/assets/4c26e21f2a941fd4d0531c900025b3d6ab137178.png)
 
 *Figure 2 — Open the Business Banking Hub*
 
@@ -126,9 +122,7 @@ Signers, Invited, Locked, Deactivated — let you switch between user
 lifecycle stages. Use the search bar to find a specific user. Click
 "Invite User" to onboard a new team member.
 
-![Fig
-3](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-07-Business-Banking-User-Management/media/555c4be79e1e5c4f506dc53d1b590757e8863dca.png
-"Fig 3")
+![](/.gitbook/assets/555c4be79e1e5c4f506dc53d1b590757e8863dca.png)
 
 *Figure 3 — Navigate to User Management*
 
@@ -143,9 +137,7 @@ notice a user who should no longer have access (e.g., a departed
 employee), proceed to deactivate them using the steps described later in
 this guide.
 
-![Fig
-4](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-07-Business-Banking-User-Management/media/96edcec5c6b08cec268744accd6260048f0bacbc.png
-"Fig 4")
+![](/.gitbook/assets/96edcec5c6b08cec268744accd6260048f0bacbc.png)
 
 *Figure 4 — Scroll to View All Active Users*
 
@@ -160,9 +152,7 @@ role from the role dropdown. Once a role is assigned, the signer will
 move to the Active Users tab and gain access to the business banking
 features defined by their role.
 
-![Fig
-5](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-07-Business-Banking-User-Management/media/8e40e5f16990cab0af35581635a9d80ff9b3477e.png
-"Fig 5")
+![](/.gitbook/assets/8e40e5f16990cab0af35581635a9d80ff9b3477e.png)
 
 *Figure 5 — Review New Authorized Signers*
 
@@ -176,9 +166,7 @@ members who have not completed their registration — they need to click
 the invitation link and complete the enrollment process before they can
 access business banking.
 
-![Fig
-6](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-07-Business-Banking-User-Management/media/328fe1f89eca68ea321139d02b0f186b4816769a.png
-"Fig 6")
+![](/.gitbook/assets/328fe1f89eca68ea321139d02b0f186b4816769a.png)
 
 *Figure 6 — Check Invited Users Status*
 
@@ -193,9 +181,7 @@ unlocking — call or email them to confirm they are the person requesting
 access. The unlock restores their previous role and permissions without
 reconfiguration.
 
-![Fig
-7](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-07-Business-Banking-User-Management/media/c02c2407561f2cada90d1baa6e2bf6207f698874.png
-"Fig 7")
+![](/.gitbook/assets/c02c2407561f2cada90d1baa6e2bf6207f698874.png)
 
 *Figure 7 — Manage Locked Users*
 
@@ -210,9 +196,7 @@ who previously had access and when their access was revoked. Review this
 list during compliance audits to demonstrate proper offboarding
 procedures.
 
-![Fig
-8](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-07-Business-Banking-User-Management/media/c6168d65299617b5a547392ce78c75c0b2acefcd.png
-"Fig 8")
+![](/.gitbook/assets/c6168d65299617b5a547392ce78c75c0b2acefcd.png)
 
 *Figure 8 — View Deactivated Users*
 
@@ -232,9 +216,7 @@ privileges" link to inspect what permissions that role grants. The
 Money Market Account (S6500). This page is the central reference for
 auditing any individual user's access configuration.
 
-![Fig
-9](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-07-Business-Banking-User-Management/media/486fe3e3ceffacfa404412718d5491fbc5d2cb4e.png
-"Fig 9")
+![](/.gitbook/assets/486fe3e3ceffacfa404412718d5491fbc5d2cb4e.png)
 
 *Figure 9 — View User Information and Profile Details*
 
@@ -252,9 +234,7 @@ may effectively access all digital banking features." After making
 changes, click "Save" to apply. Role changes take effect immediately —
 the user's permissions and limits update in real-time.
 
-![Fig
-10](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-07-Business-Banking-User-Management/media/fb83cc55634553a2e5bdd7fd66c469dfd66fd026.png
-"Fig 10")
+![](/.gitbook/assets/fb83cc55634553a2e5bdd7fd66c469dfd66fd026.png)
 
 *Figure 10 — Edit User Information and Role Assignment*
 
@@ -272,9 +252,7 @@ system for audit purposes. They can be reactivated later if needed. This
 is the recommended action for temporary access removal, such as employee
 leave.
 
-![Fig
-11](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-07-Business-Banking-User-Management/media/06a9ea7c68fbdd644d0930c9aef8fc95e23ee02d.png
-"Fig 11")
+![](/.gitbook/assets/06a9ea7c68fbdd644d0930c9aef8fc95e23ee02d.png)
 
 *Figure 11 — Deactivate a User*
 
@@ -291,9 +269,7 @@ deactivation, removal is a more permanent action — the user must be
 re-invited and re-onboarded to regain access. Use this for departed
 employees who will not return.
 
-![Fig
-12](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-07-Business-Banking-User-Management/media/8e81f1e6ad3e15e5d9216545977c804b05321009.png
-"Fig 12")
+![](/.gitbook/assets/8e81f1e6ad3e15e5d9216545977c804b05321009.png)
 
 *Figure 12 — Remove User from Business*
 
@@ -313,9 +289,7 @@ the business. The Invited users tab also shows tabs for Active users,
 New authorized signers, Locked users, and Deactivated users for complete
 user lifecycle management.
 
-![Fig
-13](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-07-Business-Banking-User-Management/media/94ee662f22837c28d52c035810e1836fecb89d9c.png
-"Fig 13")
+![](/.gitbook/assets/94ee662f22837c28d52c035810e1836fecb89d9c.png)
 
 *Figure 13 — Manage Invited Users and Cancel Invitations*
 

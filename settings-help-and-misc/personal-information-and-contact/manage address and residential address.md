@@ -6,9 +6,9 @@
 
 ## Section 1 — Product Summary
 
-The Address Management feature within nFinia's Personal Information module enables Summerville Credit Union members to view and update both their **Mailing Address** and **Residential Address** directly through online banking — eliminating the need for branch visits or phone calls to make routine contact detail changes. The feature is surfaced under **More > Personal Information > Address**, and presents address records in a clean, tab-organized layout alongside related personal details such as Contact Information, Devices, and Trusted Device management.
+The Address Management feature within nFinia's Personal Information module enables Summerville Credit Union You to view and update both their **Mailing Address** and **Residential Address** directly through online banking — eliminating the need for branch visits or phone calls to make routine contact detail changes. The feature is surfaced under **More > Personal Information > Address**, and presents address records in a clean, tab-organized layout alongside related personal details such as Contact Information, Devices, and Trusted Device management.
 
-The feature serves authenticated retail members (personal account holders) who need to keep their address records current. It supports two distinct address types — mailing and residential — each independently editable, allowing members to maintain separate records where their legal/physical address differs from where they receive correspondence. For Summerville CU's operations team, this reduces inbound service calls and manual address-change processing, while giving members a self-service channel that operates 24/7.
+The feature serves authenticated retail You (personal account holders) who need to keep their address records current. It supports two distinct address types — mailing and residential — each independently editable, allowing You to maintain separate records where their legal/physical address differs from where they receive correspondence. For Summerville CU's operations team, this reduces inbound service calls and manual address-change processing, while giving You a self-service channel that operates 24/7.
 
 Because address changes are sensitive operations that can affect statement delivery, fraud detection, and compliance records, the platform requires identity re-verification via One-Time Passcode (OTP) before granting access to Personal Information. This ensures that unauthorized parties cannot redirect mail or alter member contact data through an unattended session.
 
@@ -30,12 +30,12 @@ Because address changes are sensitive operations that can affect statement deliv
 | Use Case                                 | Who Uses It           | What They Do                                                                                      | Business Value                                                                                  |
 | ---------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Update mailing address after relocation  | Retail member         | Navigates to Personal Information > Address > Mailing Address, edits street/city/state/ZIP, saves | Ensures accurate statement and correspondence delivery; reduces returned mail                   |
-| Update residential address independently | Retail member         | Selects the "Residential address" tab, edits address details separately from mailing address      | Supports members with PO Box or separate mailing address; maintains accurate KYC records        |
+| Update residential address independently | Retail member         | Selects the "Residential address" tab, edits address details separately from mailing address      | Supports You with PO Box or separate mailing address; maintains accurate KYC records        |
 | Verify current address on file           | Retail member         | Navigates to Address tab to review displayed address details without making changes               | Self-service lookup reduces call center volume for "what address do you have for me?" inquiries |
 | OTP re-verification before access        | Security / Compliance | System requires member to complete OTP challenge before Personal Information is accessible        | Prevents unauthorized address redirection by someone with an unattended logged-in session       |
 | Confirm update success                   | Retail member         | Receives on-screen confirmation banner after saving                                               | Provides immediate feedback, reducing repeat submissions and support calls                      |
 
-Address management self-service is a high-frequency, low-complexity operation that represents significant operational savings for credit unions — Summerville members who can update their own address data reduce the manual processing burden on branch and call center staff while maintaining accurate records for regulatory compliance.
+Address management self-service is a high-frequency, low-complexity operation that represents significant operational savings for credit unions — Summerville You who can update their own address data reduce the manual processing burden on branch and call center staff while maintaining accurate records for regulatory compliance.
 
 ***
 
@@ -53,7 +53,7 @@ Address management self-service is a high-frequency, low-complexity operation th
 
 **Step 1 — Login**
 
-The member navigates to the Summerville CU online banking portal and enters their **User ID** and **Password** on the login screen, then clicks **Log in**.
+you navigates to the Summerville CU online banking portal and enters their **User ID** and **Password** on the login screen, then clicks **Log in**.
 
 ![Step 1 — Login screen](../../../.gitbook/assets/Step_1___Login_screen_1.png)
 
@@ -61,13 +61,13 @@ The member navigates to the Summerville CU online banking portal and enters thei
 
 **Step 2 — OTP Channel Selection**
 
-The platform presents a **Verification** screen prompting the member to select how they want to receive their One-Time Passcode. Options include:
+The platform presents a **Verification** screen prompting you to select how they want to receive their One-Time Passcode. Options include:
 
 * Send me a message (SMS)
 * Call me
 * Send me an email
 
-The member selects their preferred channel.
+you selects their preferred channel.
 
 ![Step 2 — OTP channel selection](../../../.gitbook/assets/Step_2___OTP_channel_selection_2.png)
 
@@ -75,7 +75,7 @@ The member selects their preferred channel.
 
 **Step 3 — Select Contact Number (SMS path)**
 
-If the member selects **Send me a message**, the system displays the registered phone numbers on file (masked for security, e.g., `(+1) 2**-***-**01`). The member selects the number they want the OTP sent to.
+If you selects **Send me a message**, the system displays the registered phone numbers on file (masked for security, e.g., `(+1) 2**-***-**01`). you selects the number they want the OTP sent to.
 
 ![Step 3 — Select phone number for OTP](../../../.gitbook/assets/Step_3___Select_phone_number_for_OTP_3.png)
 
@@ -83,9 +83,9 @@ If the member selects **Send me a message**, the system displays the registered 
 
 **Step 4 — Enter OTP Code**
 
-The system sends a 6-digit OTP to the selected contact. The member enters the code on the **Verification** screen. A resend timer is displayed ("Retry in 52 s"). An optional **Remember Device/Browser** checkbox allows the member to skip this step on subsequent logins from the same device.
+The system sends a 6-digit OTP to the selected contact. you enters the code on the **Verification** screen. A resend timer is displayed ("Retry in 52 s"). An optional **Remember Device/Browser** checkbox allows you to skip this step on subsequent logins from the same device.
 
-The member enters the code and clicks **Submit**.
+you enters the code and clicks **Submit**.
 
 ![Step 4 — Enter OTP code](../../../.gitbook/assets/Step_4___Enter_OTP_code_4.png)
 
@@ -93,7 +93,7 @@ The member enters the code and clicks **Submit**.
 
 **Step 5 — Dashboard**
 
-Upon successful authentication, the member lands on the **Dashboard**, personalized with their name (e.g., "Good Morning, DONALD BLAKE"). The member navigates to the **More** menu in the top navigation bar.
+Upon successful authentication, you lands on the **Dashboard**, personalized with their name (e.g., "Good Morning, DONALD BLAKE"). you navigates to the **More** menu in the top navigation bar.
 
 ![Step 5 — Dashboard](../../../.gitbook/assets/Step_5___Dashboard_5.png)
 
@@ -101,7 +101,7 @@ Upon successful authentication, the member lands on the **Dashboard**, personali
 
 **Step 6 — More Menu > Personal Information**
 
-Clicking **More** opens a full-page overlay displaying all secondary navigation options. Under **Settings**, the member clicks **Personal Information** — described as "Manage your devices and contact details."
+Clicking **More** opens a full-page overlay displaying all secondary navigation options. Under **Settings**, you clicks **Personal Information** — described as "Manage your devices and contact details."
 
 ![Step 6 — More menu, navigating to Personal Information](../../../.gitbook/assets/Step_6___More_menu__navigating_to_Personal_Information_6.png)
 
@@ -111,9 +111,9 @@ Clicking **More** opens a full-page overlay displaying all secondary navigation 
 
 **Step 7 — Personal Information: Address Tab (Mailing)**
 
-The member is taken to the **Personal Information** page. The navigation tabs at the top are: Contact Information | Address | Residential address | Devices | Trusted Device.
+you are taken to the **Personal Information** page. The navigation tabs at the top are: Contact Information | Address | Residential address | Devices | Trusted Device.
 
-The **Address** tab (mailing address) is active by default. The member's current mailing address is displayed under "Address details." An **Edit address** link is available below the address block.
+The **Address** tab (mailing address) is active by default. you's current mailing address is displayed under "Address details." An **Edit address** link is available below the address block.
 
 ![Step 7 — Mailing Address view](../../../.gitbook/assets/Step_7___Mailing_Address_view_7.png)
 
@@ -130,7 +130,7 @@ Clicking **Edit address** expands an inline edit form with the following fields 
 * State (dropdown)
 * ZIP Code
 
-The member updates the relevant fields and clicks **Save** (or **Cancel** to discard changes).
+you updates the relevant fields and clicks **Save** (or **Cancel** to discard changes).
 
 ![Step 8 — Edit mailing address form](../../../.gitbook/assets/Step_8___Edit_mailing_address_form_8.png)
 
@@ -148,7 +148,7 @@ Upon saving, the form collapses and a **success banner** appears: _"Your mailing
 
 **Step 7 — Personal Information: Residential Address Tab**
 
-The member clicks the **Residential address** tab. The current residential address is displayed under "Address details" along with an **Edit address** link.
+you clicks the **Residential address** tab. The current residential address is displayed under "Address details" along with an **Edit address** link.
 
 ![Step 7 — Residential Address view](../../../.gitbook/assets/Step_7___Residential_Address_view_10.png)
 
@@ -176,7 +176,7 @@ After saving, the success banner — _"Your mailing address has been updated."_ 
 | ----------------------------------------- | --------------------------------------------------------------------------------- |
 | Member selects SMS for OTP                | System shows list of masked registered phone numbers to choose from               |
 | Member selects Call or Email for OTP      | OTP is delivered via the respective channel; code entry screen is the same        |
-| Member has not registered a device        | OTP is required on every login; "Remember Device/Browser" can be used to register |
+| you have not registered a device        | OTP is required on every login; "Remember Device/Browser" can be used to register |
 | Member clicks Cancel on address edit form | No changes are saved; the existing address is displayed unchanged                 |
 | Member leaves required fields empty       | Form validates and prevents submission; required fields are highlighted           |
 
@@ -188,9 +188,9 @@ Upon a successful address update, the system:
 
 * Displays an inline success banner: _"Your mailing address has been updated."_
 * Immediately reflects the new address in the Address details block
-* Logs the change in the member's audit trail (system-side, visible to FI operations)
+* Logs the change in you's audit trail (system-side, visible to FI operations)
 
-No email or SMS confirmation is sent to the member by default upon address change — Summerville CU may consider enabling a change-notification alert as an added security measure.
+No email or SMS confirmation is sent to you by default upon address change — Summerville CU may consider enabling a change-notification alert as an added security measure.
 
 ***
 
@@ -198,10 +198,10 @@ No email or SMS confirmation is sent to the member by default upon address chang
 
 | Scenario                          | Member Experience                                                   | Recovery                                                                                    |
 | --------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| OTP not received                  | Resend timer displayed ("Retry in 52 s"); member can wait and retry | Member can also select a different OTP delivery channel by clicking "Select another method" |
+| OTP not received                  | Resend timer displayed ("Retry in 52 s"); you can wait and retry | you can also select a different OTP delivery channel by clicking "Select another method" |
 | Invalid OTP entered               | Error displayed; member prompted to re-enter                        | Retry; request new OTP after timer expires                                                  |
 | Required address field left blank | Form validation prevents save; field highlighted                    | Member fills in missing field and re-submits                                                |
-| Session timeout during edit       | Member is returned to login screen                                  | Member re-authenticates and navigates back to Personal Information                          |
+| Session timeout during edit       | you are returned to login screen                                  | Member re-authenticates and navigates back to Personal Information                          |
 
 ***
 
@@ -209,12 +209,12 @@ No email or SMS confirmation is sent to the member by default upon address chang
 
 ### Login Screen
 
-The entry point to online banking. Members enter credentials to begin an authenticated session. OTP verification is triggered immediately after successful credential entry.
+The entry point to online banking. You enter credentials to begin an authenticated session. OTP verification is triggered immediately after successful credential entry.
 
 | Field / Element        | Type           | Description                                | Notes                                              |
 | ---------------------- | -------------- | ------------------------------------------ | -------------------------------------------------- |
-| User ID                | Text input     | Member's registered username               | Pre-fills if "Save User ID" was previously enabled |
-| Password               | Password input | Member's account password                  | Masked; eye icon to reveal                         |
+| User ID                | Text input     | your registered username               | Pre-fills if "Save User ID" was previously enabled |
+| Password               | Password input | your account password                  | Masked; eye icon to reveal                         |
 | Log in                 | Button         | Submits credentials                        | Triggers OTP flow on success                       |
 | I need help logging in | Link           | Navigates to self-service recovery options | Covers Forgot User ID and Forgot Password          |
 
@@ -222,7 +222,7 @@ The entry point to online banking. Members enter credentials to begin an authent
 
 ### Verification Screen — Channel Selection
 
-Displayed after successful credential entry. Requires the member to choose how to receive their OTP before accessing the platform.
+Displayed after successful credential entry. Requires you to choose how to receive their OTP before accessing the platform.
 
 | Field / Element       | Type             | Description                           | Notes                                         |
 | --------------------- | ---------------- | ------------------------------------- | --------------------------------------------- |
@@ -235,7 +235,7 @@ Displayed after successful credential entry. Requires the member to choose how t
 
 ### Verification Screen — OTP Entry
 
-Displayed after the OTP is dispatched. The member enters the code to complete authentication.
+Displayed after the OTP is dispatched. you enters the code to complete authentication.
 
 | Field / Element         | Type         | Description                                     | Notes                                       |
 | ----------------------- | ------------ | ----------------------------------------------- | ------------------------------------------- |
@@ -248,7 +248,7 @@ Displayed after the OTP is dispatched. The member enters the code to complete au
 
 ### Dashboard
 
-The member home screen, displayed after successful login and OTP verification.
+you home screen, displayed after successful login and OTP verification.
 
 | Field / Element | Type           | Description                         | Notes                                 |
 | --------------- | -------------- | ----------------------------------- | ------------------------------------- |
@@ -274,7 +274,7 @@ Full-page overlay menu accessible via the **More** tab. Organizes secondary feat
 
 ### Personal Information — Address Tab (Mailing)
 
-Displays the member's current mailing address and provides an entry point for editing it.
+Displays you's current mailing address and provides an entry point for editing it.
 
 | Field / Element         | Type          | Description                           | Notes                                 |
 | ----------------------- | ------------- | ------------------------------------- | ------------------------------------- |

@@ -12,19 +12,19 @@ Product Guide \| April 2026
   **1. Product Summary**
   ------------------------
 
-The nFinia Dashboard Quick Links provide members with instant access to essential credit union information and services directly from the bottom of the post-login dashboard. These five footer links --- Security Policy, Branch Appointments, Locations, Rates, and Text Banking --- serve as persistent navigation anchors that connect the digital banking experience to the credit union's broader service ecosystem.
+The nFinia Dashboard Quick Links provide You with instant access to essential credit union information and services directly from the bottom of the post-login dashboard. These five footer links --- Security Policy, Branch Appointments, Locations, Rates, and Text Banking --- serve as persistent navigation anchors that connect the digital banking experience to the credit union's broader service ecosystem.
 
-Security Policy connects members to the credit union's online security guidelines and fraud prevention resources. Branch Appointments integrates with the Penni scheduling platform to enable self-service appointment booking at physical branches. Locations and Rates link to the Tyfone nFinia platform's public-facing pages displaying branch details, ATM locations, and current interest rates. Text Banking provides a command reference for SMS-based banking services, allowing members to check balances and transaction history via text message.
+Security Policy connects You to the credit union's online security guidelines and fraud prevention resources. Branch Appointments integrates with the Penni scheduling platform to enable self-service appointment booking at physical branches. Locations and Rates link to the Tyfone nFinia platform's public-facing pages displaying branch details, ATM locations, and current interest rates. Text Banking provides a command reference for SMS-based banking services, allowing You to check balances and transaction history via text message.
 
-Together, these quick links bridge the gap between digital and physical banking channels, ensuring members can access critical information without leaving their authenticated session.
+Together, these quick links bridge the gap between digital and physical banking channels, ensuring You can access critical information without leaving their authenticated session.
 
 **At a Glance**
 
   -------------------- -----------------------------------------------------------------------------------------
   **Attribute**        **Detail**
   Feature Name         Dashboard Quick Links (Footer Navigation)
-  Module               Dashboard \> Footer Section
-  User Roles           All authenticated members (Personal & Business)
+  Module               Dashboard > Footer Section
+  User Roles           All authenticated You (Personal & Business)
   Access Level         Post-login; visible on all dashboard views
   Key Links            Security Policy, Branch Appointments, Locations, Rates, Text Banking
   Integration Points   Penni (appointments), Tyfone public pages (locations/rates), SMS gateway (text banking)
@@ -44,7 +44,7 @@ Together, these quick links bridge the gap between digital and physical banking 
   Quick reference during session   Any Member             Uses footer links during an active banking session without logging out         Seamless cross-channel experience without session interruption
   -------------------------------- ---------------------- ------------------------------------------------------------------------------ ----------------------------------------------------------------
 
-The Dashboard Quick Links serve as an always-available bridge between digital banking and the credit union's physical and communication channels. For Summerville FCU, these links drive engagement across all service channels while keeping the member within the authenticated digital experience.
+The Dashboard Quick Links serve as an always-available bridge between digital banking and the credit union's physical and communication channels. For Summerville FCU, these links drive engagement across all service channels while keeping you within the authenticated digital experience.
 
   ----------------------------
   **3. End-to-End Workflow**
@@ -52,7 +52,7 @@ The Dashboard Quick Links serve as an always-available bridge between digital ba
 
 **3.1 Dashboard Overview**
 
-The Summerville FCU dashboard is the member's primary landing page after login. It displays account balances, Quick Transfer, upcoming payments, credit score, and related links. At the very bottom of the dashboard, the footer section contains the five quick links.
+The Summerville FCU dashboard is you's primary landing page after login. It displays account balances, Quick Transfer, upcoming payments, credit score, and related links. At the very bottom of the dashboard, the footer section contains the five quick links.
 
 ![](/.gitbook/assets/24c30f617e73e6629d17809c27be42eacd3ba8fb.png){width="4.791666666666667in" height="7.520833333333333in"}
 
@@ -62,7 +62,7 @@ The Security Policy link opens the credit union's security guidelines page. This
 
 **3.3 Branch Appointments (Penni Integration)**
 
-Clicking Branch Appointments launches the Penni scheduling platform. Penni provides a multi-step appointment booking flow: Personal Info, Appointment Type, Date & Time, and Confirmation. Members enter their name, email, phone number, and can optionally add notes before selecting an available time slot at their preferred branch.
+Clicking Branch Appointments launches the Penni scheduling platform. Penni provides a multi-step appointment booking flow: Personal Info, Appointment Type, Date & Time, and Confirmation. You enter their name, email, phone number, and can optionally add notes before selecting an available time slot at their preferred branch.
 
 ![](/.gitbook/assets/5b13eb218018fc050193b60811631162d4f8078c.png){width="5.625in" height="4.197916666666667in"}
 
@@ -74,13 +74,13 @@ The Locations and Rates links connect to Summerville FCU's pages on the Tyfone n
 
 **3.5 Text Banking**
 
-The Text Banking link opens a reference page listing all available SMS commands. Members send text commands to the short code 28640 to interact with their accounts. Available commands include SV HELP (list commands), SV BAL (default account balance), SV BAL ALL (all account balances), SV HIST (transaction history), and SV STOP (deactivate text banking).
+The Text Banking link opens a reference page listing all available SMS commands. You send text commands to the short code 28640 to interact with their accounts. Available commands include SV HELP (list commands), SV BAL (default account balance), SV BAL ALL (all account balances), SV HIST (transaction history), and SV STOP (deactivate text banking).
 
 ![](/.gitbook/assets/d81a50f5a5078c8188072b36c8634d6e9fe78a9b.png){width="5.833333333333333in" height="3.0729166666666665in"}
 
 **3.6 Completion**
 
-Each quick link opens the relevant content within the platform or in an integrated partner service (Penni). Members can navigate back to the dashboard at any time using the top navigation bar. No confirmation or submission is required for informational links (Security Policy, Locations, Rates, Text Banking). The Branch Appointments flow through Penni concludes with a confirmation screen and email/SMS notification.
+Each quick link opens the relevant content within the platform or in an integrated partner service (Penni). You can navigate back to the dashboard at any time using the top navigation bar. No confirmation or submission is required for informational links (Security Policy, Locations, Rates, Text Banking). The Branch Appointments flow through Penni concludes with a confirmation screen and email/SMS notification.
 
   -------------------------
   **4. Feature Overview**
@@ -88,7 +88,7 @@ Each quick link opens the relevant content within the platform or in an integrat
 
 **4.1 Security Policy Page**
 
-The Security Policy page provides credit union members with essential security information to protect their accounts and personal data.
+The Security Policy page provides credit union You with essential security information to protect their accounts and personal data.
 
   --------------------- --------------- ----------------------------------------------------------- ----------------------------------
   **Field / Element**   **Type**        **Description**                                             **Notes**
@@ -100,18 +100,18 @@ The Security Policy page provides credit union members with essential security i
 
 **4.2 Branch Appointments (Penni)**
 
-The Penni appointment scheduling flow guides members through a four-step process to book a branch visit.
+The Penni appointment scheduling flow guides You through a four-step process to book a branch visit.
 
   ----------------------------------- ------------------ ------------------------------------------------------------------ ------------------------------------------
   **Field / Element**                 **Type**           **Description**                                                    **Notes**
-  First Name                          Input              Member's first name                                                Required
-  Last Name                           Input              Member's last name                                                 Required
+  First Name                          Input              your first name                                                Required
+  Last Name                           Input              your last name                                                 Required
   Your Email                          Input              Email for confirmation delivery                                    Required; validated format
   Your Phone                          Input              Phone number for SMS reminders                                     Required; formatted input
   Receive text message confirmation   Checkbox           Opt-in for SMS appointment reminders                               Optional; standard messaging rates apply
   Additional Information              Textarea           Notes for the branch staff                                         Optional; do not include sensitive info
   Continue                            Button (Primary)   Advances to Appointment Type step                                  Validates required fields
-  Progress Steps                      Stepper            Personal Info \> Appointment Type \> Date & Time \> Confirmation   Visual progress indicator
+  Progress Steps                      Stepper            Personal Info > Appointment Type > Date & Time > Confirmation   Visual progress indicator
   ----------------------------------- ------------------ ------------------------------------------------------------------ ------------------------------------------
 
 **4.3 Locations & Rates (Tyfone Platform)**
@@ -130,7 +130,7 @@ The Locations and Rates pages are hosted on the Tyfone nFinia platform and displ
 
 **4.4 Text Banking**
 
-The Text Banking page provides a command reference for SMS-based banking services. Members text commands to short code 28640 to interact with their accounts.
+The Text Banking page provides a command reference for SMS-based banking services. You text commands to short code 28640 to interact with their accounts.
 
   ------------------ ------------- ----------------------------------------------------- -------------------------------------------
   **Text Command**   **Type**      **Description**                                       **Notes**
@@ -147,20 +147,20 @@ The Text Banking page provides a command reference for SMS-based banking service
 
   -------------------------- ----------------------------------------- ------------------- --------------------------------------
   **Task**                   **Navigation Path**                       **Who Can Do It**   **Notes**
-  View security guidelines   Dashboard Footer \> Security Policy       All Members         Informational; no action required
-  Book branch appointment    Dashboard Footer \> Branch Appointments   All Members         Opens Penni scheduling flow
-  Find branch or ATM         Dashboard Footer \> Locations             All Members         Platform-hosted locator page
-  View current rates         Dashboard Footer \> Rates                 All Members         Platform-hosted rate tables
-  Set up text banking        Dashboard Footer \> Text Banking          All Members         SMS to 28640 with SV prefix commands
-  Check balance via text     Text \'SV BAL\' to 28640                  Enrolled Members    No login required; instant response
+  View security guidelines   Dashboard Footer > Security Policy       All You         Informational; no action required
+  Book branch appointment    Dashboard Footer > Branch Appointments   All You         Opens Penni scheduling flow
+  Find branch or ATM         Dashboard Footer > Locations             All You         Platform-hosted locator page
+  View current rates         Dashboard Footer > Rates                 All You         Platform-hosted rate tables
+  Set up text banking        Dashboard Footer > Text Banking          All You         SMS to 28640 with SV prefix commands
+  Check balance via text     Text \'SV BAL\' to 28640                  Enrolled You    No login required; instant response
   -------------------------- ----------------------------------------- ------------------- --------------------------------------
 
   -------------------
   **6. Conclusion**
   -------------------
 
-The Dashboard Quick Links provide Summerville Federal Credit Union members with seamless access to essential services and information directly from their digital banking dashboard. By integrating Security Policy, Branch Appointments (via Penni), Locations, Rates, and Text Banking into persistent footer navigation, the nFinia platform creates a unified experience that connects digital and physical banking channels.
+The Dashboard Quick Links provide Summerville Federal Credit Union You with seamless access to essential services and information directly from their digital banking dashboard. By integrating Security Policy, Branch Appointments (via Penni), Locations, Rates, and Text Banking into persistent footer navigation, the nFinia platform creates a unified experience that connects digital and physical banking channels.
 
-These features reduce the need for members to search the credit union website separately, lower call center volume for routine inquiries, and drive engagement across all service channels. The Penni appointment integration is particularly valuable, enabling members to schedule branch visits without leaving their authenticated session. Text Banking extends account access to the simplest mobile devices, ensuring no member is left behind in the digital transformation.
+These features reduce the need for You to search the credit union website separately, lower call center volume for routine inquiries, and drive engagement across all service channels. The Penni appointment integration is particularly valuable, enabling You to schedule branch visits without leaving their authenticated session. Text Banking extends account access to the simplest mobile devices, ensuring no you are left behind in the digital transformation.
 
 For Summerville FCU, maintaining these quick links demonstrates a commitment to member convenience and multi-channel service delivery that differentiates the credit union in a competitive market.

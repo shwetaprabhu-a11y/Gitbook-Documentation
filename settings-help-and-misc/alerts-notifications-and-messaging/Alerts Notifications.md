@@ -1,24 +1,24 @@
-__  SUMMERVILLE CREDIT UNION  ·  CONSOLIDATED MEMBER GUIDE  ·  CSUM\-19 of 30__
+**  SUMMERVILLE CREDIT UNION  ·  CONSOLIDATED MEMBER GUIDE  ·  CSUM-19 of 30**
 
-__Alerts & Notifications__
+**Alerts & Notifications**
 
 Module: nFinia Digital Banking > Settings > Alerts
 
-*Sources: Summerville Reports Series A \(36 docs\) \+ Series B \(25 docs\) | Features: nFinia Documentation Features Spreadsheet*
+*Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet*
 
-__  01  PRODUCT SUMMARY__
+**  01  PRODUCT SUMMARY**
 
-The Alerts & Notifications module allows members to configure real\-time account alerts delivered via push notification, SMS, or email\. Members receive immediate notification of account events that matter to them — low balance warnings, large transactions, successful transfers, payment postings, security events, and new eDocument availability — without needing to log in and check manually\.
+The Alerts & Notifications module allows You to configure real-time account alerts delivered via push notification, SMS, or email. You receive immediate notification of account events that matter to them — low balance warnings, large transactions, successful transfers, payment postings, security events, and new eDocument availability — without needing to log in and check manually.
 
-Members can set general alerts that apply system\-wide \(login notifications, security events\) as well as account\-specific alerts configured per account \(balance threshold, individual transaction amount triggers\)\. The Do Not Disturb schedule mutes non\-critical notifications during specified hours while maintaining delivery of critical security alerts\.
+You can set general alerts that apply system-wide (login notifications, security events) as well as account-specific alerts configured per account (balance threshold, individual transaction amount triggers). The Do Not Disturb schedule mutes non-critical notifications during specified hours while maintaining delivery of critical security alerts.
 
-Alert history is maintained in the Inbox, giving members a retrospective view of all alerts they have received\. The Scheduled/Recurring Transfer Alerts feature specifically notifies members before and after scheduled transfers execute, providing visibility into automated payment activity\.
+Alert history is maintained in the Inbox, giving You a retrospective view of all alerts they have received. The Scheduled/Recurring Transfer Alerts feature specifically notifies You before and after scheduled transfers execute, providing visibility into automated payment activity.
 
-__At a Glance__
+**At a Glance**
 
-__Attribute__
+**Attribute**
 
-__Detail__
+**Detail**
 
 Module
 
@@ -32,123 +32,85 @@ Delivery Channels
 
 Push Notification, SMS, Email
 
-Account\-Specific
+Account-Specific
 
 Balance threshold and large transaction alerts per account
 
 Do Not Disturb
 
-Time\-window to mute non\-critical alerts
+Time-window to mute non-critical alerts
 
 Related Reports
 
-CSUM\-24 \(Message Center\), CSUM\-25 \(Settings & Security\)
+CSUM-24 (Message Center), CSUM-25 (Settings & Security)
 
-__  02  KEY USE CASES__
+**  02  KEY USE CASES**
 
-__Use Case__
 
-__Who Uses It__
+| Use Case                     | Who Uses It                                                                            | What They Do                                          | Business Value                                                                                                                                                                                                    |
+| ---------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Low Balance Alert            | You monitoring overdraft risk                                                      | Set balance alert threshold per account               | Early warning before overdraft to fund account in time                                                                                                                                                            |
+| Large Transaction Alert      | You detecting fraud                                                                | Configure alert for charges above a set dollar amount | Immediate notification of unexpected large transactions                                                                                                                                                           |
+| Login Notification           | Security-conscious You                                                             | Enable login alert for all new sign-in events         | Real-time detection of unauthorized login attempts                                                                                                                                                                |
+| Do Not Disturb Schedule      | You avoiding overnight alerts                                                      | Set DND hours to mute non-critical notifications      | Reduces sleep disruption while maintaining critical security coverage                                                                                                                                             |
+| **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > Settings (gear icon) > 'Alerts' OR More > Settings > Alerts.* | **Step 1 — Start from Dashboard**                     | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
-__What They Do__
-
-__Business Value__
-
-Low Balance Alert
-
-Members monitoring overdraft risk
-
-Set balance alert threshold per account
-
-Early warning before overdraft to fund account in time
-
-Large Transaction Alert
-
-Members detecting fraud
-
-Configure alert for charges above a set dollar amount
-
-Immediate notification of unexpected large transactions
-
-Login Notification
-
-Security\-conscious members
-
-Enable login alert for all new sign\-in events
-
-Real\-time detection of unauthorized login attempts
-
-Do Not Disturb Schedule
-
-Members avoiding overnight alerts
-
-Set DND hours to mute non\-critical notifications
-
-Reduces sleep disruption while maintaining critical security coverage
-
-__  03  STEP\-BY\-STEP GUIDE__
-
-*Navigation: Dashboard > Settings \(gear icon\) > 'Alerts' OR More > Settings > Alerts\.*
-
-__Step 1 — Start from Dashboard__
-
-The member begins at the Dashboard after logging in\. The Dashboard displays all account balances, upcoming payments, quick\-action tiles, and the top navigation bar with links to Accounts, Move Money, and More\.
 
 ![](/.gitbook/assets/img_eb0a7d21423c.png)
 
 *Step 1: Start from Dashboard*
 
-__Step 2 — Open the More Menu__
+**Step 2 — Open the More Menu**
 
-The member clicks ‘More’ in the top navigation bar\. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One\-Time Passcode, Skip A Pay, Do\-Not\-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services\.
+you clicks ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
 ![](/.gitbook/assets/img_ba578ecd81d3.png)
 
 *Step 2: More Menu*
 
-__Step 3 — Navigate from Dashboard to Alerts__
+**Step 3 — Navigate from Dashboard to Alerts**
 
-The Alert Settings page is displayed with tabs for General alerts, Account\-specific alerts, Alert Settings, and Do\-Not\-Disturb\. The current view shows alert category options available for configuration\.
+The Alert Settings page is displayed with tabs for General alerts, Account-specific alerts, Alert Settings, and Do-Not-Disturb. The current view shows alert category options available for configuration.
 
 ![](/.gitbook/assets/img_e9ea763cf298.png)
 
 *Step 3: Navigate from Dashboard to Alerts*
 
-__Step 4 — Configure General Alert Settings__
+**Step 4 — Configure General Alert Settings**
 
-The Alert Settings General tab shows alert delivery channel options including toggles for enabling or disabling push notifications and SMS alerts\.
+The Alert Settings General tab shows alert delivery channel options including toggles for enabling or disabling push notifications and SMS alerts.
 
 ![](/.gitbook/assets/img_9ad5af02d744.png)
 
 *Step 4: Configure General Alert Settings*
 
-__Step 5 — Configure Account\-Level Alert Settings__
+**Step 5 — Configure Account-Level Alert Settings**
 
-The Alert Settings Account tab is displayed with a modal dialog open for adding a new available balance alert, showing account selection and threshold amount fields\.
+The Alert Settings Account tab is displayed with a modal dialog open for adding a new available balance alert, showing account selection and threshold amount fields.
 
 ![](/.gitbook/assets/img_22574ef20eff.png)
 
-*Step 5: Configure Account\-Level Alert Settings*
+*Step 5: Configure Account-Level Alert Settings*
 
-__Step 6 — Set Do Not Disturb Hours__
+**Step 6 — Set Do Not Disturb Hours**
 
-The Do\-Not\-Disturb settings page is shown with options to configure quiet hours during which all alert notifications will be suppressed\.
+The Do-Not-Disturb settings page is shown with options to configure quiet hours during which all alert notifications will be suppressed.
 
 ![](/.gitbook/assets/img_64e025a93c8b.png)
 
 *Step 6: Set Do Not Disturb Hours*
 
-__Step 7 — Review Active Balance Alerts__
+**Step 7 — Review Active Balance Alerts**
 
-The Account Specific Alerts section displays options for adding different alert types including balance alerts, periodic alerts, deposit alerts, withdrawal alerts, and payment alerts\.
+The Account Specific Alerts section displays options for adding different alert types including balance alerts, periodic alerts, deposit alerts, withdrawal alerts, and payment alerts.
 
 ![](/.gitbook/assets/img_e9ea763cf298.png)
 
 *Step 7: Review Active Balance Alerts*
 
-__Step 8 — Add a Balance Alert__
+**Step 8 — Add a Balance Alert**
 
-A modal dialog for adding a new available balance alert is displayed with a dropdown to select the account and a text field to set the alert threshold amount\.
+A modal dialog for adding a new available balance alert is displayed with a dropdown to select the account and a text field to set the alert threshold amount.
 
 ![](/.gitbook/assets/img_22574ef20eff.png)
 

@@ -6,11 +6,11 @@
 
 ## 1. Product Summary
 
-Text Banking is a lightweight, SMS-based channel that allows Summerville Credit Union members to query account information and perform basic banking actions by sending short text commands to a dedicated short code (28640). Once enabled, members do not need the mobile app or a web browser — they send a text message and receive a real-time response. This is particularly valuable for members in low-connectivity environments or those who prefer a frictionless interaction model over launching a full digital banking session.
+Text Banking is a lightweight, SMS-based channel that allows Summerville Credit Union You to query account information and perform basic banking actions by sending short text commands to a dedicated short code (28640). Once enabled, You do not need the mobile app or a web browser — they send a text message and receive a real-time response. This is particularly valuable for You in low-connectivity environments or those who prefer a frictionless interaction model over launching a full digital banking session.
 
-The feature is managed entirely within the nFinia mobile app under **More Options > Text Banking**. Members can toggle Text Banking on or off, select which registered phone number to associate with the service, and view the full library of supported text commands — all from a single screen. The platform enforces OTP-based authentication before any changes to Text Banking settings take effect, ensuring that the channel cannot be hijacked without access to a verified device.
+The feature is managed entirely within the nFinia mobile app under **More Options > Text Banking**. You can toggle Text Banking on or off, select which registered phone number to associate with the service, and view the full library of supported text commands — all from a single screen. The platform enforces OTP-based authentication before any changes to Text Banking settings take effect, ensuring that the channel cannot be hijacked without access to a verified device.
 
-For Summerville CU, Text Banking extends service reach without increasing call center volume. Members who would otherwise call the branch to check a balance can self-serve via SMS in seconds. The feature also supports member retention in segments that are less engaged with the full mobile banking app but remain active via basic text messaging.
+For Summerville CU, Text Banking extends service reach without increasing call center volume. You who would otherwise call the branch to check a balance can self-serve via SMS in seconds. The feature also supports member retention in segments that are less engaged with the full mobile banking app but remain active via basic text messaging.
 
 **At a Glance**
 
@@ -32,13 +32,13 @@ For Summerville CU, Text Banking extends service reach without increasing call c
 | Use Case                                   | Who Uses It                               | What They Do                                                                                                         | Business Value                                                                                        |
 | ------------------------------------------ | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | Enable Text Banking for the first time     | Retail member                             | Navigates to More Options > Text Banking, toggles the feature on, selects a registered phone number, and taps Update | Member gains SMS-based account access without requiring mobile app for routine balance checks         |
-| Disable Text Banking                       | Retail member                             | Navigates to More Options > Text Banking, toggles the feature off, and taps Update                                   | Member can turn off the channel at will, reducing security exposure if a phone is lost or transferred |
+| Disable Text Banking                       | Retail member                             | Navigates to More Options > Text Banking, toggles the feature off, and taps Update                                   | you can turn off the channel at will, reducing security exposure if a phone is lost or transferred |
 | Switch the associated phone number         | Retail member                             | Selects a different number from the dropdown (populated from registered contacts on profile) and taps Update         | Ensures text commands are sent/received on the correct current device                                 |
 | Check account balance via SMS              | Retail member (with Text Banking enabled) | Texts **SV BAL** to 28640                                                                                            | Instant balance retrieval with no app login required; reduces inbound support calls                   |
 | View command list via SMS                  | Any member unsure of syntax               | Texts **SV HELP** to 28640                                                                                           | Self-service discovery of available commands; reduces member friction and support load                |
 | FI operations — member cannot authenticate | Credit union member services rep          | Member calls in; rep confirms registered phone numbers on file match what member expects                             | Ensures the phone number registry is accurate and the OTP verification chain is intact                |
 
-These use cases reflect the range of interactions Summerville CU members will encounter across the Text Banking lifecycle — from initial setup through day-to-day use. For the credit union, the channel's value compounds as adoption grows: each member who self-serves a balance inquiry via SMS is a call that never reaches the contact center.
+These use cases reflect the range of interactions Summerville CU You will encounter across the Text Banking lifecycle — from initial setup through day-to-day use. For the credit union, the channel's value compounds as adoption grows: each member who self-serves a balance inquiry via SMS is a call that never reaches the contact center.
 
 ***
 
@@ -47,8 +47,8 @@ These use cases reflect the range of interactions Summerville CU members will en
 ### 3.1 Prerequisites
 
 * Member must have an active Summerville Credit Union retail membership with nFinia digital banking access.
-* At least one phone number must be registered on the member's profile. The Text Banking screen populates the phone number dropdown from the member's profile on file; if no number is registered, the member must update their personal information first.
-* The member must have the Summerville nFinia mobile app installed and be able to complete OTP authentication (i.e., have access to one of the registered phone numbers or call options).
+* At least one phone number must be registered on you's profile. The Text Banking screen populates the phone number dropdown from you's profile on file; if no number is registered, you must update their personal information first.
+* you must have the Summerville nFinia mobile app installed and be able to complete OTP authentication (i.e., have access to one of the registered phone numbers or call options).
 
 ***
 
@@ -56,7 +56,7 @@ These use cases reflect the range of interactions Summerville CU members will en
 
 **Step 1 — Launch the App (Welcome Screen)**
 
-The member opens the Summerville nFinia mobile app. The Welcome screen presents options to Enroll, Log In, access Accounts/Move Money/Check Deposit/Manage Devices as a guest, or check a quick Balance.
+you opens the Summerville nFinia mobile app. The Welcome screen presents options to Enroll, Log In, access Accounts/Move Money/Check Deposit/Manage Devices as a guest, or check a quick Balance.
 
 ![Welcome Screen](../../../.gitbook/assets/Welcome_Screen_1.jpeg)
 
@@ -64,7 +64,7 @@ The member opens the Summerville nFinia mobile app. The Welcome screen presents 
 
 **Step 2 — Log In**
 
-The member taps **Log In** and enters their Username and Password. "Remember me" is available to persist the username. The member taps the **Log In** button to proceed.
+you taps **Log In** and enters their Username and Password. "Remember me" is available to persist the username. you taps the **Log In** button to proceed.
 
 ![Log In Screen](../../../.gitbook/assets/Log_In_Screen_2.jpeg)
 
@@ -72,9 +72,9 @@ The member taps **Log In** and enters their Username and Password. "Remember me"
 
 **Step 3 — Select Authentication Method (Verification)**
 
-The system triggers an OTP challenge. The member is presented with all registered phone numbers and can choose to receive a **Text** or a **Call** to any of them. The member selects their preferred delivery method.
+The system triggers an OTP challenge. you are presented with all registered phone numbers and can choose to receive a **Text** or a **Call** to any of them. you selects their preferred delivery method.
 
-> _Note: If the member does not see their updated contact information, a **Refresh** link is available to reload the phone number list from the profile._
+> _Note: If you does not see their updated contact information, a **Refresh** link is available to reload the phone number list from the profile._
 
 ![Verification — Select Authentication Method](../../../.gitbook/assets/Verification___Select_Authentication_Method_3.jpeg)
 
@@ -82,7 +82,7 @@ The system triggers an OTP challenge. The member is presented with all registere
 
 **Step 4 — Enter OTP (User Verification)**
 
-A one-time passcode is sent to the selected number. The member enters the passcode in the field provided and taps **Submit**. A retry timer (58 seconds) is displayed — if the code does not arrive, the member must wait before requesting a new one.
+A one-time passcode is sent to the selected number. you enters the passcode in the field provided and taps **Submit**. A retry timer (58 seconds) is displayed — if the code does not arrive, you must wait before requesting a new one.
 
 ![User Verification — OTP Entry](../../../.gitbook/assets/User_Verification___OTP_Entry_4.jpeg)
 
@@ -90,7 +90,7 @@ A one-time passcode is sent to the selected number. The member enters the passco
 
 **Step 5 — Dashboard**
 
-Upon successful authentication, the member lands on the Dashboard, which shows a personalized greeting, Credit Score & Offers, and an overview of all accounts with total deposits and outstanding loans.
+Upon successful authentication, you lands on the Dashboard, which shows a personalized greeting, Credit Score & Offers, and an overview of all accounts with total deposits and outstanding loans.
 
 ![Dashboard](../../../.gitbook/assets/Dashboard_5.jpeg)
 
@@ -98,7 +98,7 @@ Upon successful authentication, the member lands on the Dashboard, which shows a
 
 **Step 6 — Open the Side Menu**
 
-The member taps the hamburger menu icon (top right) to open the navigation drawer. The menu displays the member's name, last login timestamp, and options including Statements & eNotices, Digital Wallet, Help, **More Options**, My Insights, Feedback, Stop Check Payment, and My Offers.
+you taps the hamburger menu icon (top right) to open the navigation drawer. The menu displays you's name, last login timestamp, and options including Statements & eNotices, Digital Wallet, Help, **More Options**, My Insights, Feedback, Stop Check Payment, and My Offers.
 
 ![Side Menu](../../../.gitbook/assets/Side_Menu_6.jpeg)
 
@@ -106,7 +106,7 @@ The member taps the hamburger menu icon (top right) to open the navigation drawe
 
 **Step 7 — Navigate to More Options**
 
-The member taps **More Options** in the side menu. The More Options screen lists: Contact us, Branch and ATM, Card fraud alerts, Disclosures and agreement, **Text banking**, and Close Account. The member taps **Text banking**.
+you taps **More Options** in the side menu. The More Options screen lists: Contact us, Branch and ATM, Card fraud alerts, Disclosures and agreement, **Text banking**, and Close Account. you taps **Text banking**.
 
 ![More Options](../../../.gitbook/assets/More_Options_7.jpeg)
 
@@ -114,7 +114,7 @@ The member taps **More Options** in the side menu. The More Options screen lists
 
 **Step 8 — Enable Text Banking**
 
-The Text Banking screen loads. The member:
+The Text Banking screen loads. you:
 
 1. Taps the toggle next to **Text banking** to switch it **ON** (toggle turns green; label changes to "Text banking is enabled").
 2. Confirms or selects the desired phone number from the dropdown (e.g., (+1) 224-698-9201).
@@ -134,7 +134,7 @@ The navigation path to reach the Text Banking screen is identical (Steps 1–7 a
 
 **Step 8 — Disable Text Banking**
 
-On the Text Banking screen, the toggle is currently **ON** (green). The member:
+On the Text Banking screen, the toggle is currently **ON** (green). you:
 
 1. Taps the toggle to switch it **OFF** (toggle turns grey; label changes to "Text banking is disabled").
 2. Taps **Update**.
@@ -147,10 +147,10 @@ The system displays a confirmation toast: **"Text Banking has now been disabled.
 
 ### 3.3 Decision Points & Branching
 
-* **Toggle state on load**: If Text Banking is already enabled, the member arrives on the Text Banking screen with the toggle in the ON position. The workflow to disable is the mirror image of enabling.
-* **Phone number selection**: The dropdown is pre-populated with all phone numbers registered on the member's profile. If the member has only one number, it is pre-selected. If multiple numbers exist, the member must confirm the correct one before tapping Update.
-* **Adding a new number**: A **+ Add a new number** link is available on the Text Banking screen. This redirects to personal information settings where a new number can be registered. The member must complete that flow before returning to Text Banking to select the new number.
-* **OTP failure**: If the member enters an incorrect OTP, the system does not grant access to settings. The member may retry after the countdown timer expires.
+* **Toggle state on load**: If Text Banking is already enabled, you arrives on the Text Banking screen with the toggle in the ON position. The workflow to disable is the mirror image of enabling.
+* **Phone number selection**: The dropdown is pre-populated with all phone numbers registered on you's profile. If you have only one number, it is pre-selected. If multiple numbers exist, you must confirm the correct one before tapping Update.
+* **Adding a new number**: A **+ Add a new number** link is available on the Text Banking screen. This redirects to personal information settings where a new number can be registered. you must complete that flow before returning to Text Banking to select the new number.
+* **OTP failure**: If you enters an incorrect OTP, the system does not grant access to settings. you may retry after the countdown timer expires.
 
 ***
 
@@ -158,16 +158,16 @@ The system displays a confirmation toast: **"Text Banking has now been disabled.
 
 Upon tapping **Update** with a valid toggle state and phone number selected, the platform:
 
-* Updates the Text Banking enrollment status in the member's profile.
+* Updates the Text Banking enrollment status in you's profile.
 * Displays an inline toast notification confirming the action ("Text Banking has now been enabled." or "Text Banking has now been disabled.").
-* If enabled: the member can immediately begin texting commands to 28640 from the registered number.
+* If enabled: you can immediately begin texting commands to 28640 from the registered number.
 * If disabled: any subsequent texts from the previously registered number to 28640 will receive no response or an "inactive" reply.
 
 ***
 
 ### 3.5 Error Handling
 
-| Scenario                   | What the Member Sees                                | Resolution                                                                        |
+| Scenario                   | What you Sees                                | Resolution                                                                        |
 | -------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------- |
 | OTP not received           | "Didn't receive your code? Retry in 58s" countdown  | Wait for timer to expire, then retry or select a different delivery method (Call) |
 | No phone number on profile | Dropdown empty; Update button may be inactive       | Member must add a phone number via personal information settings                  |
@@ -204,7 +204,7 @@ Standard credential entry screen. Username is pre-filled when "Remember me" was 
 
 | Field / Element         | Type           | Description                                  | Notes                                   |
 | ----------------------- | -------------- | -------------------------------------------- | --------------------------------------- |
-| Username                | Text input     | Member's digital banking username            | Pre-filled if "Remember me" was checked |
+| Username                | Text input     | your digital banking username            | Pre-filled if "Remember me" was checked |
 | Password                | Password input | Masked entry with show/hide toggle           | Eye icon toggles visibility             |
 | Remember me             | Checkbox       | Persists username on next launch             | Checked by default in screenshots       |
 | Enable Face ID          | Checkbox       | Registers device biometric for future logins | Optional                                |
@@ -234,7 +234,7 @@ Presented after credential submission when OTP is required. Lists all registered
 
 ### User Verification Screen (OTP Entry)
 
-Displayed after the member selects a delivery method. Accepts the one-time passcode.
+Displayed after you selects a delivery method. Accepts the one-time passcode.
 
 ![User Verification Screen](../../../.gitbook/assets/User_Verification_Screen_13.jpeg)
 
@@ -257,7 +257,7 @@ Post-login landing screen. Shows account summary, credit score widget, and offer
 
 | Field / Element                             | Type             | Description                                              | Notes                                 |
 | ------------------------------------------- | ---------------- | -------------------------------------------------------- | ------------------------------------- |
-| Good Morning / \[Name]                      | Greeting label   | Personalized with member name                            | Dynamic by time of day                |
+| Good Morning / [Name]                      | Greeting label   | Personalized with member name                            | Dynamic by time of day                |
 | Credit Score And Offers                     | Widget section   | Shows credit score prompt and current offers             | "No offers to display" if none active |
 | All Accounts                                | Summary card     | Total deposits and total outstanding loans               | Aggregated view                       |
 | Retail Checking Account                     | Account tile     | Individual account with ID and activity since last login | Tappable for detail                   |
