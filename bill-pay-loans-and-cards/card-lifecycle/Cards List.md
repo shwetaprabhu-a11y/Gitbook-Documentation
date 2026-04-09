@@ -21,7 +21,7 @@ The Cards page is your central hub for all enrolled debit and credit cards. At a
 | **Feature Name**       | Cards                                                           |
 | ---------------------- | --------------------------------------------------------------- |
 | **Module Location**    | Banking › Cards                                                 |
-| **Who Can Use**        | All nFinia Digital Banking You with an enrolled card        |
+| **Who Can Use**        | All nFinia Digital Banking members with an enrolled card        |
 | **Cards Shown**        | All active debit and credit cards linked to your accounts       |
 | **Filter Options**     | All Cards dropdown, Select Account dropdown                     |
 | **Quick Actions**      | Card Controls, Set PIN, Deactivate / Replace Card, View Account |
@@ -55,9 +55,12 @@ The Cards page is your central hub for all enrolled debit and credit cards. At a
 
 From the nFinia top navigation bar, click Cards. The Cards page loads all your enrolled debit and credit cards as individual tiles.
 
-<figure><img src="/.gitbook/assets/image1 (2).png" alt="" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Cards_List_img1.png" alt="" width="480"><figcaption></figcaption></figure>
 
 **Step 2 Read Your Card Tiles**
+
+<figure><img src="/.gitbook/assets/Cards_List_img1.png" alt="Card tiles showing card details and status" width="480"><figcaption></figcaption></figure>
+
 
 Each card tile shows everything you need to know about that card. The table below explains every element you will see on a card tile.
 
@@ -83,6 +86,9 @@ Each card tile shows everything you need to know about that card. The table belo
 
 **Step 3 Filter Your Cards**
 
+<figure><img src="/.gitbook/assets/Cards_List_img1.png" alt="Cards list with filter options" width="480"><figcaption></figcaption></figure>
+
+
 If you have multiple cards or accounts, use the All Cards and Select Account dropdowns at the top of the page to narrow the list. Select a specific account to show only cards linked to that account.
 
 |                                                                                                                      |
@@ -90,6 +96,9 @@ If you have multiple cards or accounts, use the All Cards and Select Account dro
 | ℹ️ Tip: The "All Cards" dropdown also lets you filter by card type if you have both debit and credit cards enrolled. |
 
 **Step 4 Use Quick Actions**
+
+<figure><img src="/.gitbook/assets/Cards_List_img1.png" alt="Card quick actions menu" width="480"><figcaption></figcaption></figure>
+
 
 Each card tile has four quick-action links at the bottom. You do not need to open the card's full detail page to reach any of these features — just click the link directly from the Cards list.
 

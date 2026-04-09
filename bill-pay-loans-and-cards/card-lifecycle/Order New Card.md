@@ -48,7 +48,7 @@ _Navigation: Log in to Summerville Credit Union online banking. From the Dashboa
 
 After logging in, you land on the Dashboard. Click Cards in the top navigation, select your card from the list, and look for the Order a New Card option in the Card Details view.
 
-<figure><img src="/.gitbook/assets/c573d8948e3aa7e6336249734cea774b7c747bdc.png" alt="Step 1: Dashboard — click Cards to access your card list" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Order_New_Card_img1.png" alt="Step 1: Dashboard --- click Cards to access your card list" width="480"><figcaption></figcaption></figure>
 
 _Step 1: Dashboard — click Cards to access your card list_
 
@@ -56,7 +56,7 @@ _Step 1: Dashboard — click Cards to access your card list_
 
 The Order a New Card form opens with four sections. (1) Select the account number the card should be linked to. (2) Select a card type from the dropdown and choose a visual card design from the carousel — multiple designs are available. (3) Choose whether you want a physical card mailed to your address or a digital-only card. (4) Enter and confirm a 5-digit PIN for the new card.
 
-<figure><img src="/.gitbook/assets/96e220bf7fa4b9c60863fee2f05c47821a59f5a9.png" alt="Step 2: Complete all four sections of the Order a New Card form" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Order_New_Card_img2.png" alt="Step 2: Complete all four sections of the Order a New Card form" width="480"><figcaption></figcaption></figure>
 
 _Step 2: Complete all four sections of the Order a New Card form_
 
@@ -64,7 +64,7 @@ _Step 2: Complete all four sections of the Order a New Card form_
 
 Review your selections before submitting. Confirm the account, card type, design choice, and delivery preference are correct. If you need to make changes, update any field before proceeding. Once satisfied, review the summary and continue to the confirmation step.
 
-<figure><img src="/.gitbook/assets/bcefe5150ed10e38ab7bd2ac55a003e2e9263172.png" alt="Step 3: Review your card order details before confirming" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Order_New_Card_img3.png" alt="Step 3: Review your card order details before confirming" width="480"><figcaption></figcaption></figure>
 
 _Step 3: Review your card order details before confirming_
 
@@ -72,7 +72,7 @@ _Step 3: Review your card order details before confirming_
 
 A summary confirmation screen appears showing the delivery method — "A digital version of the new card will be made available to you instantly. Your new card will be mailed to your address within 5 days." Click Yes, Order a New Card to submit, or No, Cancel to return without ordering.
 
-<figure><img src="/.gitbook/assets/a423b729ef38960eb9bc38f8adb346bc98b4854d.png" alt="Step 4: Confirm your order — digital card available instantly, physical within 5 days" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Order_New_Card_img4.png" alt="Step 4: Confirm your order --- digital card available instantly, physical within 5 days" width="480"><figcaption></figcaption></figure>
 
 _Step 4: Confirm your order — digital card available instantly, physical within 5 days_
 
@@ -80,6 +80,6 @@ _Step 4: Confirm your order — digital card available instantly, physical withi
 
 An order completion screen confirms that your new card has been ordered. Your digital card is now available in your Cards list. If you requested a physical card, it will arrive at your mailing address within 5 days. You can return to Cards or the Dashboard using the buttons provided.
 
-<figure><img src="/.gitbook/assets/42868b589d8ba20e34e3ced8a07c6ffb895ca83a.png" alt="Step 5: Order complete — your new card is ready to use digitally" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Order_New_Card_img5.png" alt="Step 5: Order complete --- your new card is ready to use digitally" width="480"><figcaption></figcaption></figure>
 
 _Step 5: Order complete — your new card is ready to use digitally_

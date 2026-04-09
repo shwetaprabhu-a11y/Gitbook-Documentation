@@ -21,7 +21,7 @@ Card Alerts puts you in control of how, where, and when your card is used. From 
 | **Feature Name**        | Card Alerts                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------- |
 | **Module Location**     | Banking › Cards › Card Details › Card Controls › Card Alerts                        |
-| **Who Can Use**         | All nFinia Digital Banking You with an enrolled card                            |
+| **Who Can Use**         | All nFinia Digital Banking members with an enrolled card                            |
 | **Spend Alerts**        | Set a per-transaction dollar threshold to flag large purchases                      |
 | **Transaction Types**   | In Store, Mail / Phone Order, ATM, eCommerce, Other, Grocery                        |
 | **Merchant Categories** | Department Store, Gas Station, Household, Restaurant, Age Restricted, Personal Care |
@@ -38,7 +38,7 @@ Card Alerts puts you in control of how, where, and when your card is used. From 
 | Disable ATM withdrawals         | Prevent card from being used at ATMs                    | Under Transaction Type, toggle ATM to Off                                     | ATM transactions declined instantly until re-enabled     |
 | Block eCommerce purchases       | Stop online purchases while keeping in-store use active | Under Transaction Type, toggle eCommerce to Off                               | Online transactions blocked; physical purchases continue |
 | Restrict merchant categories    | Prevent card from being used at specific merchant types | Under Merchant Categories, toggle the category Off                            | Transactions at matching merchants are declined          |
-| Enable only specific categories | Allow card use only where you need it           | Toggle desired Transaction Types and Merchant Categories On; leave others Off | Card works only at permitted merchant types              |
+| Enable only specific categories | Allow card use only where the member needs it           | Toggle desired Transaction Types and Merchant Categories On; leave others Off | Card works only at permitted merchant types              |
 
 |                           |
 | ------------------------- |
@@ -46,21 +46,24 @@ Card Alerts puts you in control of how, where, and when your card is used. From 
 
 |                                                                                                         |
 | ------------------------------------------------------------------------------------------------------- |
-| _📍 Navigation path: Banking › Cards › [select card] › Card Details › Card Controls › Card Alerts tab_ |
+| _📍 Navigation path: Banking › Cards › \[select card] › Card Details › Card Controls › Card Alerts tab_ |
 
 **Step 1 Open Card Details**
 
 From the nFinia top navigation, select Cards. Locate the card you want to configure and click Card Controls at the bottom of that card tile. This opens the Card Details page.
 
-<figure><img src="/.gitbook/assets/image2.png" alt="" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Card_Alerts_img1.png" alt="" width="480"><figcaption></figcaption></figure>
 
 **Step 2 Select the Card Alerts Tab**
 
 Inside Card Details, find the Card Controls section. Select the Card Alerts tab. The page will show two sub-sections: Spend Alerts at the top, followed by Transaction Type and Merchant Categories controls below.
 
-<figure><img src="/.gitbook/assets/image1.png" alt="" width="340"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Card_Alerts_img2.png" alt="" width="340"><figcaption></figcaption></figure>
 
 **Step 3 Configure Spend Alerts**
+
+<figure><img src="/.gitbook/assets/Card_Alerts_img2.png" alt="Configure spend alerts — set amount threshold and frequency" width="340"><figcaption></figcaption></figure>
+
 
 In the Spend Alerts section, you will see Per Transaction toggles. Toggle one On to activate a spend alert, then click Edit to set the maximum dollar amount. Any single transaction above this amount will trigger an alert notification.
 

@@ -46,7 +46,7 @@ _Navigation: Log in to Summerville Credit Union online banking. From the Dashboa
 
 After logging in, you land on the Dashboard. Click Cards in the top navigation to open your card list, then select the card you want to configure. From Card Details, click Card Controls to open the controls panel.
 
-<figure><img src="/.gitbook/assets/image2.png" alt="Step 1: Dashboard — click Cards to begin" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Spending_Limits_img1.png" alt="Step 1: Dashboard --- click Cards to begin" width="480"><figcaption></figcaption></figure>
 
 _Step 1: Dashboard — click Cards to begin_
 
@@ -54,6 +54,6 @@ _Step 1: Dashboard — click Cards to begin_
 
 The Spending Limits tab opens under Card Controls. You will see two limit types: Per Transaction and Per Month. Toggle either limit on to activate it, then enter the maximum dollar amount in the input field. For Per Month, your current monthly spend is shown for reference. Toggle a limit off at any time to remove it. Changes take effect immediately.
 
-<figure><img src="/.gitbook/assets/image1.png" alt="" width="340"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Spending_Limits_img2.png" alt="" width="480"><figcaption></figcaption></figure>
 
 _Step 2: Set per-transaction and per-month spending limits for your card_

@@ -46,7 +46,7 @@ _Navigation: Log in to Summerville Credit Union online banking. From the Dashboa
 
 **Step 1 — Arrive at the Dashboard**
 
-After logging in, you land on the Dashboard. Click Cards in the top navigation, select your card, and open Card Controls from the Card Details page.<figure><img src="/.gitbook/assets/image4 (1).png" alt="Step 1: Dashboard — click Cards to begin" width="480"><figcaption></figcaption></figure>
+After logging in, you land on the Dashboard. Click Cards in the top navigation, select your card, and open Card Controls from the Card Details page.<figure><img src="/.gitbook/assets/Location_Controls_img1.png" alt="Step 1: Dashboard --- click Cards to begin" width="480"><figcaption></figcaption></figure>
 
 _Step 1: Dashboard — click Cards to begin_
 
@@ -54,15 +54,7 @@ _Step 1: Dashboard — click Cards to begin_
 
 The Location Controls tab opens. By default, the Allow International Transactions toggle is set to Off, meaning card transactions are restricted to domestic use. You can switch to All Countries to allow transactions globally, or select Selected Countries to define specific permitted locations.
 
-<figure><img src="/.gitbook/assets/image2.png" alt="" width="480"><figcaption></figcaption></figure>
-
-_Step 2: Location Controls — international transactions are off by default_
-
-**Step 3 — Enable and View Saved Locations**
-
-When Allow International Transactions is turned on, any previously saved locations are displayed with a map indicator. In this example, USA and Spain are enabled. Each saved location shows a remove button. You can have up to 3 active locations at a time. Click Add a Location to define a new one.
-
-<figure><img src="/.gitbook/assets/image3 (2).png" alt="" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Location_Controls_img2.png" alt="" width="480"><figcaption></figcaption></figure>
 
 _Step 3: Saved locations shown — up to 3 locations can be active at once_
 
@@ -70,7 +62,7 @@ _Step 3: Saved locations shown — up to 3 locations can be active at once_
 
 The Add a Location panel opens with a search field for city, state, or zip code, and a nickname field for easy identification. As you search, the interactive map zooms to the area and displays a boundary circle. Transactions will be approved for any use within that marked boundary. Click Save Location to add it, or Cancel to discard.
 
-<figure><img src="/.gitbook/assets/image1.png" alt="" width="340"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Location_Controls_img3.png" alt="" width="480"><figcaption></figcaption></figure>
 
 _Step 4: Search for a location and define a geographic boundary on the map_
 

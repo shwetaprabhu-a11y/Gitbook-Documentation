@@ -46,15 +46,7 @@ _Navigation: Log in to Summerville Credit Union online banking. From the Dashboa
 
 After logging in, you land on the Dashboard, which shows your account balances, recent payments, and quick-action shortcuts. The top navigation bar includes Home, Accounts, Transfers, Deposit Checks, Cards, Loans, eDocuments, and More. All card management tasks — including card activation — are accessible from this starting point.
 
-<figure><img src="/.gitbook/assets/image3.png" alt="Step 1: Dashboard — your starting point for all card management tasks" width="480"><figcaption></figcaption></figure>
-
-_Step 1: Dashboard — your starting point for all card management tasks_
-
-**Step 2 — Open the Activate New Card Form**
-
-Click More in the top navigation bar and select Activate New Card from the dropdown menu. The Activate New Card form opens with all required fields listed. You will see a membership selector dropdown at the top, followed by card type radio buttons (Debit Card or Credit Card), a field for your 16-digit card number, and expiration date fields for month and year.
-
-<figure><img src="/.gitbook/assets/image2 (2).png" alt="Step 2: Activate New Card form — select your membership and card type to begin" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Activate_Card_img1.png" alt="Step 1: Dashboard --- your starting point for all card management tasks" width="480"><figcaption></figcaption></figure>
 
 _Step 2: Activate New Card form — select your membership and card type to begin_
 
@@ -62,7 +54,7 @@ _Step 2: Activate New Card form — select your membership and card type to begi
 
 Select your membership from the dropdown, then choose Debit Card or Credit Card to match the card you received. Enter the full 16-digit card number printed on the front of your card, then enter the expiration date (month and year). Once all fields are complete, click Activate Card to submit. Click Cancel at any time to exit without activating.
 
-<figure><img src="/.gitbook/assets/image2 (2).png" alt="Step 2: Activate New Card form — select your membership and card type to begin" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Activate_Card_img3.png" alt="Step 2: Activate New Card form --- select your membership and card type to begin" width="480"><figcaption></figcaption></figure>
 
 _Step 3: Card details filled in — click Activate Card to complete the process_
 
@@ -70,6 +62,6 @@ _Step 3: Card details filled in — click Activate Card to complete the process_
 
 A success screen appears confirming that your card has been activated. The message displays the full card name and masked card number — for example, "Your card Visa Signature (#190) #148879306 has been activated." From here, click Go to Cards to return to your card list, or click Go to Dashboard to return to the main banking dashboard.
 
-<figure><img src="/.gitbook/assets/image1 (2).png" alt="Step 4: Activation confirmed — your card is active and ready to use" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Activate_Card_img4.png" alt="Step 4: Activation confirmed --- your card is active and ready to use" width="480"><figcaption></figcaption></figure>
 
 _Step 4: Activation confirmed — your card is active and ready to use_

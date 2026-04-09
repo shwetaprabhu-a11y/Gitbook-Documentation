@@ -23,7 +23,7 @@ The process takes less than a minute. You navigate to the card you want to link,
 | **Feature Name**       | Link Card to Digital Wallet (Push Provisioning)                                 |
 | ---------------------- | ------------------------------------------------------------------------------- |
 | **Module Location**    | Banking › Cards › Card Details › Link Card                                      |
-| **Who Can Use**        | All nFinia Digital Banking You with an enrolled card                        |
+| **Who Can Use**        | All nFinia Digital Banking members with an enrolled card                        |
 | **Supported Wallets**  | Apple Pay, Google Pay, Samsung Pay                                              |
 | **Provisioning Speed** | Immediate — card is available in the wallet as soon as the request is confirmed |
 | **Multiple Wallets**   | The same card can be linked to more than one wallet                             |
@@ -56,25 +56,28 @@ The process takes less than a minute. You navigate to the card you want to link,
 
 |                                                                                   |
 | --------------------------------------------------------------------------------- |
-| _📍 Navigation path: Banking › Cards › [select card] › Card Details › Link Card_ |
+| _📍 Navigation path: Banking › Cards › \[select card] › Card Details › Link Card_ |
 
 **Step 1 Navigate to Your Cards**
 
 From the nFinia top navigation, click Cards. Your enrolled debit and credit cards are listed as tiles. Locate the card you want to add to a digital wallet.
 
-<figure><img src="/.gitbook/assets/image2 (2).png" alt="" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Link_Card_to_Digital_Wallet_img1.png" alt="" width="480"><figcaption></figcaption></figure>
 
 **Step 2 Open Link Card**
 
 Click Card Controls at the bottom of the card tile. Inside Card Details, find and click the Link Card option. The Link Card screen opens and shows the three available digital wallet options: Apple Pay, Google Pay, and Samsung Pay.
 
-<figure><img src="/.gitbook/assets/image1 (2).png" alt="" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Link_Card_to_Digital_Wallet_img2.png" alt="" width="480"><figcaption></figcaption></figure>
 
 |                                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ℹ️ Tip: If the card has already been linked to a wallet, that wallet will show a "linked" indicator. You can still link the same card to a second wallet by selecting a different option. |
 
 **Step 3 Select Your Digital Wallet**
+
+<figure><img src="/.gitbook/assets/Link_Card_to_Digital_Wallet_img1.png" alt="Select digital wallet — Apple Wallet or Google Pay" width="480"><figcaption></figcaption></figure>
+
 
 Tap the wallet you want to link to your card. The wallet icon will highlight to confirm your selection. You can only provision one wallet at a time, but you can repeat this process to add the card to additional wallets.
 
@@ -85,6 +88,9 @@ Tap the wallet you want to link to your card. The wallet icon will highlight to 
 
 **Step 4 Accept the Provisioning Disclaimer**
 
+<figure><img src="/.gitbook/assets/Link_Card_to_Digital_Wallet_img1.png" alt="Provisioning disclaimer — agree to link your card" width="480"><figcaption></figcaption></figure>
+
+
 After selecting your wallet, a disclaimer screen appears. It asks you to acknowledge that by proceeding you are authorizing Summerville Credit Union to provision your card to the selected digital wallet. Read the disclosure and tap Continue (or the equivalent confirm button) to proceed.
 
 |                                                                                                                                                                              |
@@ -92,6 +98,9 @@ After selecting your wallet, a disclaimer screen appears. It asks you to acknowl
 | ⚠️ Note: You must accept the disclaimer to complete provisioning. If you navigate away without accepting, the process is cancelled and your card is not added to the wallet. |
 
 **Step 5 Card Linked — Ready for Contactless Payments**
+
+<figure><img src="/.gitbook/assets/Link_Card_to_Digital_Wallet_img2.png" alt="Card linked — ready for contactless payments" width="480"><figcaption></figcaption></figure>
+
 
 Once the disclaimer is accepted, provisioning completes immediately. The Link Card screen updates to confirm the card is now linked to the selected wallet (e.g. "This card is linked to Apple Pay"). Open your wallet app on your device to verify the card appears and is ready to use for contactless tap-to-pay purchases.
 

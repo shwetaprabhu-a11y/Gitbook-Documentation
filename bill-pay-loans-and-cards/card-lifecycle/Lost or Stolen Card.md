@@ -48,15 +48,7 @@ _Navigation: Log in to Summerville Credit Union online banking. Click Cards, sel
 
 After logging in, you land on the Dashboard showing your account balances, recent payments, and quick-action shortcuts. Click Cards in the top navigation, then select the card that is lost or stolen.
 
-<figure><img src="/.gitbook/assets/image4.png" alt="Step 1: Dashboard — starting point for navigation" width="480"><figcaption></figcaption></figure>
-
-_Step 1: Dashboard — starting point for navigation_
-
-**Step 2 — Select What Happened and Choose an Action**
-
-On the Deactivate / Replace Card page, use the "What happened to your card?" dropdown to select Lost, Stolen, or Damaged. Optionally add a brief description. Choose one of two actions: Deactivate Card only (permanent, no replacement), or Request Replacement & Deactivate Card (issues a new card and immediately disables the current one). Click Continue.
-
-<figure><img src="/.gitbook/assets/image1 (2).png" alt="Step 2: Report your card as lost or stolen and select your preferred action" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Lost_or_Stolen_Card_img1.png" alt="Step 1: Dashboard --- starting point for navigation" width="480"><figcaption></figcaption></figure>
 
 _Step 2: Report your card as lost or stolen and select your preferred action_
 
@@ -64,15 +56,7 @@ _Step 2: Report your card as lost or stolen and select your preferred action_
 
 If you chose Request Replacement, select whether you want a physical card mailed to your address on file. Enter and confirm a new 5-digit PIN for the replacement card. Double-check the mailing address shown and use Change Address if it needs to be updated before a physical card is sent. Click Request Replacement and Deactivate Card to confirm.
 
-<figure><img src="/.gitbook/assets/image3.png" alt="Step 3: Choose delivery preference and set a new PIN for your replacement card" width="480"><figcaption></figcaption></figure>
-
-_Step 3: Choose delivery preference and set a new PIN for your replacement card_
-
-**Step 4 — Confirm the Card is Deactivated**
-
-A success confirmation confirms the card has been permanently deactivated and no further transactions can be performed. Your digital replacement card is now available in your Cards list. Click Go to Cards or Go to Dashboard to continue.
-
-<figure><img src="/.gitbook/assets/image2 (2).png" alt="Step 4: Deactivation confirmed — report unauthorized transactions to the credit union if applicable" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Lost_or_Stolen_Card_img2.png" alt="Step 2: Report your card as lost or stolen and select your preferred action" width="480"><figcaption></figcaption></figure>
 
 _Step 4: Deactivation confirmed — report unauthorized transactions to the credit union if applicable_
 

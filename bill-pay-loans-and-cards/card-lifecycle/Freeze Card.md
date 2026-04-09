@@ -33,7 +33,7 @@ Freezing a card blocks new purchase and transaction approvals while the card rem
 
 | **Use Case**                  | **Who Uses It**                                             | **What They Do**                                                      | **Business Value**                                                        |
 | ----------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **Freeze a misplaced card**   | Member who cannot locate their card                         | Navigates to Cards, selects the card, clicks Freeze Card and confirms | Prevents unauthorized transactions while you search for the card |
+| **Freeze a misplaced card**   | Member who cannot locate their card                         | Navigates to Cards, selects the card, clicks Freeze Card and confirms | Prevents unauthorized transactions while the member searches for the card |
 | **Pause an unused card**      | Member who wants to deactivate a secondary card temporarily | Freezes the card from the Cards section                               | Reduces fraud exposure on cards not currently in use                      |
 | **Unfreeze a recovered card** | Member who found their previously frozen card               | Toggles card status back to active from the Cards list                | Instantly restores card access without contacting the credit union        |
 
@@ -47,23 +47,15 @@ _Navigation: Log in to Summerville Credit Union online banking. From the Dashboa
 
 After logging in, you land on the Dashboard displaying your account balances, recent payments, and quick-access shortcuts. The top navigation bar includes a Cards link that takes you directly to your full card list, where you can manage all cards linked to your membership.
 
-<figure><img src="/.gitbook/assets/image3.png" alt="Step 1: Dashboard — click Cards in the top navigation to access your card list" width="480"><figcaption></figcaption></figure>
-
-_Step 1: Dashboard — click Cards in the top navigation to access your card list_
-
-**Step 2 — Select Your Card and Open Freeze Card**
-
-From the Cards list, locate the card you want to freeze. Click into the card to open its Card Details view. From the card options displayed — which include Card Controls, Set PIN, and Deactivate / Replace Card — select Freeze Card. The Freeze Card confirmation page opens, showing the last four digits of the card to be frozen.
-
-<figure><img src="/.gitbook/assets/image1 (2).png" alt="Step 2: Freeze Card confirmation — review the card details before proceeding" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Freeze_Card_img1.png" alt="Step 1: Dashboard --- click Cards in the top navigation to access your card list" width="480"><figcaption></figcaption></figure>
 
 _Step 2: Freeze Card confirmation — review the card details before proceeding_
 
 **Step 3 — Confirm the Freeze**
 
-The confirmation screen asks: "Are you sure you want to freeze card ending [last 4 digits]?" Review the card information to ensure you are freezing the correct card. Click Yes, Freeze Card to apply the freeze immediately, or click No, Cancel to exit without making any changes. The freeze takes effect the moment you confirm — no further steps are required.
+The confirmation screen asks: "Are you sure you want to freeze card ending \[last 4 digits]?" Review the card information to ensure you are freezing the correct card. Click Yes, Freeze Card to apply the freeze immediately, or click No, Cancel to exit without making any changes. The freeze takes effect the moment you confirm — no further steps are required.
 
-<figure><img src="/.gitbook/assets/image1 (2).png" alt="" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Freeze_Card_img3.png" alt="" width="480"><figcaption></figcaption></figure>
 
 _Step 3: Freeze confirmed — the card is now blocked from new transactions_
 

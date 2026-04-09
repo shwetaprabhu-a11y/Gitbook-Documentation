@@ -12,7 +12,7 @@ Module: nFinia Digital Banking > Cards > Credit Card Accounts
 | ---------------------- |
 | **01 PRODUCT SUMMARY** |
 
-Summerville Credit Union offers Visa credit cards to eligible You, providing a flexible revolving credit line for everyday purchases, travel, and larger expenses. Credit cards are managed through the same Cards section of online banking as debit cards, giving you a unified view of all your payment cards in one place.
+Summerville Credit Union offers Visa credit cards to eligible members, providing a flexible revolving credit line for everyday purchases, travel, and larger expenses. Credit cards are managed through the same Cards section of online banking as debit cards, giving you a unified view of all your payment cards in one place.
 
 From online banking, you can view your credit card balance, available credit, current and past statements, reward points (on eligible cards), minimum payment due, and payment history. You can make payments, set up automatic payments, and manage card controls — all from the Cards section or your credit card account view.
 
@@ -48,7 +48,7 @@ _Navigation: Log in to Summerville Credit Union online banking. Click Cards in t
 
 After logging in, you land on the Dashboard showing your account balances, recent payments, and quick-action shortcuts. Your credit card is listed alongside your debit cards in the Cards section. You can also access it from the Accounts section.
 
-<figure><img src="/.gitbook/assets/image2 (2).png" alt="Step 1: Dashboard — starting point for navigation" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Credit_Cards_img1.png" alt="Step 1: Dashboard --- starting point for navigation" width="480"><figcaption></figcaption></figure>
 
 _Step 1: Dashboard — starting point for navigation_
 
@@ -56,7 +56,7 @@ _Step 1: Dashboard — starting point for navigation_
 
 On the Cards page, select your credit card. The card tile shows your available credit, current balance, minimum payment due, due date, and reward points. To make a payment, use the Quick Transfer widget on the right sidebar — select your credit card as the destination and your checking or savings account as the source. Enter the payment amount and click Confirm.
 
-<figure><img src="/.gitbook/assets/image1 (2).png" alt="" width="480"><figcaption></figcaption></figure>
+<figure><img src="/.gitbook/assets/Credit_Cards_img2.png" alt="" width="480"><figcaption></figcaption></figure>
 
 _Step 2: Credit card displayed in the Cards list with balance and quick action links_
 
