@@ -63,7 +63,7 @@ CSUM-06 (Move Money Hub), CSUM-13 (Wire Transfers), CSUM-21 (Skip A Pay)
 
 **Step 2 — Open the More Menu**
 
-you clicks ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
+you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
 ![](/.gitbook/assets/img_ba578ecd81d3.png)
 
@@ -103,7 +103,7 @@ The ACH Stop Payment Order form is displayed with member information fields, pay
 
 **Step 7 — Address Change Form**
 
-The Address Change Form shows you's current contact information and provides options to update the local address and foreign address on file.
+The Address Change Form shows your current contact information and provides options to update the local address and foreign address on file.
 
 ![](/.gitbook/assets/img_6b86ab5700d4.png)
 
@@ -159,7 +159,7 @@ The Payment Due Date Change Request Form is displayed with fields for selecting 
 
 **Step 14 — Payroll Direct Deposit Form**
 
-The Payroll Direct Deposit Form is shown for setting up automatic payroll deposits directly into you's bank account.
+The Payroll Direct Deposit Form is shown for setting up automatic payroll deposits directly into your bank account.
 
 ![](/.gitbook/assets/img_b80df369a252.png)
 

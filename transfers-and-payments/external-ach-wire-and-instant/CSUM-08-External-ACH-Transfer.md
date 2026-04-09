@@ -10,7 +10,7 @@ Module: nFinia Digital Banking > Move Money > External Accounts
 
 The External ACH Transfer feature allows You to send or pull funds between their credit union accounts and external bank accounts at other financial institutions via the ACH (Automated Clearing House) network. This is essential for You who maintain accounts at multiple banks, need to fund their CU account from an external source, or make payments to external obligations.
 
-External transfers require identity verification for first-use or high-value transactions. A one-time passcode (OTP) is sent to you's registered mobile number or email to authorise the transaction before it is submitted to the ACH network. External accounts must first be added via Recipient Management before they can be used as transfer destinations.
+External transfers require identity verification for first-use or high-value transactions. A one-time passcode (OTP) is sent to your registered mobile number or email to authorise the transaction before it is submitted to the ACH network. External accounts must first be added via Recipient Management before they can be used as transfer destinations.
 
 The ACH network processes transfers in 1–3 business days under standard ACH rules. Same-day ACH (SDACH) may be available for transfers submitted before the daily cut-off time, subject to CU policy and fee structure.
 
@@ -62,7 +62,7 @@ CSUM-06 (Move Money), CSUM-11 (Recipient Management)
 
 **Step 2 — Navigate to Move Money Hub**
 
-you clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other You, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
+you click ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other You, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
 ![](/.gitbook/assets/img_dd37cd06feee.png)
 

@@ -8,9 +8,9 @@ Module: nFinia Digital Banking > More > Recent Activities / My Insights
 
 **  01  PRODUCT SUMMARY**
 
-Recent Activities provides a real-time log of all significant account events since you's last login — transfers initiated, payments made, login events, alert triggers, and form submissions. It serves as an immediate session security audit, allowing You to quickly verify that no unexpected actions occurred since their previous session.
+Recent Activities provides a real-time log of all significant account events since your last login — transfers initiated, payments made, login events, alert triggers, and form submissions. It serves as an immediate session security audit, allowing You to quickly verify that no unexpected actions occurred since their previous session.
 
-My Insights delivers personalised spending analytics and financial intelligence based on you's transaction history. Transactions are automatically categorised by merchant type, enabling You to see spending breakdowns by category (groceries, dining, utilities, entertainment), income vs. spending trends, and cash flow patterns. The Insights tab provides category-level drill-down with individual transaction detail.
+My Insights delivers personalised spending analytics and financial intelligence based on your transaction history. Transactions are automatically categorised by merchant type, enabling You to see spending breakdowns by category (groceries, dining, utilities, entertainment), income vs. spending trends, and cash flow patterns. The Insights tab provides category-level drill-down with individual transaction detail.
 
 Together, Recent Activities and My Insights give You both a security-focused retrospective (what happened) and a financial intelligence view (how money is being spent) — two complementary lenses on their account activity.
 
@@ -62,7 +62,7 @@ CSUM-02 (Dashboard), CSUM-03 (Account Overview)
 
 **Step 2 — Open the More Menu**
 
-you clicks ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
+you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
 ![](/.gitbook/assets/img_ba578ecd81d3.png)
 
@@ -70,7 +70,7 @@ you clicks ‘More’ in the top navigation bar. The More options panel expands 
 
 **Step 3 — Navigate from Dashboard to Recent Activities**
 
-The Recent Activities modal is displayed showing a chronological list of you's actions since their last login, each entry with a timestamp and activity description.
+The Recent Activities modal is displayed showing a chronological list of your actions since their last login, each entry with a timestamp and activity description.
 
 ![](/.gitbook/assets/img_4a4de4ca3296.png)
 
@@ -86,7 +86,7 @@ The My Insights dashboard page is shown with various financial insight cards and
 
 **Step 5 — Explore Insights Category Breakdown**
 
-The My Insights page displays a metrics card showing account balance information and financial trend data for you's spending and income analysis.
+The My Insights page displays a metrics card showing account balance information and financial trend data for your spending and income analysis.
 
 ![](/.gitbook/assets/img_f542418ebcc4.png)
 

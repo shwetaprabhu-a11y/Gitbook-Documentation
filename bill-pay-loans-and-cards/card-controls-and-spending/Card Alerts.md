@@ -38,7 +38,7 @@ Card Alerts puts you in control of how, where, and when your card is used. From 
 | Disable ATM withdrawals         | Prevent card from being used at ATMs                    | Under Transaction Type, toggle ATM to Off                                     | ATM transactions declined instantly until re-enabled     |
 | Block eCommerce purchases       | Stop online purchases while keeping in-store use active | Under Transaction Type, toggle eCommerce to Off                               | Online transactions blocked; physical purchases continue |
 | Restrict merchant categories    | Prevent card from being used at specific merchant types | Under Merchant Categories, toggle the category Off                            | Transactions at matching merchants are declined          |
-| Enable only specific categories | Allow card use only where you needs it           | Toggle desired Transaction Types and Merchant Categories On; leave others Off | Card works only at permitted merchant types              |
+| Enable only specific categories | Allow card use only where you need it           | Toggle desired Transaction Types and Merchant Categories On; leave others Off | Card works only at permitted merchant types              |
 
 |                           |
 | ------------------------- |

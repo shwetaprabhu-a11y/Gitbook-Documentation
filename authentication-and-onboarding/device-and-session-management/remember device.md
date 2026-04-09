@@ -6,7 +6,7 @@
 
 ## Section 1 — Product Summary
 
-The **Remember Me** feature within Summerville Credit Union's nFinia mobile banking platform allows You to persist their username across sessions, eliminating the need to re-enter login credentials from scratch on every visit. When enabled, the Username field on the Log In screen is automatically pre-populated the next time you opens the app—reducing login friction to a single password entry before tapping Log In.
+The **Remember Me** feature within Summerville Credit Union's nFinia mobile banking platform allows You to persist their username across sessions, eliminating the need to re-enter login credentials from scratch on every visit. When enabled, the Username field on the Log In screen is automatically pre-populated the next time you open the app—reducing login friction to a single password entry before tapping Log In.
 
 This feature serves all registered member types: retail You checking balances daily, and business banking You managing cash flow and approving transactions on the go. For frequent users, removing the username re-entry step meaningfully reduces the cognitive load of repeated logins. For the credit union, it reduces abandoned login attempts and contributes to higher engagement with the mobile channel—without sacrificing security, since the password is never persisted and full credential validation still occurs on every session.
 
@@ -50,17 +50,17 @@ These use cases illustrate that Remember Me delivers the most value for You who 
 
 ### 3.2 Step-by-Step Flow
 
-**Step 1 — App Launch: Welcome Screen** you opens the Summerville app and is presented with the **Welcome Screen**. The screen shows Enroll and Log In CTAs along with pre-login quick-action icons. you taps **Log In** to proceed.
+**Step 1 — App Launch: Welcome Screen** you open the Summerville app and is presented with the **Welcome Screen**. The screen shows Enroll and Log In CTAs along with pre-login quick-action icons. you tap **Log In** to proceed.
 
-**Step 2 — Log In Screen Presented** you lands on the **Log In screen**, which displays Username and Password input fields, the **Remember Me** checkbox, the **Enable Face ID** checkbox, and the Log In button.
+**Step 2 — Log In Screen Presented** you land on the **Log In screen**, which displays Username and Password input fields, the **Remember Me** checkbox, the **Enable Face ID** checkbox, and the Log In button.
 
 **Step 3 — Enter Credentials** you types their **Username** and **Password** in the respective fields.
 
 **Step 4 — Enable Remember Me** you checks the **Remember Me** checkbox. A checkmark appears in the checkbox to confirm the selection. This action signals the platform to persist the username locally on the device after a successful login.
 
-**Step 5 — Submit Login** you taps the **Log In** button. The platform validates the credentials. On success, you are routed to the Dashboard.
+**Step 5 — Submit Login** you tap the **Log In** button. The platform validates the credentials. On success, you are routed to the Dashboard.
 
-**Step 6 — Return Visit: Username Auto-Populated** On the next app launch, the Log In screen loads with the **Username field pre-populated** with you's saved username. you only needs to enter their password and tap Log In to authenticate.
+**Step 6 — Return Visit: Username Auto-Populated** On the next app launch, the Log In screen loads with the **Username field pre-populated** with your saved username. you only needs to enter their password and tap Log In to authenticate.
 
 ### 3.3 Decision Points & Branching
 
@@ -87,7 +87,7 @@ There is no explicit confirmation message when Remember Me is enabled. The visua
 
 ### Screen 1: Welcome Screen
 
-The Welcome Screen is the unauthenticated landing page that every member encounters on app launch. It provides entry points to both Log In and Enroll. From here, you taps **Log In** to reach the screen where Remember Me can be enabled.
+The Welcome Screen is the unauthenticated landing page that you encounter on app launch. It provides entry points to both Log In and Enroll. From here, you tap **Log In** to reach the screen where Remember Me can be enabled.
 
 ![Welcome Screen — Summerville nFinia](../../../.gitbook/assets/Welcome_Screen___Summerville_nFinia_1.jpeg)
 

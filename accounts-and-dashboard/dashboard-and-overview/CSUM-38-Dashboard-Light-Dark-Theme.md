@@ -78,7 +78,7 @@ Theme personalization is increasingly table stakes in consumer-facing digital pr
 
 **3.4 Completion & Confirmation**
 
-Theme switching is instant with no page reload required. The system applies the new color palette via CSS class toggling. you sees an immediate visual transition. The preference is saved automatically and reflected on the next login.
+Theme switching is instant with no page reload required. The system applies the new color palette via CSS class toggling. you see an immediate visual transition. The preference is saved automatically and reflected on the next login.
 
 **3.5 Error Handling**
 

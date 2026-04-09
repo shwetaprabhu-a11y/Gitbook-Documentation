@@ -14,11 +14,11 @@ Version: 1.0
 
 **1. Product Summary**
 
-The FICO® Score Meter is a self-service credit monitoring feature within the nFinia digital banking platform that provides credit union You with free access to their FICO® Score directly from their online banking portal. The feature displays you's current credit score, a visual score meter with industry-standard ranges (300--850), and personalized key factors that are influencing their score. This empowers You to monitor their credit health without needing third-party services or hard inquiries.
+The FICO® Score Meter is a self-service credit monitoring feature within the nFinia digital banking platform that provides credit union You with free access to their FICO® Score directly from their online banking portal. The feature displays your current credit score, a visual score meter with industry-standard ranges (300--850), and personalized key factors that are influencing their score. This empowers You to monitor their credit health without needing third-party services or hard inquiries.
 
 This feature serves all retail banking You who hold active accounts with Summerville Federal Credit Union. It is accessible under the Additional Services navigation path and requires no special enrollment---You simply navigate to the FICO Score page to view their latest score. The score is pulled periodically from Experian data using the FICO® Score 8 model, which is the same scoring model the credit union uses for lending decisions.
 
-The FICO® Score Meter lives under Home > Additional Services > FICO Score in the nFinia platform. The page presents a visual dashboard with you's numeric score, a color-coded meter graphic (green through red), key factors affecting the score with educational explanations, and a link to additional credit education resources. A FICO® Score History section below provides trend tracking over time.
+The FICO® Score Meter lives under Home > Additional Services > FICO Score in the nFinia platform. The page presents a visual dashboard with your numeric score, a color-coded meter graphic (green through red), key factors affecting the score with educational explanations, and a link to additional credit education resources. A FICO® Score History section below provides trend tracking over time.
 
 **At a Glance**
 
@@ -62,37 +62,37 @@ These use cases demonstrate how the FICO® Score Meter serves both member empowe
 
 **3.2 Step-by-Step Flow**
 
-1.  **Start from the Dashboard:** After logging into the nFinia digital banking platform, you lands on the Account Overview / Dashboard page. This screen displays account balances, membership details, quick transfer options, and upcoming payments. To access the FICO Score feature, you navigates via the top navigation bar.
+1.  **Start from the Dashboard:** After logging into the nFinia digital banking platform, you land on the Account Overview / Dashboard page. This screen displays account balances, membership details, quick transfer options, and upcoming payments. To access the FICO Score feature, you navigate via the top navigation bar.
 
 ![](/.gitbook/assets/0626ee68834c4ae05407526488a70359313c95cc.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 1: Dashboard --- Account Overview starting point*
 
-2.  **Open the More Menu:** From the top navigation bar, you clicks More. The expanded menu hub reveals all available self-service features organized in a grid layout. you locates Additional Services or navigates directly to the FICO Score page from the available feature tiles.
+2.  **Open the More Menu:** From the top navigation bar, you click More. The expanded menu hub reveals all available self-service features organized in a grid layout. you locates Additional Services or navigates directly to the FICO Score page from the available feature tiles.
 
 ![](/.gitbook/assets/3255656de6c4325ca6347991aa2185fccc616569.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 2: More Menu --- Self-service feature hub*
 
-3.  **View FICO® Score:** The FICO Score page loads displaying you's current score prominently. The page includes: (a) the FICO® Score badge showing the numeric score (e.g., 400) with the tagline "The score lenders use," (b) a color-coded FICO® Score Meter graphic with ranges from 300 (min) through 580, 670, 740, 800, to 850 (max), and (c) the date the score was last pulled. The score is based on the FICO® Score 8 model using Experian data.
+3.  **View FICO® Score:** The FICO Score page loads displaying your current score prominently. The page includes: (a) the FICO® Score badge showing the numeric score (e.g., 400) with the tagline "The score lenders use," (b) a color-coded FICO® Score Meter graphic with ranges from 300 (min) through 580, 670, 740, 800, to 850 (max), and (c) the date the score was last pulled. The score is based on the FICO® Score 8 model using Experian data.
 
 ![](/.gitbook/assets/79c37bde1ec9f0e2abda936af6cfe7b9639b23f0.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 3: FICO® Score Meter --- Score display with key factors and credit education*
 
-4.  **Review Key Factors:** To the right of the score meter, the Key Factors section displays personalized explanations of what is affecting you's score. Each factor includes a bold title and detailed explanation. Common factors include: (1) "Length of time accounts have been established" --- explains how the age of the oldest account and average account age impact the score, and (2) "Too few accounts currently paid as agreed" --- explains how missed payments or low number of accounts in good standing affect the score. Each factor includes a "Keep in mind" section with actionable guidance.
+4.  **Review Key Factors:** To the right of the score meter, the Key Factors section displays personalized explanations of what is affecting your score. Each factor includes a bold title and detailed explanation. Common factors include: (1) "Length of time accounts have been established" --- explains how the age of the oldest account and average account age impact the score, and (2) "Too few accounts currently paid as agreed" --- explains how missed payments or low number of accounts in good standing affect the score. Each factor includes a "Keep in mind" section with actionable guidance.
 
 5.  **Access Credit Education:** At the bottom of the FICO Score card, you can click "Click for more credit education" to access additional resources about credit building, score improvement strategies, and financial wellness content. This link redirects to educational materials provided through the credit bureau partnership.
 
-6.  **View Score History:** Below the main FICO Score card, the "Your FICO® Score History" section displays a historical timeline of you's score changes across multiple reporting periods. This allows you to track trends, identify improvements or declines, and correlate score changes with financial behavior.
+6.  **View Score History:** Below the main FICO Score card, the "Your FICO® Score History" section displays a historical timeline of your score changes across multiple reporting periods. This allows you to track trends, identify improvements or declines, and correlate score changes with financial behavior.
 
 **3.3 Decision Points & Branching**
 
 -   **No Credit File:** If you does not have a reportable credit file with Experian, the system displays an informational message explaining that a FICO Score cannot be generated. you are advised to contact the credit union for further assistance.
 
--   **Score Improvement vs. Decline:** The Key Factors section dynamically adjusts based on you's current score profile. You with declining scores see factors focused on areas needing improvement, while You with stable or improving scores see reinforcing factors.
+-   **Score Improvement vs. Decline:** The Key Factors section dynamically adjusts based on your current score profile. You with declining scores see factors focused on areas needing improvement, while You with stable or improving scores see reinforcing factors.
 
--   **Multiple Memberships:** The FICO Score is tied to you's credit profile (SSN-based), not individual accounts. You with multiple memberships see the same score across all memberships.
+-   **Multiple Memberships:** The FICO Score is tied to your credit profile (SSN-based), not individual accounts. You with multiple memberships see the same score across all memberships.
 
 **3.4 Completion & Confirmation**
 
@@ -110,11 +110,11 @@ The FICO Score page is a read-only informational display. There is no submission
 
 **4.1 FICO® Score Display Card**
 
-The primary score display card occupies the left portion of the FICO Score page. It provides you's numeric score, visual meter, and branding information. (See Figure 3 in Section 3.)
+The primary score display card occupies the left portion of the FICO Score page. It provides your numeric score, visual meter, and branding information. (See Figure 3 in Section 3.)
 
   ----------------------- --------------- --------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------
   **Field / Element**     **Type**        **Description**                                                                                                                   **Notes**
-  FICO® Score Badge       Display         Shows you's numeric FICO score in large bold text with "FICO SCORE --- The score lenders use" branding                     Read-only; updates on credit bureau cycle
+  FICO® Score Badge       Display         Shows your numeric FICO score in large bold text with "FICO SCORE --- The score lenders use" branding                     Read-only; updates on credit bureau cycle
   Score Meter Graphic     Visualization   Color-coded semicircular gauge showing score position within the 300--850 range. Green (high) through yellow (mid) to red (low)   Ranges: 300, 580, 670, 740, 800, 850
   Score Pull Date         Label           Displays when the score was last retrieved: "The FICO Score pulled on [date] is the FICO Score 8 based on Experian data"        Confirms data freshness
   Credit Education Link   Link            "Click for more credit education" --- navigates to external credit education resources                                            Opens in new window/tab
@@ -123,12 +123,12 @@ The primary score display card occupies the left portion of the FICO Score page.
 
 **4.2 Key Factors Panel**
 
-The Key Factors section appears to the right of the score card and provides personalized explanations of the primary drivers affecting you's credit score. (See Figure 3 in Section 3.)
+The Key Factors section appears to the right of the score card and provides personalized explanations of the primary drivers affecting your credit score. (See Figure 3 in Section 3.)
 
   --------------------- -------------- -------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------
   **Field / Element**   **Type**       **Description**                                                                                          **Notes**
   Factor Title          Label (Bold)   Numbered factor name (e.g., "1. Length of time accounts have been established")                          Typically 2--4 factors displayed
-  Factor Explanation    Text Block     Detailed explanation of how this factor impacts the score, referencing you's specific situation   Personalized per your credit profile
+  Factor Explanation    Text Block     Detailed explanation of how this factor impacts the score, referencing your specific situation   Personalized per your credit profile
   Keep in Mind          Text Block     Actionable guidance section explaining what behaviors generally improve or worsen this factor            Educational content; same across all You with this factor
   --------------------- -------------- -------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------
 

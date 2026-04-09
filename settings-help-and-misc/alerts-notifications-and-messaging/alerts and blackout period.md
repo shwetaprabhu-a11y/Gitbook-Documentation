@@ -10,7 +10,7 @@ The Alerts & Notifications feature in Summerville Credit Union's nFinia platform
 
 The feature is organized under **Alert Settings**, accessible via More > Alerts, and is composed of four tabs: **General Alerts**, **Account-Specific Alerts**, **Alert Settings**, and **Do-Not-Disturb**. Together these tabs give You fine-grained control over what they hear about, how they hear about it, and when they can be reached. For the credit union, this translates directly into reduced inbound support volume (You self-serve on transaction questions), stronger fraud detection outcomes (You receive and act on security alerts), and higher digital channel engagement.
 
-The Do-Not-Disturb (DND) sub-feature extends alert control further by letting You suppress non-mandatory alert delivery during defined quiet hours—a timezone-aware window set to you's local time zone. Mandatory alerts bypass DND by design, ensuring security-critical communications are never silenced.
+The Do-Not-Disturb (DND) sub-feature extends alert control further by letting You suppress non-mandatory alert delivery during defined quiet hours—a timezone-aware window set to your local time zone. Mandatory alerts bypass DND by design, ensuring security-critical communications are never silenced.
 
 | Attribute                | Detail                                                                                                                                        |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,7 +52,7 @@ Account-specific and general alerts together give Summerville CU You a layered n
 
 **Step 1 — Log in to Online Banking**
 
-you navigates to the Summerville CU Online Banking portal and enters their User ID and password, then clicks **Log in**.
+you navigate to the Summerville CU Online Banking portal and enters their User ID and password, then clicks **Log in**.
 
 ![Screenshot 1](../../../.gitbook/assets/Screenshot_1_1.png)
 
@@ -60,7 +60,7 @@ you navigates to the Summerville CU Online Banking portal and enters their User 
 
 **Step 2 — Complete OTP Verification (Select Method)**
 
-The system prompts for a One-Time Passcode. you selects how to receive it: Send me a message, Call me, or Send me an email.
+The system prompts for a One-Time Passcode. you select how to receive it: Send me a message, Call me, or Send me an email.
 
 ![Screenshot 2](../../../.gitbook/assets/Screenshot_2_2.png)
 
@@ -68,7 +68,7 @@ The system prompts for a One-Time Passcode. you selects how to receive it: Send 
 
 **Step 3 — Select Contact Number**
 
-After choosing "Send me a message," you selects the registered phone number to receive the OTP.
+After choosing "Send me a message," you select the registered phone number to receive the OTP.
 
 ![Screenshot 3](../../../.gitbook/assets/Screenshot_3_3.png)
 
@@ -76,7 +76,7 @@ After choosing "Send me a message," you selects the registered phone number to r
 
 **Step 4 — Enter OTP**
 
-you enters the 6-digit code sent to their selected contact. The **Remember Device/Browser** option is available to skip OTP on future logins from this device.
+you enter the 6-digit code sent to their selected contact. The **Remember Device/Browser** option is available to skip OTP on future logins from this device.
 
 ![Screenshot 4](../../../.gitbook/assets/Screenshot_4_4.png)
 
@@ -84,7 +84,7 @@ you enters the 6-digit code sent to their selected contact. The **Remember Devic
 
 **Step 5 — Dashboard Loads**
 
-After successful authentication, you lands on the main Dashboard showing account balances and the Quick Transfer panel.
+After successful authentication, you land on the main Dashboard showing account balances and the Quick Transfer panel.
 
 ![Screenshot 5](../../../.gitbook/assets/Screenshot_5_5.png)
 
@@ -92,7 +92,7 @@ After successful authentication, you lands on the main Dashboard showing account
 
 **Step 6 — Open More > Alert Settings**
 
-you clicks **More** in the navigation bar. A panel expands showing Alerts options: Account Alerts, General Alerts, Do-Not-Disturb, and Alert Settings. you clicks **Alert Settings**.
+you click **More** in the navigation bar. A panel expands showing Alerts options: Account Alerts, General Alerts, Do-Not-Disturb, and Alert Settings. you click **Alert Settings**.
 
 ![Screenshot 6](../../../.gitbook/assets/Screenshot_6_6.png)
 
@@ -130,7 +130,7 @@ The tab displays four alert categories, each with an "Add a new alert" link:
 
 **Step 8 — Open Add Alert Modal**
 
-you clicks **+ Add a new alert** under Balance Alerts. A modal titled **"Add new 'Available balance alert'"** appears. you:
+you click **+ Add a new alert** under Balance Alerts. A modal titled **"Add new 'Available balance alert'"** appears. you:
 
 1. Selects the account from the dropdown (e.g., Retail Checking Account #0001)
 2. Sets the condition: "Alert me if my available balance is [Less than] [$1,000]"
@@ -149,7 +149,7 @@ After clicking **Save**, the modal closes and the Account-Specific Alerts tab re
 
 ### 3.4 Step-by-Step Flow — Configure General (Optional) Alerts
 
-Steps 1–6 are identical. At Step 6, you navigates to **General Alerts** tab.
+Steps 1–6 are identical. At Step 6, you navigate to **General Alerts** tab.
 
 **Step 7 — General Alerts Tab**
 
@@ -164,7 +164,7 @@ The tab is divided into two sections:
 
 **Step 8 — Set Optional Alert Preference**
 
-you clicks the dropdown on an optional alert row and selects the desired delivery option. The system saves the selection and displays a green success banner: "Alert has been updated successfully."
+you click the dropdown on an optional alert row and selects the desired delivery option. The system saves the selection and displays a green success banner: "Alert has been updated successfully."
 
 ![Screenshot 8](../../../.gitbook/assets/Screenshot_8_12.png)
 
@@ -172,7 +172,7 @@ you clicks the dropdown on an optional alert row and selects the desired deliver
 
 ### 3.5 Step-by-Step Flow — Set Do-Not-Disturb Period
 
-Steps 1–6 are identical. At Step 6, you clicks **Do-Not-Disturb**.
+Steps 1–6 are identical. At Step 6, you click **Do-Not-Disturb**.
 
 **Step 7 — Do-Not-Disturb Landing (No Period Set)**
 
@@ -190,7 +190,7 @@ After clicking **Set Do-Not-Disturb period**, a form appears inline with three f
 * **Start time** (time picker, e.g., 10:00 PM)
 * **End time** (time picker, e.g., 7:00 AM)
 
-A preview message in red reads: "You will not receive alerts between [Start time] & [End time] the next day." you clicks **Set Do-Not-Disturb**.
+A preview message in red reads: "You will not receive alerts between [Start time] & [End time] the next day." you click **Set Do-Not-Disturb**.
 
 ![Screenshot 8](../../../.gitbook/assets/Screenshot_8_14.png)
 
@@ -236,7 +236,7 @@ A green banner confirms "Your Do-Not-Disturb period has been set." The updated v
 
 **Remove Action**
 
-On the Do-Not-Disturb tab, you clicks **Remove** next to the active period.
+On the Do-Not-Disturb tab, you click **Remove** next to the active period.
 
 ![Screenshot 7](../../../.gitbook/assets/Screenshot_7_19.png)
 
@@ -259,7 +259,7 @@ The system processes the request and displays a green banner: "Do-Not-Disturb-Pe
 
 ### 3.9 Error Handling
 
-* If you saves an alert with no account selected, the modal displays an inline validation error requiring account selection before saving.
+* If you save an alert with no account selected, the modal displays an inline validation error requiring account selection before saving.
 * If the DND start time and end time are identical, the system will not allow submission.
 * If contact information is missing or outdated, a notice on the Alert Settings page states "Have you not been receiving your alerts? Check your contact information on record" with a direct link to Personal Information settings.
 

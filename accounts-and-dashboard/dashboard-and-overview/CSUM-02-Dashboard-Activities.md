@@ -8,11 +8,11 @@ Module: nFinia Digital Banking > Dashboard
 
 **  01  PRODUCT SUMMARY**
 
-The Dashboard — Banking Summary is the first screen a Summerville Credit Union member encounters after completing multi-factor authentication. It is the command centre of the nFinia digital banking experience: a single, consolidated view presenting you's complete financial picture — all account balances, recent transactions, pending items, and primary action shortcuts — without requiring navigation to individual account pages.
+The Dashboard — Banking Summary is the first screen you encounter after completing multi-factor authentication. It is the command centre of the nFinia digital banking experience: a single, consolidated view presenting your complete financial picture — all account balances, recent transactions, pending items, and primary action shortcuts — without requiring navigation to individual account pages.
 
 Quick-action tiles on the Dashboard provide one-tap access to the most common member tasks: initiating a transfer, making a payment, depositing a check, or viewing recent activity. The Dashboard is intentionally designed as a zero-friction summary, enabling You to assess their financial position and initiate the most common banking actions directly from one screen.
 
-The Activities Since Last Login feature (accessible via More > Recent Activities) presents a real-time audit log of all account events that occurred since you's previous session, providing an instant security check and activity summary.
+The Activities Since Last Login feature (accessible via More > Recent Activities) presents a real-time audit log of all account events that occurred since your previous session, providing an instant security check and activity summary.
 
 **At a Glance**
 
@@ -62,7 +62,7 @@ CSUM-01 (Login), CSUM-03 (Account Overview), CSUM-31 (Recent Activities)
 
 **Step 2 — Navigate to Move Money Hub**
 
-you clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other You, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
+you click ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other You, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
 ![](/.gitbook/assets/img_dd37cd06feee.png)
 

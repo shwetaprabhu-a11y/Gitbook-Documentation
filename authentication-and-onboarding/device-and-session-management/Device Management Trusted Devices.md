@@ -62,7 +62,7 @@ CSUM-22 (Personal Information), CSUM-01 (Login & Auth), CSUM-25 (Password & MFA)
 
 **Step 2 — Open the More Menu**
 
-you clicks ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
+you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
 ![](/.gitbook/assets/img_ba578ecd81d3.png)
 
@@ -76,7 +76,7 @@ The Account Overview page shows a detailed list of registered devices with colum
 
 **Step 4 — Review Device Details**
 
-The Personal Information page displays a comprehensive list of registered devices, each with a 'Forget Device' button for removing the device from you's trusted device list.
+The Personal Information page displays a comprehensive list of registered devices, each with a 'Forget Device' button for removing the device from your trusted device list.
 
 **⚠  Screenshot not available for this step — pending capture**
 

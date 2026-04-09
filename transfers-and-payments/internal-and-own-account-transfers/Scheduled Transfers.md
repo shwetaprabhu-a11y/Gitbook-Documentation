@@ -14,7 +14,7 @@ _Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features
 
 **Step 1 — Start from Dashboard**
 
-After authentication, you lands on the Dashboard, which surfaces real-time account balances across all products, the Quick Transfer widget for immediate one-off transfers, and upcoming payment obligations in a single consolidated view. To initiate a scheduled transfer review, you selects Move Money from the top navigation bar.
+After authentication, you land on the Dashboard, which surfaces real-time account balances across all products, the Quick Transfer widget for immediate one-off transfers, and upcoming payment obligations in a single consolidated view. To initiate a scheduled transfer review, you select Move Money from the top navigation bar.
 
 ![Screenshot 5](<../../../.gitbook/assets/image2 (7).png>)
 
@@ -22,7 +22,7 @@ _Step 1: Start from Dashboard_
 
 **Step 2 — Navigate to Move Money Hub**
 
-The Move Money Hub consolidates every payment and transfer workflow into a single tile-based screen, organized under two categories: Pay (Pay Bills, Quick Pay, Zelle Payment) and Transfers (Internal Transfers, Other You, Same-day Transfers, Send Now, Domestic Wired Transfer). you clicks the Scheduled Transfers tile to view and manage all recurring transfer arrangements.
+The Move Money Hub consolidates every payment and transfer workflow into a single tile-based screen, organized under two categories: Pay (Pay Bills, Quick Pay, Zelle Payment) and Transfers (Internal Transfers, Other You, Same-day Transfers, Send Now, Domestic Wired Transfer). you click the Scheduled Transfers tile to view and manage all recurring transfer arrangements.
 
 ![Screenshot 0](<../../../.gitbook/assets/image4 (7).png>)
 

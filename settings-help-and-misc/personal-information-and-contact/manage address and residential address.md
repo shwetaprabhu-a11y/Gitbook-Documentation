@@ -53,7 +53,7 @@ Address management self-service is a high-frequency, low-complexity operation th
 
 **Step 1 — Login**
 
-you navigates to the Summerville CU online banking portal and enters their **User ID** and **Password** on the login screen, then clicks **Log in**.
+you navigate to the Summerville CU online banking portal and enters their **User ID** and **Password** on the login screen, then clicks **Log in**.
 
 ![Step 1 — Login screen](../../../.gitbook/assets/Step_1___Login_screen_1.png)
 
@@ -67,7 +67,7 @@ The platform presents a **Verification** screen prompting you to select how they
 * Call me
 * Send me an email
 
-you selects their preferred channel.
+you select their preferred channel.
 
 ![Step 2 — OTP channel selection](../../../.gitbook/assets/Step_2___OTP_channel_selection_2.png)
 
@@ -75,7 +75,7 @@ you selects their preferred channel.
 
 **Step 3 — Select Contact Number (SMS path)**
 
-If you selects **Send me a message**, the system displays the registered phone numbers on file (masked for security, e.g., `(+1) 2**-***-**01`). you selects the number they want the OTP sent to.
+If you select **Send me a message**, the system displays the registered phone numbers on file (masked for security, e.g., `(+1) 2**-***-**01`). you select the number they want the OTP sent to.
 
 ![Step 3 — Select phone number for OTP](../../../.gitbook/assets/Step_3___Select_phone_number_for_OTP_3.png)
 
@@ -83,9 +83,9 @@ If you selects **Send me a message**, the system displays the registered phone n
 
 **Step 4 — Enter OTP Code**
 
-The system sends a 6-digit OTP to the selected contact. you enters the code on the **Verification** screen. A resend timer is displayed ("Retry in 52 s"). An optional **Remember Device/Browser** checkbox allows you to skip this step on subsequent logins from the same device.
+The system sends a 6-digit OTP to the selected contact. you enter the code on the **Verification** screen. A resend timer is displayed ("Retry in 52 s"). An optional **Remember Device/Browser** checkbox allows you to skip this step on subsequent logins from the same device.
 
-you enters the code and clicks **Submit**.
+you enter the code and clicks **Submit**.
 
 ![Step 4 — Enter OTP code](../../../.gitbook/assets/Step_4___Enter_OTP_code_4.png)
 
@@ -93,7 +93,7 @@ you enters the code and clicks **Submit**.
 
 **Step 5 — Dashboard**
 
-Upon successful authentication, you lands on the **Dashboard**, personalized with their name (e.g., "Good Morning, DONALD BLAKE"). you navigates to the **More** menu in the top navigation bar.
+Upon successful authentication, you land on the **Dashboard**, personalized with their name (e.g., "Good Morning, DONALD BLAKE"). you navigate to the **More** menu in the top navigation bar.
 
 ![Step 5 — Dashboard](../../../.gitbook/assets/Step_5___Dashboard_5.png)
 
@@ -101,7 +101,7 @@ Upon successful authentication, you lands on the **Dashboard**, personalized wit
 
 **Step 6 — More Menu > Personal Information**
 
-Clicking **More** opens a full-page overlay displaying all secondary navigation options. Under **Settings**, you clicks **Personal Information** — described as "Manage your devices and contact details."
+Clicking **More** opens a full-page overlay displaying all secondary navigation options. Under **Settings**, you click **Personal Information** — described as "Manage your devices and contact details."
 
 ![Step 6 — More menu, navigating to Personal Information](../../../.gitbook/assets/Step_6___More_menu__navigating_to_Personal_Information_6.png)
 
@@ -113,7 +113,7 @@ Clicking **More** opens a full-page overlay displaying all secondary navigation 
 
 you are taken to the **Personal Information** page. The navigation tabs at the top are: Contact Information | Address | Residential address | Devices | Trusted Device.
 
-The **Address** tab (mailing address) is active by default. you's current mailing address is displayed under "Address details." An **Edit address** link is available below the address block.
+The **Address** tab (mailing address) is active by default. your current mailing address is displayed under "Address details." An **Edit address** link is available below the address block.
 
 ![Step 7 — Mailing Address view](../../../.gitbook/assets/Step_7___Mailing_Address_view_7.png)
 
@@ -130,7 +130,7 @@ Clicking **Edit address** expands an inline edit form with the following fields 
 * State (dropdown)
 * ZIP Code
 
-you updates the relevant fields and clicks **Save** (or **Cancel** to discard changes).
+you update the relevant fields and clicks **Save** (or **Cancel** to discard changes).
 
 ![Step 8 — Edit mailing address form](../../../.gitbook/assets/Step_8___Edit_mailing_address_form_8.png)
 
@@ -148,7 +148,7 @@ Upon saving, the form collapses and a **success banner** appears: _"Your mailing
 
 **Step 7 — Personal Information: Residential Address Tab**
 
-you clicks the **Residential address** tab. The current residential address is displayed under "Address details" along with an **Edit address** link.
+you click the **Residential address** tab. The current residential address is displayed under "Address details" along with an **Edit address** link.
 
 ![Step 7 — Residential Address view](../../../.gitbook/assets/Step_7___Residential_Address_view_10.png)
 
@@ -188,7 +188,7 @@ Upon a successful address update, the system:
 
 * Displays an inline success banner: _"Your mailing address has been updated."_
 * Immediately reflects the new address in the Address details block
-* Logs the change in you's audit trail (system-side, visible to FI operations)
+* Logs the change in your audit trail (system-side, visible to FI operations)
 
 No email or SMS confirmation is sent to you by default upon address change — Summerville CU may consider enabling a change-notification alert as an added security measure.
 
@@ -235,7 +235,7 @@ Displayed after successful credential entry. Requires you to choose how to recei
 
 ### Verification Screen — OTP Entry
 
-Displayed after the OTP is dispatched. you enters the code to complete authentication.
+Displayed after the OTP is dispatched. you enter the code to complete authentication.
 
 | Field / Element         | Type         | Description                                     | Notes                                       |
 | ----------------------- | ------------ | ----------------------------------------------- | ------------------------------------------- |
@@ -274,7 +274,7 @@ Full-page overlay menu accessible via the **More** tab. Organizes secondary feat
 
 ### Personal Information — Address Tab (Mailing)
 
-Displays you's current mailing address and provides an entry point for editing it.
+Displays your current mailing address and provides an entry point for editing it.
 
 | Field / Element         | Type          | Description                           | Notes                                 |
 | ----------------------- | ------------- | ------------------------------------- | ------------------------------------- |

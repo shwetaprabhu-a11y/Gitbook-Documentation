@@ -63,7 +63,7 @@ Every phone number change in nFinia triggers an OTP challenge, ensuring that con
 
 **Step 1 — Log In to Online Banking**
 
-you navigates to the Summerville CU online banking portal and enters their User ID and password. They click **Log in**.
+you navigate to the Summerville CU online banking portal and enters their User ID and password. They click **Log in**.
 
 ![Screenshot 1](<../../../.gitbook/assets/Screenshot_1_1 (1).png>)
 
@@ -71,7 +71,7 @@ you navigates to the Summerville CU online banking portal and enters their User 
 
 **Step 2 — OTP Verification at Login (Method Selection)**
 
-The system prompts for OTP verification before granting dashboard access. you selects how to receive the one-time passcode: **Send me a message**, **Call me**, or **Send me an email**.
+The system prompts for OTP verification before granting dashboard access. you select how to receive the one-time passcode: **Send me a message**, **Call me**, or **Send me an email**.
 
 ![Screenshot 2](<../../../.gitbook/assets/Screenshot_2_2 (1).png>)
 
@@ -79,7 +79,7 @@ The system prompts for OTP verification before granting dashboard access. you se
 
 **Step 3 — OTP Phone Number Selection**
 
-If you selects "Send me a message" or "Call me", they are presented with a list of masked phone numbers on file to choose the delivery destination.
+If you select "Send me a message" or "Call me", they are presented with a list of masked phone numbers on file to choose the delivery destination.
 
 ![Screenshot 3](<../../../.gitbook/assets/Screenshot_3_3 (1).png>)
 
@@ -87,7 +87,7 @@ If you selects "Send me a message" or "Call me", they are presented with a list 
 
 **Step 4 — Enter OTP Code**
 
-A 6-digit OTP is sent to the selected number. you enters the code in the Enter code field and clicks **Submit**. A retry countdown (52 seconds) is shown if the code has not arrived. you can optionally check **Remember Device/Browser** to skip this step on future logins from the same device.
+A 6-digit OTP is sent to the selected number. you enter the code in the Enter code field and clicks **Submit**. A retry countdown (52 seconds) is shown if the code has not arrived. you can optionally check **Remember Device/Browser** to skip this step on future logins from the same device.
 
 ![Screenshot 4](<../../../.gitbook/assets/Screenshot_4_4 (1).png>)
 
@@ -95,7 +95,7 @@ A 6-digit OTP is sent to the selected number. you enters the code in the Enter c
 
 **Step 5 — Dashboard Access**
 
-After successful OTP entry, you lands on the Dashboard, showing their name, account balances, and navigation options.
+After successful OTP entry, you land on the Dashboard, showing their name, account balances, and navigation options.
 
 ![Screenshot 5](<../../../.gitbook/assets/Screenshot_5_5 (1).png>)
 
@@ -103,7 +103,7 @@ After successful OTP entry, you lands on the Dashboard, showing their name, acco
 
 **Step 6 — Navigate via Profile Switcher (if applicable)**
 
-If you have multiple profiles (Personal Memberships and/or Business accounts), they may see a profile selection panel. For phone number management, you selects **Personal Memberships**.
+If you have multiple profiles (Personal Memberships and/or Business accounts), they may see a profile selection panel. For phone number management, you select **Personal Memberships**.
 
 ![Screenshot 6](<../../../.gitbook/assets/Screenshot_6_6 (1).png>)
 
@@ -111,7 +111,7 @@ If you have multiple profiles (Personal Memberships and/or Business accounts), t
 
 **Step 7 — Navigate to Personal Information > Contact Information**
 
-you clicks **More** in the top navigation, then selects **Personal Information**. The Contact Information tab is displayed by default, showing Primary phone, Primary email, and phone categories (Cellular, Home, Business, Business Cell). Categories without a number show an **Add a new phone number** radio button link.
+you click **More** in the top navigation, then selects **Personal Information**. The Contact Information tab is displayed by default, showing Primary phone, Primary email, and phone categories (Cellular, Home, Business, Business Cell). Categories without a number show an **Add a new phone number** radio button link.
 
 ![Screenshot 7](<../../../.gitbook/assets/Screenshot_7_7 (1).png>)
 
@@ -119,7 +119,7 @@ you clicks **More** in the top navigation, then selects **Personal Information**
 
 **Step 8 — Enter New Phone Number**
 
-you clicks the **Add a new phone number** radio button under the desired category (e.g., Cellular). An inline form expands showing a **country code dropdown** (defaulting to United States +1) and a **phone number input field**. you enters the 10-digit number and clicks **Add new number**. A **Cancel** button is available to discard the entry.
+you click the **Add a new phone number** radio button under the desired category (e.g., Cellular). An inline form expands showing a **country code dropdown** (defaulting to United States +1) and a **phone number input field**. you enter the 10-digit number and clicks **Add new number**. A **Cancel** button is available to discard the entry.
 
 ![Screenshot 8](../../../.gitbook/assets/Screenshot_8_8.png)
 
@@ -127,7 +127,7 @@ you clicks the **Add a new phone number** radio button under the desired categor
 
 **Step 9 — OTP Verification (Method Selection — Logged In)**
 
-After submitting the new number, the system triggers an OTP challenge. you selects the delivery method: **Send me a message** or **Call me**. This OTP is distinct from the login OTP and specifically authorizes the contact change.
+After submitting the new number, the system triggers an OTP challenge. you select the delivery method: **Send me a message** or **Call me**. This OTP is distinct from the login OTP and specifically authorizes the contact change.
 
 ![Screenshot 9](../../../.gitbook/assets/Screenshot_9_9.png)
 
@@ -135,7 +135,7 @@ After submitting the new number, the system triggers an OTP challenge. you selec
 
 **Step 10 — OTP Phone Number Selection (Logged In)**
 
-you selects which existing phone number should receive the OTP to authorize the change.
+you select which existing phone number should receive the OTP to authorize the change.
 
 ![Screenshot 10](../../../.gitbook/assets/Screenshot_10_10.png)
 
@@ -143,7 +143,7 @@ you selects which existing phone number should receive the OTP to authorize the 
 
 **Step 11 — Enter OTP Code to Authorize Change**
 
-you enters the 6-digit code sent to the selected number. The retry countdown (58 seconds) is shown if needed.
+you enter the 6-digit code sent to the selected number. The retry countdown (58 seconds) is shown if needed.
 
 ![Screenshot 11](../../../.gitbook/assets/Screenshot_11_11.png)
 
@@ -197,7 +197,7 @@ The system returns to the Personal Information page and displays the success ban
 
 **Step 7 — Navigate to Personal Information > Contact Information**
 
-The Contact Information tab shows existing phone numbers. Each number has **Edit** and **Remove** links. you clicks **Edit** next to the number they want to change.
+The Contact Information tab shows existing phone numbers. Each number has **Edit** and **Remove** links. you click **Edit** next to the number they want to change.
 
 ![Screenshot 7](<../../../.gitbook/assets/Screenshot_7_19 (1).png>)
 
@@ -213,7 +213,7 @@ The phone number row expands into an editable inline form pre-populated with the
 
 **Step 9 — OTP Verification (Method Selection)**
 
-Submitting the update triggers an OTP challenge to authorize the change. you selects delivery method.
+Submitting the update triggers an OTP challenge to authorize the change. you select delivery method.
 
 ![Screenshot 9](../../../.gitbook/assets/Screenshot_9_21.png)
 
@@ -279,7 +279,7 @@ The system returns to Personal Information and displays: **"Phone number has bee
 
 **Step 7 — Navigate to Personal Information > Contact Information**
 
-The Contact Information tab lists all existing numbers. you clicks **Remove** next to the number they want to delete.
+The Contact Information tab lists all existing numbers. you click **Remove** next to the number they want to delete.
 
 ![Screenshot 7](<../../../.gitbook/assets/Screenshot_7_31 (1).png>)
 
@@ -295,7 +295,7 @@ A modal dialog appears: **"Do you want to remove this phone number?"** with **Ca
 
 **Step 9 — OTP Verification (Method Selection)**
 
-After confirming the modal, the system triggers an OTP challenge. you selects the delivery method.
+After confirming the modal, the system triggers an OTP challenge. you select the delivery method.
 
 ![Screenshot 9](../../../.gitbook/assets/Screenshot_9_33.png)
 
@@ -379,7 +379,7 @@ Displayed immediately after credential submission. Protects dashboard access wit
 
 ### OTP Verification — Phone Number Selection Screen
 
-Shown when you selects "Send me a message" or "Call me". Lists masked phone numbers available for OTP delivery.
+Shown when you select "Send me a message" or "Call me". Lists masked phone numbers available for OTP delivery.
 
 | Field / Element                             | Type               | Description                                         | Notes                                                |
 | ------------------------------------------- | ------------------ | --------------------------------------------------- | ---------------------------------------------------- |
@@ -409,8 +409,8 @@ The primary screen for viewing and managing phone numbers. Accessed via **More >
 | Field / Element                                        | Type                 | Description                                                      | Notes                                                             |
 | ------------------------------------------------------ | -------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- |
 | Contact information tab                                | Tab                  | Default active tab showing phone and email fields                | Other tabs: Address, Residential address, Devices, Trusted Device |
-| Primary phone                                          | Dropdown/Label       | Displays you's primary phone (masked)                     | Can be changed via dropdown if multiple numbers exist             |
-| Primary email                                          | Dropdown/Label       | Displays you's primary email (masked)                     | Read-only in this context                                         |
+| Primary phone                                          | Dropdown/Label       | Displays your primary phone (masked)                     | Can be changed via dropdown if multiple numbers exist             |
+| Primary email                                          | Dropdown/Label       | Displays your primary email (masked)                     | Read-only in this context                                         |
 | Cellular / Home / Business / Business Cell             | Category labels      | Sections grouping phone numbers by type                          | Each category can hold one number                                 |
 | Add a new phone number                                 | Radio-style link     | Expands inline form to add a number to that category             | Only shown when the category has no number                        |
 | [Number] Edit \| Remove                               | Inline links         | Edit or remove the displayed number                              | Shown when a number exists in that category                       |
@@ -434,7 +434,7 @@ Expands within the Contact Information tab when "Add a new phone number" or "Edi
 
 ### Remove Confirmation Modal
 
-Appears when you clicks Remove on an existing phone number.
+Appears when you click Remove on an existing phone number.
 
 | Field / Element | Type   | Description                                   | Notes                                    |
 | --------------- | ------ | --------------------------------------------- | ---------------------------------------- |

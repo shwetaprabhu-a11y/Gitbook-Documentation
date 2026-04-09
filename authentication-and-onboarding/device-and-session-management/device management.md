@@ -51,7 +51,7 @@ The Manage Devices and Forget Device features are especially valuable for credit
 
 **Step 1 — Welcome Screen**
 
-you opens the Summerville CU app and sees the Welcome screen. The screen provides quick-action tiles: **Accounts**, **Move Money**, **Check Deposit**, and **Manage Devices**. you may tap **Manage Devices** directly from this unauthenticated state, or tap **Log In** to authenticate first.
+you open the Summerville CU app and sees the Welcome screen. The screen provides quick-action tiles: **Accounts**, **Move Money**, **Check Deposit**, and **Manage Devices**. you may tap **Manage Devices** directly from this unauthenticated state, or tap **Log In** to authenticate first.
 
 ![](../../../.gitbook/assets/image_1.jpeg)
 
@@ -59,7 +59,7 @@ you opens the Summerville CU app and sees the Welcome screen. The screen provide
 
 **Step 2 — Log In**
 
-you enters their **Username** and **Password**. Optionally, they may check **Remember me** (to save the username for future logins) or **Enable Face ID**. Tapping **Log In** submits credentials for authentication.
+you enter their **Username** and **Password**. Optionally, they may check **Remember me** (to save the username for future logins) or **Enable Face ID**. Tapping **Log In** submits credentials for authentication.
 
 ![](../../../.gitbook/assets/image_2.jpeg)
 
@@ -67,7 +67,7 @@ you enters their **Username** and **Password**. Optionally, they may check **Rem
 
 **Step 3 — Select Authentication Method (OTP)**
 
-If logging in from a device that is not already recognized and trusted, the platform prompts you to select an OTP delivery method. Options include Text and Call across all verified phone numbers on file. Masked phone numbers are shown for privacy. you selects their preferred channel.
+If logging in from a device that is not already recognized and trusted, the platform prompts you to select an OTP delivery method. Options include Text and Call across all verified phone numbers on file. Masked phone numbers are shown for privacy. you select their preferred channel.
 
 ![](../../../.gitbook/assets/image_3.jpeg)
 
@@ -75,7 +75,7 @@ If logging in from a device that is not already recognized and trusted, the plat
 
 **Step 4 — Enter One-Time Passcode**
 
-A six-digit OTP is delivered to the selected contact. you enters the passcode in the **Enter passcode** field and taps **Submit**. A 60-second retry timer is shown. If the code is not received, you may retry after the timer expires.
+A six-digit OTP is delivered to the selected contact. you enter the passcode in the **Enter passcode** field and taps **Submit**. A 60-second retry timer is shown. If the code is not received, you may retry after the timer expires.
 
 ![](../../../.gitbook/assets/image_4.jpeg)
 
@@ -83,7 +83,7 @@ A six-digit OTP is delivered to the selected contact. you enters the passcode in
 
 **Step 5 — Dashboard (Post-Login)**
 
-After successful authentication, you lands on the Dashboard showing their name, credit score offer, account balances, and bottom navigation (Dashboard, Accounts, Move Money, Deposit). To navigate to Manage Devices, you taps the **hamburger menu (≡)** in the top right.
+After successful authentication, you land on the Dashboard showing their name, credit score offer, account balances, and bottom navigation (Dashboard, Accounts, Move Money, Deposit). To navigate to Manage Devices, you tap the **hamburger menu (≡)** in the top right.
 
 ![](../../../.gitbook/assets/image_5.jpeg)
 
@@ -91,7 +91,7 @@ After successful authentication, you lands on the Dashboard showing their name, 
 
 **Step 6 — Side Menu**
 
-The slide-out menu displays you's name, last login timestamp, and profile options. you taps **Settings** (Account and security settings) to proceed.
+The slide-out menu displays your name, last login timestamp, and profile options. you tap **Settings** (Account and security settings) to proceed.
 
 ![](../../../.gitbook/assets/image_6.jpeg)
 
@@ -99,7 +99,7 @@ The slide-out menu displays you's name, last login timestamp, and profile option
 
 **Step 7 — Settings**
 
-The Settings screen presents three categories: **Account Settings** (manage accounts), **Personal Information** (manage devices and contact details), and **User ID and Password** (update credentials and OTP method). you taps **Personal Information**.
+The Settings screen presents three categories: **Account Settings** (manage accounts), **Personal Information** (manage devices and contact details), and **User ID and Password** (update credentials and OTP method). you tap **Personal Information**.
 
 ![](../../../.gitbook/assets/image_7.jpeg)
 
@@ -107,7 +107,7 @@ The Settings screen presents three categories: **Account Settings** (manage acco
 
 **Step 8 — Personal Information**
 
-The Personal Information screen lists all updateable contact and device entries: Phone Number, Email Address, Mailing Address, Residential Address, and **Manage Devices**. you taps **Manage Devices** to proceed.
+The Personal Information screen lists all updateable contact and device entries: Phone Number, Email Address, Mailing Address, Residential Address, and **Manage Devices**. you tap **Manage Devices** to proceed.
 
 ![](../../../.gitbook/assets/image_8.jpeg)
 
@@ -115,7 +115,7 @@ The Personal Information screen lists all updateable contact and device entries:
 
 **Step 9 — Manage Devices Screen**
 
-The Manage Devices screen loads showing all devices linked to you's account. Two tabs are available: **Remember Device** and **Trust Device**. Each device entry displays the device type/name, OS version, and last accessed date and time. A **Forget** action link appears on the right side of each device row.
+The Manage Devices screen loads showing all devices linked to your account. Two tabs are available: **Remember Device** and **Trust Device**. Each device entry displays the device type/name, OS version, and last accessed date and time. A **Forget** action link appears on the right side of each device row.
 
 Example devices shown:
 
@@ -133,7 +133,7 @@ The Forget Device flow begins at the same Manage Devices screen reached in Workf
 
 **Step 10 — Tap "Forget"**
 
-On the Manage Devices screen, you taps **Forget** next to the device they wish to remove. A confirmation dialog immediately appears overlaying the screen.
+On the Manage Devices screen, you tap **Forget** next to the device they wish to remove. A confirmation dialog immediately appears overlaying the screen.
 
 **Step 11 — Confirmation Dialog**
 

@@ -14,7 +14,7 @@ Version: 1.0
 
 **1. Product Summary**
 
-Round Up to Savings is an automated micro-savings feature within the nFinia digital banking platform that enables credit union You to effortlessly grow their savings with every debit card transaction. When enabled, each debit card purchase is automatically rounded up to the next whole dollar amount, and the difference is transferred from you's designated checking account into their selected savings account.
+Round Up to Savings is an automated micro-savings feature within the nFinia digital banking platform that enables credit union You to effortlessly grow their savings with every debit card transaction. When enabled, each debit card purchase is automatically rounded up to the next whole dollar amount, and the difference is transferred from your designated checking account into their selected savings account.
 
 This feature serves retail banking You who want a passive, friction-free approach to building their savings. It is particularly valuable for You who find it difficult to set aside money manually. By converting everyday spending into incremental savings, Round Up to Savings aligns with Summerville Federal Credit Union's mission to promote financial wellness and long-term wealth building among its membership.
 
@@ -62,31 +62,31 @@ These use cases demonstrate how Round Up to Savings serves Summerville FCU's str
 
 **3.2 Step-by-Step Flow**
 
-1.  **Start from the Dashboard:** After logging into the nFinia digital banking platform, you lands on the **Dashboard / Account Overview** page. This screen displays you's account summary, membership details, related links, and quick transfer options. To access Round Up to Savings, you navigates via the top navigation bar.
+1.  **Start from the Dashboard:** After logging into the nFinia digital banking platform, you land on the **Dashboard / Account Overview** page. This screen displays your account summary, membership details, related links, and quick transfer options. To access Round Up to Savings, you navigate via the top navigation bar.
 
 ![](/.gitbook/assets/fd69f6c8b01624fae1f8d73a52e431bb9a8d4fb0.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 1: Dashboard --- Account Overview starting point*
 
-2.  **Open the More Menu:** From the top navigation bar, you clicks **More**. The More menu expands to reveal available self-service features. you clicks **Round up to savings** which is highlighted with the description "Increase your savings when you transact."
+2.  **Open the More Menu:** From the top navigation bar, you click **More**. The More menu expands to reveal available self-service features. you click **Round up to savings** which is highlighted with the description "Increase your savings when you transact."
 
 ![](/.gitbook/assets/3255656de6c4325ca6347991aa2185fccc616569.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 2: More menu showing the Round Up to Savings entry point*
 
-3.  **Select From Account:** The Round Up to Savings setup page loads, displaying an explanation of how the feature works. you selects their checking account from the "From account" dropdown. Available options include all checking accounts under their membership (e.g., BONUS CHECKING, MAIN CHECKING). The dropdown displays account name and account number for clear identification.
+3.  **Select From Account:** The Round Up to Savings setup page loads, displaying an explanation of how the feature works. you select their checking account from the "From account" dropdown. Available options include all checking accounts under their membership (e.g., BONUS CHECKING, MAIN CHECKING). The dropdown displays account name and account number for clear identification.
 
 ![](/.gitbook/assets/f9d7fa52eb62a6b8436bb5dbd2d1da8be22439c1.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 3: Selecting the source checking account for round-ups*
 
-4.  **Select To Account:** you selects their destination savings account from the "To account" dropdown. Eligible savings account types include Share Savings -- Special, Peak Money Market Savings, and other savings products. The dropdown filters to only show savings-eligible accounts under the selected membership.
+4.  **Select To Account:** you select their destination savings account from the "To account" dropdown. Eligible savings account types include Share Savings -- Special, Peak Money Market Savings, and other savings products. The dropdown filters to only show savings-eligible accounts under the selected membership.
 
 ![](/.gitbook/assets/5878fa47299c5fc24131ca44e9e00253e7884048.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 4: Selecting the destination savings account*
 
-5.  **Choose Round-Up Method:** you selects one of two rounding options:
+5.  **Choose Round-Up Method:** you select one of two rounding options:
 
 -   **Round up to the nearest dollar** --- For a \$9.50 transaction, \$0.50 is transferred to savings (rounds to \$10.00)
 
@@ -104,7 +104,7 @@ Each option includes an "Example" link that displays a tooltip illustrating the 
 
 6.  **Agree to Terms & Conditions:** you checks the "I agree to the Round Up to Savings terms and conditions" checkbox. The terms and conditions link opens the full legal agreement. This checkbox must be checked before the "Set up Round Up to Savings" button becomes active.
 
-7.  **Activate Round Up:** you clicks the "Set up Round Up to Savings" button. The system validates the configuration and activates the round-up rule.
+7.  **Activate Round Up:** you click the "Set up Round Up to Savings" button. The system validates the configuration and activates the round-up rule.
 
 ![](/.gitbook/assets/1d4aafaa3237b688388a6c61e156552693e84393.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
@@ -112,7 +112,7 @@ Each option includes an "Example" link that displays a tooltip illustrating the 
 
 **3.3 Decision Points & Branching**
 
--   **Single vs. Double Round-Up:** you's choice affects the transfer amount per transaction. Single rounds to the nearest dollar; double multiplies the round-up by 2. You can change this preference at any time after enrollment.
+-   **Single vs. Double Round-Up:** your choice affects the transfer amount per transaction. Single rounds to the nearest dollar; double multiplies the round-up by 2. You can change this preference at any time after enrollment.
 
 -   **Multiple Checking Accounts:** You with multiple checking accounts can set up separate round-up rules for each. The "Add Round Up to Savings for an account" option enables additional enrollments.
 

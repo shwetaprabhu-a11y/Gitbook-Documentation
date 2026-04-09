@@ -10,9 +10,9 @@ Module: nFinia Digital Banking > More > Credit Score / Financial Tools
 
 The Credit Score feature gives You on-demand access to their latest credit score and credit report summary without impacting their credit rating. The score is retrieved via a soft pull from an integrated credit bureau partner. You must provide consent during their first access; after that, the score is refreshed periodically automatically.
 
-The credit score display includes you's current score, score range, score rating, key factors affecting the score, and score history trend. FICO Score FAQs are available within the feature to help You understand what their score means and how to improve it.
+The credit score display includes your current score, score range, score rating, key factors affecting the score, and score history trend. FICO Score FAQs are available within the feature to help You understand what their score means and how to improve it.
 
-Financial Tools (where available) provide additional money management capabilities including goals tracking, budget planning, and spending analysis linked to you's transaction data. These tools help You connect their daily banking activity to longer-term financial goals.
+Financial Tools (where available) provide additional money management capabilities including goals tracking, budget planning, and spending analysis linked to your transaction data. These tools help You connect their daily banking activity to longer-term financial goals.
 
 **At a Glance**
 
@@ -62,7 +62,7 @@ CSUM-24 (My Insights), CSUM-03 (Account Overview)
 
 **Step 2 — Open the More Menu**
 
-you clicks ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
+you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
 ![](/.gitbook/assets/img_ba578ecd81d3.png)
 

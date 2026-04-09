@@ -15,7 +15,7 @@ The **Membership Settings** module within Summerville's nFinia digital banking p
 
 **Delete Membership** allows a member to remove an existing membership from their digital banking dashboard without closing the underlying account at the credit union. This is particularly useful when a member holds joint memberships they no longer wish to see in their account list, or when duplicate memberships exist that cause clutter. The underlying account remains open — only the digital banking visibility is affected.
 
-**Manage Membership Address** allows a member to submit a formal Address Change Form for one or more of their memberships simultaneously. The form supports both local (domestic) and foreign address updates, allows you to select which memberships should be updated, and sets an effective date. Because address changes affect legal records and payment processing, the form routes through back-office processing within three business days and you receives a clear success confirmation upon submission.
+**Manage Membership Address** allows a member to submit a formal Address Change Form for one or more of their memberships simultaneously. The form supports both local (domestic) and foreign address updates, allows you to select which memberships should be updated, and sets an effective date. Because address changes affect legal records and payment processing, the form routes through back-office processing within three business days and you receive a clear success confirmation upon submission.
 
 Both features require authentication through Summerville's standard Multi-Factor Authentication (OTP) flow before you can access account settings.
 
@@ -58,7 +58,7 @@ The Delete Membership and Manage Membership Address features collectively reduce
 #### 3A.2 Step-by-Step Flow
 
 **Step 1 — Login**\
-you navigates to the Summerville Online Banking portal and enters their User ID and password, then clicks **Log in**.
+you navigate to the Summerville Online Banking portal and enters their User ID and password, then clicks **Log in**.
 
 ![Step 1 - Login screen](../../../.gitbook/assets/Step_1_-_Login_screen_21.png)
 
@@ -72,28 +72,28 @@ The platform presents the Verification screen prompting you to choose how they w
 ***
 
 **Step 3 — OTP Verification: Select Contact**\
-If you selects "Send me a message," the platform lists available phone numbers on file (masked for security). you selects the desired number.
+If you select "Send me a message," the platform lists available phone numbers on file (masked for security). you select the desired number.
 
 ![Step 3 - Select phone number for OTP](../../../.gitbook/assets/Step_3_-_Select_phone_number_for_OTP_23.png)
 
 ***
 
 **Step 4 — OTP Entry**\
-An OTP is sent to the selected contact. you enters the 6-digit code. A "Retry in 52s" countdown is displayed. you may optionally check **Remember Device/Browser** to skip this step on future logins from the same device.
+An OTP is sent to the selected contact. you enter the 6-digit code. A "Retry in 52s" countdown is displayed. you may optionally check **Remember Device/Browser** to skip this step on future logins from the same device.
 
 ![Step 4 - OTP entry screen](../../../.gitbook/assets/Step_4_-_OTP_entry_33.png)
 
 ***
 
 **Step 5 — Dashboard**\
-Upon successful authentication, you lands on the personalized Dashboard showing account balances and the Quick Transfer widget.
+Upon successful authentication, you land on the personalized Dashboard showing account balances and the Quick Transfer widget.
 
 ![Step 5 - Dashboard after login](../../../.gitbook/assets/Step_5_-_Dashboard_34.png)
 
 ***
 
 **Step 6 — Navigate to Membership Settings**\
-you clicks **More** in the top navigation bar. The expanded menu reveals options including **Membership Setting**, **Accounts and Memberships**, and **Personal Information**. you clicks **Membership Setting**.
+you click **More** in the top navigation bar. The expanded menu reveals options including **Membership Setting**, **Accounts and Memberships**, and **Personal Information**. you click **Membership Setting**.
 
 ![Step 6 - More menu expanded](../../../.gitbook/assets/Step_6_-_More_menu_expanded_26.png)
 
@@ -189,7 +189,7 @@ Same login flow as Delete Membership (steps 1–5 above).
 ***
 
 **Step 6 — Navigate via More Menu**\
-you clicks **More** in the top navigation. They navigate to **Forms** under the Utilities section.
+you click **More** in the top navigation. They navigate to **Forms** under the Utilities section.
 
 ![Step 6 - More menu navigation](<../../../.gitbook/assets/Step_6_-_More_menu_expanded_26 (1).png>)
 
@@ -205,12 +205,12 @@ The Forms page lists all available self-service forms. you locates and clicks **
 **Step 8 — Address Change Form: Member Information & Current Contact**\
 The Address Change Form loads with key sections auto-populated:
 
-* **Membership number** dropdown pre-selects you's primary membership
-* **Current Contact Information** displays you's name, current address, city, state, zip, and Online Banking email address
+* **Membership number** dropdown pre-selects your primary membership
+* **Current Contact Information** displays your name, current address, city, state, zip, and Online Banking email address
 
 An important note is displayed: _"Any recent personal account changes could prohibit the processing of Wire Transfer requests by fax, phone, Online Banking, and US mail. Please visit a branch to initiate a new ACH or wire."_
 
-you selects **"Update Local Address"** radio button and proceeds.
+you select **"Update Local Address"** radio button and proceeds.
 
 ![Step 8 - Address Change Form with current contact pre-populated](../../../.gitbook/assets/Step_8_-_Address_Change_Form_with_current_contact_pre-popula_37.png)
 
@@ -226,7 +226,7 @@ The form expands to show the **New Address of Residence Information** section:
 * Radio options: **Use this as Mailing Address** / **Have Different Mailing Address**
 * **Update Foreign Address** option for non-US addresses
 
-The current address is pre-filled for you's convenience. you updates the fields as needed.
+The current address is pre-filled for your convenience. you update the fields as needed.
 
 ![Step 9 - New Address of Residence fields](../../../.gitbook/assets/Step_9_-_New_Address_of_Residence_fields_38.png)
 
@@ -304,7 +304,7 @@ Displayed after successful password entry. Requires you to choose a delivery cha
 
 ### Verification Screen — OTP Entry
 
-Displayed after delivery channel is selected. you enters the passcode received.
+Displayed after delivery channel is selected. you enter the passcode received.
 
 | Field / Element         | Type            | Description                                     | Notes                                        |
 | ----------------------- | --------------- | ----------------------------------------------- | -------------------------------------------- |

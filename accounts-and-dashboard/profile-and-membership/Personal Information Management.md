@@ -62,7 +62,7 @@ CSUM-28 (Device Management), CSUM-25 (Settings), CSUM-01 (Login)
 
 **Step 2 — Open the More Menu**
 
-you clicks ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
+you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
 ![](/.gitbook/assets/img_ba578ecd81d3.png)
 
@@ -86,7 +86,7 @@ The Personal Information page shows the Contact Information section displayed in
 
 **Step 5 — View Mailing Address**
 
-The Mailing Address section displays you's current address at 5841 INDEPENDENCE DR, UTICA, MI 48451-7871 with an 'Edit addresses' button available.
+The Mailing Address section displays your current address at 5841 INDEPENDENCE DR, UTICA, MI 48451-7871 with an 'Edit addresses' button available.
 
 ![](/.gitbook/assets/img_da4b7977eac6.png)
 
@@ -110,7 +110,7 @@ The Trusted Device section is displayed with a shield icon and a message indicat
 
 **Step 8 — Edit Contact Information**
 
-The Personal Information contact editing form is shown with multiple input fields for updating you's contact details such as phone numbers and email addresses.
+The Personal Information contact editing form is shown with multiple input fields for updating your contact details such as phone numbers and email addresses.
 
 ![](/.gitbook/assets/img_abc04ea1d848.png)
 

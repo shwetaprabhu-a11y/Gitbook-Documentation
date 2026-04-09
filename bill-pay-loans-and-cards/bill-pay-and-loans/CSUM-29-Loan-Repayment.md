@@ -47,7 +47,7 @@ For Summerville FCU, Loan Repayment reduces delinquency rates by making it effor
   View loan account and payment history   Account Holder    Views Account Details showing amount due, payment due date, overdue status, payoff amount, and full transaction history                                        Provides complete loan visibility; helps You track payment progress and remaining balance
   --------------------------------------- ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------
 
-These use cases reflect the primary loan repayment scenarios for Summerville FCU You. The combination of flexible payment options, recurring scheduling, and self-service payoff capabilities addresses both the credit union's goal of reducing delinquency and you's need for convenient, transparent loan management.
+These use cases reflect the primary loan repayment scenarios for Summerville FCU You. The combination of flexible payment options, recurring scheduling, and self-service payoff capabilities addresses both the credit union's goal of reducing delinquency and your need for convenient, transparent loan management.
 
   ----------------------------
   **3. End-to-End Workflow**
@@ -61,7 +61,7 @@ These use cases reflect the primary loan repayment scenarios for Summerville FCU
 
 • you must have a funded source account (checking or savings) from which to make the payment.
 
-• Transfer permissions must be enabled for you's role (relevant for delegated access users).
+• Transfer permissions must be enabled for your role (relevant for delegated access users).
 
 **3.2 Step-by-Step Workflow**
 
@@ -69,13 +69,13 @@ These use cases reflect the primary loan repayment scenarios for Summerville FCU
 
 ![](/.gitbook/assets/941cb6109ca40bea557207ec0807c5bc303d7582.png){width="6.395833333333333in" height="4.666666666666667in"}
 
-you logs into the Summerville FCU digital banking portal and navigates to Accounts Overview, filtering by Loan Accounts. The overview displays each loan with its account name (e.g., "2019 BMW 0001"), Amount Due, Payment Due / Next Due Date, Payoff Amount, and quick action links including "History" and "Transfer Funds." Overdue loans are highlighted with a red "Overdue" indicator and the next due date in red text.
+you log into the Summerville FCU digital banking portal and navigates to Accounts Overview, filtering by Loan Accounts. The overview displays each loan with its account name (e.g., "2019 BMW 0001"), Amount Due, Payment Due / Next Due Date, Payoff Amount, and quick action links including "History" and "Transfer Funds." Overdue loans are highlighted with a red "Overdue" indicator and the next due date in red text.
 
 **Step 2: View Loan Account Details**
 
 ![](/.gitbook/assets/faeef6b4b3667130c900a8c85083cd8af8943042.png){width="6.28125in" height="4.791666666666667in"}
 
-Clicking on the loan account opens the Account Details page, which provides a comprehensive view of the loan including Amount Due (\$498.67), Payment Due / Next Due Date (\$0.95 due on Oct 27, 2025), and links to "Make Payment," "Skip-a-Pay," and "See more." Below the summary card, the Transactions section displays the full payment history with deposits, payment credits, and balance progression. you clicks "Make Payment" to initiate the loan repayment workflow.
+Clicking on the loan account opens the Account Details page, which provides a comprehensive view of the loan including Amount Due (\$498.67), Payment Due / Next Due Date (\$0.95 due on Oct 27, 2025), and links to "Make Payment," "Skip-a-Pay," and "See more." Below the summary card, the Transactions section displays the full payment history with deposits, payment credits, and balance progression. you click "Make Payment" to initiate the loan repayment workflow.
 
 **Step 3: Set Up Transfer --- Select Payment Option**
 
@@ -87,7 +87,7 @@ The Transfer Funds to Own Account screen opens with the three-step progress indi
 
 ![](/.gitbook/assets/10fe725cbd98588d807375aa0160fc96f3875611.png){width="6.416666666666667in" height="4.895833333333333in"}
 
-After selecting a payment option (e.g., "Make a regular payment"), you enters the Amount to be transferred and an optional Transaction memo (limited to 23 characters). The Transfer Date field defaults to today's date with a calendar picker for scheduling future payments. A "Make transfer recurring" checkbox is available for setting up automated payment schedules. you clicks "Continue" to proceed to the review step.
+After selecting a payment option (e.g., "Make a regular payment"), you enter the Amount to be transferred and an optional Transaction memo (limited to 23 characters). The Transfer Date field defaults to today's date with a calendar picker for scheduling future payments. A "Make transfer recurring" checkbox is available for setting up automated payment schedules. you click "Continue" to proceed to the review step.
 
 **Step 5: Configure Recurring Payment (Optional)**
 
@@ -115,7 +115,7 @@ The Loan Repayment workflow includes several decision points:
 
 • Recurring vs. One-Time: Checking "Make transfer recurring" expands the form to show Frequency, Repeat, and End Date fields. Unchecked, the payment processes as a single one-time transfer.
 
-• Transfer Date: You can schedule payments for today (immediate) or a future date using the calendar picker. Future-dated payments appear as scheduled transfers in you's queue.
+• Transfer Date: You can schedule payments for today (immediate) or a future date using the calendar picker. Future-dated payments appear as scheduled transfers in your queue.
 
 • Source Account Selection: You can choose from any eligible funded account. The "Make this my preferred source account" checkbox stores the selection for future loan payments.
 

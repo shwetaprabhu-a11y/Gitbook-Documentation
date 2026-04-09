@@ -52,7 +52,7 @@ The Dashboard Quick Links serve as an always-available bridge between digital ba
 
 **3.1 Dashboard Overview**
 
-The Summerville FCU dashboard is you's primary landing page after login. It displays account balances, Quick Transfer, upcoming payments, credit score, and related links. At the very bottom of the dashboard, the footer section contains the five quick links.
+The Summerville FCU dashboard is your primary landing page after login. It displays account balances, Quick Transfer, upcoming payments, credit score, and related links. At the very bottom of the dashboard, the footer section contains the five quick links.
 
 ![](/.gitbook/assets/24c30f617e73e6629d17809c27be42eacd3ba8fb.png){width="4.791666666666667in" height="7.520833333333333in"}
 

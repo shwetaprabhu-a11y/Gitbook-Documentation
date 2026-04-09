@@ -60,7 +60,7 @@ Step 1: Member logs into nFinia digital banking and lands on the Dashboard. The 
 
 ![](/.gitbook/assets/24c30f617e73e6629d17809c27be42eacd3ba8fb.png){width="3.75in" height="5.885416666666667in"}
 
-The Dashboard provides you\'s full account portfolio at a glance. From here, you navigates to the Accounts section to access the Account Grouping feature.
+The Dashboard provides you\'s full account portfolio at a glance. From here, you navigate to the Accounts section to access the Account Grouping feature.
 
 Step 2: Member navigates to the Accounts Overview screen. The Account Group dropdown at the top of the screen defaults to \'All Accounts,\' showing all linked accounts in system-defined groups (Deposit Accounts, Loan Accounts, etc.).
 
@@ -68,7 +68,7 @@ Step 2: Member navigates to the Accounts Overview screen. The Account Group drop
 
 The Account Group dropdown reveals all available groups --- both system-defined and any custom groups you have created. Selecting a group filters the Accounts Overview to show only accounts within that group. The \'Manage Groups\' option at the bottom of the dropdown opens the group management interface.
 
-Step 3: Member selects \'Manage Groups\' from the dropdown or navigates to the group management screen. To create a new custom group, you taps the \'New Custom Group\' option. The system displays an empty group creation form.
+Step 3: Member selects \'Manage Groups\' from the dropdown or navigates to the group management screen. To create a new custom group, you tap the \'New Custom Group\' option. The system displays an empty group creation form.
 
 ![](/.gitbook/assets/04108ad58b03fea0bc4487ee60b7078f425d26d4.png){width="5.833333333333333in" height="2.4583333333333335in"}
 
@@ -84,21 +84,21 @@ Step 5: When adding accounts, you uses the \'Add Account\' dropdown to select fr
 
 ![](/.gitbook/assets/6e0099bf3bcf548dccb3333c52f88d252338be3e.png){width="5.833333333333333in" height="2.46875in"}
 
-The Add Account dropdown lists all eligible accounts with their names and masked account numbers. you selects one or more accounts to add to the current group or section. Accounts can belong to multiple custom groups simultaneously.
+The Add Account dropdown lists all eligible accounts with their names and masked account numbers. you select one or more accounts to add to the current group or section. Accounts can belong to multiple custom groups simultaneously.
 
-Step 6: To modify a system-defined group, you selects \'Edit\' on an existing system group (e.g., Deposit Accounts). The system displays the group\'s current configuration with options to add sections, move accounts, or rename sections.
+Step 6: To modify a system-defined group, you select \'Edit\' on an existing system group (e.g., Deposit Accounts). The system displays the group\'s current configuration with options to add sections, move accounts, or rename sections.
 
 ![](/.gitbook/assets/7092a724a8094dc0630e22de9ddc6ba0f6d52103.png){width="5.833333333333333in" height="2.46875in"}
 
 The Edit System Group view shows the group\'s current accounts and sections. You can add new sections within system groups to further organize their default account view. System group names cannot be changed, but their internal structure is fully customizable.
 
-Step 7: To edit a custom group, you selects \'Edit\' on their custom group. The full group configuration is displayed with options to rename, add/remove sections, add/remove accounts, or delete the group entirely.
+Step 7: To edit a custom group, you select \'Edit\' on their custom group. The full group configuration is displayed with options to rename, add/remove sections, add/remove accounts, or delete the group entirely.
 
 ![](/.gitbook/assets/acd46680f36cd2ec736de44aafd4c25519d7c442.png){width="5.833333333333333in" height="2.8333333333333335in"}
 
-The Edit Custom Group view provides full CRUD operations: rename the group, add or remove sections, move accounts between sections, add new accounts via the dropdown, or delete the entire group. Changes are saved when you confirms the edit.
+The Edit Custom Group view provides full CRUD operations: rename the group, add or remove sections, move accounts between sections, add new accounts via the dropdown, or delete the entire group. Changes are saved when you confirm the edit.
 
-Step 8: To reorder groups, you accesses the Manage Groups sort interface. Groups are displayed in a sortable list with drag handles, allowing you to arrange groups in their preferred display order.
+Step 8: To reorder groups, you access the Manage Groups sort interface. Groups are displayed in a sortable list with drag handles, allowing you to arrange groups in their preferred display order.
 
 ![](/.gitbook/assets/abc75d9ba70e8c0897886de81e977d764c73b9b7.png){width="5.833333333333333in" height="2.3854166666666665in"}
 
@@ -112,7 +112,7 @@ The Manage Groups sort page shows all groups (both system and custom) in their c
 
 - System groups cannot be deleted or renamed, only their internal sections and account arrangement can be modified.
 
-- If you creates a section within a group, accounts can be moved between sections via drag-and-drop or the Move Account action.
+- If you create a section within a group, accounts can be moved between sections via drag-and-drop or the Move Account action.
 
 - If no accounts are assigned to a custom group, the group appears empty but remains visible in the dropdown.
 

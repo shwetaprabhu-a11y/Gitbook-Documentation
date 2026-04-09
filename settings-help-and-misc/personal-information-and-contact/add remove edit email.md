@@ -54,7 +54,7 @@ All three sub-workflows — Add, Edit, and Remove — share the same OTP authent
 
 **Step 1 — Login**
 
-you navigates to the Summerville CU online banking portal and enters their User ID and password on the Login screen, then clicks **Log in**.
+you navigate to the Summerville CU online banking portal and enters their User ID and password on the Login screen, then clicks **Log in**.
 
 ![](../../../.gitbook/assets/image_1.png)
 
@@ -74,7 +74,7 @@ _Step 2 — OTP method selection: Choose SMS, call, or email_
 
 **Step 3 — Select OTP Delivery Number**
 
-If you selects **Send me a message**, they are shown a list of registered phone numbers (masked for security, e.g. (+1) 2\*\*-\*\*\*-\*\*01). you selects the number where the OTP should be sent.
+If you select **Send me a message**, they are shown a list of registered phone numbers (masked for security, e.g. (+1) 2\*\*-\*\*\*-\*\*01). you select the number where the OTP should be sent.
 
 ![](../../../.gitbook/assets/image_3.png)
 
@@ -84,7 +84,7 @@ _Step 3 — Select the phone number to receive the OTP_
 
 **Step 4 — Enter OTP Code**
 
-The system confirms the OTP has been dispatched ("A One-Time Passcode (OTP) has been sent to (+1) 2\*\*-\*\*\*-\*\*01"). you enters the 5-digit code in the **Enter code** fields. A retry countdown timer is displayed. you may optionally select **Remember Device/Browser** before clicking **Submit**.
+The system confirms the OTP has been dispatched ("A One-Time Passcode (OTP) has been sent to (+1) 2\*\*-\*\*\*-\*\*01"). you enter the 5-digit code in the **Enter code** fields. A retry countdown timer is displayed. you may optionally select **Remember Device/Browser** before clicking **Submit**.
 
 ![](../../../.gitbook/assets/image_4.png)
 
@@ -94,7 +94,7 @@ _Step 4 — Enter the OTP code and optionally remember the device_
 
 **Step 5 — Dashboard**
 
-After successful OTP verification, you lands on the main Dashboard ("Good Morning, DONALD BLAKE"). From here, they navigate to **More** in the top navigation bar.
+After successful OTP verification, you land on the main Dashboard ("Good Morning, DONALD BLAKE"). From here, they navigate to **More** in the top navigation bar.
 
 ![](../../../.gitbook/assets/image_5.png)
 
@@ -104,7 +104,7 @@ _Step 5 — Dashboard: Navigate to More_
 
 **Step 6 — Select View Personal Information**
 
-you opens the account profile switcher and selects **View Personal Information**. This brings up the Contact Information section.
+you open the account profile switcher and selects **View Personal Information**. This brings up the Contact Information section.
 
 ![](../../../.gitbook/assets/image_6.png)
 
@@ -114,7 +114,7 @@ _Step 6 — Profile selector: Choose View Personal Information_
 
 **Step 7 — Contact Information: Add Email**
 
-The system displays the Contact Information page. Under the **Personal email** section, the current email addresses are shown. you clicks **Add a new email address**, which reveals an inline text input field. you types the new email address and clicks **Add a new email address** (submit button) or **Cancel** to abandon.
+The system displays the Contact Information page. Under the **Personal email** section, the current email addresses are shown. you click **Add a new email address**, which reveals an inline text input field. you types the new email address and clicks **Add a new email address** (submit button) or **Cancel** to abandon.
 
 ![](../../../.gitbook/assets/image_7.png)
 
@@ -216,7 +216,7 @@ _Step 9 (Remove) — Success: Email ID has been removed successfully_
 
 ### Login Screen
 
-The entry point to the platform. you provides their **User ID** and **Password** to initiate authentication. A "I need help logging in" link provides self-service recovery options for forgotten credentials.
+The entry point to the platform. you provide their **User ID** and **Password** to initiate authentication. A "I need help logging in" link provides self-service recovery options for forgotten credentials.
 
 | Field / Element        | Type           | Description                                 | Notes                                                   |
 | ---------------------- | -------------- | ------------------------------------------- | ------------------------------------------------------- |
@@ -234,7 +234,7 @@ _Login Screen — Summerville CU nFinia portal_
 
 ### OTP Method Selection Screen
 
-Presented immediately after credential validation. you selects their preferred OTP delivery channel. This screen is shared across all three email management workflows (Add, Edit, Remove).
+Presented immediately after credential validation. you select their preferred OTP delivery channel. This screen is shared across all three email management workflows (Add, Edit, Remove).
 
 | Field / Element   | Type          | Description                                | Notes                                      |
 | ----------------- | ------------- | ------------------------------------------ | ------------------------------------------ |
@@ -266,7 +266,7 @@ _Phone Number Selection Screen for OTP delivery_
 
 ### OTP Entry Screen
 
-you enters the 5-digit code dispatched to their chosen contact method. A retry timer enforces a cooldown period before a new code can be requested.
+you enter the 5-digit code dispatched to their chosen contact method. A retry timer enforces a cooldown period before a new code can be requested.
 
 | Field / Element                       | Type         | Description                                      | Notes                                           |
 | ------------------------------------- | ------------ | ------------------------------------------------ | ----------------------------------------------- |
@@ -299,7 +299,7 @@ _Dashboard — Navigate via More to reach Contact Information_
 
 ### Profile Selector
 
-Appears when you clicks their profile/membership indicator. Lists all memberships (personal and business) the user has access to, enabling context switching between accounts.
+Appears when you click their profile/membership indicator. Lists all memberships (personal and business) the user has access to, enabling context switching between accounts.
 
 | Field / Element                                                 | Type             | Description                        | Notes                                        |
 | --------------------------------------------------------------- | ---------------- | ---------------------------------- | -------------------------------------------- |
@@ -333,7 +333,7 @@ _Contact Information — Add a new email address inline_
 
 ### Contact Information Screen — Edit Email
 
-The existing email entry transforms into an editable text field pre-filled with the current value. you makes their changes directly inline.
+The existing email entry transforms into an editable text field pre-filled with the current value. you make their changes directly inline.
 
 | Field / Element          | Type                | Description                                        | Notes                                    |
 | ------------------------ | ------------------- | -------------------------------------------------- | ---------------------------------------- |

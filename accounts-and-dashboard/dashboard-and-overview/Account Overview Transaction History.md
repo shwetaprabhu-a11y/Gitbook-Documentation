@@ -8,7 +8,7 @@ Module: nFinia Digital Banking > Accounts
 
 **  01  PRODUCT SUMMARY**
 
-The Account Overview is Summerville Credit Union You' consolidated portfolio view within the nFinia digital banking platform. Accessed by clicking 'Accounts' from the top navigation on the Dashboard, this page displays all of you's active accounts — Checking, Savings, Loans, Certificates of Deposit, Lines of Credit, and Membership accounts — as a structured list. Each entry presents the account name, masked account number, current balance, and available balance.
+The Account Overview is Summerville Credit Union You' consolidated portfolio view within the nFinia digital banking platform. Accessed by clicking 'Accounts' from the top navigation on the Dashboard, this page displays all of your active accounts — Checking, Savings, Loans, Certificates of Deposit, Lines of Credit, and Membership accounts — as a structured list. Each entry presents the account name, masked account number, current balance, and available balance.
 
 Clicking any account tile navigates to the full Account Detail page for that account. From the Account Detail, You can view complete transaction history, search and filter transactions by date, amount, or description, export or print history, and access related services like eStatements, scheduled transfers, and stop payment requests.
 
@@ -63,7 +63,7 @@ CSUM-04 (Account Detail), CSUM-05 (eDocuments), CSUM-19 (Online Forms)
 
 **Step 2 — Open the More Menu**
 
-you clicks ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
+you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
 ![](/.gitbook/assets/img_ba578ecd81d3.png)
 

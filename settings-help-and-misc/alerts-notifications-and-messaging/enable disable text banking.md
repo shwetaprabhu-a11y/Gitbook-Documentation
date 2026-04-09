@@ -47,7 +47,7 @@ These use cases reflect the range of interactions Summerville CU You will encoun
 ### 3.1 Prerequisites
 
 * Member must have an active Summerville Credit Union retail membership with nFinia digital banking access.
-* At least one phone number must be registered on you's profile. The Text Banking screen populates the phone number dropdown from you's profile on file; if no number is registered, you must update their personal information first.
+* At least one phone number must be registered on your profile. The Text Banking screen populates the phone number dropdown from your profile on file; if no number is registered, you must update their personal information first.
 * you must have the Summerville nFinia mobile app installed and be able to complete OTP authentication (i.e., have access to one of the registered phone numbers or call options).
 
 ***
@@ -56,7 +56,7 @@ These use cases reflect the range of interactions Summerville CU You will encoun
 
 **Step 1 — Launch the App (Welcome Screen)**
 
-you opens the Summerville nFinia mobile app. The Welcome screen presents options to Enroll, Log In, access Accounts/Move Money/Check Deposit/Manage Devices as a guest, or check a quick Balance.
+you open the Summerville nFinia mobile app. The Welcome screen presents options to Enroll, Log In, access Accounts/Move Money/Check Deposit/Manage Devices as a guest, or check a quick Balance.
 
 ![Welcome Screen](../../../.gitbook/assets/Welcome_Screen_1.jpeg)
 
@@ -64,7 +64,7 @@ you opens the Summerville nFinia mobile app. The Welcome screen presents options
 
 **Step 2 — Log In**
 
-you taps **Log In** and enters their Username and Password. "Remember me" is available to persist the username. you taps the **Log In** button to proceed.
+you tap **Log In** and enters their Username and Password. "Remember me" is available to persist the username. you tap the **Log In** button to proceed.
 
 ![Log In Screen](../../../.gitbook/assets/Log_In_Screen_2.jpeg)
 
@@ -72,7 +72,7 @@ you taps **Log In** and enters their Username and Password. "Remember me" is ava
 
 **Step 3 — Select Authentication Method (Verification)**
 
-The system triggers an OTP challenge. you are presented with all registered phone numbers and can choose to receive a **Text** or a **Call** to any of them. you selects their preferred delivery method.
+The system triggers an OTP challenge. you are presented with all registered phone numbers and can choose to receive a **Text** or a **Call** to any of them. you select their preferred delivery method.
 
 > _Note: If you does not see their updated contact information, a **Refresh** link is available to reload the phone number list from the profile._
 
@@ -82,7 +82,7 @@ The system triggers an OTP challenge. you are presented with all registered phon
 
 **Step 4 — Enter OTP (User Verification)**
 
-A one-time passcode is sent to the selected number. you enters the passcode in the field provided and taps **Submit**. A retry timer (58 seconds) is displayed — if the code does not arrive, you must wait before requesting a new one.
+A one-time passcode is sent to the selected number. you enter the passcode in the field provided and taps **Submit**. A retry timer (58 seconds) is displayed — if the code does not arrive, you must wait before requesting a new one.
 
 ![User Verification — OTP Entry](../../../.gitbook/assets/User_Verification___OTP_Entry_4.jpeg)
 
@@ -90,7 +90,7 @@ A one-time passcode is sent to the selected number. you enters the passcode in t
 
 **Step 5 — Dashboard**
 
-Upon successful authentication, you lands on the Dashboard, which shows a personalized greeting, Credit Score & Offers, and an overview of all accounts with total deposits and outstanding loans.
+Upon successful authentication, you land on the Dashboard, which shows a personalized greeting, Credit Score & Offers, and an overview of all accounts with total deposits and outstanding loans.
 
 ![Dashboard](../../../.gitbook/assets/Dashboard_5.jpeg)
 
@@ -98,7 +98,7 @@ Upon successful authentication, you lands on the Dashboard, which shows a person
 
 **Step 6 — Open the Side Menu**
 
-you taps the hamburger menu icon (top right) to open the navigation drawer. The menu displays you's name, last login timestamp, and options including Statements & eNotices, Digital Wallet, Help, **More Options**, My Insights, Feedback, Stop Check Payment, and My Offers.
+you tap the hamburger menu icon (top right) to open the navigation drawer. The menu displays your name, last login timestamp, and options including Statements & eNotices, Digital Wallet, Help, **More Options**, My Insights, Feedback, Stop Check Payment, and My Offers.
 
 ![Side Menu](../../../.gitbook/assets/Side_Menu_6.jpeg)
 
@@ -106,7 +106,7 @@ you taps the hamburger menu icon (top right) to open the navigation drawer. The 
 
 **Step 7 — Navigate to More Options**
 
-you taps **More Options** in the side menu. The More Options screen lists: Contact us, Branch and ATM, Card fraud alerts, Disclosures and agreement, **Text banking**, and Close Account. you taps **Text banking**.
+you tap **More Options** in the side menu. The More Options screen lists: Contact us, Branch and ATM, Card fraud alerts, Disclosures and agreement, **Text banking**, and Close Account. you tap **Text banking**.
 
 ![More Options](../../../.gitbook/assets/More_Options_7.jpeg)
 
@@ -148,9 +148,9 @@ The system displays a confirmation toast: **"Text Banking has now been disabled.
 ### 3.3 Decision Points & Branching
 
 * **Toggle state on load**: If Text Banking is already enabled, you arrives on the Text Banking screen with the toggle in the ON position. The workflow to disable is the mirror image of enabling.
-* **Phone number selection**: The dropdown is pre-populated with all phone numbers registered on you's profile. If you have only one number, it is pre-selected. If multiple numbers exist, you must confirm the correct one before tapping Update.
+* **Phone number selection**: The dropdown is pre-populated with all phone numbers registered on your profile. If you have only one number, it is pre-selected. If multiple numbers exist, you must confirm the correct one before tapping Update.
 * **Adding a new number**: A **+ Add a new number** link is available on the Text Banking screen. This redirects to personal information settings where a new number can be registered. you must complete that flow before returning to Text Banking to select the new number.
-* **OTP failure**: If you enters an incorrect OTP, the system does not grant access to settings. you may retry after the countdown timer expires.
+* **OTP failure**: If you enter an incorrect OTP, the system does not grant access to settings. you may retry after the countdown timer expires.
 
 ***
 
@@ -158,7 +158,7 @@ The system displays a confirmation toast: **"Text Banking has now been disabled.
 
 Upon tapping **Update** with a valid toggle state and phone number selected, the platform:
 
-* Updates the Text Banking enrollment status in you's profile.
+* Updates the Text Banking enrollment status in your profile.
 * Displays an inline toast notification confirming the action ("Text Banking has now been enabled." or "Text Banking has now been disabled.").
 * If enabled: you can immediately begin texting commands to 28640 from the registered number.
 * If disabled: any subsequent texts from the previously registered number to 28640 will receive no response or an "inactive" reply.
@@ -234,7 +234,7 @@ Presented after credential submission when OTP is required. Lists all registered
 
 ### User Verification Screen (OTP Entry)
 
-Displayed after you selects a delivery method. Accepts the one-time passcode.
+Displayed after you select a delivery method. Accepts the one-time passcode.
 
 ![User Verification Screen](../../../.gitbook/assets/User_Verification_Screen_13.jpeg)
 

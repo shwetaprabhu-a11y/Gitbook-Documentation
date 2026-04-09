@@ -8,7 +8,7 @@ Module: nFinia Digital Banking > Settings
 
 **  01  PRODUCT SUMMARY**
 
-The Settings module is you's personal control panel for managing their digital banking experience — account display preferences, security configurations, notification settings, and more. Settings is organised into sections covering security (password, MFA), account management (display names, visibility, order), alerts, and personal preferences.
+The Settings module is your personal control panel for managing their digital banking experience — account display preferences, security configurations, notification settings, and more. Settings is organised into sections covering security (password, MFA), account management (display names, visibility, order), alerts, and personal preferences.
 
 The Accounts & Memberships settings allow You to customise how their accounts appear throughout the platform: setting nicknames, reordering accounts, hiding inactive accounts, and choosing display icons. These preferences persist across sessions and devices.
 
@@ -62,7 +62,7 @@ CSUM-25 (Password & User ID), CSUM-19 (Alerts), CSUM-26 (Profile & Memberships)
 
 **Step 2 — Open the More Menu**
 
-you clicks ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
+you click ‘More’ in the top navigation bar. The More options panel expands to show additional features: Check Deposit, User ID and Password, eDocuments, Account Alerts, General Alerts, Password, Forms, One-Time Passcode, Skip A Pay, Do-Not-Disturb, Manage Devices, My Insights, Alert Settings, Recent Activities, and Card Services.
 
 ![](/.gitbook/assets/img_ba578ecd81d3.png)
 

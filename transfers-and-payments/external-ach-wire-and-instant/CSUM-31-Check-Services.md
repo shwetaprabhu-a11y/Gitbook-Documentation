@@ -68,13 +68,13 @@ Step 2: Member clicks the \"More\" button in the top navigation bar to access ad
 
 ![](/.gitbook/assets/5d113ae19a7e22fd64da3337eeb9f7f8da6a8917.png){width="5.833333333333333in" height="3.3645833333333335in"}
 
-Step 3: Member selects \"Check Stop Payment\" from the More menu. The Check Stop Payment form appears with account selection, check number entry, optional amount, and memo fields. you selects their account, enters the check number, optionally enters the check amount, and accepts the terms and conditions before clicking \"Stop Payments.\"
+Step 3: Member selects \"Check Stop Payment\" from the More menu. The Check Stop Payment form appears with account selection, check number entry, optional amount, and memo fields. you select their account, enters the check number, optionally enters the check amount, and accepts the terms and conditions before clicking \"Stop Payments.\"
 
 ![](/.gitbook/assets/3faef7d73969f2738ed25c9ea1984ccea0e21a5c.png){width="5.625in" height="5.947916666666667in"}
 
 **3.3 Reorder Checks Flow**
 
-Step 4: To reorder checks, you navigates to Banking > More > Reorder Checks. The system displays the selected account details including membership owner(s), primary owner, email ID, and verified mailing address pulled directly from the core system.
+Step 4: To reorder checks, you navigate to Banking > More > Reorder Checks. The system displays the selected account details including membership owner(s), primary owner, email ID, and verified mailing address pulled directly from the core system.
 
 ![](/.gitbook/assets/70963dd07db7a4dc2a38907cdf9f2294c961f755.png){width="5.625in" height="5.302083333333333in"}
 

@@ -68,7 +68,7 @@ Step 2: Member taps the \'More\' option from the bottom navigation or the +More 
 
 ![](/.gitbook/assets/5d113ae19a7e22fd64da3337eeb9f7f8da6a8917.png){width="5.833333333333333in" height="3.3645833333333335in"}
 
-The More Menu Hub provides a centralized navigation point for features beyond the primary tabs. You can access Cards, Check Services, Reward Points, Skip-a-Pay, and other account management features from this hub. you selects the credit card account or navigates to the Cards section to access reward points.
+The More Menu Hub provides a centralized navigation point for features beyond the primary tabs. You can access Cards, Check Services, Reward Points, Skip-a-Pay, and other account management features from this hub. you select the credit card account or navigates to the Cards section to access reward points.
 
 Step 3: Member selects the credit card account (e.g., \'P-Money\'s Credit Card (\#160)\') from the Accounts section. The system navigates to the Credit Card Account Detail view showing the full card summary and reward points balance.
 
@@ -90,13 +90,13 @@ Step 5: Member clicks \'Redeem/View\' within the modal to navigate to the card p
 
 - If the reward points program is not enabled on the card, the reward points row is hidden.
 
-- If the card is locked, you sees \'Locked\' status and must unlock before certain card actions are available.
+- If the card is locked, you see \'Locked\' status and must unlock before certain card actions are available.
 
 - If points are expiring soon, the expiring points count and date are highlighted to prompt action.
 
 **3.4 Completion & Confirmation**
 
-Upon viewing reward points, no system state changes occur (read-only operation). When a member initiates a redemption through the Redeem/View link, the system routes to the card processor\'s redemption flow. Upon successful redemption, the Redeemed to Date counter increments and Available Points decreases accordingly. you receives a confirmation notification within the nFinia Inbox.
+Upon viewing reward points, no system state changes occur (read-only operation). When a member initiates a redemption through the Redeem/View link, the system routes to the card processor\'s redemption flow. Upon successful redemption, the Redeemed to Date counter increments and Available Points decreases accordingly. you receive a confirmation notification within the nFinia Inbox.
 
 **3.5 Error Handling**
 

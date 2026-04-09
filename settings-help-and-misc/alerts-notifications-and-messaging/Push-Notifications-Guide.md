@@ -114,7 +114,7 @@ Base URL and deploying to the live member base.
 | **Error Scenario**         | **User Experience**                                 | **Resolution**                                                                                                |
 | Invalid Credentials        | Push test fails silently or returns error in Prisma | Verify Client ID and Password with Tyfone support; regenerate credentials if needed                           |
 | Wrong Base URL             | Notification sent but not received on device        | Confirm correct environment URL (UAT vs. Prod) with Tyfone deployment team                                    |
-| Push Not Enabled on Device | No notification appears on member phone             | Member must enable push notifications for the Summerville FCU app in device Settings                          |
+| Push Not Enabled on Device | No notification appears on your phone             | Member must enable push notifications for the Summerville FCU app in device Settings                          |
 | Invalid Individual ID      | Test push dispatched but no recipient matched       | Verify you Individual ID in the core banking system; ensure you have an active mobile enrollment |
 | App Not Installed          | Push token not registered; delivery fails           | Member must download and install the Summerville FCU mobile app from App Store / Google Play                  |
 

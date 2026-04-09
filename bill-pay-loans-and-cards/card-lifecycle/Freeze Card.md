@@ -33,7 +33,7 @@ Freezing a card blocks new purchase and transaction approvals while the card rem
 
 | **Use Case**                  | **Who Uses It**                                             | **What They Do**                                                      | **Business Value**                                                        |
 | ----------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **Freeze a misplaced card**   | Member who cannot locate their card                         | Navigates to Cards, selects the card, clicks Freeze Card and confirms | Prevents unauthorized transactions while you searches for the card |
+| **Freeze a misplaced card**   | Member who cannot locate their card                         | Navigates to Cards, selects the card, clicks Freeze Card and confirms | Prevents unauthorized transactions while you search for the card |
 | **Pause an unused card**      | Member who wants to deactivate a secondary card temporarily | Freezes the card from the Cards section                               | Reduces fraud exposure on cards not currently in use                      |
 | **Unfreeze a recovered card** | Member who found their previously frozen card               | Toggles card status back to active from the Cards list                | Instantly restores card access without contacting the credit union        |
 
