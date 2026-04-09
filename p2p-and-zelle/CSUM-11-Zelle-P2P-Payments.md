@@ -80,7 +80,9 @@ The Move Money hub is shown with payment options including Pay Bills, Quick Pay,
 
 The Zelle Payment form page is displayed from a legacy banking interface with form fields visible for entering recipient and payment details.
 
-**⚠  Screenshot not available for this step — pending capture**
+<figure><img src="/.gitbook/assets/Zelle_P2P_img4.png" alt="" width="480"><figcaption></figcaption></figure>
+
+*Step 4: Send a Zelle Payment*
 
 **Step 5 — Verify Zelle Payment**
 

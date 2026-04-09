@@ -72,5 +72,7 @@ you click ‘Move Money’ in the top navigation bar. The Move Money Hub display
 
 The Bill Pay screen from the legacy banking interface is displayed, showing payment options and form fields for setting up or making a bill payment.
 
-**⚠  Screenshot not available for this step — pending capture**
+<figure><img src="/.gitbook/assets/Bill_Pay_img3.png" alt="" width="480"><figcaption></figcaption></figure>
+
+*Step 3: Navigate from Dashboard to Bill Pay*
 

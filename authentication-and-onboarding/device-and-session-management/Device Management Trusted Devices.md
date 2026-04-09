@@ -72,13 +72,17 @@ you click ‘More’ in the top navigation bar. The More options panel expands t
 
 The Account Overview page shows a detailed list of registered devices with columns for device type, date registered, and action buttons for managing each device.
 
-**⚠  Screenshot not available for this step — pending capture**
+<figure><img src="/.gitbook/assets/Device_Management_img3.png" alt="" width="340"><figcaption></figcaption></figure>
+
+*Step 3: Navigate from Dashboard to Devices*
 
 **Step 4 — Review Device Details**
 
 The Personal Information page displays a comprehensive list of registered devices, each with a 'Forget Device' button for removing the device from your trusted device list.
 
-**⚠  Screenshot not available for this step — pending capture**
+<figure><img src="/.gitbook/assets/Device_Management_img3.png" alt="" width="340"><figcaption></figcaption></figure>
+
+*Step 4: Review Device Details*
 
 **Step 5 — Remove a Trusted Device**
 
