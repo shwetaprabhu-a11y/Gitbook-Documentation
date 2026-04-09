@@ -57,6 +57,9 @@
     * [Add Within CU Recipient](<transfers-and-payments/recipient-management/Add Within CU Recipient.md>)
     * [Add Multiple Account Recipient](<transfers-and-payments/recipient-management/Add Multiple Account Recipient.md>)
     * [View Multiple Account Recipient](<transfers-and-payments/recipient-management/View Multiple Account Recipient.md>)
+  * [Check Deposit](transfers-and-payments/check-deposit/README.md)
+    * [Web Check Deposit](transfers-and-payments/check-deposit/Web-Check-Deposit-Guide.md)
+    * [Mobile Check Deposit (RDC)](transfers-and-payments/check-deposit/Mobile-Check-Deposit-Guide.md)
 
 ## Bill Pay, Loans, and Cards <a href="#billpay-loans-cards" id="billpay-loans-cards"></a>
 
@@ -123,6 +126,7 @@
   * [Alerts, Notifications and Messaging](settings-help-and-misc/alerts-notifications-and-messaging/README.md)
     * [Alerts & Notifications](settings-help-and-misc/alerts-notifications-and-messaging/CSUM-16-Alerts-Notifications.md)
     * [Inbox & Message Center](settings-help-and-misc/alerts-notifications-and-messaging/CSUM-17-Inbox-Message-Center.md)
+    * [Push Notifications](settings-help-and-misc/alerts-notifications-and-messaging/Push-Notifications-Guide.md)
     * [Alerts & Blackout Period](<settings-help-and-misc/alerts-notifications-and-messaging/alerts and blackout period.md>)
     * [Enable / Disable Text Banking](<settings-help-and-misc/alerts-notifications-and-messaging/enable disable text banking.md>)
   * [Personal Information and Contact](settings-help-and-misc/personal-information-and-contact/README.md)
