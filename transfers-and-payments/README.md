@@ -1,3 +1,3 @@
-# Transfers and Payments
+# Move Money
 
-This section guides members through all available transfer and payment options within the nFinia platform. From moving funds between personal accounts to paying other Summerville Credit Union members, conducting external ACH transfers, sending wire payments, and using FedNow for instant payments—members will find comprehensive guidance for managing their money movement needs.
+The Move Money section guides members through every way to transfer and send funds within the nFinia platform. Whether you're moving money between your own accounts, paying another member, sending an ACH or wire transfer, paying a bill, sending via Zelle, or managing loan repayments — all money movement features are covered here.

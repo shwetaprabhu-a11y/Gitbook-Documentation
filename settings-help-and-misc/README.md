@@ -1,3 +1,3 @@
-# Settings and Preferences
+# More Menu
 
-The Settings and Preferences section empowers members to customize their banking experience and maintain control over their account communications. Members can configure alerts and notifications, manage contact information and address details, set up eStatement delivery preferences, and adjust application settings to fit their needs.
+The More Menu section covers everything accessible from the More tab in the nFinia app. This includes managing your personal information and contact details, configuring settings and preferences, setting up eStatements, managing alerts and notifications, and accessing your message inbox.

@@ -1,3 +1,3 @@
-# Bill Pay and Loans
+# Bill Pay
 
-This subsection covers bill payment and loan management features available to members. Members can set up and manage bill payments, process loan payments, use quick pay for one-time payments, access loan repayment details, explore flexible options like skip-a-pay, and complete loan-related forms and documentation.
+This section covers bill payment capabilities within the nFinia platform. Members can set up one-time or recurring bill payments, manage payees, and track payment history — all accessible from the Move Money hub.

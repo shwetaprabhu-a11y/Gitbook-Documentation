@@ -1,3 +1,3 @@
-# Bill Pay, Loans, and Cards
+# Cards
 
-The Bill Pay, Loans, and Cards section covers the complete lifecycle and management of member payments and card products. This includes bill payment and loan repayment capabilities, flexible loan options like skip-a-pay, and comprehensive card management—from initial activation through daily controls, spending limits, freeze/block functionality, and digital wallet integration.
+The Cards section covers the complete lifecycle and management of your debit and credit cards. From activating a new card and managing daily controls to freezing, blocking, replacing, and adding cards to your digital wallet — you'll find step-by-step guidance for every card action available in the nFinia app.
