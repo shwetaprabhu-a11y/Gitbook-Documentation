@@ -6,13 +6,13 @@ Platform: nFinia Mobile Banking | Prepared by: Jeeva PM | April 2026
 **1. PRODUCT SUMMARY**
 
 Mobile Check Deposit — also known as Remote Deposit Capture (RDC) — on
-nFinia enables Summerville FCU business members to deposit checks
+nFinia enables Summerville FCU business You to deposit checks
 directly from their mobile device, eliminating the need for a branch
-visit. Members use their device camera to photograph the front and back
+visit. You use their device camera to photograph the front and back
 of a check through a guided capture interface with green
 corner-alignment overlays that ensure image quality.
 
-The deposit flow walks members through each step: selecting the target
+The deposit flow walks You through each step: selecting the target
 account, entering the check amount, capturing check images using guided
 tips, reviewing thumbnails, and submitting. The system validates the
 amount against configured deposit limits and checks image quality before
@@ -20,7 +20,7 @@ processing.
 
 For Summerville FCU, Mobile Check Deposit reduces teller traffic,
 extends deposit availability beyond branch hours, and provides business
-members — especially those with limited time to visit in person — with a
+You — especially those with limited time to visit in person — with a
 fully digital deposit channel. All deposits create an auditable record
 in Check Deposit History, supporting Reg CC compliance and BSA/AML
 monitoring.
@@ -31,7 +31,7 @@ monitoring.
 | -------------------- | ---------------------------------------------------------------------- |
 | **Attribute**        | **Detail**                                                             |
 | Feature Name         | Mobile Check Deposit (Remote Deposit Capture / RDC)                    |
-| Module               | Accounts \> Deposit                                                    |
+| Module               | Accounts > Deposit                                                    |
 | User Roles           | Enrolled Member, Business Account Holder                               |
 | Access Level         | Requires RDC enrollment and account eligibility                        |
 | Key Actions          | Select account, enter amount, capture front/back check images, submit  |
@@ -52,7 +52,7 @@ monitoring.
 
 **3.1 Prerequisites**
 
-• RDC enrollment active for the member account
+• RDC enrollment active for you account
 
 • Account eligible for mobile check deposit (configured by Summerville
 FCU)
@@ -106,8 +106,8 @@ is created with deposit event details for BSA/AML and Reg CC compliance.
 | To Account                  | Dropdown              | Selects the target deposit account (e.g. Student Checking) |
 | Check Amount                | Numeric input         | Dollar amount of check being deposited; required           |
 | Email                       | Text input (optional) | Email address for deposit confirmation notification        |
-| Front Check \[camera icon\] | Button                | Opens camera or Photo Tips modal for front image capture   |
-| Back Check \[camera icon\]  | Button                | Opens camera for endorsed back image capture               |
+| Front Check [camera icon] | Button                | Opens camera or Photo Tips modal for front image capture   |
+| Back Check [camera icon]  | Button                | Opens camera for endorsed back image capture               |
 | Bottom Nav                  | Navigation bar        | Accounts | Deposit | Transfer | Bill Pay                   |
 
 **Screen 2: Photo Tips Modal**
@@ -210,8 +210,8 @@ area*
 |                           |                                                 |                              |                                                 |
 | ------------------------- | ----------------------------------------------- | ---------------------------- | ----------------------------------------------- |
 | **Task**                  | **Navigation Path**                             | **Who Can Do It**            | **Notes**                                       |
-| Deposit a check           | App \> Deposit tab \> Fill form \> Submit       | Enrolled member (RDC active) | Camera permission required                      |
-| View deposit history      | App \> Deposit \> History tab                   | Member                       | Shows all channels: Mobile, Online, Branch, ATM |
-| Retake check image        | Deposit flow \> Review screen \> Retake Picture | Member                       | Available before submission only                |
+| Deposit a check           | App > Deposit tab > Fill form > Submit       | Enrolled member (RDC active) | Camera permission required                      |
+| View deposit history      | App > Deposit > History tab                   | Member                       | Shows all channels: Mobile, Online, Branch, ATM |
+| Retake check image        | Deposit flow > Review screen > Retake Picture | Member                       | Available before submission only                |
 | Check deposit limit       | Deposit form — displayed automatically          | Member                       | Configured per account type by Summerville FCU  |
 | View deposit confirmation | Success screen after submit                     | Member                       | Shows receipt number, amount, status            |

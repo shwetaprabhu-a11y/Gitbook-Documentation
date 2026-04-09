@@ -3,7 +3,7 @@
 
 **Approval Requests**
 
-Module: Business Banking \> Approvals
+Module: Business Banking > Approvals
 
 **Navigation: Dashboard → Business Banking → Approvals**
 
@@ -37,7 +37,7 @@ of approvals, providing both regulatory compliance and fraud protection.
 | -------------------- | ----------------------------------------------------------------------------------- |
 | **Attribute**        | **Detail**                                                                          |
 | Feature Name         | Approval Requests                                                                   |
-| Module               | Business Banking \> Approvals                                                       |
+| Module               | Business Banking > Approvals                                                       |
 | Navigation           | Dashboard → Business Banking → Approvals                                            |
 | User Roles           | Authorized Signer, Business Owner, Business Admin                                   |
 | Access Level         | Role-based; requires Approval permission                                            |
@@ -81,8 +81,7 @@ Transfers, Account Specific Alerts) and a Quick Transfer widget for fast
 internal transfers. To proceed to Business Banking features, locate the
 "Business Banking" tab in the top navigation bar and click on it.
 
-![fig01\_dashboard.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-10-Business-Banking-Approvals/media/1a19568ff18131f218abd77ce89a1be61f1d1d82.png
-"fig01_dashboard.png")
+![](/.gitbook/assets/1a19568ff18131f218abd77ce89a1be61f1d1d82.png)
 
 *Figure 1 — Log In and Open the Dashboard*
 
@@ -101,8 +100,7 @@ role has permission to access will be visible. From here, locate and
 click the tile for the feature you need — the next steps will guide you
 through the specific workflow.
 
-![fig02\_bb\_hub.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-10-Business-Banking-Approvals/media/4c26e21f2a941fd4d0531c900025b3d6ab137178.png
-"fig02_bb_hub.png")
+![](/.gitbook/assets/4c26e21f2a941fd4d0531c900025b3d6ab137178.png)
 
 *Figure 2 — Open the Business Banking Hub*
 
@@ -119,8 +117,7 @@ act on a request, click the row to expand the full details, then click
 "Approve" to authorize or "Decline" to reject. The badge on the Pending
 tab shows the total count of items awaiting your action.
 
-![fig03\_pending\_requests.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-10-Business-Banking-Approvals/media/ebd71113c6a249aedb055630afa3a05e14bda55f.png
-"fig03_pending_requests.png")
+![](/.gitbook/assets/ebd71113c6a249aedb055630afa3a05e14bda55f.png)
 
 *Figure 3 — Navigate to Approvals and Review Pending Requests*
 
@@ -135,8 +132,7 @@ range to review approvals for specific periods. This serves as your
 positive audit trail for compliance reviews — it documents who approved
 what and when.
 
-![fig04\_approved.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-10-Business-Banking-Approvals/media/98cbb9a713b60d2d41604182037ed7b5db885acb.png
-"fig04_approved.png")
+![](/.gitbook/assets/98cbb9a713b60d2d41604182037ed7b5db885acb.png)
 
 *Figure 4 — Review Approved Transactions*
 
@@ -150,8 +146,7 @@ transaction if the payment is still needed. Review this tab regularly: a
 high number of declines may indicate unauthorized activity, incorrect
 amounts, or training gaps that need attention.
 
-![fig05\_declined.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-10-Business-Banking-Approvals/media/939c6dc152b336361537a60d73f67cb23ddc93cf.png
-"fig05_declined.png")
+![](/.gitbook/assets/939c6dc152b336361537a60d73f67cb23ddc93cf.png)
 
 *Figure 5 — Review Declined Transactions*
 
@@ -167,8 +162,7 @@ monitoring the queue regularly. Consider enabling Business Alerts for
 approval notifications to ensure approvers are promptly notified of
 pending items.
 
-![fig06\_expired.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-10-Business-Banking-Approvals/media/b58a4156c2221efdceff60c7c2d7b08c247fa8e0.png
-"fig06_expired.png")
+![](/.gitbook/assets/b58a4156c2221efdceff60c7c2d7b08c247fa8e0.png)
 
 *Figure 6 — Check Expired Requests*
 
@@ -182,8 +176,7 @@ all five tabs together during compliance audits to demonstrate that your
 dual-control approval process is functioning correctly and that all
 transaction outcomes are documented.
 
-![fig07\_cancelled.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-10-Business-Banking-Approvals/media/f9ec52b0b937a39b748130bd2680e62c0fea84d8.png
-"fig07_cancelled.png")
+![](/.gitbook/assets/f9ec52b0b937a39b748130bd2680e62c0fea84d8.png)
 
 *Figure 7 — Review Cancelled Requests*
 
@@ -191,7 +184,7 @@ transaction outcomes are documented.
 
 Once approval thresholds are configured (see CSUM-08 Approval Settings),
 any transaction requiring approval appears in the Approval Requests
-queue. Navigate to Business Banking \> Approvals to see the queue. The
+queue. Navigate to Business Banking > Approvals to see the queue. The
 page shows the business name and membership number at the top, with tabs
 for Pending requests, Approved requests, Declined requests, Expired
 requests, and Cancelled requests. Click on any pending request to expand
@@ -203,8 +196,7 @@ account, bank name, routing number, and amount. Two action buttons
 appear: "Decline request" (red) and "Approve request" (blue with
 checkmark).
 
-![fig08\_pending\_expanded.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-10-Business-Banking-Approvals/media/0a258baf91054c69676dd7f76a084918f815d357.png
-"fig08_pending_expanded.png")
+![](/.gitbook/assets/0a258baf91054c69676dd7f76a084918f815d357.png)
 
 *Figure 8 — Pending Approval Request — Expanded Details*
 
@@ -221,8 +213,7 @@ number of additional approvals still needed (e.g., "Awaiting 3 more
 approval(s)"), giving visibility into the multi-party authorization
 workflow.
 
-![fig09\_second\_request.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-10-Business-Banking-Approvals/media/e51442b5ebaf9d030d54e8d3d93a8c77ce844dca.png
-"fig09_second_request.png")
+![](/.gitbook/assets/e51442b5ebaf9d030d54e8d3d93a8c77ce844dca.png)
 
 *Figure 9 — Multiple Pending Requests with Details*
 
@@ -238,8 +229,7 @@ declination" (dark blue button) to finalize the decline, or "Close" to
 cancel and return to the queue. Declined requests move to the "Declined
 requests" tab for record-keeping and audit purposes.
 
-![fig10\_decline\_modal.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-10-Business-Banking-Approvals/media/2bf382e576e3d64d2d67ab9048e468c5c9e978c3.png
-"fig10_decline_modal.png")
+![](/.gitbook/assets/2bf382e576e3d64d2d67ab9048e468c5c9e978c3.png)
 
 *Figure 10 — Confirm Request Declination Dialog*
 
@@ -254,7 +244,6 @@ documentation and regulatory examination preparation. The approved
 requests list serves as the primary compliance evidence that
 dual-control requirements were followed for each transaction.
 
-![fig11\_approved\_tab.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-10-Business-Banking-Approvals/media/0e49f0f35955bccfb1e18e8ea951aa0f00429f4a.png
-"fig11_approved_tab.png")
+![](/.gitbook/assets/0e49f0f35955bccfb1e18e8ea951aa0f00429f4a.png)
 
 *Figure 11 — Approved Requests Tab with Export*

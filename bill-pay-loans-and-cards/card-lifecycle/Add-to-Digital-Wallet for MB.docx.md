@@ -42,7 +42,7 @@ The process takes under a minute. From your Card Details, tap Add to Digital Wal
 | 03  STEP-BY-STEP GUIDE |
 | :---- |
 
-| *📍  Navigation: Banking › Cards › \[select card\] › Card Details › Add to Digital Wallet* |
+| *📍  Navigation: Banking › Cards › [select card] › Card Details › Add to Digital Wallet* |
 | :---- |
 
 **Step 1  Open Card Details**

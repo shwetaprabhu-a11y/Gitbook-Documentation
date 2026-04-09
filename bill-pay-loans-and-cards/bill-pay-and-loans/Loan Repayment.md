@@ -14,18 +14,18 @@ Tyfone, Inc. \| April 2026 \| Confidential
   **1. Product Summary**
   ------------------------
 
-Loan Repayment is a core feature of the nFinia Digital Banking platform that enables credit union members to make payments on their loan accounts directly through the digital banking portal. This capability covers one-time payments, scheduled recurring payments, and multiple payment option types including regular payments, next-due-amount payments, payoff amounts, and pay-to-principal options --- all accessible through the Transfer Funds to Own Account workflow.
+Loan Repayment is a core feature of the nFinia Digital Banking platform that enables credit union You to make payments on their loan accounts directly through the digital banking portal. This capability covers one-time payments, scheduled recurring payments, and multiple payment option types including regular payments, next-due-amount payments, payoff amounts, and pay-to-principal options --- all accessible through the Transfer Funds to Own Account workflow.
 
-Within the Summerville Federal Credit Union digital banking portal, Loan Repayment is accessible from the Account Details page of any loan account via the "Make Payment" link, or through Move Money \> Transfer Funds to Own Account by selecting a loan account as the destination. The feature integrates with the platform's existing fund transfer infrastructure, providing a guided three-step workflow (Set up Transfer → Review → Finish) that ensures members can make informed payment decisions with clear confirmation at each stage.
+Within the Summerville Federal Credit Union digital banking portal, Loan Repayment is accessible from the Account Details page of any loan account via the "Make Payment" link, or through Move Money > Transfer Funds to Own Account by selecting a loan account as the destination. The feature integrates with the platform's existing fund transfer infrastructure, providing a guided three-step workflow (Set up Transfer → Review → Finish) that ensures You can make informed payment decisions with clear confirmation at each stage.
 
-For Summerville FCU, Loan Repayment reduces delinquency rates by making it effortless for members to stay current on their obligations. The self-service capability deflects routine payment inquiries from the contact center, while the recurring payment option promotes consistent repayment behavior. Members benefit from 24/7 payment access, flexible scheduling, and the ability to make additional principal payments to accelerate their payoff timeline.
+For Summerville FCU, Loan Repayment reduces delinquency rates by making it effortless for You to stay current on their obligations. The self-service capability deflects routine payment inquiries from the contact center, while the recurring payment option promotes consistent repayment behavior. You benefit from 24/7 payment access, flexible scheduling, and the ability to make additional principal payments to accelerate their payoff timeline.
 
 **At a Glance**
 
   -------------------------- ----------------------------------------------------------------------------------------------
   **Attribute**              **Detail**
   **Feature Name**           Loan Repayment (Transfer Funds to Own Account --- Loan)
-  **Module**                 Move Money \> Transfer Funds to Own Account / Accounts \> Account Details \> Make Payment
+  **Module**                 Move Money > Transfer Funds to Own Account / Accounts > Account Details > Make Payment
   **User Roles**             Primary Account Holder, Joint Account Holder, Delegated User (with Transfer permissions)
   **Access Level**           Account-level; requires active loan account and funded source account
   **Key Actions**            Make Payment, Schedule Recurring Payment, Pay Next Due Amount, Payoff Loan, Pay to Principal
@@ -43,11 +43,11 @@ For Summerville FCU, Loan Repayment reduces delinquency rates by making it effor
   Set up recurring loan payments          Account Holder    During transfer setup, checks "Make transfer recurring," selects frequency (weekly, bi-weekly, monthly), sets end date or repeat count, reviews and confirms   Automates payment schedule; promotes consistent repayment behavior and reduces missed payments
   Pay next due amount                     Account Holder    Selects "Next due amt" from payment option dropdown to automatically populate the minimum payment due                                                          Simplifies minimum payment process; ensures member pays exactly what is owed for the billing cycle
   Make a payoff payment                   Account Holder    Selects "Payoff amount" from payment option dropdown to populate the full remaining balance                                                                    Enables loan payoff without calling for a payoff quote; accelerates loan closure
-  Pay to principal                        Account Holder    Selects "Pay to principal" to apply the entire payment directly to the loan principal                                                                          Allows members to reduce principal faster, lowering total interest paid over the loan term
-  View loan account and payment history   Account Holder    Views Account Details showing amount due, payment due date, overdue status, payoff amount, and full transaction history                                        Provides complete loan visibility; helps members track payment progress and remaining balance
+  Pay to principal                        Account Holder    Selects "Pay to principal" to apply the entire payment directly to the loan principal                                                                          Allows You to reduce principal faster, lowering total interest paid over the loan term
+  View loan account and payment history   Account Holder    Views Account Details showing amount due, payment due date, overdue status, payoff amount, and full transaction history                                        Provides complete loan visibility; helps You track payment progress and remaining balance
   --------------------------------------- ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------
 
-These use cases reflect the primary loan repayment scenarios for Summerville FCU members. The combination of flexible payment options, recurring scheduling, and self-service payoff capabilities addresses both the credit union's goal of reducing delinquency and the member's need for convenient, transparent loan management.
+These use cases reflect the primary loan repayment scenarios for Summerville FCU You. The combination of flexible payment options, recurring scheduling, and self-service payoff capabilities addresses both the credit union's goal of reducing delinquency and you's need for convenient, transparent loan management.
 
   ----------------------------
   **3. End-to-End Workflow**
@@ -57,11 +57,11 @@ These use cases reflect the primary loan repayment scenarios for Summerville FCU
 
 • Member must be enrolled in Summerville FCU digital banking with an active membership.
 
-• The member must hold at least one active loan account (auto loan, personal loan, mortgage, etc.).
+• you must hold at least one active loan account (auto loan, personal loan, mortgage, etc.).
 
-• The member must have a funded source account (checking or savings) from which to make the payment.
+• you must have a funded source account (checking or savings) from which to make the payment.
 
-• Transfer permissions must be enabled for the member's role (relevant for delegated access users).
+• Transfer permissions must be enabled for you's role (relevant for delegated access users).
 
 **3.2 Step-by-Step Workflow**
 
@@ -69,43 +69,43 @@ These use cases reflect the primary loan repayment scenarios for Summerville FCU
 
 ![](/.gitbook/assets/941cb6109ca40bea557207ec0807c5bc303d7582.png){width="6.395833333333333in" height="4.666666666666667in"}
 
-The member logs into the Summerville FCU digital banking portal and navigates to Accounts Overview, filtering by Loan Accounts. The overview displays each loan with its account name (e.g., "2019 BMW 0001"), Amount Due, Payment Due / Next Due Date, Payoff Amount, and quick action links including "History" and "Transfer Funds." Overdue loans are highlighted with a red "Overdue" indicator and the next due date in red text.
+you logs into the Summerville FCU digital banking portal and navigates to Accounts Overview, filtering by Loan Accounts. The overview displays each loan with its account name (e.g., "2019 BMW 0001"), Amount Due, Payment Due / Next Due Date, Payoff Amount, and quick action links including "History" and "Transfer Funds." Overdue loans are highlighted with a red "Overdue" indicator and the next due date in red text.
 
 **Step 2: View Loan Account Details**
 
 ![](/.gitbook/assets/faeef6b4b3667130c900a8c85083cd8af8943042.png){width="6.28125in" height="4.791666666666667in"}
 
-Clicking on the loan account opens the Account Details page, which provides a comprehensive view of the loan including Amount Due (\$498.67), Payment Due / Next Due Date (\$0.95 due on Oct 27, 2025), and links to "Make Payment," "Skip-a-Pay," and "See more." Below the summary card, the Transactions section displays the full payment history with deposits, payment credits, and balance progression. The member clicks "Make Payment" to initiate the loan repayment workflow.
+Clicking on the loan account opens the Account Details page, which provides a comprehensive view of the loan including Amount Due (\$498.67), Payment Due / Next Due Date (\$0.95 due on Oct 27, 2025), and links to "Make Payment," "Skip-a-Pay," and "See more." Below the summary card, the Transactions section displays the full payment history with deposits, payment credits, and balance progression. you clicks "Make Payment" to initiate the loan repayment workflow.
 
 **Step 3: Set Up Transfer --- Select Payment Option**
 
 ![](/.gitbook/assets/419e72b26bfd162ab5880db184ed7f1c29b3e76d.png){width="6.333333333333333in" height="4.854166666666667in"}
 
-The Transfer Funds to Own Account screen opens with the three-step progress indicator (Set up Transfer → Review → Finish). Step 1 displays the From account (source checking/savings) and To account (the loan). The Payment Option dropdown provides four choices: Select (default), Next due amt, Payoff amount, Pay to principal, and Make a regular payment. The member also has the option to check "Make transfer recurring" to set up automated payments. The "Make this my preferred source account" checkbox allows saving the source account for future payments.
+The Transfer Funds to Own Account screen opens with the three-step progress indicator (Set up Transfer → Review → Finish). Step 1 displays the From account (source checking/savings) and To account (the loan). The Payment Option dropdown provides four choices: Select (default), Next due amt, Payoff amount, Pay to principal, and Make a regular payment. you also has the option to check "Make transfer recurring" to set up automated payments. The "Make this my preferred source account" checkbox allows saving the source account for future payments.
 
 **Step 4: Enter Payment Amount and Date**
 
 ![](/.gitbook/assets/10fe725cbd98588d807375aa0160fc96f3875611.png){width="6.416666666666667in" height="4.895833333333333in"}
 
-After selecting a payment option (e.g., "Make a regular payment"), the member enters the Amount to be transferred and an optional Transaction memo (limited to 23 characters). The Transfer Date field defaults to today's date with a calendar picker for scheduling future payments. A "Make transfer recurring" checkbox is available for setting up automated payment schedules. The member clicks "Continue" to proceed to the review step.
+After selecting a payment option (e.g., "Make a regular payment"), you enters the Amount to be transferred and an optional Transaction memo (limited to 23 characters). The Transfer Date field defaults to today's date with a calendar picker for scheduling future payments. A "Make transfer recurring" checkbox is available for setting up automated payment schedules. you clicks "Continue" to proceed to the review step.
 
 **Step 5: Configure Recurring Payment (Optional)**
 
 ![](/.gitbook/assets/edbb99947b19a2bbc25e91dd2a8f1a343140cc84.png){width="6.458333333333333in" height="4.895833333333333in"}
 
-When "Make transfer recurring" is checked, additional scheduling fields appear: Frequency (Weekly transfer, Bi-Weekly, Monthly, etc.), Repeat (Until end date, Number of times, Until cancelled), and End Date. The system displays a confirmation summary such as "Scheduled Weekly transfer, until April 15, 2026." This enables members to automate their loan payments on a consistent schedule, reducing the risk of missed payments.
+When "Make transfer recurring" is checked, additional scheduling fields appear: Frequency (Weekly transfer, Bi-Weekly, Monthly, etc.), Repeat (Until end date, Number of times, Until cancelled), and End Date. The system displays a confirmation summary such as "Scheduled Weekly transfer, until April 15, 2026." This enables You to automate their loan payments on a consistent schedule, reducing the risk of missed payments.
 
 **Step 6: Review Transfer**
 
 ![](/.gitbook/assets/dd6109a2a1574b388fad5f07085bfa600a88d76f.png){width="6.385416666666667in" height="3.34375in"}
 
-The Review screen (Step 2 of 3) presents a complete summary of the payment: the transfer amount (\$1.00), From account (PREFD C 0040 with available balance), To account (2019 BMW 0001), Transfer date, and recurring schedule details if applicable. The member can click "Back" to modify any details, "Cancel" to abort, or "Confirm Transfer" to submit the payment. This review step ensures the member has full visibility before committing.
+The Review screen (Step 2 of 3) presents a complete summary of the payment: the transfer amount (\$1.00), From account (PREFD C 0040 with available balance), To account (2019 BMW 0001), Transfer date, and recurring schedule details if applicable. you can click "Back" to modify any details, "Cancel" to abort, or "Confirm Transfer" to submit the payment. This review step ensures you have full visibility before committing.
 
 **Step 7: Transfer Success**
 
 ![](/.gitbook/assets/98f2b25b450f321bfa1599a03392160bc3a15a0b.png){width="6.427083333333333in" height="3.8020833333333335in"}
 
-Upon successful submission, the Finish screen (Step 3 of 3) displays a green checkmark with "Successfully Sent" confirmation showing the transfer amount, source and destination accounts, and transfer date. A "Print" link allows the member to generate a receipt, and the "Done" button returns to the main banking view. The transaction is immediately recorded in the account's transaction history.
+Upon successful submission, the Finish screen (Step 3 of 3) displays a green checkmark with "Successfully Sent" confirmation showing the transfer amount, source and destination accounts, and transfer date. A "Print" link allows you to generate a receipt, and the "Done" button returns to the main banking view. The transaction is immediately recorded in the account's transaction history.
 
 **3.3 Decision Points & Branching**
 
@@ -115,13 +115,13 @@ The Loan Repayment workflow includes several decision points:
 
 • Recurring vs. One-Time: Checking "Make transfer recurring" expands the form to show Frequency, Repeat, and End Date fields. Unchecked, the payment processes as a single one-time transfer.
 
-• Transfer Date: Members can schedule payments for today (immediate) or a future date using the calendar picker. Future-dated payments appear as scheduled transfers in the member's queue.
+• Transfer Date: You can schedule payments for today (immediate) or a future date using the calendar picker. Future-dated payments appear as scheduled transfers in you's queue.
 
-• Source Account Selection: Members can choose from any eligible funded account. The "Make this my preferred source account" checkbox stores the selection for future loan payments.
+• Source Account Selection: You can choose from any eligible funded account. The "Make this my preferred source account" checkbox stores the selection for future loan payments.
 
 **3.4 Completion & Confirmation**
 
-All loan payments conclude with a confirmation screen showing the transfer amount, source/destination accounts, and transfer date. For one-time payments, funds are debited immediately (or on the scheduled date). For recurring payments, the schedule is created and the first payment processes on the specified start date. Each transaction generates an audit log entry and appears in the loan account's transaction history. Members can print a receipt from the success screen.
+All loan payments conclude with a confirmation screen showing the transfer amount, source/destination accounts, and transfer date. For one-time payments, funds are debited immediately (or on the scheduled date). For recurring payments, the schedule is created and the first payment processes on the specified start date. Each transaction generates an audit log entry and appears in the loan account's transaction history. You can print a receipt from the success screen.
 
 **3.5 Error Handling**
 
@@ -220,14 +220,14 @@ Confirmation screen displayed after successful payment submission.
 
   -------------------------- --------------------------------------------------------------------------- ------------------- ---------------------------------------
   **Task**                   **Navigation Path**                                                         **Who Can Do It**   **Notes**
-  View loan accounts         Accounts \> Accounts Overview \> Filter: Loan Accounts                      Account Holder      Shows all loans with payment status
-  Make a loan payment        Account Details \> Make Payment \> Set up Transfer \> Review \> Confirm     Account Holder      3-step guided workflow
-  Pay next due amount        Make Payment \> Payment option: Next due amt                                Account Holder      Auto-populates minimum payment due
-  Pay off loan               Make Payment \> Payment option: Payoff amount                               Account Holder      Auto-populates full remaining balance
-  Pay to principal           Make Payment \> Payment option: Pay to principal                            Account Holder      Entire payment applied to principal
-  Set up recurring payment   Make Payment \> Check "Make transfer recurring" \> Set frequency/end date   Account Holder      Automates future payments on schedule
-  View payment history       Account Details \> Transactions                                             Account Holder      Searchable, exportable, printable
-  Print payment receipt      Transfer Success \> Print                                                   Account Holder      Available after successful payment
+  View loan accounts         Accounts > Accounts Overview > Filter: Loan Accounts                      Account Holder      Shows all loans with payment status
+  Make a loan payment        Account Details > Make Payment > Set up Transfer > Review > Confirm     Account Holder      3-step guided workflow
+  Pay next due amount        Make Payment > Payment option: Next due amt                                Account Holder      Auto-populates minimum payment due
+  Pay off loan               Make Payment > Payment option: Payoff amount                               Account Holder      Auto-populates full remaining balance
+  Pay to principal           Make Payment > Payment option: Pay to principal                            Account Holder      Entire payment applied to principal
+  Set up recurring payment   Make Payment > Check "Make transfer recurring" > Set frequency/end date   Account Holder      Automates future payments on schedule
+  View payment history       Account Details > Transactions                                             Account Holder      Searchable, exportable, printable
+  Print payment receipt      Transfer Success > Print                                                   Account Holder      Available after successful payment
   -------------------------- --------------------------------------------------------------------------- ------------------- ---------------------------------------
 
   -------------------
@@ -236,6 +236,6 @@ Confirmation screen displayed after successful payment submission.
 
 Loan Repayment is a foundational self-service capability for Summerville Federal Credit Union's digital banking offering on the nFinia platform. The feature addresses a critical member need by enabling convenient, flexible loan payments through the same Transfer Funds infrastructure used across the platform, ensuring a consistent and familiar user experience.
 
-The guided three-step workflow (Set up Transfer → Review → Finish) with clear confirmation screens ensures members make informed payment decisions. The multiple payment options --- next due amount, payoff, pay-to-principal, and regular payments --- cater to diverse member needs, from minimum obligation fulfillment to accelerated debt reduction. The recurring payment capability is particularly valuable for reducing delinquency by automating consistent repayment schedules.
+The guided three-step workflow (Set up Transfer → Review → Finish) with clear confirmation screens ensures You make informed payment decisions. The multiple payment options --- next due amount, payoff, pay-to-principal, and regular payments --- cater to diverse member needs, from minimum obligation fulfillment to accelerated debt reduction. The recurring payment capability is particularly valuable for reducing delinquency by automating consistent repayment schedules.
 
-For Summerville FCU, Loan Repayment strengthens member retention by removing friction from the repayment process. Members who can easily manage their loan payments digitally are less likely to fall behind and more likely to remain engaged with the credit union for future lending needs. The feature reduces contact center volume for routine payment inquiries and provides full transaction audit trails that support the credit union's operational and compliance requirements.
+For Summerville FCU, Loan Repayment strengthens member retention by removing friction from the repayment process. You who can easily manage their loan payments digitally are less likely to fall behind and more likely to remain engaged with the credit union for future lending needs. The feature reduces contact center volume for routine payment inquiries and provides full transaction audit trails that support the credit union's operational and compliance requirements.

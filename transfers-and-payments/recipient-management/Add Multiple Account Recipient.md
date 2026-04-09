@@ -12,7 +12,7 @@ _Platform: Diamond Credit Union nFinia | Feature: Multi-Account Recipient Manage
 
 The Add Multiple-Account Recipient workflow demonstrates a core capability of the nFinia Transfer Account Management model: a single named recipient can hold multiple payment accounts across different account types, payment methods, and institutions. Rather than creating duplicate payee records for the same individual or vendor, the business admin extends an existing recipient profile by clicking “+ Add Account” within the Transfer Account Details view.
 
-This multi-account structure is particularly valuable for commercial members paying vendors or employees who maintain separate Checking and Savings accounts — even at different branches of the same institution. Each linked account carries its own nickname, account type, and routing details, and exposes an independent “Provide Funds” action so the admin can direct each payment to the correct account without modifying the recipient record.
+This multi-account structure is particularly valuable for commercial You paying vendors or employees who maintain separate Checking and Savings accounts — even at different branches of the same institution. Each linked account carries its own nickname, account type, and routing details, and exposes an independent “Provide Funds” action so the admin can direct each payment to the correct account without modifying the recipient record.
 
 For credit unions, this model reduces payee list sprawl, improves transfer accuracy, and supports clean audit trails by keeping all accounts for a given counterparty consolidated under one recipient identity. New accounts can be added at any time, and any individual account can be removed without affecting the others.
 
@@ -30,7 +30,7 @@ For credit unions, this model reduces payee list sprawl, improves transfer accur
 
 > **02 STEP-BY-STEP GUIDE**
 >
-> _Navigation: Dashboard > Business Banking > Transfer & Pay > Recipient Management > \[Select existing recipient] > + Add Account._
+> _Navigation: Dashboard > Business Banking > Transfer & Pay > Recipient Management > [Select existing recipient] > + Add Account._
 
 **Step 1 — Dashboard**
 

@@ -6,9 +6,9 @@
 
 ## 1. Product Summary
 
-Device Management in the Summerville Credit Union nFinia platform gives members visibility and control over every device linked to their account. The feature surfaces under **Settings > Personal Information > Manage Devices** and encompasses two discrete sub-features: **Manage Devices** (view all linked devices with their OS version and last-access timestamp) and **Forget Device** (delink any individual device on demand).
+Device Management in the Summerville Credit Union nFinia platform gives You visibility and control over every device linked to their account. The feature surfaces under **Settings > Personal Information > Manage Devices** and encompasses two discrete sub-features: **Manage Devices** (view all linked devices with their OS version and last-access timestamp) and **Forget Device** (delink any individual device on demand).
 
-This feature serves retail members who want to maintain good account hygiene — particularly when they've replaced a phone, completed banking on a shared computer, or suspect unauthorized access from a device they don't recognize. For the credit union, it reduces inbound call volume related to "I logged in from a new device" friction and supports the broader trusted-device security model that governs OTP bypass on recognized devices.
+This feature serves retail You who want to maintain good account hygiene — particularly when they've replaced a phone, completed banking on a shared computer, or suspect unauthorized access from a device they don't recognize. For the credit union, it reduces inbound call volume related to "I logged in from a new device" friction and supports the broader trusted-device security model that governs OTP bypass on recognized devices.
 
 The feature is available to any authenticated member. No special role or permission is required beyond a standard login. Access is available on both the mobile app and desktop browser.
 
@@ -16,7 +16,7 @@ The feature is available to any authenticated member. No special role or permiss
 | -------------------- | ---------------------------------------------------------- |
 | Feature Name         | Device Management (Manage Devices / Forget Device)         |
 | Module               | Settings > Personal Information > Manage Devices           |
-| User Roles           | All authenticated retail members                           |
+| User Roles           | All authenticated retail You                           |
 | Access Level         | Member self-service (no admin approval required)           |
 | Key Actions          | View linked devices, Remove (forget) a device              |
 | Regulatory Relevance | Account access security, session control, fraud mitigation |
@@ -27,13 +27,13 @@ The feature is available to any authenticated member. No special role or permiss
 
 | Use Case                                             | Who Uses It                                  | What They Do                                                                                                 | Business Value                                                                                      |
 | ---------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| View all linked devices                              | Any authenticated member                     | Opens Manage Devices to see all devices registered under their account with OS version and last access time  | Gives members full transparency into account access; reduces "unauthorized access" anxiety          |
+| View all linked devices                              | Any authenticated member                     | Opens Manage Devices to see all devices registered under their account with OS version and last access time  | Gives You full transparency into account access; reduces "unauthorized access" anxiety          |
 | Remove a replaced device                             | Member who got a new phone                   | Taps Forget on the old device entry to delink it from the account                                            | Prevents stale device records; ensures OTP trust is not inadvertently extended to a disposed device |
 | Remove a shared/public computer                      | Member who logged in on a library or work PC | Forgets the desktop entry to ensure that machine cannot bypass OTP on next login                             | Reduces exposure to credential reuse on shared machines                                             |
 | Audit recent login activity                          | Security-conscious member                    | Reviews Last Accessed timestamps across all devices to identify unexpected sessions                          | Provides a lightweight access audit log without requiring a call to member services                 |
-| Switch between Remember Device and Trust Device tabs | Member exploring device security options     | Taps the Trust Device tab to view which devices have elevated trust status vs. simple Remember Device status | Enables members to distinguish between two tiers of device recognition                              |
+| Switch between Remember Device and Trust Device tabs | Member exploring device security options     | Taps the Trust Device tab to view which devices have elevated trust status vs. simple Remember Device status | Enables You to distinguish between two tiers of device recognition                              |
 
-The Manage Devices and Forget Device features are especially valuable for credit unions serving digitally active members who regularly switch between mobile and desktop banking. By surfacing device data in plain language (device type, OS version, last access date), Summerville CU reduces friction-driven support calls while giving members the security control they expect from a modern digital banking platform.
+The Manage Devices and Forget Device features are especially valuable for credit unions serving digitally active You who regularly switch between mobile and desktop banking. By surfacing device data in plain language (device type, OS version, last access date), Summerville CU reduces friction-driven support calls while giving You the security control they expect from a modern digital banking platform.
 
 ***
 
@@ -51,7 +51,7 @@ The Manage Devices and Forget Device features are especially valuable for credit
 
 **Step 1 — Welcome Screen**
 
-The member opens the Summerville CU app and sees the Welcome screen. The screen provides quick-action tiles: **Accounts**, **Move Money**, **Check Deposit**, and **Manage Devices**. The member may tap **Manage Devices** directly from this unauthenticated state, or tap **Log In** to authenticate first.
+you opens the Summerville CU app and sees the Welcome screen. The screen provides quick-action tiles: **Accounts**, **Move Money**, **Check Deposit**, and **Manage Devices**. you may tap **Manage Devices** directly from this unauthenticated state, or tap **Log In** to authenticate first.
 
 ![](../../../.gitbook/assets/image_1.jpeg)
 
@@ -59,7 +59,7 @@ The member opens the Summerville CU app and sees the Welcome screen. The screen 
 
 **Step 2 — Log In**
 
-The member enters their **Username** and **Password**. Optionally, they may check **Remember me** (to save the username for future logins) or **Enable Face ID**. Tapping **Log In** submits credentials for authentication.
+you enters their **Username** and **Password**. Optionally, they may check **Remember me** (to save the username for future logins) or **Enable Face ID**. Tapping **Log In** submits credentials for authentication.
 
 ![](../../../.gitbook/assets/image_2.jpeg)
 
@@ -67,7 +67,7 @@ The member enters their **Username** and **Password**. Optionally, they may chec
 
 **Step 3 — Select Authentication Method (OTP)**
 
-If logging in from a device that is not already recognized and trusted, the platform prompts the member to select an OTP delivery method. Options include Text and Call across all verified phone numbers on file. Masked phone numbers are shown for privacy. The member selects their preferred channel.
+If logging in from a device that is not already recognized and trusted, the platform prompts you to select an OTP delivery method. Options include Text and Call across all verified phone numbers on file. Masked phone numbers are shown for privacy. you selects their preferred channel.
 
 ![](../../../.gitbook/assets/image_3.jpeg)
 
@@ -75,7 +75,7 @@ If logging in from a device that is not already recognized and trusted, the plat
 
 **Step 4 — Enter One-Time Passcode**
 
-A six-digit OTP is delivered to the selected contact. The member enters the passcode in the **Enter passcode** field and taps **Submit**. A 60-second retry timer is shown. If the code is not received, the member may retry after the timer expires.
+A six-digit OTP is delivered to the selected contact. you enters the passcode in the **Enter passcode** field and taps **Submit**. A 60-second retry timer is shown. If the code is not received, you may retry after the timer expires.
 
 ![](../../../.gitbook/assets/image_4.jpeg)
 
@@ -83,7 +83,7 @@ A six-digit OTP is delivered to the selected contact. The member enters the pass
 
 **Step 5 — Dashboard (Post-Login)**
 
-After successful authentication, the member lands on the Dashboard showing their name, credit score offer, account balances, and bottom navigation (Dashboard, Accounts, Move Money, Deposit). To navigate to Manage Devices, the member taps the **hamburger menu (≡)** in the top right.
+After successful authentication, you lands on the Dashboard showing their name, credit score offer, account balances, and bottom navigation (Dashboard, Accounts, Move Money, Deposit). To navigate to Manage Devices, you taps the **hamburger menu (≡)** in the top right.
 
 ![](../../../.gitbook/assets/image_5.jpeg)
 
@@ -91,7 +91,7 @@ After successful authentication, the member lands on the Dashboard showing their
 
 **Step 6 — Side Menu**
 
-The slide-out menu displays the member's name, last login timestamp, and profile options. The member taps **Settings** (Account and security settings) to proceed.
+The slide-out menu displays you's name, last login timestamp, and profile options. you taps **Settings** (Account and security settings) to proceed.
 
 ![](../../../.gitbook/assets/image_6.jpeg)
 
@@ -99,7 +99,7 @@ The slide-out menu displays the member's name, last login timestamp, and profile
 
 **Step 7 — Settings**
 
-The Settings screen presents three categories: **Account Settings** (manage accounts), **Personal Information** (manage devices and contact details), and **User ID and Password** (update credentials and OTP method). The member taps **Personal Information**.
+The Settings screen presents three categories: **Account Settings** (manage accounts), **Personal Information** (manage devices and contact details), and **User ID and Password** (update credentials and OTP method). you taps **Personal Information**.
 
 ![](../../../.gitbook/assets/image_7.jpeg)
 
@@ -107,7 +107,7 @@ The Settings screen presents three categories: **Account Settings** (manage acco
 
 **Step 8 — Personal Information**
 
-The Personal Information screen lists all updateable contact and device entries: Phone Number, Email Address, Mailing Address, Residential Address, and **Manage Devices**. The member taps **Manage Devices** to proceed.
+The Personal Information screen lists all updateable contact and device entries: Phone Number, Email Address, Mailing Address, Residential Address, and **Manage Devices**. you taps **Manage Devices** to proceed.
 
 ![](../../../.gitbook/assets/image_8.jpeg)
 
@@ -115,12 +115,12 @@ The Personal Information screen lists all updateable contact and device entries:
 
 **Step 9 — Manage Devices Screen**
 
-The Manage Devices screen loads showing all devices linked to the member's account. Two tabs are available: **Remember Device** and **Trust Device**. Each device entry displays the device type/name, OS version, and last accessed date and time. A **Forget** action link appears on the right side of each device row.
+The Manage Devices screen loads showing all devices linked to you's account. Two tabs are available: **Remember Device** and **Trust Device**. Each device entry displays the device type/name, OS version, and last accessed date and time. A **Forget** action link appears on the right side of each device row.
 
 Example devices shown:
 
 * **iPhone** — iOS Version 26.3.1, Last Accessed 4/7/26, 2:55 AM
-* **Online or Desktop** — OS X Version 10\_15\_7, Last Accessed 3/6/26, 7:16 AM
+* **Online or Desktop** — OS X Version 10_15_7, Last Accessed 3/6/26, 7:16 AM
 * **Google SDK Emulator (Android)** — Android Version 16, Last Accessed 3/5/26, 11:53 AM
 
 ![](../../../.gitbook/assets/image_9.jpeg)
@@ -129,11 +129,11 @@ Example devices shown:
 
 ### 3.3 Workflow B — Forget Device (Remove a Linked Device)
 
-The Forget Device flow begins at the same Manage Devices screen reached in Workflow A (Steps 1–9 above). Once the member identifies the device they want to remove, they proceed as follows.
+The Forget Device flow begins at the same Manage Devices screen reached in Workflow A (Steps 1–9 above). Once you identifies the device they want to remove, they proceed as follows.
 
 **Step 10 — Tap "Forget"**
 
-On the Manage Devices screen, the member taps **Forget** next to the device they wish to remove. A confirmation dialog immediately appears overlaying the screen.
+On the Manage Devices screen, you taps **Forget** next to the device they wish to remove. A confirmation dialog immediately appears overlaying the screen.
 
 **Step 11 — Confirmation Dialog**
 
@@ -153,19 +153,19 @@ Upon tapping **OK**, the platform removes the device from the linked devices lis
 
 ### 3.4 Decision Points & Branching
 
-* **Cancel on confirmation dialog:** No change is made; the member is returned to the full device list.
-* **Remember Device vs. Trust Device tab:** The Remember Device tab lists devices where the member has saved login credentials (username is pre-filled on return). The Trust Device tab lists devices granted elevated trust, which may bypass OTP verification on future logins. Forget actions are available on both tabs.
-* **Accessing Manage Devices without logging in:** Tapping the Manage Devices tile on the Welcome screen routes the member through the full login + OTP flow before displaying the device list.
+* **Cancel on confirmation dialog:** No change is made; you are returned to the full device list.
+* **Remember Device vs. Trust Device tab:** The Remember Device tab lists devices where you have saved login credentials (username is pre-filled on return). The Trust Device tab lists devices granted elevated trust, which may bypass OTP verification on future logins. Forget actions are available on both tabs.
+* **Accessing Manage Devices without logging in:** Tapping the Manage Devices tile on the Welcome screen routes you through the full login + OTP flow before displaying the device list.
 
 ***
 
 ### 3.5 Error Handling
 
-| Scenario                                         | What the Member Sees                                                                        | Recovery                                                                   |
+| Scenario                                         | What you Sees                                                                        | Recovery                                                                   |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | OTP not received                                 | "Didn't receive your code? Retry in 58 s" timer shown; retry link activates after countdown | Wait for timer; tap retry or go back to select a different delivery method |
 | Session expired before confirming device removal | Platform redirects to login screen                                                          | Re-authenticate and navigate back to Manage Devices                        |
-| No linked devices on the account                 | Manage Devices screen shows an empty list with no device entries                            | No action needed; the member may navigate away                             |
+| No linked devices on the account                 | Manage Devices screen shows an empty list with no device entries                            | No action needed; you may navigate away                             |
 
 ***
 
@@ -191,12 +191,12 @@ The unauthenticated landing screen for the Summerville CU app. Provides both enr
 
 | Field / Element        | Type           | Description                                  | Notes                                              |
 | ---------------------- | -------------- | -------------------------------------------- | -------------------------------------------------- |
-| Username               | Text Input     | Member's digital banking username            | Pre-filled if "Remember me" was previously checked |
-| Password               | Password Input | Member's password; masked by default         | Eye icon toggles visibility                        |
+| Username               | Text Input     | your digital banking username            | Pre-filled if "Remember me" was previously checked |
+| Password               | Password Input | your password; masked by default         | Eye icon toggles visibility                        |
 | Remember me            | Checkbox       | Saves username for future sessions           | Does not save password                             |
 | Enable Face ID         | Checkbox       | Enables biometric login on supported devices | Only available on capable hardware                 |
 | Log In                 | Button         | Submits credentials                          | Triggers OTP if device not recognized              |
-| Enroll                 | Button         | Routes to new enrollment                     | For unenrolled members                             |
+| Enroll                 | Button         | Routes to new enrollment                     | For unenrolled You                             |
 | I need help logging in | Link           | Self-service recovery options                | Forgotten username/password                        |
 
 ***
@@ -216,7 +216,7 @@ The unauthenticated landing screen for the Summerville CU app. Provides both enr
 | --------------------- | ---------- | -------------------------------------------------------- | -------------------------------- |
 | Delivery confirmation | Label      | Confirms which number the OTP was sent to (masked)       | Read-only                        |
 | Enter passcode        | Text Input | Field for the 6-digit OTP                                | Numeric only                     |
-| Retry timer           | Label      | Countdown showing when the member may request a new code | Starts at 60 seconds             |
+| Retry timer           | Label      | Countdown showing when you may request a new code | Starts at 60 seconds             |
 | Submit                | Button     | Validates the entered OTP                                | Proceeds to Dashboard on success |
 
 ***

@@ -12,7 +12,7 @@ Module: nFinia Digital Banking > Cards > Credit Card Accounts
 | ---------------------- |
 | **01 PRODUCT SUMMARY** |
 
-Summerville Credit Union offers Visa credit cards to eligible members, providing a flexible revolving credit line for everyday purchases, travel, and larger expenses. Credit cards are managed through the same Cards section of online banking as debit cards, giving you a unified view of all your payment cards in one place.
+Summerville Credit Union offers Visa credit cards to eligible You, providing a flexible revolving credit line for everyday purchases, travel, and larger expenses. Credit cards are managed through the same Cards section of online banking as debit cards, giving you a unified view of all your payment cards in one place.
 
 From online banking, you can view your credit card balance, available credit, current and past statements, reward points (on eligible cards), minimum payment due, and payment history. You can make payments, set up automatic payments, and manage card controls — all from the Cards section or your credit card account view.
 

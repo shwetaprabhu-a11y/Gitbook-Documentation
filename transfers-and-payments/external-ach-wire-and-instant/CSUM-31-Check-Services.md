@@ -12,18 +12,18 @@ Product Guide \| April 2026
   **1. Product Summary**
   ------------------------
 
-Check Services in the nFinia digital banking platform provides members with two essential check management capabilities: Stop Check Payment and Reorder Checks. These features empower credit union members to manage their check-related needs entirely through digital self-service, eliminating the need to call the branch or visit in person.
+Check Services in the nFinia digital banking platform provides You with two essential check management capabilities: Stop Check Payment and Reorder Checks. These features empower credit union You to manage their check-related needs entirely through digital self-service, eliminating the need to call the branch or visit in person.
 
-Stop Check Payment allows members to place a stop payment order on a single check or a series of checks that have been issued but not yet cleared. This is critical for situations involving lost, stolen, or disputed checks. Reorder Checks enables members to place a new checkbook order directly from their digital banking session, pulling verified account details and mailing address from the core system.
+Stop Check Payment allows You to place a stop payment order on a single check or a series of checks that have been issued but not yet cleared. This is critical for situations involving lost, stolen, or disputed checks. Reorder Checks enables You to place a new checkbook order directly from their digital banking session, pulling verified account details and mailing address from the core system.
 
-Both features are accessible from the More menu hub on the nFinia dashboard, providing a streamlined path for members to manage check services. The platform enforces proper account selection, validates check numbers, and maintains a complete audit trail for compliance purposes.
+Both features are accessible from the More menu hub on the nFinia dashboard, providing a streamlined path for You to manage check services. The platform enforces proper account selection, validates check numbers, and maintains a complete audit trail for compliance purposes.
 
 **At a Glance**
 
   ---------------------- ----------------------------------------------------------------
   **Attribute**          **Detail**
   Feature Name           Check Services (Stop Check & Reorder Check)
-  Module                 Banking \> More \> Check Stop Payment / Reorder Checks
+  Module                 Banking > More > Check Stop Payment / Reorder Checks
   User Roles             Personal Member, Business Member, Authorized Signer
   Access Level           Account holder with checking account
   Key Actions            Stop payment on single/series checks, Reorder checkbooks
@@ -44,7 +44,7 @@ Both features are accessible from the More menu hub on the nFinia dashboard, pro
   Audit compliance             FI Operations     Reviews stop payment history and fee assessments                  Maintains regulatory compliance with UCC stop payment rules
   ---------------------------- ----------------- ----------------------------------------------------------------- -------------------------------------------------------------
 
-These use cases demonstrate how Check Services reduces friction for both personal and business members. By enabling self-service stop payments and check reorders, Summerville FCU can lower call center volume while giving members immediate control over their check management needs.
+These use cases demonstrate how Check Services reduces friction for both personal and business You. By enabling self-service stop payments and check reorders, Summerville FCU can lower call center volume while giving You immediate control over their check management needs.
 
   ----------------------------
   **3. End-to-End Workflow**
@@ -52,11 +52,11 @@ These use cases demonstrate how Check Services reduces friction for both persona
 
 **3.1 Prerequisites**
 
-\- Active checking or money market account with check-writing privileges
+- Active checking or money market account with check-writing privileges
 
-\- Valid login credentials for nFinia digital banking
+- Valid login credentials for nFinia digital banking
 
-\- Check number(s) available for stop payment requests
+- Check number(s) available for stop payment requests
 
 **3.2 Stop Check Payment Flow**
 
@@ -68,13 +68,13 @@ Step 2: Member clicks the \"More\" button in the top navigation bar to access ad
 
 ![](/.gitbook/assets/5d113ae19a7e22fd64da3337eeb9f7f8da6a8917.png){width="5.833333333333333in" height="3.3645833333333335in"}
 
-Step 3: Member selects \"Check Stop Payment\" from the More menu. The Check Stop Payment form appears with account selection, check number entry, optional amount, and memo fields. The member selects their account, enters the check number, optionally enters the check amount, and accepts the terms and conditions before clicking \"Stop Payments.\"
+Step 3: Member selects \"Check Stop Payment\" from the More menu. The Check Stop Payment form appears with account selection, check number entry, optional amount, and memo fields. you selects their account, enters the check number, optionally enters the check amount, and accepts the terms and conditions before clicking \"Stop Payments.\"
 
 ![](/.gitbook/assets/3faef7d73969f2738ed25c9ea1984ccea0e21a5c.png){width="5.625in" height="5.947916666666667in"}
 
 **3.3 Reorder Checks Flow**
 
-Step 4: To reorder checks, the member navigates to Banking \> More \> Reorder Checks. The system displays the selected account details including membership owner(s), primary owner, email ID, and verified mailing address pulled directly from the core system.
+Step 4: To reorder checks, you navigates to Banking > More > Reorder Checks. The system displays the selected account details including membership owner(s), primary owner, email ID, and verified mailing address pulled directly from the core system.
 
 ![](/.gitbook/assets/70963dd07db7a4dc2a38907cdf9f2294c961f755.png){width="5.625in" height="5.302083333333333in"}
 
@@ -82,25 +82,25 @@ Step 5: Member reviews the pre-populated information including account number, o
 
 **3.4 Decision Points & Branching**
 
-\- Single Check vs. Series: Members can choose to stop a single check by number or a series of consecutive checks.
+- Single Check vs. Series: You can choose to stop a single check by number or a series of consecutive checks.
 
-\- Fee Assessment: A stop payment fee (as configured by the credit union) is disclosed before submission. The current fee is displayed on the Check Stop Payment screen.
+- Fee Assessment: A stop payment fee (as configured by the credit union) is disclosed before submission. The current fee is displayed on the Check Stop Payment screen.
 
-\- Terms Acceptance: Members must accept the Terms and Conditions before the stop payment can be processed.
+- Terms Acceptance: You must accept the Terms and Conditions before the stop payment can be processed.
 
-\- Account Eligibility: Only accounts with check-writing privileges appear in the account dropdown.
+- Account Eligibility: Only accounts with check-writing privileges appear in the account dropdown.
 
 **3.5 Completion & Confirmation**
 
-Upon successful submission, members receive an on-screen confirmation with a reference number. The stop payment order or check reorder is logged in the system for audit purposes. Email and/or push notifications are sent based on the member\'s alert preferences.
+Upon successful submission, You receive an on-screen confirmation with a reference number. The stop payment order or check reorder is logged in the system for audit purposes. Email and/or push notifications are sent based on you\'s alert preferences.
 
 **3.6 Error Handling**
 
-\- Invalid Check Number: System validates the check number format and range before submission.
+- Invalid Check Number: System validates the check number format and range before submission.
 
-\- Already Cleared Check: If the check has already been processed, the system displays an error indicating the stop payment cannot be placed.
+- Already Cleared Check: If the check has already been processed, the system displays an error indicating the stop payment cannot be placed.
 
-\- Insufficient Funds for Fee: If the stop payment fee exceeds available balance, the request is declined.
+- Insufficient Funds for Fee: If the stop payment fee exceeds available balance, the request is declined.
 
   -------------------------
   **4. Feature Overview**
@@ -108,7 +108,7 @@ Upon successful submission, members receive an on-screen confirmation with a ref
 
 **4.1 Check Stop Payment**
 
-The Check Stop Payment screen allows members to place a stop payment order on issued checks. It provides single check or series options, amount entry, and terms acceptance.
+The Check Stop Payment screen allows You to place a stop payment order on issued checks. It provides single check or series options, amount entry, and terms acceptance.
 
   ---------------------- ------------------ -------------------------------------------------- --------------------------------------------------------------
   **Field / Element**    **Type**           **Description**                                    **Notes**
@@ -125,7 +125,7 @@ The Check Stop Payment screen allows members to place a stop payment order on is
 
 **4.2 Reorder Checks**
 
-The Reorder Checks screen displays verified account and address information and allows members to place a checkbook order with a single click.
+The Reorder Checks screen displays verified account and address information and allows You to place a checkbook order with a single click.
 
   ----------------------- ------------------ ------------------------------------------------------------------------------- --------------------------------------------
   **Field / Element**     **Type**           **Description**                                                                 **Notes**
@@ -144,10 +144,10 @@ The Reorder Checks screen displays verified account and address information and 
 
   --------------------------- ------------------------------------------------- ------------------- ----------------------------------
   **Task**                    **Navigation Path**                               **Who Can Do It**   **Notes**
-  Stop payment on a check     Dashboard \> More \> Check Stop Payment           Account Holder      Single or series; fee applies
-  Reorder checkbook           Dashboard \> More \> Reorder Checks               Account Holder      Address from core; no editing
-  View stop payment history   Dashboard \> More \> Check Stop Payment           Account Holder      Historical stop orders listed
-  Access via Related Links    Any page \> Related Links \> Check Stop Payment   Account Holder      Cross-linked from Reorder Checks
+  Stop payment on a check     Dashboard > More > Check Stop Payment           Account Holder      Single or series; fee applies
+  Reorder checkbook           Dashboard > More > Reorder Checks               Account Holder      Address from core; no editing
+  View stop payment history   Dashboard > More > Check Stop Payment           Account Holder      Historical stop orders listed
+  Access via Related Links    Any page > Related Links > Check Stop Payment   Account Holder      Cross-linked from Reorder Checks
   --------------------------- ------------------------------------------------- ------------------- ----------------------------------
 
   -------------------
@@ -156,4 +156,4 @@ The Reorder Checks screen displays verified account and address information and 
 
 Check Services in the nFinia digital banking platform delivers essential check management capabilities through an intuitive self-service interface. Stop Check Payment and Reorder Checks together address the most common check-related member needs, reducing branch and call center burden while maintaining full regulatory compliance.
 
-For Summerville Federal Credit Union, these features reinforce the value proposition of digital banking by making routine financial tasks accessible 24/7. The integration with the core system ensures data accuracy for check reorders, while built-in validation and terms acceptance protect both the member and the institution during stop payment processing.
+For Summerville Federal Credit Union, these features reinforce the value proposition of digital banking by making routine financial tasks accessible 24/7. The integration with the core system ensures data accuracy for check reorders, while built-in validation and terms acceptance protect both you and the institution during stop payment processing.

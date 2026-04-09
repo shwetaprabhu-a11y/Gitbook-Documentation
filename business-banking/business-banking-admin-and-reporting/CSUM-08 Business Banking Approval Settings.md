@@ -3,7 +3,7 @@
 
 **Approval Settings**
 
-Module: Business Banking \> Approvals \> Approval Settings
+Module: Business Banking > Approvals > Approval Settings
 
 **Navigation: Dashboard → Business Banking → Approval Settings**
 
@@ -38,7 +38,7 @@ commercial payment processing.
 | -------------------- | -------------------------------------------------------------- |
 | **Attribute**        | **Detail**                                                     |
 | Feature Name         | Approval Settings                                              |
-| Module               | Business Banking \> Approvals \> Approval Settings             |
+| Module               | Business Banking > Approvals > Approval Settings             |
 | Navigation           | Dashboard → Business Banking → Approval Settings               |
 | User Roles           | Business Admin, Business Owner                                 |
 | Key Actions          | Configure approval thresholds, Save, Reset                     |
@@ -85,8 +85,7 @@ the personalized Dashboard showing account balances, quick transfer,
 upcoming payments, and credit score. The Dashboard is the central hub
 for all banking operations — every workflow begins here.
 
-![fig1\_dashboard.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-08-Business-Banking-Approval-Settings/media/1a19568ff18131f218abd77ce89a1be61f1d1d82.png
-"fig1_dashboard.png")
+![](/.gitbook/assets/1a19568ff18131f218abd77ce89a1be61f1d1d82.png)
 
 *Figure 1 — Summerville FCU Dashboard*
 
@@ -105,8 +104,7 @@ role has permission to access will be visible. From here, locate and
 click the tile for the feature you need — the next steps will guide you
 through the specific workflow.
 
-![fig2\_bb\_hub.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-08-Business-Banking-Approval-Settings/media/4c26e21f2a941fd4d0531c900025b3d6ab137178.png
-"fig2_bb_hub.png")
+![](/.gitbook/assets/4c26e21f2a941fd4d0531c900025b3d6ab137178.png)
 
 *Figure 2 — Business Banking Hub*
 
@@ -124,8 +122,7 @@ is needed. Setting "2" means every transaction of that type requires a
 second authorized user to approve it through the Approvals queue before
 it is processed.
 
-![fig3\_approval\_settings.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-08-Business-Banking-Approval-Settings/media/e8a9398b3d8ef1e97ccfe43db5eaadc2a978be71.png
-"fig3_approval_settings.png")
+![](/.gitbook/assets/e8a9398b3d8ef1e97ccfe43db5eaadc2a978be71.png)
 
 *Figure 3 — Approval Settings Page*
 
@@ -142,8 +139,7 @@ click "Save" to apply your changes. Click "Reset" if you want to revert
 to the previous configuration. These settings take effect immediately
 for all future transactions.
 
-![fig4\_thresholds.png](/sessions/eloquent-nifty-ptolemy/bb-conversions/CSUM-08-Business-Banking-Approval-Settings/media/ddd8ab4a06611644970b2d15112e5d20cf5c17a9.png
-"fig4_thresholds.png")
+![](/.gitbook/assets/ddd8ab4a06611644970b2d15112e5d20cf5c17a9.png)
 
 *Figure 4 — Configure Thresholds and Save*
 

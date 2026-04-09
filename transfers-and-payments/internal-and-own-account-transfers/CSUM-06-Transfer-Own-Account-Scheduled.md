@@ -1,24 +1,24 @@
-__  SUMMERVILLE CREDIT UNION  ·  CONSOLIDATED MEMBER GUIDE  ·  CSUM\-07 of 30__
+**  SUMMERVILLE CREDIT UNION  ·  CONSOLIDATED MEMBER GUIDE  ·  CSUM-07 of 30**
 
-__Transfer Own Account & Scheduled Transfers__
+**Transfer Own Account & Scheduled Transfers**
 
 Module: nFinia Digital Banking > Move Money > Transfer / Scheduled
 
-*Sources: Summerville Reports Series A \(36 docs\) \+ Series B \(25 docs\) | Features: nFinia Documentation Features Spreadsheet*
+*Sources: Summerville Reports Series A (36 docs) + Series B (25 docs) | Features: nFinia Documentation Features Spreadsheet*
 
-__  01  PRODUCT SUMMARY__
+**  01  PRODUCT SUMMARY**
 
-The Transfer to Own Account feature enables members to move funds instantly between their own accounts held at the credit union — for example, from checking to savings, or from savings to a loan\. Transfers between own accounts are processed in real time with immediate balance updates\. The four\-step wizard guides members through selecting source and destination accounts, entering amount and memo, reviewing the summary, and receiving a success confirmation\.
+The Transfer to Own Account feature enables You to move funds instantly between their own accounts held at the credit union — for example, from checking to savings, or from savings to a loan. Transfers between own accounts are processed in real time with immediate balance updates. The four-step wizard guides You through selecting source and destination accounts, entering amount and memo, reviewing the summary, and receiving a success confirmation.
 
-Scheduled Transfers extend the own\-account transfer capability to automated recurring movements\. Members can schedule weekly, bi\-weekly, semi\-monthly, or monthly transfers that execute automatically on the configured date\. Common use cases include automatic savings contributions on payday and recurring loan payments to avoid missed deadlines\.
+Scheduled Transfers extend the own-account transfer capability to automated recurring movements. You can schedule weekly, bi-weekly, semi-monthly, or monthly transfers that execute automatically on the configured date. Common use cases include automatic savings contributions on payday and recurring loan payments to avoid missed deadlines.
 
-The Scheduled Transfers view also serves as a log for completed FedNow and ACH transfers, giving members a consolidated payment history view alongside their active transfer schedules\.
+The Scheduled Transfers view also serves as a log for completed FedNow and ACH transfers, giving You a consolidated payment history view alongside their active transfer schedules.
 
-__At a Glance__
+**At a Glance**
 
-__Attribute__
+**Attribute**
 
-__Detail__
+**Detail**
 
 Module
 
@@ -26,15 +26,15 @@ Move Money > Transfer Own Account / Scheduled Transfers
 
 Transfer Speed
 
-Instant \(real\-time for own\-account transfers\)
+Instant (real-time for own-account transfers)
 
 Schedule Types
 
-One\-time, Weekly, Bi\-weekly, Semi\-monthly, Monthly
+One-time, Weekly, Bi-weekly, Semi-monthly, Monthly
 
 Steps
 
-4 \(From → To → Amount/Memo → Confirm → Success\)
+4 (From → To → Amount/Memo → Confirm → Success)
 
 History View
 
@@ -42,105 +42,67 @@ Completed FedNow and scheduled transfer records
 
 Related Reports
 
-CSUM\-06 \(Move Money Hub\), CSUM\-08 \(Other Members Transfer\)
+CSUM-06 (Move Money Hub), CSUM-08 (Other You Transfer)
 
-__  02  KEY USE CASES__
+**  02  KEY USE CASES**
 
-__Use Case__
 
-__Who Uses It__
+| Use Case                     | Who Uses It                                                                                | What They Do                                                       | Business Value                                                                                                                                                                                                    |
+| ---------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Savings Top-Up               | You building savings goal                                                              | Select checking as From, savings as To, enter amount               | Instant savings deposit without branch or ATM                                                                                                                                                                     |
+| Automate Monthly Savings     | You setting up recurring savings                                                       | Schedule weekly transfer from checking to savings after payday     | Set-and-forget savings automation                                                                                                                                                                                 |
+| Loan Payment from Savings    | You with funds in savings                                                              | Select savings as From, loan as To for immediate payment           | Flexible payment source beyond primary checking account                                                                                                                                                           |
+| View Scheduled Transfer Log  | You reviewing automated payments                                                       | Open Scheduled Transfers to see all active and completed schedules | Full automation history in one screen                                                                                                                                                                             |
+| **  03  STEP-BY-STEP GUIDE** | *Navigation: Dashboard > Move Money > 'Transfer to Own Account' OR 'Scheduled Transfers'.* | **Step 1 — Start from Dashboard**                                  | you begins at the Dashboard after logging in. The Dashboard displays all account balances, upcoming payments, quick-action tiles, and the top navigation bar with links to Accounts, Move Money, and More. |
 
-__What They Do__
-
-__Business Value__
-
-Savings Top\-Up
-
-Members building savings goal
-
-Select checking as From, savings as To, enter amount
-
-Instant savings deposit without branch or ATM
-
-Automate Monthly Savings
-
-Members setting up recurring savings
-
-Schedule weekly transfer from checking to savings after payday
-
-Set\-and\-forget savings automation
-
-Loan Payment from Savings
-
-Members with funds in savings
-
-Select savings as From, loan as To for immediate payment
-
-Flexible payment source beyond primary checking account
-
-View Scheduled Transfer Log
-
-Members reviewing automated payments
-
-Open Scheduled Transfers to see all active and completed schedules
-
-Full automation history in one screen
-
-__  03  STEP\-BY\-STEP GUIDE__
-
-*Navigation: Dashboard > Move Money > 'Transfer to Own Account' OR 'Scheduled Transfers'\.*
-
-__Step 1 — Start from Dashboard__
-
-The member begins at the Dashboard after logging in\. The Dashboard displays all account balances, upcoming payments, quick\-action tiles, and the top navigation bar with links to Accounts, Move Money, and More\.
 
 ![](/.gitbook/assets/img_eb0a7d21423c.png)
 
 *Step 1: Start from Dashboard*
 
-__Step 2 — Navigate to Move Money Hub__
+**Step 2 — Navigate to Move Money Hub**
 
-The member clicks ‘Move Money’ in the top navigation bar\. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other Members, Same\-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer\.
+you clicks ‘Move Money’ in the top navigation bar. The Move Money Hub displays all payment and transfer options as tiles including Pay Bills, Quick Pay, Zelle Payment, Internal Transfers, Other You, Same-Day Transfers, Send Instantly, Manage Recipients, Add Recipient, Transaction History, Scheduled Transfers, and P2P Transfer.
 
 ![](/.gitbook/assets/img_dd37cd06feee.png)
 
 *Step 2: Move Money Hub*
 
-__Step 3 — Navigate from Dashboard to Own Account Transfer__
+**Step 3 — Navigate from Dashboard to Own Account Transfer**
 
-Step 1 of the Own Account Transfer flow shows the account selection screen with a dropdown to choose the source account for the internal transfer\.
+Step 1 of the Own Account Transfer flow shows the account selection screen with a dropdown to choose the source account for the internal transfer.
 
 ![](/.gitbook/assets/img_45280a2b3a91.png)
 
 *Step 3: Navigate from Dashboard to Own Account Transfer*
 
-__Step 4 — Enter Amount & Memo__
+**Step 4 — Enter Amount & Memo**
 
-Step 2 displays the transfer details form with fields for entering the transfer amount, an optional transaction memo, payment date selection, and a recurring payment checkbox\.
+Step 2 displays the transfer details form with fields for entering the transfer amount, an optional transaction memo, payment date selection, and a recurring payment checkbox.
 
 ![](/.gitbook/assets/img_973f2a676229.png)
 
 *Step 4: Enter Amount & Memo*
 
-__Step 5 — Review Transfer Summary__
+**Step 5 — Review Transfer Summary**
 
-The confirmation screen shows a $5\.00 transfer between Retail Savings and Retail Checking accounts, displaying the description and scheduled date for member review\.
+The confirmation screen shows a $5.00 transfer between Retail Savings and Retail Checking accounts, displaying the description and scheduled date for member review.
 
 ![](/.gitbook/assets/img_d7a3f6fa32b6.png)
 
 *Step 5: Review Transfer Summary*
 
-__Step 6 — Transfer Complete — Success Screen__
+**Step 6 — Transfer Complete — Success Screen**
 
-A success confirmation page is displayed with a green checkmark, confirming the completed $5\.00 transfer between accounts with a transfer date of Apr 01, 2026\.
+A success confirmation page is displayed with a green checkmark, confirming the completed $5.00 transfer between accounts with a transfer date of Apr 01, 2026.
 
 ![](/.gitbook/assets/img_9ef0637ac3b6.png)
 
 *Step 6: Transfer Complete — Success Screen*
 
-__Step 7 — View & Manage Scheduled Transfers__
+**Step 7 — View & Manage Scheduled Transfers**
 
-The Scheduled Transfers page is displayed with Summerville branding\. A 'Schedule a new transfer' link is at the top\. The schedule transfer type is set to 'Within Summerville' and the account is 'Retail Checking Account \(\#0001\)'\. An active schedule card shows a transfer from Retail Checking to SHARE \(0002\) for $10\.00 monthly, set to continue until cancelled with the next transfer date of Mar 18, 2026\. Related Links and Upcoming Payments are shown in the right sidebar\.
+The Scheduled Transfers page is displayed with Summerville branding. A 'Schedule a new transfer' link is at the top. The schedule transfer type is set to 'Within Summerville' and the account is 'Retail Checking Account (\#0001)'. An active schedule card shows a transfer from Retail Checking to SHARE (0002) for $10.00 monthly, set to continue until cancelled with the next transfer date of Mar 18, 2026. Related Links and Upcoming Payments are shown in the right sidebar.
 
 ![](/.gitbook/assets/img_3089efe2b435.png)
 

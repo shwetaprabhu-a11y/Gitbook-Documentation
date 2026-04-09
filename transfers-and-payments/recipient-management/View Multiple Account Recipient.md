@@ -30,7 +30,7 @@ For credit unions, this visibility layer is critical to payment accuracy and aud
 
 > **02 STEP-BY-STEP GUIDE**
 >
-> _Navigation: Business Banking > Transfer & Pay > Recipient Management > \[Select recipient] > \[Select account row]._
+> _Navigation: Business Banking > Transfer & Pay > Recipient Management > [Select recipient] > [Select account row]._
 
 **Step 1 — Transfer Account Management**
 

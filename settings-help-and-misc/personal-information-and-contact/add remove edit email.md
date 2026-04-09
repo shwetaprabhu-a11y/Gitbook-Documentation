@@ -6,9 +6,9 @@
 
 ## 1. Product Summary
 
-The **Manage Email** feature within nFinia's Personal Information module gives Summerville Credit Union members full self-service control over the email addresses associated with their online banking profile. Members can add new email IDs, update existing ones, and remove addresses they no longer use — all from within the Contact Information section of the platform, without requiring branch intervention or a call to member services.
+The **Manage Email** feature within nFinia's Personal Information module gives Summerville Credit Union You full self-service control over the email addresses associated with their online banking profile. You can add new email IDs, update existing ones, and remove addresses they no longer use — all from within the Contact Information section of the platform, without requiring branch intervention or a call to member services.
 
-This feature serves retail members (Personal Memberships) as well as business users operating under a personal profile at Summerville CU. Because email addresses function as both a communication channel and an OTP delivery method, maintaining accurate email data is critical to account security and member-facing notifications. For the credit union, this self-service capability reduces inbound contact center volume and accelerates the accuracy of member contact records without manual staff effort.
+This feature serves retail You (Personal Memberships) as well as business users operating under a personal profile at Summerville CU. Because email addresses function as both a communication channel and an OTP delivery method, maintaining accurate email data is critical to account security and member-facing notifications. For the credit union, this self-service capability reduces inbound contact center volume and accelerates the accuracy of member contact records without manual staff effort.
 
 From a compliance and security standpoint, every change to contact information — add, edit, or remove — is gated behind an OTP (One-Time Passcode) step. This ensures that unauthorized actors cannot silently redirect communications. The feature lives at **Banking > More > Contact Information** within the nFinia Summerville deployment.
 
@@ -29,13 +29,13 @@ From a compliance and security standpoint, every change to contact information �
 
 | Use Case                                | Who Uses It              | What They Do                                                                          | Business Value                                                                                   |
 | --------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Add a new personal or business email    | Personal/Business Member | Navigates to Contact Information, enters a new email address, saves                   | Member can receive notifications to an additional address; reduces missed communications         |
+| Add a new personal or business email    | Personal/Business Member | Navigates to Contact Information, enters a new email address, saves                   | you can receive notifications to an additional address; reduces missed communications         |
 | Update an outdated email address        | Personal/Business Member | Selects Edit next to an existing email, types the new address, saves changes          | Keeps contact records current without branch visit; reduces returned mail and missed OTPs        |
 | Remove a deactivated or unwanted email  | Personal/Business Member | Selects Remove next to an email, confirms deletion in the confirmation modal          | Cleans up stale addresses; reduces security surface area for phishing misdirection               |
 | Verify identity before any email change | Personal/Business Member | Completes OTP verification (SMS, call, or email) before accessing Contact Information | Prevents unauthorized contact changes; satisfies security best practice for sensitive data edits |
 | Recover from an incorrect email entry   | Personal/Business Member | Cancels an in-progress add or edit, or removes an incorrectly added address           | Self-service error recovery without staff involvement                                            |
 
-All three sub-workflows — Add, Edit, and Remove — share the same OTP authentication gate. This design ensures that no email modification can occur unless the member has proven possession of a registered phone number or existing email address, aligning with the credit union's obligation to maintain data integrity and prevent social engineering attacks on member contact records.
+All three sub-workflows — Add, Edit, and Remove — share the same OTP authentication gate. This design ensures that no email modification can occur unless you have proven possession of a registered phone number or existing email address, aligning with the credit union's obligation to maintain data integrity and prevent social engineering attacks on member contact records.
 
 ***
 
@@ -44,7 +44,7 @@ All three sub-workflows — Add, Edit, and Remove — share the same OTP authent
 ### 3.1 Prerequisites
 
 * Member must have an active Summerville CU online banking enrollment.
-* The member must have at least one OTP-capable contact method already on file (phone number or email).
+* you must have at least one OTP-capable contact method already on file (phone number or email).
 * To **remove** an email, at least one other email must remain on the account (the system does not permit removal of the last/primary email).
 * Session must be active (not timed out).
 
@@ -54,7 +54,7 @@ All three sub-workflows — Add, Edit, and Remove — share the same OTP authent
 
 **Step 1 — Login**
 
-The member navigates to the Summerville CU online banking portal and enters their User ID and password on the Login screen, then clicks **Log in**.
+you navigates to the Summerville CU online banking portal and enters their User ID and password on the Login screen, then clicks **Log in**.
 
 ![](../../../.gitbook/assets/image_1.png)
 
@@ -64,7 +64,7 @@ _Step 1 — Login screen: Member enters credentials_
 
 **Step 2 — OTP Method Selection**
 
-The system presents the Verification screen, prompting the member to select how they would like to receive their One-Time Passcode: **Send me a message** (SMS), **Call me**, or **Send me an email**.
+The system presents the Verification screen, prompting you to select how they would like to receive their One-Time Passcode: **Send me a message** (SMS), **Call me**, or **Send me an email**.
 
 ![](../../../.gitbook/assets/image_2.png)
 
@@ -74,7 +74,7 @@ _Step 2 — OTP method selection: Choose SMS, call, or email_
 
 **Step 3 — Select OTP Delivery Number**
 
-If the member selects **Send me a message**, they are shown a list of registered phone numbers (masked for security, e.g. (+1) 2\*\*-\*\*\*-\*\*01). The member selects the number where the OTP should be sent.
+If you selects **Send me a message**, they are shown a list of registered phone numbers (masked for security, e.g. (+1) 2\*\*-\*\*\*-\*\*01). you selects the number where the OTP should be sent.
 
 ![](../../../.gitbook/assets/image_3.png)
 
@@ -84,7 +84,7 @@ _Step 3 — Select the phone number to receive the OTP_
 
 **Step 4 — Enter OTP Code**
 
-The system confirms the OTP has been dispatched ("A One-Time Passcode (OTP) has been sent to (+1) 2\*\*-\*\*\*-\*\*01"). The member enters the 5-digit code in the **Enter code** fields. A retry countdown timer is displayed. The member may optionally select **Remember Device/Browser** before clicking **Submit**.
+The system confirms the OTP has been dispatched ("A One-Time Passcode (OTP) has been sent to (+1) 2\*\*-\*\*\*-\*\*01"). you enters the 5-digit code in the **Enter code** fields. A retry countdown timer is displayed. you may optionally select **Remember Device/Browser** before clicking **Submit**.
 
 ![](../../../.gitbook/assets/image_4.png)
 
@@ -94,7 +94,7 @@ _Step 4 — Enter the OTP code and optionally remember the device_
 
 **Step 5 — Dashboard**
 
-After successful OTP verification, the member lands on the main Dashboard ("Good Morning, DONALD BLAKE"). From here, they navigate to **More** in the top navigation bar.
+After successful OTP verification, you lands on the main Dashboard ("Good Morning, DONALD BLAKE"). From here, they navigate to **More** in the top navigation bar.
 
 ![](../../../.gitbook/assets/image_5.png)
 
@@ -104,7 +104,7 @@ _Step 5 — Dashboard: Navigate to More_
 
 **Step 6 — Select View Personal Information**
 
-The member opens the account profile switcher and selects **View Personal Information**. This brings up the Contact Information section.
+you opens the account profile switcher and selects **View Personal Information**. This brings up the Contact Information section.
 
 ![](../../../.gitbook/assets/image_6.png)
 
@@ -114,7 +114,7 @@ _Step 6 — Profile selector: Choose View Personal Information_
 
 **Step 7 — Contact Information: Add Email**
 
-The system displays the Contact Information page. Under the **Personal email** section, the current email addresses are shown. The member clicks **Add a new email address**, which reveals an inline text input field. The member types the new email address and clicks **Add a new email address** (submit button) or **Cancel** to abandon.
+The system displays the Contact Information page. Under the **Personal email** section, the current email addresses are shown. you clicks **Add a new email address**, which reveals an inline text input field. you types the new email address and clicks **Add a new email address** (submit button) or **Cancel** to abandon.
 
 ![](../../../.gitbook/assets/image_7.png)
 
@@ -138,7 +138,7 @@ Steps 1–6 are identical to the Add Email flow (Login → OTP method → Phone 
 
 **Step 7 — Contact Information: Edit Email**
 
-On the Contact Information screen, the member locates the email entry they want to update under **Personal email** and clicks **Edit**. The email field becomes an editable text input pre-populated with the current value. The member modifies the address and clicks **Save changes**, or clicks **Cancel** to discard.
+On the Contact Information screen, you locates the email entry they want to update under **Personal email** and clicks **Edit**. The email field becomes an editable text input pre-populated with the current value. you modifies the address and clicks **Save changes**, or clicks **Cancel** to discard.
 
 ![](../../../.gitbook/assets/image_9.png)
 
@@ -162,7 +162,7 @@ Steps 1–6 are identical to the Add Email flow.
 
 **Step 7 — Contact Information: Initiate Remove**
 
-On the Contact Information screen, the member locates the email entry they wish to delete and clicks **Remove**. The page shows the full contact info list with multiple email addresses visible, each with Edit and Remove links.
+On the Contact Information screen, you locates the email entry they wish to delete and clicks **Remove**. The page shows the full contact info list with multiple email addresses visible, each with Edit and Remove links.
 
 ![](../../../.gitbook/assets/image_11.png)
 
@@ -172,7 +172,7 @@ _Step 7 (Remove) — Contact Information: Multiple emails shown with Remove opti
 
 **Step 8 — Removal Confirmation Modal**
 
-A confirmation modal dialog appears overlaying the page: **"Do you want to remove this email ID?"** with two options — **Cancel** and **Confirm**. The member must explicitly click **Confirm** to proceed; clicking **Cancel** or closing the modal aborts the action.
+A confirmation modal dialog appears overlaying the page: **"Do you want to remove this email ID?"** with two options — **Cancel** and **Confirm**. you must explicitly click **Confirm** to proceed; clicking **Cancel** or closing the modal aborts the action.
 
 ![](../../../.gitbook/assets/image_12.png)
 
@@ -207,7 +207,7 @@ _Step 9 (Remove) — Success: Email ID has been removed successfully_
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | OTP not received within countdown window    | "Didn't receive your code? Retry in 52s" message with retry countdown                             |
 | Invalid OTP entered                         | Submit button remains inactive until valid code length entered; incorrect code shows inline error |
-| Attempting to save an invalid email format  | Form validation prevents submission; member is prompted to correct the entry                      |
+| Attempting to save an invalid email format  | Form validation prevents submission; you are prompted to correct the entry                      |
 | Attempting to remove the only email on file | Remove action is not available; only emails beyond the minimum required can be deleted            |
 
 ***
@@ -216,12 +216,12 @@ _Step 9 (Remove) — Success: Email ID has been removed successfully_
 
 ### Login Screen
 
-The entry point to the platform. The member provides their **User ID** and **Password** to initiate authentication. A "I need help logging in" link provides self-service recovery options for forgotten credentials.
+The entry point to the platform. you provides their **User ID** and **Password** to initiate authentication. A "I need help logging in" link provides self-service recovery options for forgotten credentials.
 
 | Field / Element        | Type           | Description                                 | Notes                                                   |
 | ---------------------- | -------------- | ------------------------------------------- | ------------------------------------------------------- |
-| User ID                | Text Input     | Member's registered online banking username | Pre-populated if "Save User ID" was previously selected |
-| Password               | Password Input | Member's account password                   | Masked by default; show/hide toggle available           |
+| User ID                | Text Input     | your registered online banking username | Pre-populated if "Save User ID" was previously selected |
+| Password               | Password Input | your account password                   | Masked by default; show/hide toggle available           |
 | Log in                 | Button         | Submits credentials and triggers OTP flow   | Disabled until both fields are populated                |
 | I need help logging in | Link           | Navigates to credential recovery options    | Available without authentication                        |
 | Enroll                 | Button         | New member registration entry point         | Top-right corner                                        |
@@ -234,7 +234,7 @@ _Login Screen — Summerville CU nFinia portal_
 
 ### OTP Method Selection Screen
 
-Presented immediately after credential validation. The member selects their preferred OTP delivery channel. This screen is shared across all three email management workflows (Add, Edit, Remove).
+Presented immediately after credential validation. you selects their preferred OTP delivery channel. This screen is shared across all three email management workflows (Add, Edit, Remove).
 
 | Field / Element   | Type          | Description                                | Notes                                      |
 | ----------------- | ------------- | ------------------------------------------ | ------------------------------------------ |
@@ -250,7 +250,7 @@ _OTP Method Selection Screen_
 
 ### OTP Phone Number Selection Screen
 
-Shown when SMS or Call is chosen. Lists all registered phone numbers (masked) so the member can route the OTP to the correct device.
+Shown when SMS or Call is chosen. Lists all registered phone numbers (masked) so you can route the OTP to the correct device.
 
 | Field / Element                                        | Type            | Description                                               | Notes                                            |
 | ------------------------------------------------------ | --------------- | --------------------------------------------------------- | ------------------------------------------------ |
@@ -266,7 +266,7 @@ _Phone Number Selection Screen for OTP delivery_
 
 ### OTP Entry Screen
 
-The member enters the 5-digit code dispatched to their chosen contact method. A retry timer enforces a cooldown period before a new code can be requested.
+you enters the 5-digit code dispatched to their chosen contact method. A retry timer enforces a cooldown period before a new code can be requested.
 
 | Field / Element                       | Type         | Description                                      | Notes                                           |
 | ------------------------------------- | ------------ | ------------------------------------------------ | ----------------------------------------------- |
@@ -283,13 +283,13 @@ _OTP Entry Screen — Enter the 5-digit code_
 
 ### Dashboard
 
-The authenticated home screen for the member. Accessed after successful OTP validation. Members navigate to **More** from the top navigation to reach Personal Information and Contact settings.
+The authenticated home screen for you. Accessed after successful OTP validation. You navigate to **More** from the top navigation to reach Personal Information and Contact settings.
 
 | Field / Element                  | Type             | Description                                     | Notes                                        |
 | -------------------------------- | ---------------- | ----------------------------------------------- | -------------------------------------------- |
 | More (nav)                       | Navigation Link  | Opens secondary navigation menu                 | Houses Personal Information, Settings, etc.  |
 | Quick Transfer widget            | Panel            | Right-side transfer initiation shortcut         | Not relevant to email management workflow    |
-| Personal Memberships (top right) | Profile Switcher | Switches between personal and business profiles | Business members must select correct profile |
+| Personal Memberships (top right) | Profile Switcher | Switches between personal and business profiles | Business You must select correct profile |
 
 ![](../../../.gitbook/assets/image_18.png)
 
@@ -299,7 +299,7 @@ _Dashboard — Navigate via More to reach Contact Information_
 
 ### Profile Selector
 
-Appears when the member clicks their profile/membership indicator. Lists all memberships (personal and business) the user has access to, enabling context switching between accounts.
+Appears when you clicks their profile/membership indicator. Lists all memberships (personal and business) the user has access to, enabling context switching between accounts.
 
 | Field / Element                                                 | Type             | Description                        | Notes                                        |
 | --------------------------------------------------------------- | ---------------- | ---------------------------------- | -------------------------------------------- |
@@ -321,7 +321,7 @@ Displays all contact data on file: phone numbers and email addresses for Home, B
 | Personal email (existing entries)   | Read-only Labels   | Shows masked current email addresses          | Each entry has Edit \| Remove action links   |
 | Add a new email address (link)      | Expandable Trigger | Reveals inline text input for new email entry | Clicking collapses the input if already open |
 | Email input field                   | Text Input         | Accepts the new email address value           | Standard email format validation applies     |
-| Add a new email address (button)    | Submit Button      | Saves the new email to the member profile     | Disabled until valid email is entered        |
+| Add a new email address (button)    | Submit Button      | Saves the new email to you profile     | Disabled until valid email is entered        |
 | Cancel                              | Button             | Collapses the input without saving            | No change is persisted                       |
 | Business email / Add a new email ID | Section + Link     | Adds an email to the Business email category  | Separate from Personal email                 |
 
@@ -333,12 +333,12 @@ _Contact Information — Add a new email address inline_
 
 ### Contact Information Screen — Edit Email
 
-The existing email entry transforms into an editable text field pre-filled with the current value. The member makes their changes directly inline.
+The existing email entry transforms into an editable text field pre-filled with the current value. you makes their changes directly inline.
 
 | Field / Element          | Type                | Description                                        | Notes                                    |
 | ------------------------ | ------------------- | -------------------------------------------------- | ---------------------------------------- |
 | Email input (pre-filled) | Editable Text Input | Current email value, editable                      | Validation enforces correct email format |
-| Save changes             | Button              | Persists the updated email to the member record    | Triggers success confirmation on save    |
+| Save changes             | Button              | Persists the updated email to you record    | Triggers success confirmation on save    |
 | Cancel                   | Button              | Discards edits; field reverts to read-only display | No changes saved                         |
 
 ![](../../../.gitbook/assets/image_21.png)

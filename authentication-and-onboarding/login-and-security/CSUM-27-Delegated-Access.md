@@ -18,14 +18,14 @@ Delegated Access is a core feature of the nFinia Digital Banking platform that e
 
 Within the Summerville Federal Credit Union digital banking portal, Delegated Access is accessible from the Dashboard under the Secondary Users section. The feature provides a comprehensive management framework that includes adding secondary users, assigning granular feature-level permissions, defining account access and transaction limits, monitoring secondary user activity, and managing the end-to-end enrolment lifecycle.
 
-For Summerville FCU, Delegated Access strengthens the business banking value proposition by providing the multi-user authorization frameworks that commercial members require. It reduces operational burden on branch staff by enabling self-service user management while maintaining full audit trails and compliance controls. Business members benefit from the ability to delegate routine banking tasks to trusted employees without exposing full account credentials, ensuring both convenience and security.
+For Summerville FCU, Delegated Access strengthens the business banking value proposition by providing the multi-user authorization frameworks that commercial You require. It reduces operational burden on branch staff by enabling self-service user management while maintaining full audit trails and compliance controls. Business You benefit from the ability to delegate routine banking tasks to trusted employees without exposing full account credentials, ensuring both convenience and security.
 
 **At a Glance**
 
   ---------------------- ---------------------------------------------------------------------------------------------
   **Attribute**          **Detail**
   Feature Name           Delegated Access (Secondary User Management)
-  Module                 Business Banking \> Dashboard \> Secondary Users
+  Module                 Business Banking > Dashboard > Secondary Users
   User Roles             Primary Account Holder, Secondary User, FI Administrator
   Access Level           Role-based with granular feature permissions (View Only, Full Access, Custom)
   Key Actions            Add User, Assign Permissions, Set Account Access & Limits, Monitor Activity, Approve/Deny
@@ -46,7 +46,7 @@ For Summerville FCU, Delegated Access strengthens the business banking value pro
   View shared account as secondary user        Secondary User             Logs into the portal with delegated credentials and accesses only the accounts and features granted by the primary user   Enables controlled participation in account management without full ownership privileges
   -------------------------------------------- -------------------------- ------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------
 
-These use cases reflect the core scenarios encountered by Summerville FCU's business members who need to delegate banking authority. The combination of granular permissions, dual-control approvals, and comprehensive activity logging addresses both the operational convenience requirements of small businesses and the compliance obligations of the credit union.
+These use cases reflect the core scenarios encountered by Summerville FCU's business You who need to delegate banking authority. The combination of granular permissions, dual-control approvals, and comprehensive activity logging addresses both the operational convenience requirements of small businesses and the compliance obligations of the credit union.
 
   ----------------------------
   **3. End-to-End Workflow**
@@ -144,7 +144,7 @@ The email contains an "Accept Invitation" button, clear instructions to complete
 
 Clicking the invitation link takes the secondary user to the enrolment landing page. The system asks whether they already have login credentials (for existing digital banking users) or need to create new ones.
 
-This branching logic supports two scenarios: existing members who already have portal credentials can link the delegated access to their existing login, while new users proceed through the full registration flow.
+This branching logic supports two scenarios: existing You who already have portal credentials can link the delegated access to their existing login, while new users proceed through the full registration flow.
 
 **Step 11: Create Account Credentials**
 
@@ -214,23 +214,23 @@ This integration ensures that delegated access relationships are maintained cons
 
   -------------------------------------- --------------------------------------------------------------------------- ------------------------ -------------------------------------------------------------
   **Task**                               **Navigation Path**                                                         **Who Can Do It**        **Notes**
-  Add secondary user                     Dashboard \> Secondary Users \> Secondary User Management \> Add User       Primary Account Holder   Requires email and phone for invitation
-  Clone permissions from existing user   Add User \> Select Feature Permissions \> Use existing user's permissions   Primary Account Holder   Copies feature permissions; accounts must still be selected
-  Set custom permissions                 Add User \> Select Feature Permissions \> Create new permissions            Primary Account Holder   Three levels: View Only, Full Access, Custom
-  Select accounts to share               Add User \> Select Accounts to share                                        Primary Account Holder   At least one account required
-  Set transaction limits                 Add User \> Account Access & Limits                                         Primary Account Holder   Per-transaction and per-period limits available
-  Approve/deny transactions              Dashboard \> Secondary Users \> Approvals                                   Primary Account Holder   Pending transactions shown with full details
-  View secondary user activity           Dashboard \> Secondary Users \> Secondary User Activity                     Primary Account Holder   Filterable by user, date, transaction type
-  Edit user permissions                  Secondary User Management \> User Profile \> Permissions \> Edit            Primary Account Holder   Changes take effect immediately
-  Deactivate secondary user              Secondary User Management \> User Profile \> Deactivate User                Primary Account Holder   Revokes all access; can be reactivated
-  Accept invitation                      Email \> Accept Invitation link                                             Invited Secondary User   Invitation expires in 24 hours
-  Enrol as secondary user                Invitation link \> Create account \> Verify identity \> OTP                 Secondary User           4-step enrolment process
+  Add secondary user                     Dashboard > Secondary Users > Secondary User Management > Add User       Primary Account Holder   Requires email and phone for invitation
+  Clone permissions from existing user   Add User > Select Feature Permissions > Use existing user's permissions   Primary Account Holder   Copies feature permissions; accounts must still be selected
+  Set custom permissions                 Add User > Select Feature Permissions > Create new permissions            Primary Account Holder   Three levels: View Only, Full Access, Custom
+  Select accounts to share               Add User > Select Accounts to share                                        Primary Account Holder   At least one account required
+  Set transaction limits                 Add User > Account Access & Limits                                         Primary Account Holder   Per-transaction and per-period limits available
+  Approve/deny transactions              Dashboard > Secondary Users > Approvals                                   Primary Account Holder   Pending transactions shown with full details
+  View secondary user activity           Dashboard > Secondary Users > Secondary User Activity                     Primary Account Holder   Filterable by user, date, transaction type
+  Edit user permissions                  Secondary User Management > User Profile > Permissions > Edit            Primary Account Holder   Changes take effect immediately
+  Deactivate secondary user              Secondary User Management > User Profile > Deactivate User                Primary Account Holder   Revokes all access; can be reactivated
+  Accept invitation                      Email > Accept Invitation link                                             Invited Secondary User   Invitation expires in 24 hours
+  Enrol as secondary user                Invitation link > Create account > Verify identity > OTP                 Secondary User           4-step enrolment process
   -------------------------------------- --------------------------------------------------------------------------- ------------------------ -------------------------------------------------------------
 
   -------------------
   **5. Conclusion**
   -------------------
 
-Delegated Access is a foundational capability for Summerville Federal Credit Union's business banking offering on the nFinia platform. The feature addresses a critical gap in the credit union's digital services by enabling primary account holders to securely and granularly delegate banking authority to secondary users. With comprehensive permission management, account-level access controls, transaction limits, dual-control approvals, and full activity auditing, the feature provides the enterprise-grade multi-user framework that business members expect from their primary financial institution.
+Delegated Access is a foundational capability for Summerville Federal Credit Union's business banking offering on the nFinia platform. The feature addresses a critical gap in the credit union's digital services by enabling primary account holders to securely and granularly delegate banking authority to secondary users. With comprehensive permission management, account-level access controls, transaction limits, dual-control approvals, and full activity auditing, the feature provides the enterprise-grade multi-user framework that business You expect from their primary financial institution.
 
 The self-service enrolment workflow reduces operational overhead for branch staff while maintaining robust security controls including 24-hour invitation expiry, strong credential requirements, and multi-factor identity verification. The integration with Harmoney core banking ensures consistency across the technology stack. For Summerville FCU, Delegated Access strengthens member retention by meeting the multi-user needs of growing businesses that might otherwise seek commercial banking services from larger institutions.

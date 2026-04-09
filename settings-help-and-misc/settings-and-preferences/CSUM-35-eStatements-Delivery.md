@@ -14,18 +14,18 @@ Version: 1.0
 
 **1. Product Summary**
 
-eStatements & Delivery Settings is a self-service document management feature within the nFinia digital banking platform that enables credit union members to access, view, and manage their account statements electronically. The feature replaces traditional paper statement delivery with secure digital documents that members can view on-demand through their online banking portal or mobile application.
+eStatements & Delivery Settings is a self-service document management feature within the nFinia digital banking platform that enables credit union You to access, view, and manage their account statements electronically. The feature replaces traditional paper statement delivery with secure digital documents that You can view on-demand through their online banking portal or mobile application.
 
-This feature serves all retail banking members who hold deposit accounts, loan accounts, or credit cards with Summerville Federal Credit Union. It is particularly valuable for members who prefer paperless banking, want instant access to historical statements, or need to manage how their statements are delivered. The feature supports both individual and joint account holders across all membership types.
+This feature serves all retail banking You who hold deposit accounts, loan accounts, or credit cards with Summerville Federal Credit Union. It is particularly valuable for You who prefer paperless banking, want instant access to historical statements, or need to manage how their statements are delivered. The feature supports both individual and joint account holders across all membership types.
 
-eStatements lives under Banking \> More \> eStatements in the nFinia platform. Members can view monthly statements, credit card statements, disclosures, and notices through a tabbed document interface. A companion Delivery Settings page allows members to switch between electronic (email notification) and paper (mailed) statement delivery, with the platform clearly communicating any fees associated with paper delivery.
+eStatements lives under Banking > More > eStatements in the nFinia platform. You can view monthly statements, credit card statements, disclosures, and notices through a tabbed document interface. A companion Delivery Settings page allows You to switch between electronic (email notification) and paper (mailed) statement delivery, with the platform clearly communicating any fees associated with paper delivery.
 
 **At a Glance**
 
   -------------------------- --------------------------------------------------------------------------------------
   **Attribute**              **Detail**
   **Feature Name**           eStatements & Delivery Settings
-  **Module**                 Banking \> More \> eStatements / Delivery Settings
+  **Module**                 Banking > More > eStatements / Delivery Settings
   **User Roles**             Primary Account Holder, Joint Account Holder
   **Access Level**           Member self-service; no admin approval required
   **Key Actions**            View Statements, Search Statements, Change Delivery Mode, View Disclosures & Notices
@@ -46,7 +46,7 @@ eStatements lives under Banking \> More \> eStatements in the nFinia platform. M
   **Review Notices & Disclosures**    Account Holder    Navigates to Disclosures or Notices tabs to review regulatory communications and account alerts (e.g., Insufficient Funds)   Compliance delivery with digital audit trail; member always has access to important communications
   ----------------------------------- ----------------- ---------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------
 
-These use cases demonstrate how eStatements serves both operational efficiency and member convenience for Summerville FCU. By providing self-service access to all statement types and delivery preferences, the feature reduces inbound service calls, lowers paper/postage costs, and gives members the control they expect from modern digital banking. The Delivery Settings component is particularly important for driving paperless adoption while maintaining transparency about any fees for paper delivery.
+These use cases demonstrate how eStatements serves both operational efficiency and member convenience for Summerville FCU. By providing self-service access to all statement types and delivery preferences, the feature reduces inbound service calls, lowers paper/postage costs, and gives You the control they expect from modern digital banking. The Delivery Settings component is particularly important for driving paperless adoption while maintaining transparency about any fees for paper delivery.
 
 **3. End-to-End Workflow**
 
@@ -62,25 +62,25 @@ These use cases demonstrate how eStatements serves both operational efficiency a
 
 **3.2 Step-by-Step Flow**
 
-1.  **Start from the Dashboard:** After logging into the nFinia digital banking platform, the member lands on the Dashboard / Account Overview page. This screen displays account summaries, membership details, related links, and quick transfer options. To access eStatements, the member navigates via the top navigation bar.
+1.  **Start from the Dashboard:** After logging into the nFinia digital banking platform, you lands on the Dashboard / Account Overview page. This screen displays account summaries, membership details, related links, and quick transfer options. To access eStatements, you navigates via the top navigation bar.
 
 ![](/.gitbook/assets/0626ee68834c4ae05407526488a70359313c95cc.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 1: Dashboard --- Account Overview starting point*
 
-2.  **Open the More Menu:** From the top navigation bar, the member clicks More. The expanded menu hub reveals all available self-service features organized in a grid layout, including eStatements, Approval Requests, Accounts and Memberships, Stop Payment, Direct Deposit Form, and more. The member locates and selects eStatements to access their electronic statements.
+2.  **Open the More Menu:** From the top navigation bar, you clicks More. The expanded menu hub reveals all available self-service features organized in a grid layout, including eStatements, Approval Requests, Accounts and Memberships, Stop Payment, Direct Deposit Form, and more. you locates and selects eStatements to access their electronic statements.
 
 ![](/.gitbook/assets/3255656de6c4325ca6347991aa2185fccc616569.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 2: More Menu --- Self-service feature hub with eStatements highlighted*
 
-3.  **eStatements Landing Page:** The eStatements page displays with two tabs: eStatements (active by default) and Delivery Settings. The member sees a document type dropdown (defaulting to "eStatements"), their Member \# with account holder name, opt-in status, and email address on file. If statements are available, they appear below; if the service is temporarily unavailable, a notification message is displayed.
+3.  **eStatements Landing Page:** The eStatements page displays with two tabs: eStatements (active by default) and Delivery Settings. you sees a document type dropdown (defaulting to "eStatements"), their Member \# with account holder name, opt-in status, and email address on file. If statements are available, they appear below; if the service is temporarily unavailable, a notification message is displayed.
 
 ![](/.gitbook/assets/04db8e5e08bd9d21eabc7dd493348a62028e5207.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 3: eStatements landing page with member information and upcoming payments*
 
-4.  **View Documents & Statements:** The member can browse their statements through three tabs: Documents (monthly account statements), Disclosures (regulatory and account disclosures), and Statement Search (find statements by criteria). Monthly Statements are listed by date (e.g., Mar 2026, Feb 2026). Credit Card Statements appear in a separate section with billing period details and year-end summaries. A Notices section displays system alerts such as insufficient funds notifications.
+4.  **View Documents & Statements:** you can browse their statements through three tabs: Documents (monthly account statements), Disclosures (regulatory and account disclosures), and Statement Search (find statements by criteria). Monthly Statements are listed by date (e.g., Mar 2026, Feb 2026). Credit Card Statements appear in a separate section with billing period details and year-end summaries. A Notices section displays system alerts such as insufficient funds notifications.
 
 ![](/.gitbook/assets/425522ae9832687c3ef708d776647d4f60800bf7.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
@@ -90,29 +90,29 @@ These use cases demonstrate how eStatements serves both operational efficiency a
 
 *Figure 5: eStatements view with View eStatements action button*
 
-5.  **Access Delivery Settings:** The member clicks the Delivery Settings tab to manage how their statements are delivered. The page displays the current delivery mode, member identification, and available options.
+5.  **Access Delivery Settings:** you clicks the Delivery Settings tab to manage how their statements are delivered. The page displays the current delivery mode, member identification, and available options.
 
-6.  **eStatements Delivery (Email):** When eStatements mode is selected, the system confirms: "You will receive an email notification when your statement is ready to view." The member's registered email address is displayed below. A link to update the email address is provided. Quick links on the right sidebar offer access to Change Password and View Scheduled Transfers.
+6.  **eStatements Delivery (Email):** When eStatements mode is selected, the system confirms: "You will receive an email notification when your statement is ready to view." you's registered email address is displayed below. A link to update the email address is provided. Quick links on the right sidebar offer access to Change Password and View Scheduled Transfers.
 
 ![](/.gitbook/assets/4ac82b75deebb16efa3f14c7e43d8b46b0f0a500.png) mode"){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 6: Delivery Settings --- eStatements mode with email notification*
 
-7.  **Paper Delivery:** When Paper delivery is selected, the system displays a notice: "Statements will be sent to your mailing address. Please note a \$3 monthly fee may be assessed for mailed statements. See our Fee Schedule for more information." The member's registered mailing address is shown below (e.g., 1103 W BALLARD RD, SPOKANE, WA, 99208-8201). A link to update the address is provided.
+7.  **Paper Delivery:** When Paper delivery is selected, the system displays a notice: "Statements will be sent to your mailing address. Please note a \$3 monthly fee may be assessed for mailed statements. See our Fee Schedule for more information." you's registered mailing address is shown below (e.g., 1103 W BALLARD RD, SPOKANE, WA, 99208-8201). A link to update the address is provided.
 
 ![](/.gitbook/assets/9f4aed024818fff1f1dd075444d33ab8a2d7e48f.png){width="6.041666666666667in" height="3.5416666666666665in"}
 
 *Figure 7: Delivery Settings --- Paper delivery mode with mailing address and fee disclosure*
 
-8.  **Submit Changes:** After selecting the desired delivery mode, the member clicks the Submit button to save their preference. The system processes the change and confirms the update.
+8.  **Submit Changes:** After selecting the desired delivery mode, you clicks the Submit button to save their preference. The system processes the change and confirms the update.
 
 **3.3 Decision Points & Branching**
 
--   **eStatements vs. Paper:** The member's choice determines whether they receive email notifications for digital viewing or physical mailed statements. Paper delivery may incur a \$3/month fee as disclosed on the settings page.
+-   **eStatements vs. Paper:** you's choice determines whether they receive email notifications for digital viewing or physical mailed statements. Paper delivery may incur a \$3/month fee as disclosed on the settings page.
 
--   **Multiple Memberships:** Members with multiple memberships can select different member numbers from the Member \# dropdown to manage delivery settings independently for each membership.
+-   **Multiple Memberships:** You with multiple memberships can select different member numbers from you \# dropdown to manage delivery settings independently for each membership.
 
--   **Change to Paper from eStatements:** If the member switches from eStatements to Paper, the system displays the fee disclosure and mailing address before the member can submit. A "Change to paper" link is available from the eStatements view.
+-   **Change to Paper from eStatements:** If you switches from eStatements to Paper, the system displays the fee disclosure and mailing address before you can submit. A "Change to paper" link is available from the eStatements view.
 
 **3.4 Completion & Confirmation**
 
@@ -120,11 +120,11 @@ Upon successful submission of delivery settings, the system saves the preference
 
 **3.5 Error Handling**
 
--   **Service Unavailable:** If the eStatements service is temporarily unavailable, the system displays: "Sorry, eStatement is unavailable at this time. Please try again later." The member can retry or access Delivery Settings independently.
+-   **Service Unavailable:** If the eStatements service is temporarily unavailable, the system displays: "Sorry, eStatement is unavailable at this time. Please try again later." you can retry or access Delivery Settings independently.
 
--   **Missing Email Address:** If no valid email address is on file, the system prompts the member to update their email before enabling eStatements delivery.
+-   **Missing Email Address:** If no valid email address is on file, the system prompts you to update their email before enabling eStatements delivery.
 
--   **Address Update Required:** For paper delivery, if the mailing address needs correction, a "click here" link directs the member to update their registered address before submitting.
+-   **Address Update Required:** For paper delivery, if the mailing address needs correction, a "click here" link directs you to update their registered address before submitting.
 
 **4. Feature Overview (UI Walkthrough)**
 
@@ -144,7 +144,7 @@ The eStatements landing page provides access to electronic documents and deliver
 
 **4.2 Document Browser (Statements, Disclosures, Notices)**
 
-After loading statements, the member sees a tabbed document browser with three sections. Monthly Statements and Credit Card Statements are displayed with dates and can be opened individually. (See Figures 4--5 in Section 3.)
+After loading statements, you sees a tabbed document browser with three sections. Monthly Statements and Credit Card Statements are displayed with dates and can be opened individually. (See Figures 4--5 in Section 3.)
 
   -------------------------------------------- ---------------- -------------------------------------------------------------------------------------------------------- ------------------------------------------
   **Field / Element**                          **Type**         **Description**                                                                                          **Notes**
@@ -157,12 +157,12 @@ After loading statements, the member sees a tabbed document browser with three s
 
 **4.3 Delivery Settings**
 
-The Delivery Settings page allows members to control how their statements are delivered. The page supports switching between electronic and paper delivery with full disclosure of any associated fees. (See Figures 6--7 in Section 3.)
+The Delivery Settings page allows You to control how their statements are delivered. The page supports switching between electronic and paper delivery with full disclosure of any associated fees. (See Figures 6--7 in Section 3.)
 
   --------------------- ------------------ ----------------------------------------------------------------------------------------- -------------------------------------
   **Field / Element**   **Type**           **Description**                                                                           **Notes**
   Member \#             Dropdown           Selects the membership to configure delivery settings for                                 Required; shows account holder name
-  eStatements (radio)   Radio Button       Email notification when statement is ready to view online; displays registered email      Default for paperless members
+  eStatements (radio)   Radio Button       Email notification when statement is ready to view online; displays registered email      Default for paperless You
   Paper (radio)         Radio Button       Physical mail delivery; displays fee disclosure (\$3/month) and mailing address on file   Shows Fee Schedule link for details
   Email address         Label              Registered email for eStatements notifications; partially masked                          Update link provided
   Mailing Address       Label              Registered physical address for paper delivery (shown when Paper is selected)             Update link provided
@@ -173,13 +173,13 @@ The Delivery Settings page allows members to control how their statements are de
 
   ------------------------------ ----------------------------------------------- ------------------- ------------------------------------
   **Task**                       **Navigation Path**                             **Who Can Do It**   **Notes**
-  View eStatements               More \> eStatements                             Account Holder      Select document type and member \#
-  View Credit Card Statements    More \> eStatements \> Credit Card Statements   Card Holder         Includes year-end summaries
-  Search historical statements   More \> eStatements \> Statement search         Account Holder      Search by date range or criteria
-  Switch to paperless            More \> eStatements \> Delivery settings        Account Holder      Select eStatements radio, submit
-  Switch to paper delivery       More \> eStatements \> Delivery settings        Account Holder      \$3/month fee may apply
-  View notices                   More \> eStatements \> Documents \> Notices     Account Holder      Includes insufficient funds alerts
-  Update email for eStatements   Delivery settings \> "click here" link          Account Holder      Redirects to profile settings
+  View eStatements               More > eStatements                             Account Holder      Select document type and member \#
+  View Credit Card Statements    More > eStatements > Credit Card Statements   Card Holder         Includes year-end summaries
+  Search historical statements   More > eStatements > Statement search         Account Holder      Search by date range or criteria
+  Switch to paperless            More > eStatements > Delivery settings        Account Holder      Select eStatements radio, submit
+  Switch to paper delivery       More > eStatements > Delivery settings        Account Holder      \$3/month fee may apply
+  View notices                   More > eStatements > Documents > Notices     Account Holder      Includes insufficient funds alerts
+  Update email for eStatements   Delivery settings > "click here" link          Account Holder      Redirects to profile settings
   ------------------------------ ----------------------------------------------- ------------------- ------------------------------------
 
 *--- End of Document ---*

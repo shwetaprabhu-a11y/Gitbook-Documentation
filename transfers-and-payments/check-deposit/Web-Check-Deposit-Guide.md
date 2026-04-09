@@ -8,8 +8,8 @@ Feature Guide | Platform: nFinia Online Banking | Prepared by: Jeeva PM
 **1. PRODUCT SUMMARY**
 
 Web Check Deposit on Summerville FCU's nFinia platform enables business
-members to deposit checks from any web browser — no mobile device or
-branch visit required. Members upload front and back check images via a
+You to deposit checks from any web browser — no mobile device or
+branch visit required. You upload front and back check images via a
 drag-and-drop or file-upload interface, with the system displaying
 real-time account details including current balance and deposit limit.
 
@@ -17,9 +17,9 @@ The feature offers a dual-tab interface: the "Deposit Your Check" tab
 for submitting new deposits, and the "Check Deposit History" tab for
 tracking all deposits across every channel — Online, Mobile, Branch, and
 ATM. This cross-channel history view is especially valuable for business
-members managing multiple deposit channels.
+You managing multiple deposit channels.
 
-For Summerville FCU, web check deposit extends RDC access to members who
+For Summerville FCU, web check deposit extends RDC access to You who
 prefer desktop banking, provides a high deposit limit ($30,000 shown),
 and creates a complete multi-channel audit trail for BSA/AML and Reg CC
 compliance.
@@ -30,7 +30,7 @@ compliance.
 | -------------------- | ------------------------------------------------------------------------------------ |
 | **Attribute**        | **Detail**                                                                           |
 | Feature Name         | Web Check Deposit (Remote Deposit Capture via Online Banking)                        |
-| Module               | Accounts \> Check Deposit                                                            |
+| Module               | Accounts > Check Deposit                                                            |
 | User Roles           | Business Member (online banking), Operations Staff                                   |
 | Access Level         | Requires RDC enrollment and valid account                                            |
 | Key Actions          | Select account, upload front/back images, submit; view history                       |
@@ -51,7 +51,7 @@ compliance.
 
 **3.1 Prerequisites**
 
-• RDC enrollment active on the member account
+• RDC enrollment active on you account
 
 • Account eligible for web check deposit (configured by Summerville FCU)
 
@@ -62,7 +62,7 @@ compliance.
 |          |                                                                         |                                                                                                        |
 | -------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | **Step** | **Action**                                                              | **System Response**                                                                                    |
-| 1        | Log in to online banking; navigate to Accounts \> Check Deposit         | "Deposit Your Check" tab displayed by default                                                          |
+| 1        | Log in to online banking; navigate to Accounts > Check Deposit         | "Deposit Your Check" tab displayed by default                                                          |
 | 2        | Select account from dropdown                                            | System displays: Account Number, Membership Number, Current Balance ($829.00), Deposit Limit ($30,000) |
 | 3        | Enter Amount to Deposit                                                 | Field validates numeric input against displayed deposit limit                                          |
 | 4        | Upload FRONT image: click upload area or drag-and-drop check image file | File selected; thumbnail preview shown in front upload area                                            |
@@ -139,8 +139,8 @@ options and view image capability*
 |                        |                                                             |                     |                                                        |
 | ---------------------- | ----------------------------------------------------------- | ------------------- | ------------------------------------------------------ |
 | **Task**               | **Navigation Path**                                         | **Who Can Do It**   | **Notes**                                              |
-| Submit a web deposit   | Check Deposit \> Deposit Your Check tab \> Fill & Submit    | RDC-enrolled member | Drag-drop or click to upload front/back images         |
-| View deposit status    | Check Deposit \> Check Deposit History tab                  | Member / Operations | Filter by date range and account name                  |
-| View check images      | History tab \> View Image column                            | Member / Compliance | Front and back thumbnails from deposit time            |
+| Submit a web deposit   | Check Deposit > Deposit Your Check tab > Fill & Submit    | RDC-enrolled member | Drag-drop or click to upload front/back images         |
+| View deposit status    | Check Deposit > Check Deposit History tab                  | Member / Operations | Filter by date range and account name                  |
+| View check images      | History tab > View Image column                            | Member / Compliance | Front and back thumbnails from deposit time            |
 | Check deposit limit    | Deposit form — displayed automatically on account selection | Member              | Per account; set by Summerville FCU                    |
-| Clear and restart form | Deposit form \> Clear button                                | Member              | Resets all fields; does not cancel a submitted deposit |
+| Clear and restart form | Deposit form > Clear button                                | Member              | Resets all fields; does not cancel a submitted deposit |
