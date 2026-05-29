@@ -1,19 +1,5 @@
-# sum26-loanrepayment
+# Loan Repayment
 
-**Summerville Federal Credit Union**
-
-nFinia Digital Banking Platform
-
-**Loan Repayment**
-
-Feature Release Notes & Product Guide
-
-Prepared by: Jeeva Krishnamurthy, Senior Product Manager
-
-Tyfone, Inc. | April 2026 | Confidential
-
-|                        |
-| ---------------------- |
 | **1. Product Summary** |
 
 Loan Repayment is a core feature of the nFinia Digital Banking platform that enables credit union You to make payments on their loan accounts directly through the digital banking portal. This capability covers one-time payments, scheduled recurring payments, and multiple payment option types including regular payments, next-due-amount payments, payoff amounts, and pay-to-principal options — all accessible through the Transfer Funds to Own Account workflow.

@@ -1,14 +1,3 @@
-# Summerville Credit Union — nFinia Member Guide
-
-## Membership Settings: Delete Membership & Manage Membership Address
-
-**Platform:** Summerville Credit Union — nFinia Digital Banking\
-**Module:** More > Membership Settings / More > Forms > Address Change Form\
-**User Roles:** Primary Member, Joint Member\
-**Prepared by:** Jeeva Krishnamurthy, Senior Product Manager — Tyfone
-
-***
-
 ## Section 1 — Product Summary
 
 The **Membership Settings** module within Summerville's nFinia digital banking platform gives You direct control over how their memberships appear and behave inside online banking. Two frequently used capabilities within this module are **Delete Membership** (removing a membership from the digital banking view) and **Manage Membership Address** (submitting an address change request across one or more memberships).
@@ -432,4 +421,3 @@ Multi-section form for submitting a residential or mailing address update.
 
 ***
 
-_Guide prepared by Jeeva Krishnamurthy, Senior Product Manager — Tyfone. Feature documentation based on observed workflows within the Summerville Credit Union nFinia digital banking platform._
